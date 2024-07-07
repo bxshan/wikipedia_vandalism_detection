@@ -1,0 +1,14 @@
+-----METADATA
+828
+5881324
+unknown
+16249
+False
+True
+True
+True
+ - add stub tag
+1182
+-----ADDED
+Somalia-politician-stub 
+-----DELETED

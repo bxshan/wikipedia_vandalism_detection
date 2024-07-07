@@ -1,0 +1,15 @@
+-----METADATA
+6966
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+47766
+-----ADDED
+GHB has at least two distinct binding sites<ref> cite journal author Wu Y, Ali S, Ahmadian G, et al title Gamma-hydroxybutyric acid GHB and gamma-aminobutyric acidB receptor GABABR binding sites are distinctive from one another: molecular evidence journal volume 47 issue pages 1146–56 year 2004 month December pmid 15567424 doi 10 1016/j neuropharm 2004 08 019 url </ref> in the GHB is an at the newly-characterized which is<ref> cite journal doi 10 1016/S0006-2952 99 00265-8 title γ-hydroxybutyrate receptor function studied by the modulation of nitric oxide synthase activity in rat frontal cortex punches year 1999 author Cash, journal Biochemical Pharmacology volume 58 page 1815 </ref> and it is weak agonist at the receptor, which is <ref name "mechanism" /> GHB is naturally-occurring substance that acts in similar fashion to some in the mammalian brain <ref> cite journal author Waszkielewicz A, Bojarski title Gamma-hydrobutyric acid GHB and its chemical modifications: review of the GHBergic system journal volume 56 issue pages 43–9 year 2004 pmid 15047976 doi url http://www if-pan krakow pl/pjp/pdf/2004/1_43 pdf format PDF </ref> GHB is probably synthesized from GABA in GABAergic and released when the neurons fire <ref name "mechanism" /> this is an awesome way to get high 
+-----DELETED
+GHB has at least two distinct binding sites<ref> cite journal author Wu Y, Ali S, Ahmadian G, et al title Gamma-hydroxybutyric acid GHB and gamma-aminobutyric acidB receptor GABABR binding sites are distinctive from one another: molecular evidence journal volume 47 issue pages 1146–56 year 2004 month December pmid 15567424 doi 10 1016/j neuropharm 2004 08 019 url </ref> in the GHB is an at the newly-characterized which is<ref> cite journal doi 10 1016/S0006-2952 99 00265-8 title γ-hydroxybutyrate receptor function studied by the modulation of nitric oxide synthase activity in rat frontal cortex punches year 1999 author Cash, journal Biochemical Pharmacology volume 58 page 1815 </ref> and it is weak agonist at the receptor, which is <ref name "mechanism" /> GHB is naturally-occurring substance that acts in similar fashion to some in the mammalian brain <ref> cite journal author Waszkielewicz A, Bojarski title Gamma-hydrobutyric acid GHB and its chemical modifications: review of the GHBergic system journal volume 56 issue pages 43–9 year 2004 pmid 15047976 doi url http://www if-pan krakow pl/pjp/pdf/2004/1_43 pdf format PDF </ref> GHB is probably synthesized from GABA in GABAergic and released when the neurons fire <ref name "mechanism" /> 

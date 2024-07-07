@@ -1,0 +1,15 @@
+-----METADATA
+8356
+0
+unknown
+0
+True
+False
+False
+False
+ correcting insinuation that notes from First Bank of US were legal tender ntes.
+16421
+-----ADDED
+The federal government began issuing paper money long before the Legal Tender Act of 1862 In 1791, the began issuing paper bank notes,<ref>Federal Reserve Bank of San Francisco, http://www frbsf org/federalreserve/money/funfacts html Fun Facts About Money Retrieved </ref> and Congress had also authorized paper money even before the Constitution was adopted The notes issued by the First Bank of he United States were not legal tender notes <ref>http://supreme justia com/us/79/457/case html Legal Tender Cases Dissenting Opinion "It is true that notes issued by banks, both in England and America, were then in circulation and were used in exchanges, and in common speech called money, and that bills of credit, issued both by Congress and by the states, had been recently in circulation under the same general name; but these notes and bills were never regarded as real money, but were always treated as its representatives only"</ref>The Continental was issued by both the individual states and the United States in Congress Assembled, created though the Articles of Confederation Those Articles specifically allowed the issuance of legal tender paper money, at the time called "bills of credit"<ref>http://www usconstitution net/articles html The Articles of Confederation "The United States in Congress assembled shall have authority to borrow money, or emit bills on the credit of the United States"</ref> 
+-----DELETED
+The federal government began issuing paper money long before the Legal Tender Act of 1862 In 1791, the began issuing paper bank notes,<ref>Federal Reserve Bank of San Francisco, http://www frbsf org/federalreserve/money/funfacts html Fun Facts About Money Retrieved </ref> and Congress had also authorized paper money even before the Constitution was adopted The Continental was issued by both the individual states and the United States in Congress Assembled, created though the Articles of Confederation Those Articles specifically allowed the issuance of legal tender paper money, at the time called "bills of credit"<ref>http://www usconstitution net/articles html The Articles of Confederation "The United States in Congress assembled shall have authority to borrow money, or emit bills on the credit of the United States"</ref> 

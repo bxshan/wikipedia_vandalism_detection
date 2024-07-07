@@ -1,0 +1,15 @@
+-----METADATA
+9133
+179502
+unknown
+16480
+False
+True
+True
+True
+ [¶1 of 5] "based on" --> "on the basis of" [3 instances]; inserting blank line between ¶2 and ¶3
+129323
+-----ADDED
+Sexual reproduction with exists in all fungal phyla with the exception of the experiments between fungal isolates may identify species on the basis of biological species concepts 
+-----DELETED
+Sexual reproduction with exists in all fungal phyla with the exception of the experiments between fungal isolates may identify species based on biological species concepts 

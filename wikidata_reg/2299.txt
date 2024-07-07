@@ -1,0 +1,15 @@
+-----METADATA
+10338
+66487
+male
+16208
+False
+True
+True
+True
+ break up quote and slim it down
+24429
+-----ADDED
+subject He notes that "Like novel, essay literary device for saying almost everything about almost anything, usually certain topic By tradition, almost by definition, essay short piece, and it therefore impossible give all things full play within limits of single essay" He points out that "a collection of can cover almost as much ground, and cover it almost as thoroughly, as can long novel"--he Montaignes Third Book as an example Huxley argues that "essays belong literary species whose extreme variability can be studied most effectively within three-poled frame of reference" The three poles are: Personal and the autobiographical essays: these use "fragments of reflective autobiography" to "look at the world through the keyhole of anecdote and description" Objective and factual: in these essays, the authors "do not speak directly of themselves, but turn their attention outward to some literary or scientific or political theme" *Abstract-universal: these essays "make the best of all the three worlds in which it is possible for the essay to exist" <ref>Collected Essays, "Preface"</ref> 
+-----DELETED
+subject: <blockquote> Like the novel, the essay is literary device for saying almost everything about almost anything, usually on certain topic By tradition, almost by definition, the essay is short piece, and it is therefore impossible to give all things full play within the limits of single essay But collection of essays can cover almost as much ground, and cover it almost as thoroughly, as can long novel Montaignes Third Book is the equivalent, very nearly, of good slice of the Comédie Humaine Essays belong to literary species whose extreme variability can be studied most effectively within three-poled frame of reference There is the pole of the personal and the autobiographical; there is the pole of the objective, the factual, the concrete-particular; and there is the pole of the abstract-universal Most essayists are at home and at their best in the neighborhood of only one of the essays three poles, or at the most only in the neighborhood of two of them There are the predominantly personal essayists, who write fragments of reflective autobiography and who look at the world through the keyhole of anecdote and description There are the predominantly objective essayists who do not speak directly of themselves, but turn their attention outward to some literary or scientific or political theme And how splendid, how truly oracular are the utterances of the great generalizers! The most richly satisfying essays are those which make the best not of one, not of two, but of all the three worlds in which it is possible for the essay to exist </blockquote> 

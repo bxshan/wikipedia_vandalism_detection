@@ -1,0 +1,15 @@
+-----METADATA
+1688
+96246
+male
+15986
+False
+True
+True
+True
+born 1983
+414
+-----ADDED
+born 1983 Russian hammer thrower 
+-----DELETED
+Russian hammer thrower 

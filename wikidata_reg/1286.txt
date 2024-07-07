@@ -1,0 +1,15 @@
+-----METADATA
+3857
+6405
+male
+16375
+False
+True
+True
+True
+ wording
+38130
+-----ADDED
+The PC version of Dragon Age has received praise from critics PC Gamer UK, which awarded Dragon Age 94% and called it the "RPG of the decade" and the PC version received from IGN UK 
+-----DELETED
+The PC version of Dragon Age has received praise from critics, including positive review from PC Gamer UK, which awarded Dragon Age 94% and called it the "RPG of the decade" and the PC version received from IGN UK 

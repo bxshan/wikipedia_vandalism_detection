@@ -1,0 +1,15 @@
+-----METADATA
+2835
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+18195
+-----ADDED
+has shorelines on the and the It borders to the west, to the and the and to the east Egypt, covering 1,001,449 square kilometers of land, is about the same size as and combined, four times the size of the and double that of Its longest distance from north to south is 45 kilometers, and from east to west is kilometers Egypts natural boundaries consist of more than 2,900 kilometers of coastline along the the the and the 
+-----DELETED
+has shorelines on the and the It borders to the west, to the and the and to the east Egypt, covering 1,001,449 square kilometers of land, is about the same size as and combined, four times the size of the and double that of Its longest distance from north to south is 1,024 kilometers, and from east to west is 1,240 kilometers Egypts natural boundaries consist of more than 2,900 kilometers of coastline along the the the and the 

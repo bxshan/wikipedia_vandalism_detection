@@ -1,0 +1,15 @@
+-----METADATA
+5835
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7756
+-----ADDED
+Soon after the PSP was released, began to discover exploits in the PSP that could be used to run unsigned code on the device released version 51 of the in May 2005 to plug the holes that hackers were using to gain access to the device On 15 June 2005 the hackers distributed the ed code of the PSP has 55 on the Hackers refused to apply updates which would render their hacks unusable so Sony attempted to convince users that there was benefit to upgrading by including new features in the firmware updates, such as and not just security patches to plug the vulnerabilities dubbed this the "carrot-and-stick" approach 
+-----DELETED
+Soon after the PSP was released, began to discover exploits in the PSP that could be used to run unsigned code on the device released version 51 of the in May 2005 to plug the holes that hackers were using to gain access to the device On 15 June 2005 the hackers distributed the ed code of the PSP on the Hackers refused to apply updates which would render their hacks unusable so Sony attempted to convince users that there was benefit to upgrading by including new features in the firmware updates, such as and not just security patches to plug the vulnerabilities dubbed this the "carrot-and-stick" approach 

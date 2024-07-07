@@ -1,0 +1,15 @@
+-----METADATA
+2100
+2
+unknown
+14820
+False
+False
+False
+False
+<EMPTY>
+16586
+-----ADDED
+estimate 1540351 estyear 2008 rev 
+-----DELETED
+estimate 1447395 estyear 2008 

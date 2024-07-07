@@ -1,0 +1,15 @@
+-----METADATA
+4697
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+64632
+-----ADDED
+The illustration for this article is classic example in which entropy increases in small golden "universe", consisting of the "surroundings" the warm room and "system" glass, ice, cold water In this universe, some δQ from the warmer room surroundings at 298 or 25 °C will spread out to the cooler system of ice and water at its constant temperature of 273 °C the melting temperature of ice The entropy of the system will change by the amount dS δQ/T, in this example δQ/273 The thermal energy δQ for this process is the energy required to change water from the solid state to the liquid state, and is called the the ΔH for ice fusion The entropy of the surroundings will change by an amount dS −δQ/298 So in this example, the entropy of the system increases, whereas the entropy of the surroundings decreases 
+-----DELETED
+The illustration for this article is classic example in which entropy increases in small "universe", consisting of the "surroundings" the warm room and "system" glass, ice, cold water In this universe, some δQ from the warmer room surroundings at 298 or 25 °C will spread out to the cooler system of ice and water at its constant temperature of 273 °C the melting temperature of ice The entropy of the system will change by the amount dS δQ/T, in this example δQ/273 The thermal energy δQ for this process is the energy required to change water from the solid state to the liquid state, and is called the the ΔH for ice fusion The entropy of the surroundings will change by an amount dS −δQ/298 So in this example, the entropy of the system increases, whereas the entropy of the surroundings decreases 

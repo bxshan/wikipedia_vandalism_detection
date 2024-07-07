@@ -1,0 +1,15 @@
+-----METADATA
+1942
+42314
+male
+16553
+False
+True
+True
+True
+Disambiguate [[University of the Pacific]] to [[University of the Pacific (United States)]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+27704
+-----ADDED
+Conservatory of Music Stockton, CA 
+-----DELETED
+Conservatory of Music Stockton, CA 

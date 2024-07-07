@@ -1,0 +1,14 @@
+-----METADATA
+1065
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1345
+-----ADDED
+<nowiki>The toad ran over the lamb who was sitting next to the man with the big blue shopping bag and the toad told the man to jog down the street into the parking in odre to buy the toad mint chocolate chip ice cream with cherry on top </nowiki> 
+-----DELETED

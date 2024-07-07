@@ -1,0 +1,15 @@
+-----METADATA
+3148
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7290
+-----ADDED
+Moving Transit Forward is long-range action-oriented planning process that will create thirty-year transit plan for the St Louis region This plan will consist of focusing on service expansion and create jobs for its citizens It will consists on planning potential MetroLink expansion, considering flex transit, enhance express bus services, developing express bus corridors into BRT lines, and creating high speed lines Metro is working with and in Illinois about this plan Metro is also educating the public about how the system is funded 
+-----DELETED
+Moving Transit Forward is long-range action-oriented planning process that will create thirty-year transit plan for the St Louis region This plan will consist of focusing on service expansion and create jobs for its citizens It will consists on planning potential MetroLink expansion, considering flex transit, enhance express bus services, developing express bus corridors into BRT lines, and creating high speed lines Metro is working with and in Illinois about this plan 

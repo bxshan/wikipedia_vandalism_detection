@@ -1,0 +1,15 @@
+-----METADATA
+3256
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5048
+-----ADDED
+Agosta distinguished herself as freshman at Mercyhurst in NCAA Division hockey She became the first freshman ever to make the final three for the She was also First Team All-American and unanimous choice for CHA Player of the Year She helped lead Mercyhurst to its first No national ranking, though her team did not advance past the NCAA quarterfinals ref mercyhurst She led the to the finals of the NCAA womens hockey championship She was captain of the Lakers that season, as she earned numerous accolades These included being selected as 2009 First Team All-American, Patty Kazmaier Award Final Three, Player of the Year, CHA Three-Star Player of the Year, CHA All-Tournament Team, and the All-Tournament Team <ref>http://hurstathletics com/roster aspx?rp_id 1867&path whockey</ref>shes meried 
+-----DELETED
+Agosta distinguished herself as freshman at Mercyhurst in NCAA Division hockey She became the first freshman ever to make the final three for the She was also First Team All-American and unanimous choice for CHA Player of the Year She helped lead Mercyhurst to its first No national ranking, though her team did not advance past the NCAA quarterfinals ref mercyhurst She led the to the finals of the NCAA womens hockey championship She was captain of the Lakers that season, as she earned numerous accolades These included being selected as 2009 First Team All-American, Patty Kazmaier Award Final Three, Player of the Year, CHA Three-Star Player of the Year, CHA All-Tournament Team, and the All-Tournament Team <ref>http://hurstathletics com/roster aspx?rp_id 1867&path whockey</ref> 

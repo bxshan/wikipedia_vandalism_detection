@@ -1,0 +1,15 @@
+-----METADATA
+3569
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+52748
+-----ADDED
+Kalamazoo is home to nationally recognized research institution that has benefited from the local presence of and This has enabled the school to offer solid programs in both its College of Engineering and Applied Sciences, and 
+-----DELETED
+Kalamazoo is home to nationally recognized research institution that has benefited from the local presence of and This has enabled the school to offer strong programs in both its College of Engineering and Applied Sciences, and 

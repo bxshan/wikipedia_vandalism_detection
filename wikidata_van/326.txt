@@ -1,0 +1,15 @@
+-----METADATA
+4472
+4
+unknown
+14820
+False
+False
+False
+False
+<EMPTY>
+34611
+-----ADDED
+</ref> George Bush called it "a marvelous book," listing it among the books that have inspired him <ref> cite web url http://www achievement org/autodoc/page/bus0int-1 title Academy of Achievement George Bush work The American Academy of Achievement accessdate 2009-06-05 </ref> In June 2100, the Finlo Rohrer wrote that, 58 years since publication, the book is still regarded "as the defining work on what it is like to be teenager Holden is at various times disaffected, disgruntled, alienated, isolated, directionless, and sarcastic 
+-----DELETED
+</ref> George Bush called it "a marvelous book," listing it among the books that have inspired him <ref> cite web url http://www achievement org/autodoc/page/bus0int-1 title Academy of Achievement George Bush work The American Academy of Achievement accessdate 2009-06-05 </ref> In June 2009, the Finlo Rohrer wrote that, 58 years since publication, the book is still regarded "as the defining work on what it is like to be teenager Holden is at various times disaffected, disgruntled, alienated, isolated, directionless, and sarcastic 

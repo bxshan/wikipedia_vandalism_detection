@@ -1,0 +1,15 @@
+-----METADATA
+2996
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+12528
+-----ADDED
+It is often stated that the Big Boy was the largest steam locomotive ever built However, this is heavily debated For example, and are all categories in which locomotive can be ranked, and in each of them locomotive "larger" than Big Boy can be found However, in overall performance and reliability, among all the "heavy iron" prototypes the Big Boys were unsurpassed 
+-----DELETED
+It is often stated that the Big Boy was the largest steam locomotive ever built However, this is heavily debated For example, weight, length, horsepower and tractive effort are all categories in which locomotive can be ranked, and in each of them locomotive "larger" than Big Boy can be found However, in overall performance and reliability, among all the "heavy iron" prototypes the Big Boys were unsurpassed 

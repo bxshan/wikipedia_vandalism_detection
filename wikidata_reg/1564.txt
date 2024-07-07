@@ -1,0 +1,15 @@
+-----METADATA
+3860
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+47171
+-----ADDED
+The comparison will naturally focus on the areas where the languages differ This may skew the fact that the two languages and their platforms are actually more alike than they are different: Both are primarily statically, strongly and explicitly typed, both are class-based object-oriented, both are designed with semi-interpretation or runtime compilation in mind, both use memory models and both are considered "curly brace" style languages The common ancestry is also evident in the fact that common concepts are often termed the same way and more often then not have very similar syntax 
+-----DELETED
+The comparison will naturally focus on the areas where the languages differ This may skew the fact that the two languages and their platforms are actually more alike than they are different: Both are primarily statically, strongly and explicitly typed, both are class-based object-oriented, both are designed with semi-interpretation or runtime compilation in mind, both use memory models and both are considered "curly brace" style languages The common ancestry is also evident in that common concept are often termed in the same way and often share or have very similar syntax 

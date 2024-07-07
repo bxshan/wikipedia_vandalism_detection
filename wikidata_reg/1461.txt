@@ -1,0 +1,15 @@
+-----METADATA
+1922
+68061
+male
+16129
+False
+True
+True
+True
+ MLS season now over, Beckham on loan at Milan as of Jan 2010
+58287
+-----ADDED
+Fs player no 23 nat ENG pos MF name other on loan at 
+-----DELETED
+Fs player no 23 nat ENG pos MF name 

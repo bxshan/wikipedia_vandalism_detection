@@ -1,0 +1,15 @@
+-----METADATA
+2477
+65683
+male
+15827
+False
+True
+True
+True
+ Changed reference to template
+12956
+-----ADDED
+181* Using I-74 Mileage, but not signed as I-74 207 Wrong exit numbers corrected as of 5/8/09, old ones in <ref> cite web url http://www duke edu/~rmalme/i74exit html title I-74 North Carolina Exit List accessdate 2009-11-19 </ref> 
+-----DELETED
+181* Using I-74 Mileage, but not signed as I-74 207 Wrong exit numbers corrected as of 5/8/09, old ones in <ref>http://www duke edu/~rmalme/i74exit html, Retrieved on 2009/11/16 </ref> 

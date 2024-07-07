@@ -1,0 +1,15 @@
+-----METADATA
+2973
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1070
+-----ADDED
+Johan Hansson born in is player 
+-----DELETED
+Johan Hansson born in is player 

@@ -1,0 +1,15 @@
+-----METADATA
+3787
+20
+unknown
+14855
+False
+True
+True
+True
+<EMPTY>
+25378
+-----ADDED
+Uniformitarianism is basic principle of modern It was originally proposed in contrast to Principles of Geology, Charles Leyell, vol II, London, 1832: Quart Rev 47, 103-123 </ref> Especially in the late 19th and early 20th centuries, most geologists took this interpretation to mean that catastrophic events are not important in geologic time; one example of this is the debate of the formation of the due to the catastrophic glacial outburst floods An important result of this debate and others was the re-clarification that, while the same principles operate in geologic time, catastrophic events that are infrequent on human time-scales can have important consequences in geologic history <ref>Allen, et al, 1986, Cataclysms on the Columbia, Timber Press, Portland, OR 
+-----DELETED
+Uniformitarianism is basic principle of modern It was originally proposed in contrast to which states that the distant past "consisted of epochs of paroxysmal and catastrophic action interposed between periods of comparative tranquility"<ref>William Whewell, Principles of Geology, Charles Leyell, vol II, London, 1832: Quart Rev 47, 103-123 </ref> Especially in the late 19th and early 20th centuries, most geologists took this interpretation to mean that catastrophic events are not important in geologic time; one example of this is the debate of the formation of the due to the catastrophic glacial outburst floods An important result of this debate and others was the re-clarification that, while the same principles operate in geologic time, catastrophic events that are infrequent on human time-scales can have important consequences in geologic history <ref>Allen, et al, 1986, Cataclysms on the Columbia, Timber Press, Portland, OR 

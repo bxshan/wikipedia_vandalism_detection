@@ -1,0 +1,15 @@
+-----METADATA
+2905
+2406
+male
+15348
+False
+True
+True
+True
+[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Amullumanair|Amullumanair]] ([[User talk:Amullumanair|talk]]) to last version by Merk688
+4129
+-----ADDED
+Snakes are widely believed to possess medicinal qualities and the wine is often advertised to cure everything from farsightedness to hair loss, as well as to increase sexual performance <ref name sw2/><ref name sw3/> However, many or all of these claims are based on traditional beliefs only similar drink is made with or rather than snakes <ref> citation first Peter last Mandel title Snake Wine publisher The Washington Post Company url http://www washingtonpost com/wp-dyn/content/article/2007/04/20/AR2007042000638 html date April 22, 2007 </ref> 
+-----DELETED
+Snakes are widely believed to possess medicinal qualities and the wine is often advertised to cure everything from farsightedness to hair loss, as well as increase energy strenghts <ref name sw2/><ref name sw3/> However, many or all of these claims are based on traditional beliefs only similar drink is made with or rather than snakes <ref> citation first Peter last Mandel title Snake Wine publisher The Washington Post Company url http://www washingtonpost com/wp-dyn/content/article/2007/04/20/AR2007042000638 html date April 22, 2007 </ref> 

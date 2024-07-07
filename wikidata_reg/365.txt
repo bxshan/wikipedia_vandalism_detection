@@ -1,0 +1,14 @@
+-----METADATA
+2862
+104253
+male
+15788
+False
+True
+True
+True
+Removed category [[:Category:New Zealand Army personnel|New Zealand Army personnel]]; Quick-adding category [[:Category:New Zealand generals|New Zealand generals]] (using [[WP:HOTCAT|HotCat]])
+6480
+-----ADDED
+
+-----DELETED

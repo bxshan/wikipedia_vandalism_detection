@@ -1,0 +1,15 @@
+-----METADATA
+3628
+13962
+unknown
+16267
+False
+True
+True
+True
+Updated club stats.
+2942
+-----ADDED
+caps goals 64 <br /> <br /> <br /> <br />46 pcupdate 06:38, 28 November 2009 UTC 
+-----DELETED
+caps goals 64 <br /> <br /> <br /> <br />45 pcupdate 05:28, 22 November 2009 UTC 

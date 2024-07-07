@@ -1,0 +1,15 @@
+-----METADATA
+1334
+19702
+male
+16548
+False
+True
+True
+True
+{{redirect|Moose (software)|Talking Moose|Talking Moose}}
+2266
+-----ADDED
+redirect Moose software Talking Moose Talking Moose 
+-----DELETED
+DISPLAYTITLE:Moose 

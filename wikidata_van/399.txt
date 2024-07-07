@@ -1,0 +1,15 @@
+-----METADATA
+1758
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+37602
+-----ADDED
+** convert 321860 km abbr on from gggg 
+-----DELETED
+** convert 321860 km abbr on from 

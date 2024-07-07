@@ -1,0 +1,15 @@
+-----METADATA
+3938
+443226
+male
+16301
+False
+True
+True
+True
+ sp
+5301
+-----ADDED
+The United States maintains diplomatic relations, but does not have extradition treaties with the following countries: the the the the the the and 
+-----DELETED
+The United States maintains diplomatic relations, but does not have extradition treaties with the following countries: the the the the the the and 

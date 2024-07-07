@@ -1,0 +1,15 @@
+-----METADATA
+1984
+310263
+male
+15979
+False
+True
+True
+True
+[[Help:Reverting|Reverted]] edits by [[Special:Contributions/AFI-SKUNK|AFI-SKUNK]] ([[User talk:AFI-SKUNK|talk]]) to last version by J.delanoy
+7769
+-----ADDED
+Genre 
+-----DELETED
+Genre 

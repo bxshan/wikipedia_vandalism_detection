@@ -1,0 +1,15 @@
+-----METADATA
+3669
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+59466
+-----ADDED
+is the term used to prevent the disclosure of information to unauthorized individuals or systems For example, on the Internet requires the to be transmitted from the buyer to the merchant and from the merchant to network The system attempts to enforce confidentiality by encrypting the card number during transmission, by limiting the places where it might appear in databases, log files, backups, printed receipts, and so on and by restricting access to the places where it is stored If an unauthorized party obtains the card number in any way, breach of confidentiality has occurred sdsda 
+-----DELETED
+is the term used to prevent the disclosure of information to unauthorized individuals or systems For example, on the Internet requires the to be transmitted from the buyer to the merchant and from the merchant to network The system attempts to enforce confidentiality by encrypting the card number during transmission, by limiting the places where it might appear in databases, log files, backups, printed receipts, and so on and by restricting access to the places where it is stored If an unauthorized party obtains the card number in any way, breach of confidentiality has occurred 

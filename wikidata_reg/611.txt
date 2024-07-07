@@ -1,0 +1,15 @@
+-----METADATA
+3737
+171888
+unknown
+16224
+False
+True
+True
+True
+ into ref
+33741
+-----ADDED
+The March 15, 2005 issue of the JAMA contained an article written by Lorelei Mucci, ScD, MPH <ref> http://jama ama-assn org/cgi/content/full/293/11/1326 “Acrylamide Intake and Breast Cancer Risk in Swedish Women,” </ref> The study cohort consisted of 43,404 Swedish women in the Women’s Lifestyle and Health Cohort The women’s greatest single source of acrylamide was from coffee 54% of intake fried potatoes 12% of intake and crisp bread 9% of intake 
+-----DELETED
+The March 15, 2005 issue of the JAMA contained an article titled http://jama ama-assn org/cgi/content/full/293/11/1326 “Acrylamide Intake and Breast Cancer Risk in Swedish Women,” written by Lorelei Mucci, ScD, MPH The study cohort consisted of 43,404 Swedish women in the Women’s Lifestyle and Health Cohort The women’s greatest single source of acrylamide was from coffee 54% of intake fried potatoes 12% of intake and crisp bread 9% of intake 

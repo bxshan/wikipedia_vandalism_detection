@@ -1,0 +1,15 @@
+-----METADATA
+2600
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+16266
+-----ADDED
+Im Celebrity need The Publicity! is series in which celebrities live together in environment with few luxuries, competing to win cash prize for charity 
+-----DELETED
+Im Celebrity Get Me Out of Here! is series in which celebrities live together in environment with few luxuries, competing to win cash prize for charity 

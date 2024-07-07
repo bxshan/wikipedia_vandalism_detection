@@ -1,0 +1,15 @@
+-----METADATA
+5194
+1718198
+unknown
+16861
+False
+True
+True
+True
+Convert ISO style date in text to words.  using [[Project:AutoWikiBrowser|AWB]]
+1548
+-----ADDED
+Hans-Peter Gies born in is retired male ter, who competed for during his career two-time Olympian 1972 and 1976 he set his personal best 21 31 metres in the mens shot put event on 25 August 1972 at meet in 
+-----DELETED
+Hans-Peter Gies born in is retired male ter, who competed for during his career two-time Olympian 1972 and 1976 he set his personal best 21 31 metres in the mens shot put event on at meet in <br> 

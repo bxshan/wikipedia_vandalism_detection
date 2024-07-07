@@ -1,0 +1,15 @@
+-----METADATA
+7346
+3041
+female
+14933
+False
+True
+True
+True
+ rmv two dupe links.
+148720
+-----ADDED
+Alarmed, and with Hitler making further demands on France and Britain when in April 1939, the same guarantee was extended to Romania and <ref> cite book first Lowe, Marzari, title Italian Foreign Policy 1870–1940 publisher Taylor Francis date 2002 isbn 0415273722 page 330 </ref> Shortly after the -British pledge to Poland, Germany and Italy formalized their own alliance with the <ref> cite book title Oxford Companion to World War II Pact of Steel publisher date 2002 isbn 0198604467 page 674 </ref> In August 1939 Germany and the Soviet Union signed <ref> cite web first Zachary last Shore title What Hitler Knew: The Battle for Information in Nazi Foreign Policy publisher Oxford University Press US date 2005 isbn 0-19-518261-8, 978-0-19-518261-3, page 108 </ref> This treaty included secret protocol placing Western and in the German sphere of influence while placing and the Romanian province of in the Soviet sphere of influence <ref> cite book title Nazi-Soviet Pact, in Dear and Foot, ed publisher Oxford University Press date 2002 isbn 0198604467 page 608 </ref> 
+-----DELETED
+Alarmed, and with Hitler making further demands on France and Britain when in April 1939, the same guarantee was extended to and <ref> cite book first Lowe, Marzari, title Italian Foreign Policy 1870–1940 publisher Taylor Francis date 2002 isbn 0415273722 page 330 </ref> Shortly after the -British pledge to Poland, Germany and Italy formalized their own alliance with the <ref> cite book title Oxford Companion to World War II Pact of Steel publisher date 2002 isbn 0198604467 page 674 </ref> In August 1939 Germany and the Soviet Union signed <ref> cite web first Zachary last Shore title What Hitler Knew: The Battle for Information in Nazi Foreign Policy publisher Oxford University Press US date 2005 isbn 0-19-518261-8, 978-0-19-518261-3, page 108 </ref> This treaty included secret protocol placing Western and in the German sphere of influence while placing and the province of in the Soviet sphere of influence <ref> cite book title Nazi-Soviet Pact, in Dear and Foot, ed publisher Oxford University Press date 2002 isbn 0198604467 page 608 </ref> 

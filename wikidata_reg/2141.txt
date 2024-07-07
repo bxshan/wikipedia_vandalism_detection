@@ -1,0 +1,15 @@
+-----METADATA
+2716
+0
+unknown
+0
+True
+False
+False
+False
+Changed to Jackson Demonstration State Forest
+3892
+-----ADDED
+The Mendocino Woodlands State Park is group camping facility located at 39350 Little Lake Road, seven miles 11 ;km inland from the town of It was built as by the Mendocino Woodlands consists of approximately convert 700 acre km2 of land along the Little North Fork of the and is surrounded to the north, east, and west by the 50,000 acre 200 ;km² Jackson Demonstration State Forest To the south, the park abuts the It was declared on <ref name "nhlsum"/> 
+-----DELETED
+The Mendocino Woodlands State Park is group camping facility located at 39350 Little Lake Road, seven miles 11 ;km inland from the town of It was built as by the Mendocino Woodlands consists of approximately convert 700 acre km2 of land along the Little North Fork of the and is surrounded to the north, east, and west by the 50,000 acre 200 ;km² Jackson State Forest To the south, the park abuts the It was declared on <ref name "nhlsum"/> 

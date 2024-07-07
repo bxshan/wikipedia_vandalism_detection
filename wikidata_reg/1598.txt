@@ -1,0 +1,15 @@
+-----METADATA
+2644
+20795
+male
+16014
+False
+True
+True
+True
+Replacing {{IPAr|pl| with {{IPAc-pl|
+1740
+-----ADDED
+Raszów IPAc-pl sz lang-de Reussendorf is village in the administrative district of within in south-western Poland Prior to 1945 it was in It lies approximately convert km mi west of and convert 84 km mi abbr on south-west of the regional capital 
+-----DELETED
+Raszów IPAr pl sz lang-de Reussendorf is village in the administrative district of within in south-western Poland Prior to 1945 it was in It lies approximately convert km mi west of and convert 84 km mi abbr on south-west of the regional capital 

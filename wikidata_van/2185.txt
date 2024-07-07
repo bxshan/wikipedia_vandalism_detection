@@ -1,0 +1,15 @@
+-----METADATA
+3131
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9267
+-----ADDED
+Hellos an example of the blend of art and science during the Renaissance 
+-----DELETED
+an example of the blend of art and science during the Renaissance 

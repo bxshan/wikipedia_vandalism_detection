@@ -1,0 +1,15 @@
+-----METADATA
+3350
+44765
+male
+16368
+False
+True
+True
+True
+[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Lucasbfrbot|Lucasbfrbot]] ([[User talk:Lucasbfrbot|talk]]) to last version by D6
+10302
+-----ADDED
+blank Logo blank svg 
+-----DELETED
+Logo Fond blanc svg Fond blanc 

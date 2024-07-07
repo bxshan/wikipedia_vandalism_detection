@@ -1,0 +1,15 @@
+-----METADATA
+1482
+11448
+male
+15980
+False
+True
+True
+True
+<EMPTY>
+64540
+-----ADDED
+small Featured talent from all three brands <br /> featured as Guest Host 
+-----DELETED
+small Featured talent from all three brands <br /> featured as Guest Host 

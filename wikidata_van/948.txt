@@ -1,0 +1,15 @@
+-----METADATA
+3140
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+61841
+-----ADDED
+The Milky Way, or simply the Galaxy, is the in which the <!-- Dont change to OUR since Solar fuks to the sun We either use "the Solar System" or "our star system" --> is located It is that is part of the of galaxies It is one of billions of galaxies in the Its name is translation of the Via Lactea, in turn translated from the Γαλαξίας Galaxias referring to the pale band of light formed by the galactic plane as seen from Earth see Some sources hold that, strictly speaking, the term Milky Way should refer exclusively to the band of light that the galaxy forms in the while the galaxy should receive the full name Milky Way Galaxy, or alternatively the Galaxy <ref> 
+-----DELETED
+The Milky Way, or simply the Galaxy, is the in which the <!-- Dont change to OUR since Solar refers to the sun We either use "the Solar System" or "our star system" --> is located It is that is part of the of galaxies It is one of billions of galaxies in the Its name is translation of the Via Lactea, in turn translated from the Γαλαξίας Galaxias referring to the pale band of light formed by the galactic plane as seen from Earth see Some sources hold that, strictly speaking, the term Milky Way should refer exclusively to the band of light that the galaxy forms in the while the galaxy should receive the full name Milky Way Galaxy, or alternatively the Galaxy <ref> 

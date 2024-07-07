@@ -1,0 +1,15 @@
+-----METADATA
+1690
+70
+unknown
+14997
+False
+True
+True
+True
+<EMPTY>
+3961
+-----ADDED
+image_name MULOGOPORTRAIT image_size 100px 
+-----DELETED
+image 

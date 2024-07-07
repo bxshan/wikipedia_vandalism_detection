@@ -1,0 +1,15 @@
+-----METADATA
+11891
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7548
+-----ADDED
+author pub_date 2007 ;Jacob Folsom ;Josh Folsom ;Tristan Russle ;Jordan Pouncil ;Elijah Cote 
+-----DELETED
+author pub_date 1975 ;Rusty-lames ;The Motorcycle Boy ;Steve ;Biff ;Smokey 

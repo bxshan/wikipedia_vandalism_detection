@@ -1,0 +1,15 @@
+-----METADATA
+2979
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5822
+-----ADDED
+Cross <br Mike Tierney Ostrich<br /> Alex Ross Creepy asshole<br /> 
+-----DELETED
+Mike Cross Tierney<br Alex Ross<br /> 

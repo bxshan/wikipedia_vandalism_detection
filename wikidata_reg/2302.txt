@@ -1,0 +1,15 @@
+-----METADATA
+25684
+41115
+male
+15910
+False
+True
+True
+True
+<EMPTY>
+13756
+-----ADDED
+02 05 01 24 02 birth date and age 1994 02 03 10 11 05 24 align center align left flagicon France align center align center align center align left birth date and age 1994 03 01 flagicon France align center align center align center align left birth date and age 1994 03 17 flagicon France align center align center align center align left flagicon France align center align center align center align left birth date and age 1994 03 24 flagicon France align center align center align center align left flagicon France align center align center align center align left birth date and age 1994 07 28 flagicon France align center align center align center align left birth date and age 1994 04 23 flagicon France align center align center bgcolor "#ddffdd" <center> goal 50 goal 53 goal 56 goal 70 
+-----DELETED
+align center align left birth date and age 1994 02 05 flagicon France align center align center 01 24 align center align left birth date and age 1994 02 flagicon France align center align center 02 03 align center align left flagicon France align center align center 10 11 align center align left birth date and age 1994 05 24 flagicon France align center align center align center align left birth date and age 1994 03 01 flagicon France align center align center birth date and age 1994 03 17 align center align left flagicon France align center align center 03 24 align center align left flagicon France align center align center 07 28 align center align left birth date and age 1994 04 23 flagicon France align center align center <center> 

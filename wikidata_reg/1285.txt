@@ -1,0 +1,15 @@
+-----METADATA
+5359
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+24848
+-----ADDED
+In the summer of 1994, Kessler, Santomero, and Johnson met at the studios to develop Blues Clues At first, the character Blue was cat and the name of the show was "Blues Prints Blue became dog only because Nickelodeon was already producing show about cat <ref name "tenyears"/> According to Melissa from Plentyoffish, Blue is female dog and Kessler handled the production aspect of the show, Santomero research, and Johnson the animation and design <ref name "repetition"/> 
+-----DELETED
+In the summer of 1994, Kessler, Santomero, and Johnson met at the studios to develop Blues Clues At first, the character Blue was cat and the name of the show was "Blues Prints Blue became dog only because Nickelodeon was already producing show about cat <ref name "tenyears"/> According to Melissa Plentyoffish, Blue is female Kessler handled the production aspect of the show, Santomero research, and Johnson the animation and design <ref name "repetition"/> 

@@ -1,0 +1,15 @@
+-----METADATA
+5353
+64521
+unknown
+15551
+False
+True
+True
+True
+ + language
+8561
+-----ADDED
+Belgian Wallonia Belgian Wallonia http://www ultratop be/fr/showitem Ultratop language 2009-09-13 French SNEP Singles Chart<ref> cite web title "Sextonik", French Singles Chart url http://lescharts com/showitem asp?interpret Myl%E8ne+Farmer&titel Sextonik&cat publisher Lescharts language French accessdate 2009-09-08 </ref> Swiss Singles Chart<ref> cite web title "Sextonik", Swiss Singles Chart url http://hitparade ch/showitem asp?interpret Myl%E8ne+Farmer&titel Sextonik&cat publisher Hitparade language German accessdate 2009-09-08 </ref> 
+-----DELETED
+Belgian Wallonia Singles Chart<ref> cite web title "Sextonik", Belgian Wallonia Singles Chart url http://www ultratop be/fr/showitem asp?interpret Myl%E8ne+Farmer&titel Sextonik&cat publisher Ultratop accessdate 2009-09-13 </ref> SNEP http://lescharts com/showitem Lescharts 2009-09-08 Swiss Singles Chart<ref> cite web title "Sextonik", Swiss Singles Chart url http://hitparade ch/showitem asp?interpret Myl%E8ne+Farmer&titel Sextonik&cat publisher Hitparade accessdate 2009-09-08 </ref> 

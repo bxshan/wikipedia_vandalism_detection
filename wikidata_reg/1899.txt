@@ -1,0 +1,15 @@
+-----METADATA
+1536
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+13382
+-----ADDED
+The five percent "baby boom" increase of 1946 and the trickle into 1947 barely impacted the US population growth rate between 1900 and 2004 the birth rate again rose from 2005 onward 
+-----DELETED
+The five percent "baby boom" increase of 1946 and the trickle into 1947 barely impacted the US population growth rate between 1900 and 2004 

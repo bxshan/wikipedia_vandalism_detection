@@ -1,0 +1,15 @@
+-----METADATA
+1339
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+28032
+-----ADDED
+*: gay child who is in special-ed class 
+-----DELETED
+*: gay 

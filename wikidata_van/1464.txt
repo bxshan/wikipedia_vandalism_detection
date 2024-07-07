@@ -1,0 +1,15 @@
+-----METADATA
+2285
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+40808
+-----ADDED
+Twelve-year-old Ciel Phantomhive is the current head of the English Phantomhive noble family and the Funtom toy and confectionery company Under his lead, the company grew into major corporation Ciel is tasked with solving problems plaguing London under orders He is helped by Sebastian Michaelis, demon bound to Ciels will by contract Sebastian serves as the Phantomhive butler and also looks fabulous in pair of heels Until the terms of their contract are met, Sebastian must keep Ciel alive 
+-----DELETED
+Twelve-year-old Ciel Phantomhive is the current head of the English Phantomhive noble family and the Funtom toy and confectionery company Under his lead, the company grew into major corporation Ciel is tasked with solving problems plaguing London under orders He is helped by Sebastian Michaelis, demon bound to Ciels will by contract Sebastian serves as the Phantomhive butler Until the terms of their contract are met, Sebastian must keep Ciel alive 

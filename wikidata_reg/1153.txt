@@ -1,0 +1,15 @@
+-----METADATA
+1873
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+27616
+-----ADDED
+&ndash; Canadian screenwriter and film director 1929 
+-----DELETED
+&ndash; Canadian screnwriter and film director 1929 

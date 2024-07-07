@@ -1,0 +1,14 @@
+-----METADATA
+4100
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4280
+-----ADDED
+It is believed that dogging originated in the car park of secluded Suffolk golf course known as Dip Farm 
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+2102
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1236
+-----ADDED
+Glob Mobile Information System Simulator GloMoSim is software that simulates wireless and wired network systems<ref> http://www scalable-networks com/pdf/glomosim pdf GloMoSim </ref> GloMoSim is designed using the parallel capability provided by Parsec, <ref> http://pcl cs ucla edu/projects/parsec/ Parsec </ref> GloMoSim currently supports protocols for purely 
+-----DELETED
+Global Mobile Information System Simulator GloMoSim is software that simulates wireless and wired network systems<ref> http://www scalable-networks com/pdf/glomosim pdf GloMoSim </ref> GloMoSim is designed using the parallel capability provided by Parsec, <ref> http://pcl cs ucla edu/projects/parsec/ Parsec </ref> GloMoSim currently supports protocols for purely 

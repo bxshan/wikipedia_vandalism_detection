@@ -1,0 +1,15 @@
+-----METADATA
+2208
+105826
+unknown
+16082
+False
+True
+True
+True
+[[Help:Reverting|Reverted]] edits by [[Special:Contributions/71.183.61.24|71.183.61.24]] ([[User talk:71.183.61.24|talk]]) to last version by Modernist
+41732
+-----ADDED
+east-village com/center Visitors Center 308 Bowery, NYC http://www east-village com/ East-Village com East Village History Project 
+-----DELETED
+http://www eastvillage com/center East Village Visitors Center 308 Bowery, NYC eastvillage com/ EastVillage com History Project 

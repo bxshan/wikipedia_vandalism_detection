@@ -1,0 +1,15 @@
+-----METADATA
+6805
+50892
+unknown
+16784
+False
+True
+True
+True
+ ce
+83740
+-----ADDED
+Although castle construction faded towards the 16th ;century, they did not necessarily all fall out of use Some retained role in local administration and became law courts, while others are still handed down in aristocratic families as hereditary seats particularly famous example of this is Windsor Castle in England which was founded in the 11th ;century and is home to the monarch of the United Kingdom <ref> harvnb Creighton Higham 2003 64 </ref> In other cases they still had role in defence s, which are closely related to castles and include s, were defended towers that were permanent residences built in the 14th to 17th centuries Especially common in Ireland and Scotland, they could be up to five storeys high and succeeded common enclosure castles and were built by greater social range of people While unlikely to provide as much protection as more complex castle, they offered security against raiders and other small threats <ref> harvnb Thompson 1987 22 </ref><ref> harvnb Friar 2003 pp 286–287 </ref> 
+-----DELETED
+Although castle construction faded towards the 16th ;century, they did not necessarily all fall out of use Some retained some role in local administration and became law courts, while others are still handed down in aristocratic families as hereditary seats particularly famous example of this is Windsor Castle in England which was founded in the 11th ;century and is home to the monarch of the United Kingdom <ref> harvnb Creighton Higham 2003 64 </ref> In other cases they still had role in defence s, which are closely related to castles and include s, were defended towers that were permanent residences built in the 14th to 17th centuries Especially common in Ireland and Scotland, they could be up to five storeys high and succeeded common enclosure castles and were built by greater social range of people While unlikely to provide as much protection as more complex castle, they offered security against raiders and other small threats <ref> harvnb Thompson 1987 22 </ref><ref> harvnb Friar 2003 pp 286–287 </ref> 

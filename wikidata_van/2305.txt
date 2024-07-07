@@ -1,0 +1,15 @@
+-----METADATA
+3431
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+23893
+-----ADDED
+Neil Patrick Harris born June 15, 1973 is gay Prominent roles of his career include the in the womanizing in fictionalized version of himself in the series, and the title role in -winning musical web series He also hosted the on June 7, 2009,<ref> cite web url http://www variety com/article/VR1118005614 html?categoryid 1236&cs title NeilPatrick Harris Lands Hopping to Emmys publisher Daily Variety accessdate 2009-07-04 </ref> and the on September 20, 2009 
+-----DELETED
+Neil Patrick Harris born June 15, 1973 is an Prominent roles of his career include the in the womanizing in fictionalized version of himself in the series, and the title role in -winning musical web series He also hosted the on June 7, 2009,<ref> cite web url http://www variety com/article/VR1118005614 html?categoryid 1236&cs title NeilPatrick Harris Lands Hopping to Emmys publisher Daily Variety accessdate 2009-07-04 </ref> and the on September 20, 2009 

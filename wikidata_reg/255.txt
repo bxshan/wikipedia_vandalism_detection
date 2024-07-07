@@ -1,0 +1,15 @@
+-----METADATA
+4628
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+45373
+-----ADDED
+The new government tried to integrate the new country politically as well as economically, task made difficult because of the diversity of language chiefly disagreements between and speakers over standardising ethnicities, and religions in the new state; the different history of each region characterised by centuries of subjugation by different rulers, eg etc and differences in economic development among regions more developed north spanning Slovenia, northern Croatia and northern Serbia, than poorer south which encompassed Dalmatia, Montenegro and southern Serbia 
+-----DELETED
+The new government tried to integrate the new country politically as well as economically, task made difficult because of the diversity of language chiefly disagreements between and speakers over standardising ethnicities, and religions in the new state; the different history of each region characterised by centuries of subjugation by different rulers, eg Venice, Hungary, Austria, Ottoman Empire etc and differences in economic development among regions more developed north spanning Slovenia, northern Croatia and northern Serbia, than poorer south which encompassed Dalmatia, Montenegro and southern Serbia 

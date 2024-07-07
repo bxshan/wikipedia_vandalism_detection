@@ -1,0 +1,15 @@
+-----METADATA
+2384
+13
+unknown
+14830
+False
+True
+True
+True
+<EMPTY>
+4731
+-----ADDED
+215 lb bout: flagicon USA vs flagicon Bahamas vs TBA ref> http://mmajunkie com/news/16688/report-houston-alexander-vs-James-Mcsweeney-set-for-catchweight-bout-at-tuf-10-finale mma Report: Houston Alexander vs "Kimbo Slice" set for catchweight bout at TUF 10 Finale </ref> 
+-----DELETED
+215 lb bout: flagicon USA vs flagicon Bahamas vs TBA ref> http://mmajunkie com/news/16688/report-houston-alexander-vs-James-Mcsweeney-set-for-catchweight-bout-at-tuf-10-finale mma Report: Houston Alexander vs "Kimbo Slice" set for catchweight bout at TUF 10 Finale </ref> 

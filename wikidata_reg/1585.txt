@@ -1,0 +1,15 @@
+-----METADATA
+2639
+35531
+unknown
+15477
+False
+True
+True
+True
+<EMPTY>
+2278
+-----ADDED
+*Olympia studied be *After the Miss Universe pageant she pursued career in modeling 
+-----DELETED
+*Olympia is studying in to be *After the Miss Universe pageant she hopes pursue career modeling 

@@ -1,0 +1,15 @@
+-----METADATA
+2410
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+17011
+-----ADDED
+*March 10,1876 Alexander Grahm Ball dscovered th telephone when axcidently spilt battery juice on his expeiriment 
+-----DELETED
+*11 February 1876 Elisha Gray invents for use with telephone, but does not build one 

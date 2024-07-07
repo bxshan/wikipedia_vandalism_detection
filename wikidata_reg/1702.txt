@@ -1,0 +1,15 @@
+-----METADATA
+2858
+11111
+unknown
+16058
+False
+True
+True
+True
+<EMPTY>
+4877
+-----ADDED
+image name Thomas Eliot png signature Thomas Eliot signature png 
+-----DELETED
+image name 

@@ -1,0 +1,15 @@
+-----METADATA
+1570
+1466
+male
+15634
+False
+True
+True
+True
+<EMPTY>
+5459
+-----ADDED
+colspan "4" style "font-size: 8pt" align "center" denotes nominated works with awards pending presentation and announcement 
+-----DELETED
+colspan "3" style "font-size: 8pt" align "center" denotes nominated works with awards pending presentation and announcement 

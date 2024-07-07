@@ -1,0 +1,15 @@
+-----METADATA
+6437
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6653
+-----ADDED
+The Distillers sucked end of story you dont need to know what crap albums they made 
+-----DELETED
+class "wikitable" !Album Year !Album Name !Record Label !US Billboard Peak !UK Album Chart 2000 align "center" align "center" 2002 align "center" align "center" 2003 align "center" 97 align "center" 46 

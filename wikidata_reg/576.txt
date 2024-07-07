@@ -1,0 +1,15 @@
+-----METADATA
+5358
+16591
+unknown
+16639
+False
+True
+True
+True
+clean up, typos fixed: Inovative → Innovative using [[Project:AutoWikiBrowser|AWB]]
+14804
+-----ADDED
+In January 2009, the Bulgarian government approved 10-year plan for funding three main areas of scientific development Innovative potential sciences biotechnology, healthcare technology, alternative energy sources, nanotechnology and communications Sustainable development sciences ecology and Scientific studies for the support of industry Although the BSP government planned an increase of scientific spending for 2010 from to 6% of GDP<ref> http://computerworld bg/24228_Tri_grupi_nauchni_oblasti_sa_prioriteti_i_shte_se_finansirat_ot_byudzheta </ref> the financial crisis has caused decrease of funding in 2009 pages 567–574 DEFAULTSORT:Science And Technology In Bulgaria 
+-----DELETED
+In January 2009, the Bulgarian government approved 10-year plan for funding three main areas of scientific development Inovative potential sciences biotechnology, healthcare technology, alternative energy sources, nanotechnology and communications Sustainable development sciences ecology and Scientific studies for the support of industry Although the BSP government planned an increase of scientific spending for 2010 from to 6% of GDP<ref> http://computerworld bg/24228_Tri_grupi_nauchni_oblasti_sa_prioriteti_i_shte_se_finansirat_ot_byudzheta </ref> the financial crisis has caused decrease of funding in 2009 pages 567-574 

@@ -1,0 +1,14 @@
+-----METADATA
+1435
+68061
+male
+16129
+False
+True
+True
+True
+<EMPTY>
+4368
+-----ADDED
+MLS Cup 
+-----DELETED

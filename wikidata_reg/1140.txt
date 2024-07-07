@@ -1,0 +1,15 @@
+-----METADATA
+1928
+501362
+male
+16475
+False
+True
+True
+True
+Reverted edits by [[Special:Contributions/205.56.129.194|205.56.129.194]] to last revision by Sevenlee ([[Wikipedia:Huggle|HG]])
+2690
+-----ADDED
+accessdate 2008-04-08 </ref> The album is based on Nordic folklore The final track is new version of the song "Hail To The Hammer" which originally appeared on demo in 2000, and again on in 2002 
+-----DELETED
+accessdate 2008-04-08 </ref> The album is based on Nordic folklore The final track is new version of the song "Hail To The Hammer" which originally appeared on demo in 2010, and again on in 2002 

@@ -1,0 +1,15 @@
+-----METADATA
+2415
+42
+unknown
+15675
+False
+True
+True
+True
+Removed "forbidden" from "forbidden idea of racial purity" since the idea was not forbidden or even unpopular at the time and in the place that he lived.
+4999
+-----ADDED
+Although many schools, roads and hospitals are named after him in Austria, 2004 review of his life brought to light that not long before his death he made an application to join the Nazi party which was not endorsed, due to the fact that his first wife had been Jewish and had strongly advocated the idea of "" before that <ref>http://scotlandonsunday scotsman com/world/Austrians-stunned-by-Nobel-prizewinners 2497657 jp</ref> 
+-----DELETED
+Although many schools, roads and hospitals are named after him in Austria, 2004 review of his life brought to light that not long before his death he made an application to join the Nazi party which was not endorsed, due to the fact that his first wife had been Jewish and had strongly advocated the forbidden ideas of "" before that <ref>http://scotlandonsunday scotsman com/world/Austrians-stunned-by-Nobel-prizewinners 2497657 jp</ref> 

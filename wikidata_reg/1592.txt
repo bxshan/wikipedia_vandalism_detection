@@ -1,0 +1,15 @@
+-----METADATA
+3761
+3146
+unknown
+15056
+False
+True
+True
+True
+<EMPTY>
+8694
+-----ADDED
+statweek 11 statseason 2009 statvalue1 360 statvalue2 86 statvalue3 
+-----DELETED
+statweek 17 statseason 2008 statvalue1 321 statvalue2 81 statvalue3 

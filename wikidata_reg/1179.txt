@@ -1,0 +1,15 @@
+-----METADATA
+5388
+51971
+male
+16127
+False
+True
+True
+True
+ Repairing links to disambiguation pages - [[Wikipedia:Disambiguation pages with links|You can help!]]
+3527
+-----ADDED
+He taught music at Wells College New York from 1936 to 41, then moved to Maryland In 1945, worked for the Germany, upon the suggestion of stayed to work as civilian cultural advisor occupied Germany His opera Loves Labours Lost libretto by and was composed in 1971 and performed in 1973 
+-----DELETED
+He taught music at Wells College in New York from 1936 to 41, then moved to in Maryland In 1945, worked for the in Germany, upon the suggestion of and stayed to work as civilian cultural advisor in occupied Germany His opera Loves Labours Lost libretto by was composed 1971 performed 1973 

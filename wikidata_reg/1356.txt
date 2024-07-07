@@ -1,0 +1,15 @@
+-----METADATA
+3821
+19
+unknown
+14829
+False
+True
+True
+True
+<EMPTY>
+41931
+-----ADDED
+network_other flagicon Singapore flagicon India flagicon Thailand flagicon Malaysia flagicon Philippines flagicon Hong Kong <br> flagicon Indonesia <br> flagicon Taiwan <br> flagicon Germany only 80 episodes <br> flagicon Philippines <br> flagicon Brazil <br> flagicon Mexico <br /> flagicon Chile<br> flagicon Dominican Republic <br> flagicon Catalonia <br> flagicon Venezuela <br> flagicon Malaysia <br> flagicon Italy Local network, GXT, Cultoon 
+-----DELETED
+network_other flagicon Singapore flagicon India flagicon Thailand flagicon Malaysia flagicon Philippines flagicon Hong Kong <br> flagicon Indonesia <br> flagicon Taiwan <br> flagicon Germany only 80 episodes <br> flagicon Philippines <br> flagicon Brazil <br> flagicon Mexico <br /> bandera Chile<br> flagicon Dominican Republic <br> flagicon Catalonia <br> flagicon Venezuela <br> flagicon Malaysia <br> flagicon Italy Local network, GXT, Cultoon 

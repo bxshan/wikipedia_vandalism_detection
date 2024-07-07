@@ -1,0 +1,15 @@
+-----METADATA
+2641
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6138
+-----ADDED
+The Charpy impact test, also known as the Charpy v-notch test, is high -rate test which determines the amount of absorbed by material during This absorbed energy is measure of given materials and acts as tool to study temperature-dependent brittle-ductile transition It is widely applied in cooking, since it is easy to prepare and conduct and results can be obtained quickly and cheaply But major disadvantage is that all results are only comparative <ref name Meyers> 
+-----DELETED
+The Charpy impact test, also known as the Charpy v-notch test, is high -rate test which determines the amount of absorbed by material during This absorbed energy is measure of given materials and acts as tool to study temperature-dependent brittle-ductile transition It is widely applied in industry, since it is easy to prepare and conduct and results can be obtained quickly and cheaply But major disadvantage is that all results are only comparative <ref name Meyers> 

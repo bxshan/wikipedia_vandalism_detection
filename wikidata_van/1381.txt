@@ -1,0 +1,15 @@
+-----METADATA
+2092
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2426
+-----ADDED
+Cohan earned in in 1979 and in in 1980 from He did work in at and earned an from 
+-----DELETED
+Cohan earned in in 1979 and in in 1980 from He did work in at and earned an from 

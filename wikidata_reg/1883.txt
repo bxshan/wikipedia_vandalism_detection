@@ -1,0 +1,15 @@
+-----METADATA
+20185
+209902
+male
+17632
+False
+True
+True
+True
+ some math notation cleanup; [[WP:MOSMATH]] was ignored here, and also  various standard [[TeX]] usage conventions applying not only within Wikipedia
+15676
+-----ADDED
+portion of the photon weight is absorbed at each interaction site This fraction of the weight is determined as follows: <math>\Delta \frac \mu_a \mu_t W</math> <math>W \leftarrow \Delta \, </math> <math>\cos\theta \end cases </math> And, the azimuthal angle &phi; is generally assumed to be uniformly distributed between and <math> 2\pi </math> Based on this assumption, we can set: <math> </math> \begin align \end align 
+-----DELETED
+portion of the photon weight is absorbed at each interaction site This fraction of the weight is determined as follows:<br /> <center><math>\Delta \frac \mu_a \mu_t W</math><br /></center> <center><math>W \leftarrow \Delta </math></center> <br /><br /> <center><math>\cos\theta \left\ \end array \right </math></center> And, the azimuthal angle <math> \phi </math> is generally assumed to be uniformly distributed between and <math> 2\pi </math> Based on this assumption, we can set:<br /> </math></center> <center><math> \begin array lcr \end array </center> 

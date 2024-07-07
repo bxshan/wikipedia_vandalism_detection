@@ -1,0 +1,15 @@
+-----METADATA
+10189
+443226
+male
+16301
+False
+True
+True
+True
+[[wp:datescript]]-assisted date/terms audit; see [[wp:unlinkdates]], [[wp:overlink]]
+26053
+-----ADDED
+assembly <Br>, United Kingdom,<br>Berlin, Germany<br>, Denmark<br>, <br>, The Ford Model car was designed by and two Hungarian immigrants, and Eugene Farkas Harry Love, Smith, Gus Degner and were also part of the team <ref>Reynold Wik, Henry Ford Grass Roots America, 1972 </ref> While production of the Model began in 1908,<ref>Clymer, Floyd Treasury of Early American Automobiles, 1877-1925 New York: Bonanza Books, 1950 100 </ref> model years range from 1909 to 1927 The Ford Model was the first automobile built by various countries simultaneously since they were being produced in Canada and in Manchester, England starting in 1911 and were later assembled in<ref> http://www autohistoria com ar/Historias/Ford%20Historia htm www auto-historia com History of Ford Motors Argentina Retrieved on 19 November 2008 </ref> France, Spain, Denmark, Norway, Belgium, Mexico and Japan <ref> http://www autoatlantic com/Sept08/Sept08_Ford-Model-T-is-100 html Celebrating the Ford Model T, only 100 years young! in Spanish accessed 22 September 2008 </ref> 
+-----DELETED
+assembly <Br>,<br>, <br>, <br>, <br>, The Ford Model car was designed by and two immigrants, and Eugene Farkas Harry Love, Smith, Gus Degner and were also part of the team <ref>Reynold Wik, Henry Ford Grass Roots America, 1972 </ref> While production of the Model began in 1908,<ref>Clymer, Floyd Treasury of Early American Automobiles, 1877-1925 New York: Bonanza Books, 1950 100 </ref> model years range from 1909 to 1927 The Ford Model was the first automobile built by various countries simultaneously since they were being produced in and in Manchester, England starting in 1911 and were later assembled in<ref> http://www autohistoria com ar/Historias/Ford%20Historia htm www auto-historia com History of Ford Motors Argentina Retrieved on 19 November 2008 </ref> and <ref> http://www autoatlantic com/Sept08/Sept08_Ford-Model-T-is-100 html Celebrating the Ford Model T, only 100 years young! in Spanish accessed 22 September 2008 </ref> 

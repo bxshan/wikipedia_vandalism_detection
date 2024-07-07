@@ -1,0 +1,14 @@
+-----METADATA
+1808
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+23121
+-----ADDED
+written by joey joey sumaylo aie aie <sup>Superscript text</sup> 
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+2737
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+15199
+-----ADDED
+Gilbert Gottfried born February 28, 1955 is an and whose trademark is distinctively loud, obnoxious, rasping,<ref> http://www imdb com/name/nm0331906/bio Internet Movie Database Biography for Gilbert Gottfried </ref> grating voice <ref> http://www rottentomatoes com/m/gilbert_gottfried_dirty_jokes/ Rotten Tomatoes Review of Gilbert Gottfried: Dirty Jokes 2005 </ref> He has played numerous roles in and perhaps most notably voicing the in Disneys 1992 as well as co-starring in the movies MOLEJONDRO IS NOT AMUSED 
+-----DELETED
+Gilbert Gottfried born February 28, 1955 is an and whose trademark is distinctively loud, obnoxious, rasping,<ref> http://www imdb com/name/nm0331906/bio Internet Movie Database Biography for Gilbert Gottfried </ref> grating voice <ref> http://www rottentomatoes com/m/gilbert_gottfried_dirty_jokes/ Rotten Tomatoes Review of Gilbert Gottfried: Dirty Jokes 2005 </ref> He has played numerous roles in and perhaps most notably voicing the in Disneys 1992 as well as co-starring in the movies 

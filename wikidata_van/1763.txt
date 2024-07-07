@@ -1,0 +1,15 @@
+-----METADATA
+5531
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+15508
+-----ADDED
+Mature salamanders generally have body form similar to that of with slender bodies, long tails, and four limbs However, like some lizards, many species of salamander have reduced or absent limbs, giving them more -like appearance Most species have limbs with four toes on the forelimbs, and five on the hind limbs, and lack claws Salamanders are often brightly colored, either in both, throughout the year, or only in the males, especially during the breeding season However, the species dwelling entirely underground are often white or pink, lacking any skin pigment By brittany 
+-----DELETED
+Mature salamanders generally have body form similar to that of with slender bodies, long tails, and four limbs However, like some lizards, many species of salamander have reduced or absent limbs, giving them more -like appearance Most species have limbs with four toes on the forelimbs, and five on the hind limbs, and lack claws Salamanders are often brightly colored, either in both sexes throughout the year, or only in the males, especially during the breeding season However, the species dwelling entirely underground are often white or pink, lacking any skin pigment <ref name EoR/> 

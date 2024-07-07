@@ -1,0 +1,15 @@
+-----METADATA
+4196
+586
+male
+14892
+False
+True
+True
+True
+Added image.
+2900
+-----ADDED
+image Nokia_N72 jpg imagesize 100px screen 176 208 pixels 256 matrix screen No No 
+-----DELETED
+image imagesize 50px screen 176 208 pixels matrix screen 

@@ -1,0 +1,15 @@
+-----METADATA
+4681
+52067
+unknown
+16278
+False
+True
+True
+True
+ fixed column size bug
+22373
+-----ADDED
+MLB Farm System level17 team17 league17 manager17 level18 team18 league18 manager18 level19 team19 league19 manager19 level20 team20 league20 manager20 
+-----DELETED
+MLB Farm System level3 team3 league3 manager3 level4 team4 league4 manager4 level5 team5 league5 manager5 level6 team6 league6 manager6 

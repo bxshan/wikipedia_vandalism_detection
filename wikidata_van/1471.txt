@@ -1,0 +1,15 @@
+-----METADATA
+2556
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4804
+-----ADDED
+Born in Coronaco New Zealand to Harry and Ida Truman, he was educated in the Stern earned his at the in 1947 and an at in 1949 He did post-graduate study at the in 1949-50 
+-----DELETED
+Born in to Harry and Ida Barach Stern, he was educated in the Stern earned his at the in 1947 and an at in 1949 He did post-graduate study at the in 1949-50 

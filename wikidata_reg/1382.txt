@@ -1,0 +1,15 @@
+-----METADATA
+2295
+892
+unknown
+16722
+False
+True
+True
+True
+<EMPTY>
+2775
+-----ADDED
+On May 28, 2009, GenderPAC closed its doors and shut down its website, citing the number of other organizations now doing the work that it was originally created for The organizations non-profit status, staff, and much of its board was transferred to new organization, TrueChild http://truechild org/ TrueChild dedicated to combating the effects of gender stereotypes on children 
+-----DELETED
+On May 28, 2009, GenderPAC closed its doors and shut down its website, citing the number of other organizations now doing the work that it was originally created for The organizations non-profit status, staff, and much of its board was transferred to new organization, http://truechild org/ TrueChild dedicated to combating the effects of gender stereotypes on children 

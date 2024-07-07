@@ -1,0 +1,15 @@
+-----METADATA
+4987
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4114
+-----ADDED
+Windolph was born in December 9, 1851, to Joseph and Adelphina Koch Windolph He arrived in the in 1871, and enlisted in the 2nd US Infantry November 12, 1871 He the July 18, 1871, and promptly reenlisted as Charles Wrangel in 7th US Cavalry He later ed and was restored to duty without punishment He was and did cobbler work among his comrades He was participant in the Yellowstone Expedition of 1873 and the Black Hills Expedition in 1874 
+-----DELETED
+Windolph was born in December 9, 1851, to Joseph and Adelphina Koch Windolph He arrived in the in 1871, and enlisted in the that same year He the next year, and promptly reenlisted as Charles Wrangel He later ed and was restored to duty without punishment He was and did cobbler work among his comrades He was participant in the Yellowstone Expedition of 1873 and the Black Hills Expedition in 1874 

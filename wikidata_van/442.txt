@@ -1,0 +1,15 @@
+-----METADATA
+1547
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+11646
+-----ADDED
+conglomerate is combination of two or more companies engaged in entirely different businesses together into one overarching company Conglomerates are often large pieces of thing we call shit <ref> cite book 
+-----DELETED
+conglomerate is combination of two or more companies engaged in entirely different businesses together into one overarching company Conglomerates are often large <ref> cite book 

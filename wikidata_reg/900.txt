@@ -1,0 +1,15 @@
+-----METADATA
+2393
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+54123
+-----ADDED
+*Winkok, childhood nickname<ref>http://www newsweek com/id/128632</ref> *No Drama Obama<ref> cite web url http://www cnn com/2008/POLITICS/11/22/obama vetting /index html title Obamas vetting could chase away candidates accessdate 2009-01-22 </ref> 
+-----DELETED
+*No Drama Obama<ref> cite web url http://www cnn com/2008/POLITICS/11/22/obama vetting/index html title Obamas vetting could chase away candidates accessdate 2009-01-22 </ref> 

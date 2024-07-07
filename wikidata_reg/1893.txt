@@ -1,0 +1,15 @@
+-----METADATA
+1720
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2312
+-----ADDED
+Although specifics of the script have not been released, the plot of the film will parody that of "Return of the Jedi", with Family Guy characters plus American Dad and The Cleveland show characters playing characters from the film 
+-----DELETED
+Although specifics of the script have not been released, the plot of the film will parody that of "Return of the Jedi", with Family Guy characters playing characters from the film 

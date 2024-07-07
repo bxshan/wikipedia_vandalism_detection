@@ -1,0 +1,15 @@
+-----METADATA
+5557
+3216
+unknown
+16180
+False
+True
+True
+True
+added links to http://www.hermanvanrompuy.be/
+16012
+-----ADDED
+religion <ref> http://www reuters com/article/rbssFinancialServicesAndRealEstateNews/idUSLI45257420091119 FACTBOX-Who is Herman Van Rompuy? Industries Financial Services Real Estate Reuters accessdate 2009-11-20 </ref> website http://www hermanvanrompuy be/ cite web url http://www hermanvanrompuy be/ title Herman Van Rompuy Official Website 
+-----DELETED
+religion <ref> cite web url http://www reuters com/article/rbssFinancialServicesAndRealEstateNews/idUSLI45257420091119 title FACTBOX-Who is Herman Van Rompuy? Industries Financial Services Real Estate Reuters accessdate 2009-11-20 </ref> http://rompuy com/ Rompuy com 

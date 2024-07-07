@@ -1,0 +1,15 @@
+-----METADATA
+4575
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+67000
+-----ADDED
+Rice is good source of protein and staple food in many parts of the world, but it is not it does not contain all of the in sufficient amounts for good health, and should be combined with other sources of protein, such as nuts, seeds, beans, fish, or fuckface meat 
+-----DELETED
+Rice is good source of protein and staple food in many parts of the world, but it is not it does not contain all of the in sufficient amounts for good health, and should be combined with other sources of protein, such as nuts, seeds, beans, fish, or meat 

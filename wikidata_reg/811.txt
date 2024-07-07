@@ -1,0 +1,15 @@
+-----METADATA
+1410
+662
+male
+15300
+False
+True
+True
+True
+updated for ranking released Nov. 20
+49045
+-----ADDED
+FIFA Rank 57 
+-----DELETED
+FIFA Rank 53 

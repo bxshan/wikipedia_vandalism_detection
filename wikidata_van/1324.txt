@@ -1,0 +1,15 @@
+-----METADATA
+2447
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+25006
+-----ADDED
+Juliusz Plücker in 1869 built an anode shaped like in the tube It was hinged, so it could fold down against the floor of the tube When the tube was turned on, it cast sharp cross-shaped shadow on the fluorescence on the back face of the tube, showing that the rays moved in straight lines After while the fluorescence would get ti 
+-----DELETED
+Juliusz Plücker in 1869 built an anode shaped like in the tube It was hinged, so it could fold down against the floor of the tube When the tube was turned on, it cast sharp cross-shaped shadow on the fluorescence on the back face of the tube, showing that the rays moved in straight lines After while the fluorescence would get tired and decrease If the cross was folded down out of the path of the rays, it no longer cast shadow, and the previously shadowed area would fluoresce stronger than the area around it 

@@ -1,0 +1,15 @@
+-----METADATA
+5490
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+62395
+-----ADDED
+Born birth age 1923 12 df <br />, England Keith Richards born 18 December 1923 is an English guitarist, songwriter, singer, record producer and founding member of As guitarist, Richards is mostly known for his innovative playing In 2003 he was ranked 10th on magazines "Rolling Stones 100 Greatest Guitarists of All Time" <ref> cite journal url http://www rollingstone com/news/story/5937559/the_100_greatest_guitarists_of_all_time title 100 Greatest Guitarists of All Time journal Rolling Stone issue 931 date 2003-09-22 </ref> With and Rolling Stones lead vocalist Richards has written and recorded hundreds of songs, fourteen of which are listed by Rolling Stone magazine among the "" 
+-----DELETED
+Born birth date and age 1943 12 18 df <br />, England Keith Richards born December 1943 is an English guitarist, songwriter, singer, record producer founding member of As guitarist, Richards is mostly known for his innovative playing In 2003 he was ranked 10th on magazines "Rolling Stones 100 Greatest Guitarists of All Time" <ref> cite journal url http://www rollingstone com/news/story/5937559/the_100_greatest_guitarists_of_all_time title 100 Greatest Guitarists of All Time journal Rolling Stone issue 931 2003-09-22 </ref> With Rolling Stones lead vocalist Richards has written recorded hundreds of songs, fourteen of which are listed by Rolling Stone magazine among the "" 

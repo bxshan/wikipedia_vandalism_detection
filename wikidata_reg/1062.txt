@@ -1,0 +1,15 @@
+-----METADATA
+4604
+0
+unknown
+0
+True
+False
+False
+False
+changing what was marked as bolded
+2409
+-----ADDED
+Video from the german band "Erdmöbel"-"Nah bei Dir" -Report about an episode the TV-Show "Um Himmels Willen" -diploma-fim "Mia" -picture of Mönning -wtp-Page of Mönning quitting "Um HImmels Willen" 
+-----DELETED
+Video from the german band "Erdmöbel"-"Nah bei Dir" -Reportabout TV-Show "Um Himmels Willen" -diploma-fim "Mia" -picture Mönning wtp-Page of Mönning quitting "Um HImmels Willen" 

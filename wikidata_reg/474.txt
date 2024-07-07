@@ -1,0 +1,15 @@
+-----METADATA
+4091
+32160
+male
+15059
+False
+True
+True
+True
+ news article describing thew effect and damage to other historic buildings
+9576
+-----ADDED
+The Branch Inn, was historic building located within the district<ref>http://www pueblowestview com/editorial/1258009200/2</ref><ref>http://www coloradoconnection com/news/story aspx?id 222901</ref>, was destroyed by sudden explosion in November 2008 One woman was killed and multiple other individuals injured in the destruction of the Branch Inn, significant historical property in the district <ref name explosion>http://chieftain com/articles/2009/11/08/news/local/doc4af654cd76c9d009364396 txt</ref> The century old building was not only lost but it also had large effect to the other buildings in the area By late 2009, plans had been laid for new construction on the vacant lot, move welcomed by neighboring business owners <ref>http://www newsfirst5 com/news/construction-begins-a-year-after-deadly-explosion</ref> 
+-----DELETED
+The Branch Inn, was historic building located within the district<ref>http://www pueblowestview com/editorial/1258009200/2</ref><ref>http://www coloradoconnection com/news/story aspx?id 222901</ref>, was destroyed by sudden explosion in November 2008 One woman was killed and multiple other individuals injured in the destruction of the Branch Inn, significant historical property in the district <ref name explosion>http://chieftain com/articles/2009/11/08/news/local/doc4af654cd76c9d009364396 txt</ref> By late 2009, plans had been laid for new construction on the vacant lot, move welcomed by neighboring business owners <ref>http://www newsfirst5 com/news/construction-begins-a-year-after-deadly-explosion</ref> 

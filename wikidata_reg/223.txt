@@ -1,0 +1,15 @@
+-----METADATA
+1916
+65460
+male
+16278
+False
+True
+True
+True
+image
+3183
+-----ADDED
+caption Groves as deputy Chief of the Air Staff 
+-----DELETED
+caption 

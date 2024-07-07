@@ -1,0 +1,15 @@
+-----METADATA
+1472
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1404
+-----ADDED
+Dipole momentis stupid refers to the quality of system to behave like Dipole moment is the measured of polar It is defined as the product magnitude of on the and the between the two bonded atoms Its common unit is and SI unit is 
+-----DELETED
+Dipole moment refers to the quality of system to behave like Dipole moment is the measured of polar It is defined as the product magnitude of on the and the between the two bonded atoms Its common unit is and SI unit is 

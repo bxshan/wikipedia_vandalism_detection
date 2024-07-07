@@ -1,0 +1,14 @@
+-----METADATA
+2982
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+15511
+-----ADDED
+The drug is also rumored to be frequently used by quarterback 
+-----DELETED

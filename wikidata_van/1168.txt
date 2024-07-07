@@ -1,0 +1,15 @@
+-----METADATA
+2956
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1830
+-----ADDED
+The term softwood is used as opposed to which is the wood from trees Softwoods are not necessarily softer than hardwoods In both groups there is an enormous variation in actual wood hardness, with the range in density in ncluding that of softwoods; some hardwoods balsa are softer than most softwoods, while the hardest hardwoods are much harder than any softwood This is not surprising as there are about hundred times as many hardwoods as there are softwoods The woods of and are much harder in the mechanical sense than several 
+-----DELETED
+The term softwood is used as opposed to which is the wood from trees Softwoods are not necessarily softer than hardwoods In both groups there is an enormous variation in actual wood hardness, with the range in density in hardwoods completely including that of softwoods; some hardwoods balsa are softer than most softwoods, while the hardest hardwoods are much harder than any softwood This is not surprising as there are about hundred times as many hardwoods as there are softwoods The woods of and are much harder in the mechanical sense than several 

@@ -1,0 +1,15 @@
+-----METADATA
+8646
+61
+unknown
+14882
+False
+True
+True
+True
+<EMPTY>
+24158
+-----ADDED
+align "center" "1" 2003 "6" rowspan "3" Unknown align "center" rowspan "2" 2006 "" rowspan "1" rowspan "1" "Rodolfo El Reno" Navidad con Amigos As part of Televisa/Telehit for Christmas """ Near the guest stars, and bridge of the song 
+-----DELETED
+align "center" rowspan "1" 2003 "" rowspan "6" OST Unknown "3" align "center" rowspan "1" 2006 "" rowspan "6" rowspan "6" Near the guest stars, and bridge of the song 

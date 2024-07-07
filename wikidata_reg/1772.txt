@@ -1,0 +1,15 @@
+-----METADATA
+2310
+25043
+male
+15268
+False
+True
+True
+True
+<EMPTY>
+1622
+-----ADDED
+*, and are some of the major stations that broadcast from there The towers for WVIA-TV and WNEP-TV are over 500 meters tall; 510 and 517, respectively 
+-----DELETED
+*, and are some of the major stations that broadcast from there The towers for WVIA-TV and WNEP-TV are over 500 meters tall; 510 and 517, respectively 

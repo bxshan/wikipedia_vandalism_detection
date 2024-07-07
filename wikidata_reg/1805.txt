@@ -1,0 +1,15 @@
+-----METADATA
+3469
+235149
+unknown
+15668
+False
+True
+True
+True
+<EMPTY>
+29328
+-----ADDED
+Thomas Edward "Thom" Yorke born October 1968 is an who is the lead singer and principal songwriter of the group He mainly plays and but he has also played drums and bass guitar notably during the and sessions In July 2006, he released his debut solo album, 
+-----DELETED
+Thomas Edward Yorke born October 1968 is an who is the lead singer and principal songwriter of the group He mainly plays and but he has also played drums and bass guitar notably during the and sessions In July 2006, he released his debut solo album, 

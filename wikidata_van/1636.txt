@@ -1,0 +1,15 @@
+-----METADATA
+1189
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+28612
+-----ADDED
+
+-----DELETED
+In matrix multiplication is the operation of multiplying with either or another matrix This article gives an overview of the various ways to perform matrix multiplication 

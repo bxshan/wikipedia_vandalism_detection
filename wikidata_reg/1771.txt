@@ -1,0 +1,15 @@
+-----METADATA
+9602
+123598
+unknown
+15703
+False
+True
+True
+True
+ added pub date
+61713
+-----ADDED
+The Piper Aviation Museum exhibits aircraft and aircraft equipment, documents, photographs, and memorabilia related to Piper Aircraft An eight-room home, the restored to its mid-1800s appearance, displays collections; it was added to the National Register of Historic Places in 1972 and is home to the Clinton County Historical Society The has placed three cast aluminum markers—Clinton County, Fort Reed, and Pennsylvania Canal West Branch Division —in Lock Haven to commemorate historic places <ref> cite web title Historical Marker Program publisher Pennsylvania Historical and Museum Commission url http://www portal state pa us/portal/server pt/community/pennsylvania_historical_marker_program/2539/search_for_historical_markers/300886 accessdate October 13, 2009 </ref> The mix of 19th- and 20th-century architecture near the river, was added to the National Register of Historic Places in 1973 <ref> cite web title History of Lock Haven publisher City of Lock Haven url http://www lockhavencity org/cgi-bin/index pl?lnk mn&bdy history accessdate November 14, 2009 </ref> an archaeological site of prehistoric significance discovered near the airport, was added to the National Register in 1982 <ref name nris> cite web url http://www nr nps gov/ title National Register Information System work National Register of Historic Places publisher National Park Service date April 24, 2008 accessdate November 27, 2009 </ref> 
+-----DELETED
+The Piper Aviation Museum exhibits aircraft and aircraft equipment, documents, photographs, and memorabilia related to Piper Aircraft An eight-room home, the restored to its mid-1800s appearance, displays collections; it was added to the National Register of Historic Places in 1972 and is home to the Clinton County Historical Society The has placed three cast aluminum markers—Clinton County, Fort Reed, and Pennsylvania Canal West Branch Division —in Lock Haven to commemorate historic places <ref> cite web title Historical Marker Program publisher Pennsylvania Historical and Museum Commission url http://www portal state pa us/portal/server pt/community/pennsylvania_historical_marker_program/2539/search_for_historical_markers/300886 accessdate October 13, 2009 </ref> The mix of 19th- and 20th-century architecture near the river, was added to the National Register of Historic Places in 1973 <ref> cite web title History of Lock Haven publisher City of Lock Haven url http://www lockhavencity org/cgi-bin/index pl?lnk mn&bdy history accessdate November 14, 2009 </ref> an archaeological site of prehistoric significance discovered near the airport, was added to the National Register in 1982 <ref name nris> cite web url http://www nr nps gov/ title National Register Information System work National Register of Historic Places publisher National Park Service accessdate November 27, 2009 </ref> 

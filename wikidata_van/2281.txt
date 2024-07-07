@@ -1,0 +1,15 @@
+-----METADATA
+4891
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+45017
+-----ADDED
+Jared Diamond said Aan alternative title would be short history about everyone for the last 13,000 years The book attempts to explain why civilizations, as whole, have survived and conquered others, while attempting to refute the belief that Eurasian is due to any form of Eurasian intellectual, moral, or inherent genetic superiority Diamond argues that the gaps in power and technology between human societies originate in environmental differences, which are amplified by various When cultural or genetic differences have favored Eurasians for example Chinese centralized government, or improved disease resistance among Eurasians these advantages were only created due to the influence of geography and were not inherent in the Eurasian genomes 
+-----DELETED
+Jared Diamond said an alternative title would be short history about everyone for the last 13,000 years The book attempts to explain why civilizations, as whole, have survived and conquered others, while attempting to refute the belief that Eurasian is due to any form of Eurasian intellectual, moral, or inherent genetic superiority Diamond argues that the gaps in power and technology between human societies originate in environmental differences, which are amplified by various When cultural or genetic differences have favored Eurasians for example Chinese centralized government, or improved disease resistance among Eurasians these advantages were only created due to the influence of geography and were not inherent in the Eurasian genomes 

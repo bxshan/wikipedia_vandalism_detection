@@ -1,0 +1,14 @@
+-----METADATA
+5175
+120261
+male
+16222
+False
+True
+True
+True
+add reception section
+2448
+-----ADDED
+The game was reviewed in 1995 in #218 by in the "Eye of the Monitor" column <ref name "Dragon218"> cite journal title Eye of the Monitor author Paul Murphy, and journal Dragon issue 218 date June 1995 pages 59-64 </ref> reflist 
+-----DELETED

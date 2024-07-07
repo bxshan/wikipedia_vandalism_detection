@@ -1,0 +1,14 @@
+-----METADATA
+2554
+2444
+unknown
+15842
+False
+True
+True
+True
+ added Duffy 2006
+67483
+-----ADDED
+cite book last Duffy first Christopher title Through German eyes: The British and the Somme 1916 publisher Weidenfeld Nicholson city London year 2006 
+-----DELETED

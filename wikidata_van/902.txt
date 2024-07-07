@@ -1,0 +1,15 @@
+-----METADATA
+2133
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+15869
+-----ADDED
+In HI many cases, attenuation is an exponential function of the path length through the medium In chemical spectroscopy, this is known as the 
+-----DELETED
+In many cases, attenuation is an exponential function of the path length through the medium In chemical spectroscopy, this is known as the 

@@ -1,0 +1,15 @@
+-----METADATA
+2371
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+12742
+-----ADDED
+Note: "The Mechanix" was the original version that later would be called "The Four Hoursemen" Mustaine increased the pace from the original version of the song, renamed it simply "Mechanix", and included it on the first album, 
+-----DELETED
+Note: The Mechanix was the original version that latter will be called the four horsmen Mustaine increased the pace from the original version of the song, renamed it simply "Mechanix", and included it on the first album, 

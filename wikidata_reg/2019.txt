@@ -1,0 +1,15 @@
+-----METADATA
+2917
+31896
+unknown
+15252
+False
+True
+True
+True
+replace refimprove and nofootnotes with onesource
+3710
+-----ADDED
+onesource 
+-----DELETED
+refimprove date November 2009 nofootnotes date November 2009 

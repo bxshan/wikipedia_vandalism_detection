@@ -1,0 +1,15 @@
+-----METADATA
+6145
+413458
+male
+15242
+False
+True
+True
+True
+[[WP:AWB/T|Typo fixing]] and general fixes using [[Project:AutoWikiBrowser|AWB]]
+13037
+-----ADDED
+fr http://www jeanbonhomme com/archives/depeche pdf lang fr Une histoire détaillée de La Dépêche et de René Bousquet écrite par Jean Bonhomme, ancien vice-président de lAssemblée Nationale 
+-----DELETED
+fr http://www jeanbonhomme com/archives/depeche pdf lang fr Une histoire détaillée de La Dépêche et de René Bousquet écrite par Jean Bonhomme, ancien vice-président de lAssemblée Nationale 

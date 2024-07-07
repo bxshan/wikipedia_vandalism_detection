@@ -1,0 +1,15 @@
+-----METADATA
+5919
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+28176
+-----ADDED
+daniel is not hedero sexualThe nuclear envelope disassembles and microtubules invade the nuclear space This is called open mitosis, and it occurs in most multicellular organisms Fungi and some s, such as or s, undergo variation called closed mitosis where the spindle forms inside the nucleus or its microtubules are able to penetrate an intact nuclear envelope <ref> cite journal author Heywood title Ultrastructure of mitosis in the chloromonadophycean alga Vacuolaria virescens journal Cell Sci volume 31 pages 37–51 year 1978 pmid 670329 </ref><ref> cite journal author Ribeiro K, Pereira-Neves A, Benchimol title The mitotic spindle and associated membranes in the closed mitosis of trichomonads journal Biol Cell volume 94 issue pages 157–72 year 2002 pmid 12206655 doi 10 1016/S0248-4900 02 01191-7 </ref> 
+-----DELETED
+The nuclear envelope disassembles and microtubules invade the nuclear space This is called open mitosis, and it occurs in most multicellular organisms Fungi and some s, such as or s, undergo variation called closed mitosis where the spindle forms inside the nucleus or its microtubules are able to penetrate an intact nuclear envelope <ref> cite journal author Heywood title Ultrastructure of mitosis in the chloromonadophycean alga Vacuolaria virescens journal Cell Sci volume 31 pages 37–51 year 1978 pmid 670329 </ref><ref> cite journal author Ribeiro K, Pereira-Neves A, Benchimol title The mitotic spindle and associated membranes in the closed mitosis of trichomonads journal Biol Cell volume 94 issue pages 157–72 year 2002 pmid 12206655 doi 10 1016/S0248-4900 02 01191-7 </ref> 

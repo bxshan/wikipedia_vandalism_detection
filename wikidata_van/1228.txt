@@ -1,0 +1,15 @@
+-----METADATA
+4273
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6171
+-----ADDED
+*I am no-person *you are/thou art no-person singular *he, she, one or it is no-person singular *we are no-person plural *you are/ye are no-person plural *they are no-person plural 
+-----DELETED
+*I am first-person singular *you are/thou art third-person *he, she, one or it is third-person singular *we are first-person plural *you are/ye are third-person plural *they are third-person plural 

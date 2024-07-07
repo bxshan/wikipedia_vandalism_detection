@@ -1,0 +1,15 @@
+-----METADATA
+2740
+119
+unknown
+15241
+False
+True
+True
+True
+ link to complete article
+12970
+-----ADDED
+cite web url http://http://www michaelriconosciuto com/insight1 title Nothing is Secret, Part accessdate 2008-08-27 last OMeara first Kelly Patricia coauthors date 2001-01-29 work publisher Insight magazine &mdash;The Plot Thickens in PROMIS Affair http://www michaelriconosciuto com/insight2 Part II &mdash; PROMIS Trail Leads to Justice http://http://www michaelriconosciuto com/insight3 Part III &mdash; PROMIS Spins Web of Intrigue http://findarticles com/p/articles/mi_m1571/is_4_17/ai_72328615 Part IV 
+-----DELETED
+cite web url http://http://www michaelriconosciuto com/insight1 title Nothing is Secret, Part accessdate 2008-08-27 last OMeara first Kelly Patricia coauthors date 2001-01-29 work publisher Insight magazine &mdash;The Plot Thickens in PROMIS Affair http://www michaelriconosciuto com/insight2 Part II &mdash; PROMIS Trail Leads to Justice, http://findarticles com/p/articles/mi_m1571/is_4_17/ai_72272408 Part III &mdash; PROMIS Spins Web of Intrigue, http://findarticles com/p/articles/mi_m1571/is_4_17/ai_72328615 Part IV 

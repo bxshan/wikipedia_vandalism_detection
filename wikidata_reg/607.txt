@@ -1,0 +1,15 @@
+-----METADATA
+3388
+109
+unknown
+14894
+False
+True
+True
+True
+<EMPTY>
+24570
+-----ADDED
+In 1985, Canadian historian, gave series of three lectures on polyethnicity in ancient and modern cultures at the The main thesis throughout the lectures was that it has been the for societies to be made up of different ethnic groups McNeill states that the ideal of homogeneous societies may have grown between 1750 and 1920 in due to growth in the belief in single nationalistic base for the political organization of society is when Professor McNeill believes the desire for homogeneous nations began to weaken <ref name dr>Dreisziger 1990, pages 1-2</ref> 
+-----DELETED
+In 1985, Canadian historian, gave series of three lectures on polyethnicity in ancient and modern cultures at the <ref name dr>Dreisziger 1990, pages 1-2</ref> The main thesis throughout the lectures was that it has been the for societies to be made up of different ethnic groups <ref name dr/> McNeill states that the ideal of homogeneous societies may have grown between 1750 and 1920 in due to growth in the belief in single nationalistic base for the political organization of society <ref name dr/> is when Professor McNeill believes the desire for homogeneous nations began to weaken <ref name dr/> 

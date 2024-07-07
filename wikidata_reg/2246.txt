@@ -1,0 +1,15 @@
+-----METADATA
+2020
+111736
+unknown
+15497
+False
+True
+True
+True
+Reverting edits by [[Special:Contributions/Jrwilson7|Jrwilson7]]: page linked does not exist
+26233
+-----ADDED
+&ndash; Your average "G" 
+-----DELETED
+&ndash; your average "G" 

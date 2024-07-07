@@ -1,0 +1,15 @@
+-----METADATA
+5088
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7636
+-----ADDED
+Wiki is not trustworthy source!!!! Canadarm was made in USA 
+-----DELETED
+The Canadarm is 15 metres 50 ft in long and 38 centimetres 15 inches in diameter and has six It 410 905 and the total system weighs 450 kg 994 lb The Canadarm has six joints that correspond roughly to the joints of the human arm, with shoulder yaw and pitch joints; an elbow pitch joint; and wrist pitch, yaw, and roll joints The end effector is the unit at the end of the wrist that actually grabs, or grapples, the payload The two lightweight boom segments are called the upper and lower arms The upper boom connects the shoulder and elbow joints, and the lower boom connects the elbow and wrist joints The Canadarm attaches to the orbiter payload bay longeron at the shoulder Power and data connections are located at the shoulder MPM 

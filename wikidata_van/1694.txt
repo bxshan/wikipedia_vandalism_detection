@@ -1,0 +1,15 @@
+-----METADATA
+2920
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10756
+-----ADDED
+Early games often allowed multiplayer play over modem or local network As the Internet started to grow during the 1990s, software was developed that would allow players to tunnel the LAN protocols used by the games over the Internet By the late 1990s, most RTS games had native Internet support, allowing players from all over the globe to play with each other Services were created to allow players to be automatically matched against another player wishing to play or lobbies were formed where people could meet in so called game rooms An example was the MSN Gaming Zone where online game communities were formed by active players for games, such as and Ijji gunz is also popular third person video game which provides fast paced action using swords, guns and grenades 
+-----DELETED
+Early games often allowed multiplayer play over modem or local network As the Internet started to grow during the 1990s, software was developed that would allow players to tunnel the LAN protocols used by the games over the Internet By the late 1990s, most RTS games had native Internet support, allowing players from all over the globe to play with each other Services were created to allow players to be automatically matched against another player wishing to play or lobbies were formed where people could meet in so called game rooms An example was the MSN Gaming Zone where online game communities were formed by active players for games, such as and 

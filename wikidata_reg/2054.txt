@@ -1,0 +1,14 @@
+-----METADATA
+2347
+12725
+unknown
+16049
+False
+True
+True
+True
+corrected squad template name
+1655
+-----ADDED
+
+-----DELETED

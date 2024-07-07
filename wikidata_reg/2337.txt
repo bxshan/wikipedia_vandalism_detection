@@ -1,0 +1,15 @@
+-----METADATA
+1912
+611194
+unknown
+16620
+False
+True
+True
+True
+[[:en:User:NicoV/Wikipedia Cleaner/Documentation|WikiCleaner]] 0.98 - Repairing link to disambiguation page - [[Wikipedia:Disambiguation pages with links|You can help!]]
+10694
+-----ADDED
+Born in he was educated at where he was and read at where he provided no amusement with his comedy turns at meetings, graduating with an 
+-----DELETED
+Born in he was educated at where he was and read at where he provided no amusement with his comedy turns at meetings, graduating with an 

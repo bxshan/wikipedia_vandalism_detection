@@ -1,0 +1,15 @@
+-----METADATA
+2155
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6304
+-----ADDED
+has some of the largest reserves of coal in the world approx 253 billion tonnes http://www coalindia nic in/coalreserve htm The energy derived from coal in India is about twice that of energy derived from oil, whereas worldwide, energy derived from coal is about 30% less than energy derived from oil Bihar and Jharkhand are two most coal producing states in India http://www diehardindian com/infra/coal htm 
+-----DELETED
+has some of the largest reserves of coal in the world approx 253 billion tonnes http://www coalindia nic in/coalreserve htm The energy derived from coal in India is about twice that of energy derived from oil, whereas worldwide, energy derived from coal is about 30% less than energy derived from oil http://www diehardindian com/infra/coal htm 

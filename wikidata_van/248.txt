@@ -1,0 +1,15 @@
+-----METADATA
+7909
+0
+unknown
+0
+True
+False
+False
+False
+[[WP:UNDO|Undid]] revision 328281721 by [[Special:Contributions/66.229.215.42|66.229.215.42]] ([[User talk:66.229.215.42|talk]])
+8324
+-----ADDED
+German automotive conglomerate were advised during the planning phases of Qadbaks takeover by leading British investment bank whose managing director Meyrick Cox had stated that Qadbak was "a wholly reputable organisation" <ref name "guardian"/> In November 2009 however Rothschild denied beeing involved in any financial transaction between Qadbak and BMW <ref> http://www tagesanzeiger ch/wirtschaft/unternehmen-und-konjunktur/Oswald-Gruebel-hat-Sauber-verlassen/story/18290910 Tages-Anzeiger 2009-11-07</ref> 
+-----DELETED
+German automotive conglomerate were advised during the planning phases of Qadbaks takeover by leading British investment bank whose managing director Meyrick Cox had stated that Qadbak was "a wholly reputable organisation" <ref name "guardian"/> In November 2009 however Rothschild denied being involved in any financial transaction between Qadbak and BMW <ref> http://www tagesanzeiger ch/wirtschaft/unternehmen-und-konjunktur/Oswald-Gruebel-hat-Sauber-verlassen/story/18290910 Tages-Anzeiger 2009-11-07</ref> 

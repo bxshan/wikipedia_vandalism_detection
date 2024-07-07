@@ -1,0 +1,15 @@
+-----METADATA
+3850
+0
+unknown
+0
+True
+False
+False
+False
+Removed duplicate entry for the Batman villain
+3629
+-----ADDED
+villain in the Batman comic books cartoon penguin who first appeared in series of popular theatrical shorts 
+-----DELETED
+villain in the Batman comic books cartoon penguin from Batman 

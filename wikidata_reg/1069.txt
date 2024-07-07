@@ -1,0 +1,14 @@
+-----METADATA
+2704
+38613
+unknown
+16042
+False
+True
+True
+True
+Added navigation
+1588
+-----ADDED
+MinorPlanets Navigator 10024 Marthahazen 10026 1980 RE1 MinorPlanets_Footer 
+-----DELETED

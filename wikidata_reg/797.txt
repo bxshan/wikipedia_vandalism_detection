@@ -1,0 +1,15 @@
+-----METADATA
+1708
+0
+unknown
+0
+True
+False
+False
+False
+  grammar
+49496
+-----ADDED
+According to Demi Lovatos Official Twitter, Season began filming as of November 9, 2009 The premiere date for the 2nd season was not announced by Disney Channel 
+-----DELETED
+According to Demi Lovatos Official Twitter, Season began filming as of November 9, 2009 The premiere date for the 2nd season has NOT announced by Disney Channel 

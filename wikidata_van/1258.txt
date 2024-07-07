@@ -1,0 +1,15 @@
+-----METADATA
+4338
+3
+unknown
+14821
+False
+False
+False
+False
+<EMPTY>
+17057
+-----ADDED
+<!-- Comment --> Infobox Person favorite food cheese and strawberrys 
+-----DELETED
+Infobox Person 

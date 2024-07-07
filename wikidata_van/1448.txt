@@ -1,0 +1,15 @@
+-----METADATA
+2566
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+17528
+-----ADDED
+The Italian welfare states suck at giving foundations were laid along the lines of the model, or of its variant Later, in the 1960s and 1970s, increases in public spending and major focus on universality brought it on the same path as systems These policies proved to be financially unsustainable, as public debt and inflation grew alarmingly, not allowing the welfare state to develop completely In the 1990s, efforts moving towards decentralization and privatization were used in an attempt to cope with European pressures for economic stability, which were finally reached by 2001 
+-----DELETED
+The Italian welfare states foundations were laid along the lines of the model, or of its variant Later, in the 1960s and 1970s, increases in public spending and major focus on universality brought it on the same path as systems These policies proved to be financially unsustainable, as public debt and inflation grew alarmingly, not allowing the welfare state to develop completely In the 1990s, efforts moving towards decentralization and privatization were used in an attempt to cope with European pressures for economic stability, which were finally reached by 2001 

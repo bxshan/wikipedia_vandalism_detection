@@ -1,0 +1,15 @@
+-----METADATA
+1833
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1430
+-----ADDED
+King Shahbaz,Was the king of late modern people in Europe Pakistani historian 
+-----DELETED
+Pakistani historian 

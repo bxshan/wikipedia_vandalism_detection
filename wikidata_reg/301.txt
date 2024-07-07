@@ -1,0 +1,15 @@
+-----METADATA
+6284
+3179
+male
+16357
+False
+True
+True
+True
+<EMPTY>
+11608
+-----ADDED
+<math>P_n f_c^n z_ cr f_c^n <math>P_0 <math>P_1 \,</math> <math>P_2 c^2 \,</math> <math>P_3 c^2 ^2 \,</math> Diagrams of critical polynomials are called critical curves <ref>The Road to Chaos is Filled with Polynomial Curves by Richard Neidinger and John Annen III American Mathematical Monthly, Vol 103, No 8, October 1996, pp 640-653</ref> 
+-----DELETED
+<math>P_n f_c^n z_ cr \,</math> <math>P_0 <math>P_1 \,</math> <math>P_2 c^2 <math>P_3 c^2 ^2 \,</math> 

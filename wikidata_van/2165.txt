@@ -1,0 +1,15 @@
+-----METADATA
+2425
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+31899
+-----ADDED
+Poodles are retrievers or s, and can still be seen in that role They are usually meant to hunt down Chuck Norris 
+-----DELETED
+Poodles are retrievers or s, and can still be seen in that role 

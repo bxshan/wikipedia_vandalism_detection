@@ -1,0 +1,15 @@
+-----METADATA
+4809
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+56149
+-----ADDED
+""<ref>, 447</ref> Blues song by Originally titled "The Weed Smokers Dream", McCoy rewrote the lyrics for who recorded it with in 1941 recorded hit version with in 1945; this version was performed in by Jessica Rabbit at the Ink and Paint Club <ref> Harvnb Herzhaft Harris Debord Haussler 1997 281 </ref> 
+-----DELETED
+""<ref>, 447</ref> Blues song by Originally titled "The Weed Smokers Dream", McCoy rewrote the lyrics for who recorded it with in 1941 recorded hit version with in 1945 <ref> Harvnb Herzhaft Harris Debord Haussler 1997 281 </ref> 

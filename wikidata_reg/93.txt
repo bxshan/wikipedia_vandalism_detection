@@ -1,0 +1,15 @@
+-----METADATA
+2544
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4082
+-----ADDED
+"For Your Entertainment" made its live debut at the on November 22, 2009, at the in It was controversial -laden performance that drew 1,500 complaints to the network that broadcast the show: the ABC <ref> cite web url http://abcnews go com/Entertainment/wireStory?id 9157186 last Bauder first David title ABC: Lamberts Performance Draws 1,500 Complaints publisher </ref> 
+-----DELETED
+"For Your Entertainment" made its live debut at the 2009 on November 22, 2009 at the in It was controversial -laden performance that drew 1,500 complaints to the network that broadcast the show: the ABC <ref> cite web url http://abcnews go com/Entertainment/wireStory?id 9157186 last Bauder first David title ABC: Lamberts Performance Draws 1,500 Complaints publisher </ref> 

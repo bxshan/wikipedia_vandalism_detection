@@ -1,0 +1,15 @@
+-----METADATA
+3017
+78
+unknown
+14839
+False
+True
+True
+True
+<EMPTY>
+8642
+-----ADDED
+SuperPascal is secure in that it should enable its compiler and run-time system to detect as many cases as possible in which the language concepts break down and produce meaningless results<ref name Hoare1974> cite journal title Hints on programming language design journal Computer system reliability date 1974 first last Hoare coauthors volume issue pages 505-534 id url format accessdate 2009-12-04 </ref> SuperPascal imposes restrictions on the use of variables that enable single-pass compiler to check that parallel processes are disjoint, even if the processes use procedures with global variables, eliminating time-dependent errors Several features in Pascal were ambiguous or insecure and were omitted from SuperPascal, such as labels and <code>goto</code> statements, pointers and forward declarations 
+-----DELETED
+SuperPascal is secure in that it should enable its comiler and run-time system to detect as many cases as possible in which the language concepts break down and produce meaningless results<ref name Hoare1974> cite journal title Hints on programming language design journal Computer system reliability date 1974 first last Hoare coauthors volume issue pages 505-534 id url format accessdate 2009-12-04 </ref> SuperPascal imposes restrictions on the use of variables that enable single-pass compiler to check that parallel processes are disjoint, even if the processes use procedures with global variables, eliminating time-dependent errors Several features in Pascal were ambiguous or insecure and were omitted from SuperPascal, such as labels and <code>goto</code> statements, pointers and forward declarations 

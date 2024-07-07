@@ -1,0 +1,15 @@
+-----METADATA
+4658
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2763
+-----ADDED
+Simon Astaire is an author, agent,hairdresser and media advisor His first novel, PRIVATE PRIVILEGE, was published Fall 2008 by Quartet Books The story is rites of passage through the eyes of public school boy The sequel AND YOU ARE was published October 2009 again by Quartet It is set in Hollywood, Las Vegas and London 
+-----DELETED
+Simon Astaire is an author, agent and media advisor His first novel, PRIVATE PRIVILEGE, was published Fall 2008 by Quartet Books The story is rites of passage through the eyes of public school boy The sequel AND YOU ARE was published October 2009 again by Quartet It is set in Hollywood, Las Vegas and London 

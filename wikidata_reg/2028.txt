@@ -1,0 +1,15 @@
+-----METADATA
+3673
+3472
+male
+16173
+False
+True
+True
+True
+<EMPTY>
+33561
+-----ADDED
+Period from:1983 from:1983 till:1998 text:"Jim Reid" from:1983 till:1998 text:"William Reid" 
+-----DELETED
+Period from:1984 till:1998 from:1984 text:"Jim Reid" from:1984 till:1998 text:"William Reid" 

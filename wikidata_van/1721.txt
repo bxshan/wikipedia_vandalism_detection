@@ -1,0 +1,15 @@
+-----METADATA
+4994
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+95005
+-----ADDED
+Although the AFLs identity was subsumed by the NFL, the American Football Leagues innovations: the on-field game clock; names on player jerseys; recruiting at small and predominantly black colleges; gate and television revenue-sharing; establishment of southern franchises; and more wide-open offensive rules, all eventually adopted by the ultra-conservative NFL, permanently changed the face of in America yee yee 
+-----DELETED
+Although the AFLs identity was subsumed by the NFL, the American Football Leagues innovations: the on-field game clock; names on player jerseys; recruiting at small and predominantly black colleges; gate and television revenue-sharing; establishment of southern franchises; and more wide-open offensive rules, all eventually adopted by the ultra-conservative NFL, permanently changed the face of in America 

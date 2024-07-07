@@ -1,0 +1,15 @@
+-----METADATA
+7194
+61620
+unknown
+16042
+False
+True
+True
+True
+<EMPTY>
+16972
+-----ADDED
+On Election Day, Republican challenger received 4,900 votes and incumbent Governor Benigno Fitial received 4,892 votes, therefore advancing to slated for November 23, 2009 <ref name runoff> cite news first Haidee last Eugenio title Independents to seal Heinz or Fitial victory url http://www saipantribune com/newsstory aspx?cat 1&newsID 94934 work publisher date 2009-11-09 accessdate 2009-11-15 </ref><ref name saipantribune6> cite news first Haidee last Eugenio title CNMI holds first runoff election url http://www saipantribune com/newsstory aspx?newsID 95301&cat work publisher date 2009-11-23 accessdate 2009-11-23 </ref> Of the 13,784 total votes cast in the first round on November 7th, Hofschneider led Fitial by just votes the closest gubernatorial election in the history of the Northern Mariana Islands <ref name saipantribune6/> Independent candidates and came in 3rd and 4th place respectively and did not qualify for the second runoff election <ref name runoff/> The winner of the election will serve five-year term in office as governor instead of the normal four-year term <ref name abcradio> cite news first Gemma last Casas title Northern Marianas election race heats up url http://www radioaustralianews net au/stories/200911/2744614 htm?desktop work publisher date 2009-11-17 accessdate 2009-11-23 </ref> This is due to the Senate Legislative Initiative 16-11, which was one of the four ballot initiatives which were ratified on the November 7th election <ref name saipantribune6/> Under the Senate Legislative Initiative 16-11, future general elections will now be required to be held only on even number years instead of odd-numbered years, such as 2009 <ref name saipantribune6/> Therefore the next gubernatoral general election will now be held in 2014 instead of 2013, as previously scheduled <ref name saipantribune6/> The candidate who wins the 2009 gubernatorial election will therefore have five-year term in office <ref name saipantribune6/> 
+-----DELETED
+On Election Day, Governor Fitial and Republican received respectively 36 27% and 36 24% therefore advancing to runoff election slated for November 23 <ref name runoff> cite news first Haidee last Eugenio title Independents to seal Heinz or Fitial victory url http://www saipantribune com/newsstory aspx?cat 1&newsID 94934 work publisher date 2009-11-09 accessdate 2009-11-15 </ref> 

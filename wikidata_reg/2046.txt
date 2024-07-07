@@ -1,0 +1,15 @@
+-----METADATA
+3126
+150866
+male
+16109
+False
+True
+True
+True
+ external link converted into wikilink
+93391
+-----ADDED
+The CMRTA is the agency responsible for operating mass transit in greater Columbia area including and the St Andrews area 
+-----DELETED
+The http://www gocmrta com/ Central Midlands Regional Transit Authority CMRTA is the agency responsible for operating mass transit in greater Columbia area including and the St Andrews area 

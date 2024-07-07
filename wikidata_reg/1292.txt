@@ -1,0 +1,15 @@
+-----METADATA
+3875
+1718198
+unknown
+16861
+False
+True
+True
+True
+remove Erik9bot category, no longer needed for this article using [[Project:AutoWikiBrowser|AWB]]
+12985
+-----ADDED
+Nihongo Ken Ichijouji 一乗寺 Ichijōji Ken is in the series 
+-----DELETED
+nihongo Ken Ichijouji 一乗寺 Ichijōji Ken is in the series 

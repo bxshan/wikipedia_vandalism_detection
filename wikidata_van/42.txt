@@ -1,0 +1,15 @@
+-----METADATA
+3355
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+17742
+-----ADDED
+During the peak of his career,he was banned for wearing black shirt he would be mobbed during public appearances Fans kissed his car, which would be covered with lipstick marks, and lined the road, cheering and chanting his name Female fans sent him letters written in their own blood <ref name Rediff/> 
+-----DELETED
+During the peak of his career, he would be mobbed during public appearances Fans kissed his car, which would be covered with lipstick marks, and lined the road, cheering and chanting his name Female fans sent him letters written in their own blood <ref name Rediff/> 

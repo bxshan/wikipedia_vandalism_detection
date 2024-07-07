@@ -1,0 +1,15 @@
+-----METADATA
+19024
+36914
+male
+16104
+False
+True
+True
+True
+add infobox, info from uboat.net, refs
+813
+-----ADDED
+Infobox Ship Begin Infobox Ship Image Ship image Ship caption Four Allied ships operating off Korea circa 1951-1953 l-r HMAS Sydney R17 USS Nicholas DD-449 and Alert Infobox Ship Career Hide header Ship country Ship flag shipboxflag UK naval Ship name HMS Alert Ship namesake Ship ordered Ship builder Ship laid down 28 July 1944 Ship launched 10 July 1945 Ship sponsor Ship christened Ship completed 24 October 1946 Ship acquired Ship commissioned Ship decommissioned Ship in service Ship out of service Ship renamed Ship reclassified Ship refit Ship struck Ship reinstated Ship homeport Ship motto Ship nickname Ship honors Ship fate Sold for scrap, October 1971 Ship status Ship notes Infobox Ship Characteristics Hide header Header caption Ship class Ship type Frigate Ship tonnage Ship displacement convert 1600 LT lk on abbr on standard<br/> convert 2530 LT abbr on full Ship length convert 286 ft abbr on <br/> convert 307 ft in abbr on Ship beam convert 38 ft in abbr on Ship height Ship draught convert 12 ft in abbr on Ship depth Ship hold depth Ship decks Ship deck clearance Ship power Ship propulsion Admiralty 3-drum boilers, shafts, 4-cylinder vertical triple expansion convert 5500 ihp abbr on Ship speed convert 19 kn lk on Ship range 724 tons oil fuel, convert 9500 nmi km abbr on at convert 12 kn km/h Ship endurance Ship boats Ship complement 160 Ship sensors Ship EW Ship armament on twin mounting Mk XIX<br/>4 A/A on twin mounts Mk V<br/>1 24 barrel <br/>2 rails and throwers for 50 Ship armour Ship notes Alert was sold to be broken up for scrap in October 1971 <ref> cite web url http://uboat net/allies/warships/ship/7876 html title HMS Dundrum Bay 647 Frigate of the Bay class Allied Warships of WWII uboat net publisher uboat net accessdate 2009-11-28 </ref> reflist 
+-----DELETED
+Unreferenced date November 2006 

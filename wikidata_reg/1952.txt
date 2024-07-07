@@ -1,0 +1,15 @@
+-----METADATA
+8509
+0
+unknown
+0
+True
+False
+False
+False
+refuted --> disputed. This looked like an editor's POV judgment. Source does not support the stronger word.
+13197
+-----ADDED
+Shortly thereafter, 13 of the authors of papers cited by Baliunas and Soon disputed her interpretation of their work <ref> cite pressrelease title Leading Climate Scientists Reaffirm View that Late 20th Century Warming Was Unusual and Resulted From Human Activity publisher date July 7, 2003 url http://www agu org/sci_soc/prrl/prrl0319 html id AGU Release No 03-19 accessdate 2007-04-17 </ref> There were three main objections: Soon and Baliunas used data reflective of changes in moisture, rather than temperature; they failed to distinguish between regional and hemispheric temperature anomalies; and they reconstructed past temperatures from proxy evidence not capable of resolving decadal trends More recently, Osborn and Briffa repeated the Baliunas and Soon study but restricted themselves to records that were validated as temperature proxies, and came to different result <ref> cite web title New Take on an Old Millennium date February 9, 2006 publisher first Michael last Mann authorlink Michael Mann accessdate 2007-04-17 url http://www realclimate org/index php/archives/2006/02/a-new-take-on-an-old-millennium/ </ref> 
+-----DELETED
+Shortly thereafter, 13 of the authors of papers cited by Baliunas and Soon refuted her interpretation of their work <ref> cite pressrelease title Leading Climate Scientists Reaffirm View that Late 20th Century Warming Was Unusual and Resulted From Human Activity publisher date July 7, 2003 url http://www agu org/sci_soc/prrl/prrl0319 html id AGU Release No 03-19 accessdate 2007-04-17 </ref> There were three main objections: Soon and Baliunas used data reflective of changes in moisture, rather than temperature; they failed to distinguish between regional and hemispheric temperature anomalies; and they reconstructed past temperatures from proxy evidence not capable of resolving decadal trends More recently, Osborn and Briffa repeated the Baliunas and Soon study but restricted themselves to records that were validated as temperature proxies, and came to different result <ref> cite web title New Take on an Old Millennium date February 9, 2006 publisher first Michael last Mann authorlink Michael Mann accessdate 2007-04-17 url http://www realclimate org/index php/archives/2006/02/a-new-take-on-an-old-millennium/ </ref> 

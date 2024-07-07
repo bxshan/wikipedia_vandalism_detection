@@ -1,0 +1,15 @@
+-----METADATA
+7634
+2132
+male
+15041
+False
+True
+True
+True
+ Wikilinking "Wound healing"
+12778
+-----ADDED
+FGFs are multifunctional proteins with wide variety of effects; they are most commonly but also have regulatory, morphological, and endocrine effects They have been alternately referred to as "" growth factors and as "promiscuous" growth factors due to their multiple actions on multiple cell types Promiscuous refers to the biochemistry and pharmacology concept of how variety of molecules can bind to and elicit response from single receptor In the case of FGF, four receptor subtypes can be activated by more than twenty different FGF ligands Thus the functions of FGFs in developmental processes include induction, antero-posterior patterning, neural induction and <ref> cite journal author Böttcher RT, Niehrs title Fibroblast growth factor signaling during early vertebrate development journal Endocr Rev volume 26 issue pages 63–77 year 2005 pmid 15689573 doi 10 1210/er 2003-0040 </ref> and in mature tissues/systems keratinocyte organization, and processes 
+-----DELETED
+FGFs are multifunctional proteins with wide variety of effects; they are most commonly but also have regulatory, morphological, and endocrine effects They have been alternately referred to as "" growth factors and as "promiscuous" growth factors due to their multiple actions on multiple cell types Promiscuous refers to the biochemistry and pharmacology concept of how variety of molecules can bind to and elicit response from single receptor In the case of FGF, four receptor subtypes can be activated by more than twenty different FGF ligands Thus the functions of FGFs in developmental processes include induction, antero-posterior patterning, neural induction and <ref> cite journal author Böttcher RT, Niehrs title Fibroblast growth factor signaling during early vertebrate development journal Endocr Rev volume 26 issue pages 63–77 year 2005 pmid 15689573 doi 10 1210/er 2003-0040 </ref> and in mature tissues/systems keratinocyte organization, and wound healing processes 

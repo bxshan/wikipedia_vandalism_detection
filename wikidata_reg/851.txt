@@ -1,0 +1,15 @@
+-----METADATA
+4457
+23797
+male
+15516
+False
+True
+True
+True
+More cleaning, external links this time per [[WP:EL]]
+9867
+-----ADDED
+
+-----DELETED
+21 http://news mmosite com/content/2009-03-22/20090322193450765 shtml Mortal Online Preview At MMOsite com 22 http://www mortalonline com/forums/14552-important-update-27-06-09-a html Pre-Orders delayed At MO-Forums http://www starvault se Star Vaults website http://www gametrailers com/player/32782 html Trailer GT http://mmo rpgwatch com/show/article?articleid 101&ref 0&id 327 MMO Watch Interview with Mats Persson http://news mmosite com/content/2008-10-15/20081015225506492,1 shtml MMOsite Interview with CEO Henrik Nystrom http://www mmoszene de/mmo/1-mmo-news/360-interview-mit-henrik-nystroem-von-starvault-ab html MMOSzene Video-Interview with CEO Henrik Nystrom at the Games Convention 2008 in Leipzig, Germany http://www themortalonline pl Official polish fansite http://www mortalonline-szene de Offizielle, erste deutsche Fansite 

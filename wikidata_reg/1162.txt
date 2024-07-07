@@ -1,0 +1,15 @@
+-----METADATA
+2194
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+120202
+-----ADDED
+did not continue the British practice of driving on the left hand side of the road after its independence in 1947 Pakistan is the westernmost country in Asia to drive on the right The border crossing with Afghanistan is one of the most well known places where traffic changes sides of the road 
+-----DELETED
+continued the British practice of driving on the left hand side of the road after its independence in 1947 Pakistan is the westernmost country in Asia to drive on the left The border crossing with Afghanistan is one of the most well known places where traffic changes sides of the road 

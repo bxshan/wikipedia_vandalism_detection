@@ -1,0 +1,15 @@
+-----METADATA
+2468
+30887
+male
+15399
+False
+True
+True
+True
+wiki-linked two films
+1541
+-----ADDED
+Meyer appeared in many movies between 1933 and 1942, including 1938 and 1940 
+-----DELETED
+Meyer appeared in many movies between 1933 and 1942, including The Great Waltz 1938 and Bitter Sweet 1940 

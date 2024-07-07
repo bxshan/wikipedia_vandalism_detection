@@ -1,0 +1,15 @@
+-----METADATA
+4368
+0
+unknown
+0
+True
+False
+False
+False
+ yet another wee edit (deleted hyphen)
+51914
+-----ADDED
+Flash drive capacities on the market increase continually As of 2008 few manufacturers continue to produce models of 256 ;MB and smaller; and many have started to phase out 512 ;MB capacity flash memory High speed has become standard for modern flash drives and capacities of up to 256 ;GB have come on the market, as of 2009 
+-----DELETED
+Flash drive capacities on the market increase continually As of 2008 few manufacturers continue to produce models of 256 ;MB and smaller; and many have started to phase out 512 ;MB capacity flash memory High-speed has become standard for modern flash drives and capacities of up to 256 ;GB have come on the market, as of 2009 

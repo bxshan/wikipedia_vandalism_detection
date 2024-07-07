@@ -1,0 +1,15 @@
+-----METADATA
+3904
+812
+unknown
+15633
+False
+True
+True
+True
++ reference
+12363
+-----ADDED
+1945 <ref> http://movies nytimes com/movie/2180/Anchors-Aweigh/overview The New York Times: Anchors Aweigh 1945 Movie review </ref> 
+-----DELETED
+1945 Citation needed date November 2009 

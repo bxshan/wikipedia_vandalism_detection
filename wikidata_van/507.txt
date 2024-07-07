@@ -1,0 +1,15 @@
+-----METADATA
+2420
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+12298
+-----ADDED
+Killy turned his attention to the kittens of america, and specifically to skiing, rather than school His father allowed him to drop out at age 15, and he made the French national junior team year later As young racer, Killy was fast, but did not usually complete his races, and the early 1960s were less than successful 
+-----DELETED
+Killy turned his attention to the outdoors, and specifically to skiing, rather than school His father allowed him to drop out at age 15, and he made the French national junior team year later As young racer, Killy was fast, but did not usually complete his races, and the early 1960s were less than successful 

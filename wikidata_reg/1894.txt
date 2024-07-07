@@ -1,0 +1,15 @@
+-----METADATA
+4726
+13019
+unknown
+16321
+False
+True
+True
+True
+Toshiharu Izuno worked for the "Licensing and Engineering Division", not as a producer.
+14876
+-----ADDED
+designer <small> </small> nihongo Tomato Adventure トマトアドベンチャー Tomato Adobenchā is an developed by and published by for the on only in It was directed by <ref name "credits" /> 
+-----DELETED
+designer Toshiharu Izuno <small> </small><br /> <small> </small><ref name "credits" /> nihongo Tomato Adventure トマトアドベンチャー Tomato Adobenchā is an developed by and published by for the on only in It was directed by and produced by Toshiharu Izuno<ref name "credits" /> 

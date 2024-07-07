@@ -1,0 +1,14 @@
+-----METADATA
+7130
+57704
+male
+15950
+False
+True
+True
+True
++pitfalls
+1915
+-----ADDED
+Pitfalls include that EPT may compromise the quality of care provided to partners, especially when used as first-line approach for partners who would otherwise seek clinical services For instance, the medication could cause serious adverse reactions, including allergy, which could have been foreseen by visit to health care provider <ref> http://www cdph ca gov/HealthInfo/discond/Documents/Chlamydia-PDPT-Guidelines-Ptnr-Info pdf Patient-Delivered Partner Therapy for Chlamydia trachomatis and Neisseria gonorrhoeae: Guidance for Medical Providers in California California Department of Public Health Sexually Transmitted Diseases STD Control Branch, in collaboration with: California STD Controllers Association March 27, 2007</ref> 
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+2531
+6858
+male
+15728
+False
+True
+True
+True
+<EMPTY>
+17151
+-----ADDED
+Ajax shorthand for <ref name "garrett"/> is group of interrelated techniques used on the to create interactive With Ajax, can retrieve data from the asynchronously in the background without interfering with the display and behavior of the existing page The use of Ajax techniques has led to an increase in interactive or dynamic interfaces on web pages<ref> 
+-----DELETED
+Ajax shorthand for <ref name "garrett"/> is group of interrelated techniques used on the to create interactive With Ajax, can retrieve data from the asynchronously in the background without interfering with the display and behavior of the existing page The use of Ajax techniques has led to an increase in interactive or dynamic interfaces on web pages<ref> 

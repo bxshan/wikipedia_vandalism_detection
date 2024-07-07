@@ -1,0 +1,15 @@
+-----METADATA
+3594
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+8465
+-----ADDED
+The school sits on 50 acre campus surrounded by little Lake Fairview There are multiple campus buildings An extensive rennovation and expansion occurred years ago with the addition of new gymasium complex, administrative building, library complex, band room and class room space Legendary buildings such as Loretta Hall and the Massaro Science Wing were restored The landmark "Golden Dome" remains in use as secondary gymnasium Scott Brogan runs the whole school Geno Amoroso is noted latin singer noted for his grammy awards 
+-----DELETED
+The school sits on 50 acre campus surrounded by little Lake Fairview There are multiple campus buildings An extensive rennovation and expansion occurred years ago with the addition of new gymasium complex, administrative building, library complex, band room and class room space Legendary buildings such as Loretta Hall and the Massaro Science Wing were restored The landmark "Golden Dome" remains in use as secondary gymnasium Scott Brogan runs the whole school 

@@ -1,0 +1,15 @@
+-----METADATA
+1945
+30690
+unknown
+15430
+False
+True
+True
+True
+Ronaldo was at United at that time
+8087
+-----ADDED
+flagicon POR 935 flagicon ENG 
+-----DELETED
+flagicon POR 935 flagicon SPN 

@@ -1,0 +1,15 @@
+-----METADATA
+1360
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+45399
+-----ADDED
+date of birth November 4, 1618 
+-----DELETED
+date of birth November 4, 2009 

@@ -1,0 +1,15 @@
+-----METADATA
+3603
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+64757
+-----ADDED
+Hi Im Jeffrey, the color of blood was associated with rust, as associated the planet with the god of war since Mars is orange-red The color of Mars is due to iron-oxygen in the Martian soil, but the red in blood is not due to the iron in hemoglobin and its oxides, which is common misconception The red is due to the of hemoglobin to which the iron is bound, not the iron itself,<ref> cite book title Pharmacy Practice Manual: Guide to the Clinical Experience last Boh first Larry year 2001 publisher Lippincott Williams Wilkins isbn 0781725410 </ref> although the ligation and redox state of the iron can influence the pi to pi* electronic transitions of the porphyrin and hence its optical characteristics 
+-----DELETED
+Historically, the color of blood was associated with rust, as associated the planet with the god of war since Mars is orange-red The color of Mars is due to iron-oxygen in the Martian soil, but the red in blood is not due to the iron in hemoglobin and its oxides, which is common misconception The red is due to the of hemoglobin to which the iron is bound, not the iron itself,<ref> cite book title Pharmacy Practice Manual: Guide to the Clinical Experience last Boh first Larry year 2001 publisher Lippincott Williams Wilkins isbn 0781725410 </ref> although the ligation and redox state of the iron can influence the pi to pi* electronic transitions of the porphyrin and hence its optical characteristics 

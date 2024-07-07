@@ -1,0 +1,14 @@
+-----METADATA
+2000
+9035
+unknown
+16595
+False
+True
+True
+True
+ Add section tying Keynes and quantity theory
+8503
+-----ADDED
+Prior to Keynes the relationship between the macroeconomic factors of price level and output were explained by the as represented by the which held that the product of and was equivalent to nominal income, the product of real income and the price level Previous economists believed money velocity was stable, but Keynes believed it was correlated with output Moreover, money supply did not directly effect output, people and business could horde cash in crisis For output to increase, money velocity, the rate of transactions, would have to be increased <ref>Buchholz, Todd and Martin Feldstein New Ideas from Dead Economists: An Introduction to Modern Economic Thought 236 </ref> 
+-----DELETED

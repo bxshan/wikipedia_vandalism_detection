@@ -1,0 +1,15 @@
+-----METADATA
+2255
+2882
+unknown
+16039
+False
+True
+True
+True
+link
+696
+-----ADDED
+In cyclic negation is assuming that the are unary truth function that takes truth value and returns n-1 as value if isnt the lowest value; otherwise it returns the highest value For example, let the set of truth values be 0,1,2 ii denote negation, and iii be variable over truth values whose range is truth values Thus if then ~p 2; and if then ~p 
+-----DELETED
+In cyclic negation is assuming that the truth values are unary truth function that takes truth value and returns n-1 as value if isnt the lowest value; otherwise it returns the highest value For example, let the set of truth values be 0,1,2 ii denote negation, and iii be variable over truth values whose range is truth values Thus if then ~p 2; and if then ~p 

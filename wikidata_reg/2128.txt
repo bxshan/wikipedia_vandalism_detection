@@ -1,0 +1,15 @@
+-----METADATA
+2138
+147960
+unknown
+16653
+False
+True
+True
+True
+ {{fact}}
+10036
+-----ADDED
+The majority of criminals and victims have been under the influence of alcohol during the act of violent crime Statistics show that in homicides 61-75 percent, in attempted homicides 71-78 percent and in assaults 71-73 percent of the offenders have been under the influence of alcohol During the last two decades the number of drunk offenders in these crimes has been increasing Roughly half of crimes of theft involve the use of alcohol fact 
+-----DELETED
+The majority of criminals and victims have been under the influence of alcohol during the act of violent crime Statistics show that in homicides 61-75 percent, in attempted homicides 71-78 percent and in assaults 71-73 percent of the offenders have been under the influence of alcohol During the last two decades the number of drunk offenders in these crimes has been increasing Roughly half of crimes of theft involve the use of alcohol 

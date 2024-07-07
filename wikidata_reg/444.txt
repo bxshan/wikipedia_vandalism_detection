@@ -1,0 +1,14 @@
+-----METADATA
+1479
+17241
+male
+15302
+False
+True
+True
+True
+added adult film database
+785
+-----ADDED
+an Internet database of the adult movie industrys films, models, directors, etc 
+-----DELETED

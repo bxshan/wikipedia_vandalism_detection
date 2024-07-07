@@ -1,0 +1,15 @@
+-----METADATA
+4329
+2399
+unknown
+15977
+False
+True
+True
+True
+Revert to revision 325960218 dated 2009-11-15 10:49:45 by Zorrobot using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+7427
+-----ADDED
+Tupamaros, also known as the MLN Movimiento de Liberación Nacional or National Liberation Movement was an organization in in the 1960s and 1970s The MLN is inextricably linked to its most important leader, and his brand social politics *31 July 1970 Kidnapping of executed on 10 August 1970 
+-----DELETED
+Tupamaros, also known as the MLN Movimiento de Liberación Nacional or National Liberation Movement was terrorist organization in in the 1960s and 1970s The MLN is inextricably linked to its most important leader, and his brand of socialist politics *31 July 1970 Kidnapping murdered on 10 August 1970 

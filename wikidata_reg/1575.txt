@@ -1,0 +1,14 @@
+-----METADATA
+1529
+14362
+male
+15459
+False
+True
+True
+True
+Removed category [[:Category:Classical studies|Classical studies]]; Quick-adding category [[:Category:Classical philology|Classical philology]] (using [[WP:HOTCAT|HotCat]])
+3215
+-----ADDED
+
+-----DELETED

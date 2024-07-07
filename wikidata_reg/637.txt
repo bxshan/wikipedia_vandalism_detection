@@ -1,0 +1,15 @@
+-----METADATA
+6153
+54075
+unknown
+16035
+False
+True
+True
+True
+Reverted to revision 327501866 by [[Special:Contributions/Juliancolton|Juliancolton]]; rvv. ([[WP:TW|TW]])
+9385
+-----ADDED
+It is believed that Leif was born about AD 970 in the son of Eiríkr inn rauði Norse explorer from an and himself the son of an outlaw, Leifs mother was Thjodhild Þjóðhildr <ref>Sanderson, Jeanette 2002 Explorers, Teaching Resources/Scholastic 14 ISBN 0-439-25181-8 </ref> Erik the Red founded two Norse colonies in Greenland, the and the as he named them In both and Ericsons father is said to have met and married Leifs mother Þjóðhildur in Iceland; no official site is known for Leifs birth <ref>http://www visindavefur hi is/svar asp?id 1790</ref> 
+-----DELETED
+It is believed that Leif was born about AD 970 in the son of Eiríkr inn rauði Norse explorer from an and himself the son of an outlaw, Leifs mother was Thjodhild Þjóðhildr <ref>Sanderson, Jeanette 2002 Explorers, Teaching Resources/Scholastic 14 ISBN 0-439-25181-8 </ref> Erik the Red founded two Norse colonies in Greenland, the and the as he named them In both and Ericsons father is said to have met and married Leifs mother Þjóðhildur in Iceland; no official site is known for Leifs fart <ref>http://www visindavefur hi is/svar asp?id 1790</ref> 

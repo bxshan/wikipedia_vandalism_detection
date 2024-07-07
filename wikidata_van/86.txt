@@ -1,0 +1,15 @@
+-----METADATA
+4946
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+15900
+-----ADDED
+The greatest common divisor of and is written as gcd a, ;b or sometimes simply as a, ;b For exhutyuikyt3wrteytytutfoieujfwuiudifigample, gcd 12, ;18 ;6, gcd &minus;4, ;14 ;2 Two numbers are called or relatively prime if their greatest common divisor equals For example, and 28 are relatively prime math is da best -- 23:26, December 2009 UTC ---- <sup>rytjhtj<sup> </sup></sup> 
+-----DELETED
+The greatest common divisor of and is written as gcd a, ;b or sometimes simply as a, ;b For example, gcd 12, ;18 ;6, gcd &minus;4, ;14 ;2 Two numbers are called or relatively prime if their greatest common divisor equals For example, and 28 are relatively prime 

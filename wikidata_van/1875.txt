@@ -1,0 +1,15 @@
+-----METADATA
+4255
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+37275
+-----ADDED
+The University of Phoenix UPX is institution of higher learning As the university with the largest student body in North America, it has current enrollment of 420,700 undergraduate students including Erik and 78,000 graduate,<ref> http://www forbes com/feeds/businesswire/2009/06/29/businesswire126202558 html Apollo Group, Inc Reports Fiscal 2009 Third Quarter Results, Forbes, BusinessWire, June 29, 2009 </ref> The university has more than 200 campuses worldwide and confers degrees in over 100 degree programs at the and levels 
+-----DELETED
+The University of Phoenix UPX is institution of higher learning As the university with the largest student body in North America, it has current enrollment of 420,700 undergraduate students and 78,000 graduate,<ref> http://www forbes com/feeds/businesswire/2009/06/29/businesswire126202558 html Apollo Group, Inc Reports Fiscal 2009 Third Quarter Results, Forbes, BusinessWire, June 29, 2009 </ref> The university has more than 200 campuses worldwide and confers degrees in over 100 degree programs at the and levels 

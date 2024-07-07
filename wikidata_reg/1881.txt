@@ -1,0 +1,15 @@
+-----METADATA
+5203
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+35317
+-----ADDED
+Estimates are that Proposition 13 has saved California taxpaying citizens over 528 billion dollars value retrieved 5/31/2009 Advocates for Prop 13 repeal efforts believe that this is direct link to the problematic budget problems California has endured and claim that there is an inherent inequality of the Prop 13 tax equation although all property owners pay the same percentage based upon the propertys assessed value <ref> http://www hjta org/about-hjta/history-hjta Howard Jarvis Taxpayers Association </ref> 
+-----DELETED
+Estimates are that Proposition 13 has saved California taxpayers over 528 billion dollars value retrieved 5/31/2009 This is direct link to the problematic budget problems California has endured due to the inherent inequality of the Prop 13 tax scheme <ref> http://www hjta org/about-hjta/history-hjta Howard Jarvis Taxpayers Association </ref> 

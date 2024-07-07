@@ -1,0 +1,14 @@
+-----METADATA
+3587
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+18676
+-----ADDED
+QWERTY is at the top of the key board 
+-----DELETED

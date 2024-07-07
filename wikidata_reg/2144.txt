@@ -1,0 +1,15 @@
+-----METADATA
+18423
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+9003
+-----ADDED
+Infobox county One of the most prominent Claiborne Parish residents is retired who served in the from 1976-1984 <ref> cite web url http://house louisiana gov/H_PDFdocs/HouseMembers1812_2008 pdf title ”Membership in the Louisiana House of Representatives, 1812-2012” publisher house louisiana gov accessdate September 5, 2009 </ref> represented state House 1992, having defeated 1991 She served until her death six-vehicle accident August 1, 2000 <ref> cite web url http://house legis state la us/pubinfo/Press_Releases/wilkerson_auto_accident htm title ”State Rep Wilkerson Killed Auto Accident’, August 1, 2000 publisher house legis state la us accessdate September 26, 2009 </ref> Volentine was subsequently elected 1995 and 1999 troops </font size 2> on is among rural congregations in Claiborne Parish It maintains cemetery across the highway from the sanctuary </font size 2> and operates the in an unincorporated section of Claiborne Parish near both Homer and Haynesville <ref>" http://www doc louisiana gov/view php?cat 7&id 39 David Wade Corr Center Accessed September 14, 2008 </ref> Reflist 
+-----DELETED
+Infobox County One of the most prominent Claiborne Parish residents is retired who served in the from 1976-1984 <ref> cite web url http://house louisiana gov/H_PDFdocs/HouseMembers1812_2008 pdf title ”Membership in the Louisiana House of Representatives, 1812-2012” publisher house louisiana gov accessdate September 5, 2009 </ref> represented Claiborne Parish in the state House from 1992, having defeated in the 1991 She served until her death in six-vehicle accident in on August 1, 2000 <ref> cite web url http://house legis state la us/pubinfo/Press_Releases/wilkerson_auto_accident htm title ”State Rep Wilkerson Killed in Auto Accident’, August 1, 2000 publisher house legis state la us accessdate September 26, 2009 </ref>Volentine was subsequently elected in 1995 and 1999 troops </font size 2> is among rural congregations It maintains cemetery across highway sanctuary </font size 2> and operates the in an unincorporated section of Claiborne Parish near both Homer and Haynesville <ref>" http://www doc louisiana gov/view php?cat 7&id 39 David Wade Corr Center Accessed </ref> reflist 

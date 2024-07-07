@@ -1,0 +1,15 @@
+-----METADATA
+2305
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+21114
+-----ADDED
+http://www dpspatna com Delhi Public School, Patna established in 1998 is collaborative venture between the http://www takshila net/ Takshila Educational Society and the Delhi Public School Society It is divided into two parts known as Junior wing for class nursery to and Senior wing for class VI to XII It offers schooling from Nursery to Class XII Its principal is Mr behenchod Vinod It is considerd as very excellent school of It is situated in Chandmari, village in the Danapur Cantonment Area 
+-----DELETED
+http://www dpspatna com Delhi Public School, Patna established in 1998 is collaborative venture between the http://www takshila net/ Takshila Educational Society and the Delhi Public School Society It is divided into two parts known as Junior wing for class nursery to and Senior wing for class VI to XII It offers schooling from Nursery to Class XII Its principal is Mr Vinod It is considerd as very excellent school of It is situated in Chandmari, village in the Danapur Cantonment Area 

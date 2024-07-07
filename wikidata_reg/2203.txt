@@ -1,0 +1,14 @@
+-----METADATA
+921
+105816
+unknown
+16490
+False
+True
+True
+True
+Removed category [[:Category:Dar es Salaam|Dar es Salaam]]; Quick-adding category [[:Category:Education in Dar es Salaam|Education in Dar es Salaam]] (using [[WP:HOTCAT|HotCat]])
+298
+-----ADDED
+
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+7010
+599
+male
+16141
+False
+True
+True
+True
+Dangling modifier - Leonidas is the subject of the sentence.
+74220
+-----ADDED
+An Allied force of approximately 7,000 men thus marched north to block the pass in the summer of 480 BC The Persian army, alleged by the ancient sources to have numbered in the millions, arrived at the pass in late August or early September Vastly outnumbered, the Greeks held up the Persians for seven days in total including three of battle before the rear-guard was annihilated in one of historys most famous During two full days of battle, the small force led by King of blocked the only road by which the massive Persian army could pass After the second day of battle, local resident named betrayed the Greeks by revealing small path that led behind the Greek lines Aware that his force was being outflanked, Leonidas dismissed the bulk of the Greek army, and remained to guard the rear with 300 Spartans, 700 400 and perhaps few hundred others, the vast majority of whom were killed 
+-----DELETED
+An Allied force of approximately 7,000 men thus marched north to block the pass in the summer of 480 BC The Persian army, alleged by the ancient sources to have numbered in the millions, arrived at the pass in late August or early September Vastly outnumbered, the Greeks held up the Persians for seven days in total including three of battle before the rear-guard was annihilated in one of historys most famous During two full days of battle, the small force led by King of blocked the only road by which the massive Persian army could pass After the second day of battle, local resident named betrayed the Greeks by revealing small path that led behind the Greek lines Aware that they were being outflanked, Leonidas dismissed the bulk of the Greek army, and remained to guard the rear with 300 Spartans, 700 400 and perhaps few hundred others, the vast majority of whom were killed 

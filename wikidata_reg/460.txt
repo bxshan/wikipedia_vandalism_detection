@@ -1,0 +1,15 @@
+-----METADATA
+5547
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+15480
+-----ADDED
+The does not keep individual statistics for safeties Three teams have scored three safeties in game: in in and in In the in scored only six points in game, from three safeties against UMass had also scored three safeties in game against Albany in 2005, Division I-AA record In 2004, when Iowa defeated Penn State 6–4, because of Iowas two field goals and Penn States two safeties, it was the only instance of such score in the modern era The only other occasion on which game ended with that score was when Rutgers defeated Princeton in 1869 by six "runs" to four 
+-----DELETED
+The does not keep individual statistics for safeties Three teams have scored three safeties in game: in in and in In the in scored only six points in game, from three safeties against UMass had also scored three safeties in game against Albany in 2005, Division I-AA record In 2004, when Iowa defeated Penn State 6–4, because of Iowas two field goals and Penn States two safeties, it was the only time in the modern era where that score had happened The only other time that score occurred was when Princeton played Rutgers in 1869 Rutgers won six "runs" to four 

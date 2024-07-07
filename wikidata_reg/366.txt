@@ -1,0 +1,15 @@
+-----METADATA
+3859
+17
+unknown
+15785
+False
+True
+True
+True
+<EMPTY>
+3069
+-----ADDED
+In the wake of what has been dubbed the "worst terrorist attack since 9/11", which was the terror attack at the Army base in Fort Hood, Texas by Major <ref>Jayson, Reed, Johnson, 2009-11-5 FBI Team Will Re-enact Fort Hood Massacre USA TODAY Retrieved November 22, 2009 http://www usatoday com/news/military/2009-11-05-Fort-Hood_N htm </ref>, Senator Larry Shaw has been associated with advocates of jihad terror attacks against the US military The book indicated that CAIR, the Islamic group which Senator Larry Shaw chairs, has spoken to encourage and justify jihadist terror attacks on the aircraft transporting the US Army unit based in Shaws own congressional district in North Carolina <ref>CAIR Speaker to Muslims: OK to Attack Fort Bragg 2009-11-11 WorldNetDaily Retrieved November 22, 2009 http://www wnd com/index php?fa PAGE view&pageId 115687 </ref> 
+-----DELETED
+In the wake of what has been dubbed the "worst terrorist attack since 9/11", which was the terror attack at the Army base in Fort Hood, Texas by Major <ref> http://www usatoday com/news/military/2009-11-05-Fort-Hood_N htm </ref>, Senator Larry Shaw has been involved with advocates of jihad terror attacks against the US military The book indicated that CAIR the Islamic group which Senator Larry Shaw chairs, has spoken to encourage and justify jihadist terror attacks on the aircraft transporting the US Army unit based in Shaws own congressional district in North Carolina <ref> http://www wnd com/index php?fa PAGE view&pageId 115687 </ref> 

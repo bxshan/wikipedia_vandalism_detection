@@ -1,0 +1,15 @@
+-----METADATA
+4685
+35926
+unknown
+16419
+False
+True
+True
+True
+rm another link to a redirect page
+4559
+-----ADDED
+adjacent also has an open-air which used be called the Amphitheatre located between Wickham Terrace and Albert Street is next to Roma Street Parkland Wickham Park contains Brisbanes oldest building, 
+-----DELETED
+adjacent to and also has an open-air which used to be called the Amphitheatre located between Wickham Terrace Street is next Wickham contains Brisbanes oldest building, 

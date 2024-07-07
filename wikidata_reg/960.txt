@@ -1,0 +1,15 @@
+-----METADATA
+4938
+124
+male
+14841
+False
+True
+True
+True
+<EMPTY>
+62831
+-----ADDED
+Panama, officially the Republic of Panama lang-es República de Panamá IPA-es re̞ˈpuβ̞lika ð̞e̞ panaˈma pron is located in the southernmost, isthmian portion of the North American continent Panama connects both North and it is bordered by to the northwest, to the southeast, the to the north and the to the south The capital is 
+-----DELETED
+Panama, officially the Republic of Panama lang-es República de Panamá IPA-es re̞ˈpuβ̞lika ð̞e̞ panaˈma pron is the southernmost country of connecting North and it is bordered by to the northwest, to the southeast, the to the north and the to the south The capital is 

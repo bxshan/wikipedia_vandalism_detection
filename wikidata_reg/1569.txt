@@ -1,0 +1,15 @@
+-----METADATA
+1835
+2999
+unknown
+15513
+False
+True
+True
+True
+Community flag
+3553
+-----ADDED
+subdivision_name1 flag Catalonia 
+-----DELETED
+subdivision_name1 

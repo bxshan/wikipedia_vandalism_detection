@@ -1,0 +1,15 @@
+-----METADATA
+2022
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9688
+-----ADDED
+seating_capacity 17,599 <ref> 
+-----DELETED
+seating_capacity 17,599 <ref> 

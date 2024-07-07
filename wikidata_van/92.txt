@@ -1,0 +1,15 @@
+-----METADATA
+5666
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+19592
+-----ADDED
+---- #REDIRECT <s>Target page name</s><sup><br />Superscript text<small><!-- Small Text --> <gallery> class "wikitable" Image:Example jpg Caption1 Image:Example jpg Caption2 <ref>Insert footnote text here</ref> </gallery></small></sup> </nowiki> ahaha 
+-----DELETED
+reflist 

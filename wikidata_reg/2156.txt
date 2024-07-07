@@ -1,0 +1,15 @@
+-----METADATA
+1909
+27
+unknown
+14837
+False
+True
+True
+True
+<EMPTY>
+5823
+-----ADDED
+The Mexican Stoneroller Campostoma ornatum belongs to family There are three species in this genus: Campostoma ornatum, Campostoma anomalum, and Campostoma oligolepis, which all have morphologically similar characteristics Campostoma ornatum is the only fish from this group endemic to Arizona 
+-----DELETED
+The Mexican Stoneroller Campostoma ornatum belongs to family There are three species in this genus: Campostoma ornatum, Campostoma anomalum, and Campostoma oligolepis, which all have morphologically similar characteristics Campostoma ornatum is the only fish from this group endemic to Arizona 

@@ -1,0 +1,15 @@
+-----METADATA
+7794
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3473
+-----ADDED
+
+-----DELETED
+Genus: Equus ** Subgenus Asinus *** Equus africanus<ref> cite book title Mammal Species of the World Taxonomic and Geographic Reference editor Don Wilson DeeAnn Reeder publisher Johns Hopkins University Press date 2005 edition 3rd chapter Equus asinus url http://www bucknell edu/msw3/browse asp?s y&id 14100004 </ref><ref name Opinion2007> cite journal last International Commission on Zoological Nomenclature date 2003 title Usage of 17 specific names based on wild species which are pre-dated by or contemporary with those based on domestic animals Lepidoptera, Osteichthyes, Mammalia conserved Opinion 2027 Case 3010 journal Bull Zool Nomencl volume 60 issue pages 81-84 url http://www iczn org/BZNMar2003opinions htm#opinion2027 </ref> **** Equus africanus africanus **** Equus africanus somalicus **** Equus africanus asinus **** †Equus africanus atlanticus *** †Equus hydruntinus *** or Asiatic Ass, Equus hemionus, Equus hemionus onager **** Equus hemionus hemionus **** †Equus hemionus hemippus **** or Equus hemionus luteus **** Equus hemionus kulan **** or Equus hemionus khur *** Equus kiang **** Equus kiang kiang **** Equus kiang holdereri **** Equus kiang polyodon **** Equus kiang chu *** †Equus cumminsii *** †Equus calobatus *** †Equus tau *** †Equus lambei 

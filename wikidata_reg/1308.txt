@@ -1,0 +1,15 @@
+-----METADATA
+3114
+89098
+unknown
+14968
+False
+True
+True
+True
+[[Wikipedia:Templates for discussion/Log/2009 November 20]] using [[Project:AutoWikiBrowser|AWB]]
+1618
+-----ADDED
+wiktionarypar shift 
+-----DELETED
+all pages wiktionarypar shift 

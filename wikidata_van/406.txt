@@ -1,0 +1,15 @@
+-----METADATA
+4449
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+19345
+-----ADDED
+If robot is unable to move for thirty seconds, because it is too badly damaged or it is stuck on the arena hazards, it is declared knocked out The driver may also call "tap-out" to forfeit the match if his or her robot is about to be destroyed This ends the match ten seconds later; the opposing hate you 
+-----DELETED
+If robot is unable to move for thirty seconds, because it is too badly damaged or it is stuck on the arena hazards, it is declared knocked out The driver may also call "tap-out" to forfeit the match if his or her robot is about to be destroyed This ends the match ten seconds later; the opposing driver is "asked" but not instructed not to attack during the ten-second count 

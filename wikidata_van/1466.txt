@@ -1,0 +1,15 @@
+-----METADATA
+2784
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+23859
+-----ADDED
+The first mention of Trowbridge Castle was in 1139 wow this is boring!!! <ref> http://www localauthoritypublishing co uk/councils/trowbridge/history html First mention of Trowbridge Castle Local Authority Publishing website Retrieved on January 25, 2008 </ref> while it was besieged so it must have been built before this 
+-----DELETED
+The first mention of Trowbridge Castle was in 1139 <ref> http://www localauthoritypublishing co uk/councils/trowbridge/history html First mention of Trowbridge Castle Local Authority Publishing website Retrieved on January 25, 2008 </ref> while it was besieged so it must have been built before this 

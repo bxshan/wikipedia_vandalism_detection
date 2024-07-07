@@ -1,0 +1,15 @@
+-----METADATA
+3013
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+27592
+-----ADDED
+On abortion, Will believes that the Roe Wade Supreme Court decision was unconstitutional <ref>http://www washingtonpost com/wp-dyn/content/article/2005/11/30/AR2005113001816 html</ref> Will is also of the opinion that individual gun ownership is constitutional right <ref>http://www alphecca com/mt_alphecca_archives/003142 html</ref> On crime, Will is opposed to the death penalty<ref>http://www nationalreview com/ponnuru/ponnuru200311060839 asp</ref>, but thinks that higher incarceration rates make the populace safer <ref>http://www washingtonpost com/wp-dyn/content/article/2008/06/20/AR2008062002276 html</ref> Additionally, Will is generally skeptical of affirmative action programs <ref>http://townhall com/columnists/GeorgeWill/2001/03/01/the_distortion_of_affirmative_action</ref> 
+-----DELETED
+On abortion, Will believes that the Roe Wade Supreme Court decision was unconstitutional, but thinks that the issue is unimportant, overall <ref>http://www washingtonpost com/wp-dyn/content/article/2005/11/30/AR2005113001816 html</ref> Will is also of the opinion that individual gun ownership is constitutional right <ref>http://www alphecca com/mt_alphecca_archives/003142 html</ref> On crime, Will is opposed to the death penalty<ref>http://www nationalreview com/ponnuru/ponnuru200311060839 asp</ref>, but thinks that higher incarceration rates make the populace safer <ref>http://www washingtonpost com/wp-dyn/content/article/2008/06/20/AR2008062002276 html</ref> Additionally, Will is generally skeptical of affirmative action programs <ref>http://townhall com/columnists/GeorgeWill/2001/03/01/the_distortion_of_affirmative_action</ref> 

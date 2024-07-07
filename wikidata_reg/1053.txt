@@ -1,0 +1,15 @@
+-----METADATA
+2012
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+55187
+-----ADDED
+The Emacs editor has an http://www emacswiki org/emacs/?action browse;oldid InputMethod;id InputMethods input method for http://www emacswiki org/emacs/akkadian el Neo-Akkadian Cuneiform 
+-----DELETED
+The Emacs editor has an http://www emacswiki org/emacs/?action browse;oldid InputMethod;id InputMethods input method for http://www emacswiki org/emacs/akkadian el Neo-Akkadian Cunieform 

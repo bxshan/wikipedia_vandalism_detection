@@ -1,0 +1,15 @@
+-----METADATA
+1096
+15763
+unknown
+15150
+False
+True
+True
+True
+not a stub (dyk)
+6496
+-----ADDED
+
+-----DELETED
+Ohio-NRHP-stub 

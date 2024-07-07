@@ -1,0 +1,15 @@
+-----METADATA
+2728
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+15553
+-----ADDED
+Moussa Dadis Camara born 1964 who looks kind of funny is an officer of the who is currently serving as the President of the Republic of ’s Conseil National de la Démocratie et du Développement, CNDD which seized power in on 23 December 2008 following the death of long-time President As head of the CNDD, which Camara described as transitional body that will oversee the country’s return to democracy, Camara is the 
+-----DELETED
+Moussa Dadis Camara born 1964 is an officer of the who is currently serving as the President of the Republic of ’s Conseil National de la Démocratie et du Développement, CNDD which seized power in on 23 December 2008 following the death of long-time President As head of the CNDD, which Camara described as transitional body that will oversee the country’s return to democracy, Camara is the 

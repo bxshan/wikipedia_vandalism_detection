@@ -1,0 +1,15 @@
+-----METADATA
+3761
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9166
+-----ADDED
+*, writer and postal historiann *John Ross, photographer 
+-----DELETED
+*, writer and postal historian John Ross, photographer 

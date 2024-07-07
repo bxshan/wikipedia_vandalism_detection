@@ -1,0 +1,15 @@
+-----METADATA
+6193
+86116
+male
+16456
+False
+True
+True
+True
+cleanup
+3945
+-----ADDED
+The Roman Catholic Metropolitan Archdiocese of Ljubljana lang-la Archidioecesis Labacensis is an ecclesiastical territory or of the in It was erected as the Diocese of Ljubljana by on December 1461 and was immediately subject to the from its creation until erected as an Its territory corresponded with the Austrian of Prior to the formation of this diocese, its area had been part of the ecclesiastical territory of the since 811 In 1952, group of communists set auxiliary bishop Anton Vovk alight with petroleum, inflicting severe burns on him <ref>John Corsellis, Marcus Ferrar Slovenia 1945: memories of death and survival after World War II Tauris, 2005 196 </ref> The diocese was elevated to on 22 December 1961 Today it has two since 1977 and since 2006 It is the of Slovenia 
+-----DELETED
+The of lang-la Archidioecesis Labacensis is an ecclesiastical territory or of the in It was erected as the Diocese of Ljubljana by on and was immediately subject to the from its creation until erected as an Its territory corresponded with the Austrian of Prior to the formation of this diocese, its area had been part of the ecclesiastical territory of the since 811 In 1952, group of communists set auxiliary bishop Anton Vovk alight with petroleum, inflicting severe burns on him <ref>John Corsellis, Marcus Ferrar Slovenia 1945: memories of death and survival after World War II Tauris, 2005 196 </ref> The diocese was elevated to on Today it has two since 1977 and since 2006 It is the of Slovenia 

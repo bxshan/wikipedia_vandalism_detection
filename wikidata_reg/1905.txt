@@ -1,0 +1,15 @@
+-----METADATA
+2787
+229
+unknown
+14842
+False
+True
+True
+True
+<EMPTY>
+7598
+-----ADDED
+"2" 2004 
+-----DELETED
+align "center" rowspan "1" 2004 "4" 2005 

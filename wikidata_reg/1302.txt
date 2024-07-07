@@ -1,0 +1,15 @@
+-----METADATA
+3106
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+52004
+-----ADDED
+http://litmagazine org/ LIT journal selected by the MFA Creative http://12thstreetonline com/ 12th Street nationally-distributed literary journal contains works from undergraduate writers in The New Schools "Riggio Honors Program: Writing Democracy" 
+-----DELETED
+http://litmagazine org/ LIT nationally-distributed literary journal; contains works selected by the MFA Creative Writing Program http://12thstreetonline com/ 12th Street journal; from undergraduate writers in The New Schools Riggio Democracy Honors 

@@ -1,0 +1,15 @@
+-----METADATA
+1621
+3
+unknown
+15047
+False
+False
+False
+False
+I changed the URL for my blog, While we still have time, in external links
+20316
+-----ADDED
+http://whilewestillhavetime blogspot com/ While we still have time 
+-----DELETED
+http://whilewestillhavetime blogspot com/2006/06/i-love-parade html/ While we still have time 

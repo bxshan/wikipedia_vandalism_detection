@@ -1,0 +1,15 @@
+-----METADATA
+8673
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+35694
+-----ADDED
+House &mdash; southeast added 1978 North Stonington and its older sister Stonington played an enthusiastic role in the War of 1812, even if the war itself was deeply unpopular in Connecticut and elsewhere in New England During the war North Stonington resident Lieutenant Colonel William Randall, the great-grandson of original settler John Randall, commanded the 30th regiment of Connecticut militia, which was mobilized twice The first time was in June 1813, when Randall’s regiment--which consisted of about 300 men, equally from Stonington and North Stonington--force-marched overnight in driving rain to Groton to help defend the city against feared landing by British naval forces The 30th Regiment returned to the colors against in August 1814, when squadron of British warships bombarded Stonington Borough in preparation for raid on the town It was during this battle that Lantern Hill obtained the nickname “Tar Barrel Hill,” because, in anticipation of an attack on Stonington, soldiers had moved pitch in barrels to its summit to set them alight to serve as an alarm if British forces appeared in The Sound The flames and smoke from this hill alerted Randall and his men to react and move quickly to Stonington Point to repulse the attempted raiding party that intended to put Stonington Borough to the torch 
+-----DELETED
+House &mdash; southeast of North Stonington on added 1978 and its older sister played an enthusiastic role in the War 1812, even if the war itself was deeply unpopular in Connecticut and elsewhere in New England During the war resident Lieutenant Colonel William Randall, the great-grandson original settler commanded the 30th regiment Connecticut militia, which was mobilized twice The first time was in June 1813, when Randall’s regiment--which consisted about 300 men, equally from and Stonington--force-marched overnight in driving rain to Groton to help defend the city against feared landing by British naval forces The 30th Regiment returned to the colors against in August 1814, when squadron British warships bombarded Borough in preparation for raid the town It was during this battle that Lantern Hill obtained the nickname “Tar Barrel Hill,” because, in anticipation an attack Stonington, soldiers had moved pitch in barrels to its summit to set them alight to serve as an alarm if British forces appeared in The Sound The flames and smoke from this hill alerted Randall and his men to react and move quickly to Point to repulse the attempted raiding party that intended to put Borough to the torch 

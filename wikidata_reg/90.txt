@@ -1,0 +1,15 @@
+-----METADATA
+4048
+831
+unknown
+15078
+False
+True
+True
+True
+ update
+7687
+-----ADDED
+In April 2009, casting director Dave Clemmons held several auditions in Manhattan as well as one in the Jaeb Theater at what was then the Tampa Bay Performing Arts Center to satisfy the union contract, which stipulates there must be auditions in the city where the show originates <ref> http://www tampabay com/features/performingarts/article996268 ece St Petersburg Times, May 3, 2009 </ref> 
+-----DELETED
+In April 2009, casting director Dave Clemmons held several auditions in Manhattan as well as one in the Jaeb Theater at the Tampa Bay Performing Arts Center to satisfy the union contract, which stipulates there must be auditions in the city where the show originates <ref> http://www tampabay com/features/performingarts/article996268 ece St Petersburg Times, May 3, 2009 </ref> 

@@ -1,0 +1,14 @@
+-----METADATA
+6543
+7472
+male
+15919
+False
+True
+True
+True
+revert to last undamaged version by Lentower
+50766
+-----ADDED
+The scene changes Macbeth and Banquo enter, discussing the weather and their victory "So foul and fair day have not seen" As they wander onto heath, the three Witches, who have been waiting, greet them with prophecies Even though it is Banquo who first challenges them, they address Macbeth The first hails Macbeth as "Thane of Glamis", the second as "Thane of Cawdor", and the third proclaims that he shall "be King hereafter" Macbeth appears to be stunned to silence, so again Banquo challenges them The Witches inform Banquo he shall father line of kings, though he himself will not be one While the two men wonder at these pronouncements, the Witches vanish, and another Thane, messenger from the King, arrives and informs Macbeth of his newly bestowed title—Thane of Cawdor The first prophecy is thus fulfilled Immediately, Macbeth begins to harbour ambitions of becoming king Macbeth writes to his wife about the Witches prophecies When Duncan decides to stay at the Macbeths castle at hatches plan to murder him and secure the throne for her husband Although Macbeth raises concerns about the regicide, Lady Macbeth eventually persuades him, by challenging his manhood, to follow her plan 
+-----DELETED

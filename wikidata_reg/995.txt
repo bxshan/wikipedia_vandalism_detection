@@ -1,0 +1,15 @@
+-----METADATA
+2264
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2379
+-----ADDED
+After being "created" by dog, Doggy Poo meets various living and inanimate things No one wants to be his friend, and Doggy Poo becomes sad because he believes he is worthless and has no purpose Eventually, plant grows out of the ground and tells Doggy Poo that she needs him to grow into Doggy Poo discovers his life purpose and he becomes absorbed by the flower After being absorbed by the flower, Doggy Poo lives "a happy life" 
+-----DELETED
+After being "created" by dog, Doggy meets various living and inanimate things No one wants to be his friend, and Doggy Poo becomes sad because he believes he is worthless and has no purpose Eventually, plant grows out of the ground and tells Doggy Poo that she needs him to grow into flower Doggy Poo discovers his life purpose and he becomes absorbed by the flower After being absorbed by the flower, Doggy Poo lives "a happy life" 

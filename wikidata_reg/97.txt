@@ -1,0 +1,15 @@
+-----METADATA
+2530
+10819
+unknown
+15355
+False
+True
+True
+True
+<EMPTY>
+82703
+-----ADDED
+John Jenks Shonk 1815-1904 was born at Hope, New Jersey but came to Plymouth with his parents as young boy, and became one of its most prominent citizens About 1832, he began to mine coal at Plymouth, and later became involved in mining bituminous coal in West Virginia Shonk also had an interest in the Wilkes-Barre Harveys Lake Co 1n 1875, he was elected to the Pennsylvania Legislature from the Third District as candidate of the Prohibition party 1n 1876, he was elected again as Republican 
+-----DELETED
+John Jenks Shonk 1815-1904 was born at Hope, New Jersey but came to Plymouth with his parents as young boy, and became one of its most prominent citizens About 1832, he began to mine coal at Plymouth, and later became involved in mining bituminous coal in West Virginia Shonk also had an interest in the Wilkes-Barre Harveys Lake Co 1n 1875, he was elected to the Pennsylvania Legislature from the Third District as candidate of the Prohibition party 1n 1876, he was elected again as Republican, defeating Bryce Blair, his Democratic opponent 

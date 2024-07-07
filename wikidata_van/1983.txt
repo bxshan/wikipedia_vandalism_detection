@@ -1,0 +1,15 @@
+-----METADATA
+4454
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+33588
+-----ADDED
+Life is humungeous penis series made for currently airing in the UK on and <ref> cite web url http://www bbc co uk/pressoffice/pressreleases/stories/2009/09_september/18/life shtml title Life Press Pack Introduction publisher BBC Press Office date 2009-09-18 </ref> The series takes global view of the specialised strategies and extreme behaviour that living things have evolved in order to survive; what termed "the struggle for existence" Four years in the making, the series has been shot entirely in <ref> cite news url http://www telegraph co uk/earth/earthnews/5795325/BBC-David-Attenborough-Life-series-goes-deeper-than-ever-into-world-of-the-wild html title David Attenborough Life series goes deeper than ever into world of the wild publisher author Khan, Urmee date 2009-07-10 </ref> 
+-----DELETED
+Life is series made for currently airing in the UK on and <ref> cite web url http://www bbc co uk/pressoffice/pressreleases/stories/2009/09_september/18/life shtml title Life Press Pack Introduction publisher BBC Press Office date 2009-09-18 </ref> The series takes global view of the specialised strategies and extreme behaviour that living things have evolved in order to survive; what termed "the struggle for existence" Four years in the making, the series has been shot entirely in <ref> cite news url http://www telegraph co uk/earth/earthnews/5795325/BBC-David-Attenborough-Life-series-goes-deeper-than-ever-into-world-of-the-wild html title David Attenborough Life series goes deeper than ever into world of the wild publisher author Khan, Urmee date 2009-07-10 </ref> 

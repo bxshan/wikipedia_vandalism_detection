@@ -1,0 +1,15 @@
+-----METADATA
+3139
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+20162
+-----ADDED
+*The part when Corinne accidentally falls on each of three girls and makes them angry is similar to the part in the novel when DArtagnan accidentally ends up falling into each of the Musketeers and making them challenge him to the duel 
+-----DELETED
+*The part when Corinne acidentaly fall on each of three girls and make them angry is similar to part of the novel when DArtagnan acidentaly end-up falling into each of the musketeers and making them challenge him to the duel 

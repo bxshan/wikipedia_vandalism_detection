@@ -1,0 +1,15 @@
+-----METADATA
+3756
+5726
+unknown
+15896
+False
+True
+True
+True
+<EMPTY>
+51646
+-----ADDED
+IPA /ɸ/ and IPA /θ/ written and þ, are voiceless bilabial and voiceless dental fricatives respectively It is likely that the relatively unstable sound IPA /ɸ/ became IPA /f/ and are also derived from and at the ends of words, when they are devoiced and become approximants: gif IPA ɡiɸ "give imperative infinitive giban: German geben miþ IPA miθ "with" mid, með, Dutch met, German mit 
+-----DELETED
+IPA /ɸ/ and IPA /θ/ written and þ, are voiceless bilabial and voiceless dental fricatives respectively It is likely that the relatively unstable sound IPA /ɸ/ became IPA /f/ and are also derived from and at the ends of words, when they are devoiced and become approximants: gif IPA ɡiɸ "give imperative infinitive giban: German geben miþ IPA miθ "with" mid, Dutch met, German mit 

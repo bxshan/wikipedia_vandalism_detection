@@ -1,0 +1,15 @@
+-----METADATA
+2235
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+33865
+-----ADDED
+After guests are loaded on the elevator, the needle to indicate what floor the elevator is on moves past the 12th floor This is reference to the 9th floor and the episode "" 
+-----DELETED
+After guests are loaded on the elevator, the needle to indicate what floor the elevator is on moves past the 12th floor This is reference to the 13th floor and the episode "" 

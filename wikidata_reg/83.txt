@@ -1,0 +1,15 @@
+-----METADATA
+5696
+121439
+male
+16350
+False
+True
+True
+True
+"appears to be" to who?
+6749
+-----ADDED
+In the US, patents for sporks and proto-sporks have been issued In 1856, Sherburne Blodgett received patent 14,275 for his webbed fork, which appears to be the earliest patented spork or? date November 2009 Blodgett founded the Lerow Blodgett firm, which was the first large-scale American manufacturer of sewing machines combined spoon, fork, and knife closely resembling the modern spork was invented by Samuel Francis and issued US Patent 147,119 in February 1874 Other early patents predating the modern spork include US Patent 904,553, for "Cutting spoon", granted on November 24, 1908 to Harry McCoy and US Patent 1,044,869, for spoon with tined edge, granted to Frank Emmenegger in November 1912 Many of these inventions predated the use of the term "spork" and thus may be considered proto-sporks Given this significant prior art, the basic concept of combining aspects of spoon and fork is well established; more modern patents have limited themselves to the specific implementation and appearance of the spork These do not prevent anyone from designing and manufacturing their own version of spork Examples of modern US design patents for sporks include patent number D247,153 issued in February 1978 and patent D388,664 issued in January 1998 
+-----DELETED
+In the US, patents for sporks and proto-sporks have been issued In 1856, Sherburne Blodgett received patent 14,275 for his webbed fork, which appears to be the earliest patented spork Blodgett founded the Lerow Blodgett firm, which was the first large-scale American manufacturer of sewing machines combined spoon, fork, and knife closely resembling the modern spork was invented by Samuel Francis and issued US Patent 147,119 in February 1874 Other early patents predating the modern spork include US Patent 904,553, for "Cutting spoon", granted on November 24, 1908 to Harry McCoy and US Patent 1,044,869, for spoon with tined edge, granted to Frank Emmenegger in November 1912 Many of these inventions predated the use of the term "spork" and thus may be considered proto-sporks Given this significant prior art, the basic concept of combining aspects of spoon and fork is well established; more modern patents have limited themselves to the specific implementation and appearance of the spork These do not prevent anyone from designing and manufacturing their own version of spork Examples of modern US design patents for sporks include patent number D247,153 issued in February 1978 and patent D388,664 issued in January 1998 

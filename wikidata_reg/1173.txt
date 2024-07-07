@@ -1,0 +1,15 @@
+-----METADATA
+6738
+72
+male
+15014
+False
+True
+True
+True
+<EMPTY>
+70008
+-----ADDED
+*: Commonly sold in 500 ml plastic bags and in bottles in some parts like in west It is still customary to serve the milk boiled, despite pasteurization Milk is often buffalo milk Flavored milk is sold in most convenience stores in waxed cardboard containers Convenience stores also sell many varieties of milk such as flavored and ultra-pasteurized in different sizes, usually in aseptic cartons *: Milk is supplied in 500 ml Plastic bags and carried in Jugs from rural to cities and sell 
+-----DELETED
+and Commonly sold in 500 ml plastic bags It is still customary to serve the milk boiled, despite pasteurization Milk is often buffalo milk Flavored milk is sold in most convenience stores in waxed cardboard containers Convenience stores also sell many varieties of milk such as flavored and ultra-pasteurized in different sizes, usually in aseptic cartons 

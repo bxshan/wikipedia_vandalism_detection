@@ -1,0 +1,15 @@
+-----METADATA
+2755
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+47973
+-----ADDED
+The band Kobold Asylum also uses the term kobold They are known to sing about Norse and mythological subjects 
+-----DELETED
+The well known band Kobold Asylum also uses the term kobold They are known to sing about Norse and mythological subjects 

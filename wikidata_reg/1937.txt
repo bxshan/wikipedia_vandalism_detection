@@ -1,0 +1,15 @@
+-----METADATA
+3687
+21293
+unknown
+16354
+False
+True
+True
+True
+rewrite first sentence for better flow, and to indicate the country as well as the state
+10216
+-----ADDED
+Seneca Lake is the largest of the glacial of the of It is promoted as being the capital of the world, and is host of the National Lake Trout Derby Because of its depth, Seneca Lake has been testing site for submarines 
+-----DELETED
+Seneca Lake, one of western glacial is the largest finger lake It is promoted as being the capital of the world, and is host of the National Lake Trout Derby Because of its depth, Seneca Lake has been testing site for submarines 

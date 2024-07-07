@@ -1,0 +1,15 @@
+-----METADATA
+4648
+36173
+male
+15579
+False
+True
+True
+True
+[[WP:AWB/T|Typo fixing]], Replaced: accidently  → accidentally , using [[Project:AutoWikiBrowser|AWB]]
+15536
+-----ADDED
+Macdonald-Cartier Airport is part Canadas busiest between Ottawa, which is commonly referred as Eastern Triangle Citation needed date January 2009 fact, for decades, Canada has had specially branded flights between Toronto, Montreal, known as Rapidair is also gateway for flights eastern via In August 1959, Air Force Lockheed F-104 Starfighter performed low fly-by of the airport during celebration of the opening of new terminal in Ottawa and accidentally went supersonic over the airport, causing windows and parts of the walls of the new terminal to shatter The terminal was only reopened in 1960 
+-----DELETED
+Macdonald-Cartier Airport is part of Canadas busiest between Ottawa, and which is commonly referred to as the Eastern Triangle Fact date January 2009 In fact, for decades, Air Canada has had specially branded flights between Toronto, Ottawa and Montreal, known as Rapidair The airport is also gateway for flights to the eastern via August 1959, Force Lockheed F-104 Starfighter performed low fly-by during celebration opening new terminal in accidently went supersonic over airport, causing windows parts walls new terminal shatter terminal was only reopened in 1960 

@@ -1,0 +1,15 @@
+-----METADATA
+1582
+155
+unknown
+14841
+False
+True
+True
+True
+<EMPTY>
+8132
+-----ADDED
+The line includes: <ref>Guide to the Littlest Pet Shop by Zues http://littlestpetshop 50webs com/ </ref> 
+-----DELETED
+The line includes<ref>Guide to the Littlest Pet Shop http://littlestpetshop 50webs com/</ref>: 

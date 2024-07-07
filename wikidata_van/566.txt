@@ -1,0 +1,15 @@
+-----METADATA
+2917
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+29645
+-----ADDED
+thylakoid is membrane-bound compartment inside and They are the site of the of The word "thylakoid" is derived from the Greek thylakos, meaning "sac" Thylakoids consists of thylakoid membrane surrounding thylakoid Chloroplast thylakoids frequently form stacks of disks referred to as "grana" singular: granum "Grana" is Latin for "stacks of coins" Grana are connected by intergrana or stroma thylakoids, which join granum stacks together as single functional compartment Kiss my ass 
+-----DELETED
+thylakoid is membrane-bound compartment inside and They are the site of the of The word "thylakoid" is derived from the Greek thylakos, meaning "sac" Thylakoids consists of thylakoid membrane surrounding thylakoid Chloroplast thylakoids frequently form stacks of disks referred to as "grana" singular: granum "Grana" is Latin for "stacks of coins" Grana are connected by intergrana or stroma thylakoids, which join granum stacks together as single functional compartment 

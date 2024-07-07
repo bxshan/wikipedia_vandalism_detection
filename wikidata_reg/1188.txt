@@ -1,0 +1,15 @@
+-----METADATA
+5082
+9848
+unknown
+15662
+False
+True
+True
+True
+ Revise; links
+7539
+-----ADDED
+The R5000 had large L1 s, distinct characteristic of QED, whose designers favored simple designs with large caches The R5000 had two L1 caches, one for instructions and the other for data Both have capacity of 32 ;KB The caches are two-way have 32-byte line size, and are Instructions were predecoded as they enter the instruction cache by appending four bits to each instruction These four bits specify whether can be issued together and which execution unit they are executed by This assisted superscalar instruction issue by moving some of the dependency and conflict checking out of the critical path 
+-----DELETED
+The R5000 had large L1 s, distinct characteristic of QED, whose designers favored simple designs with large caches The R5000 had two L1 caches, one for instructions and the other for data Both have capacity of 32 ;KB The caches were two-way had 32-byte line size, and were virtually indexed and physically tagged Instructions were predecoded as they enter the instruction cache by appending four bits to each instruction These four bits specify whether can be issued together and which execution unit they are executed by This assisted superscalar instruction issue by moving some of the dependency and conflict checking out of the critical path 

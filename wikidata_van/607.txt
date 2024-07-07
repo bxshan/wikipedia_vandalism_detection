@@ -1,0 +1,15 @@
+-----METADATA
+4142
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+24256
+-----ADDED
+Some non-System/360-compatible systems derived from or compatible with older pre-Web server technology may also be considered mainframes These include the the systems, and the pre-System/360 Most large-scale computer system architectures were firmly established in the 1960s and most large computers were based on architecture established during that era up until the advent of Web servers in the 1990s Interestingly, the first Web server running anywhere outside Switzerland ran on an IBM mainframe at Stanford University as early as 1990 Harris HAcks the Mainframe all the time See for details 
+-----DELETED
+Some non-System/360-compatible systems derived from or compatible with older pre-Web server technology may also be considered mainframes These include the the systems, and the pre-System/360 Most large-scale computer system architectures were firmly established in the 1960s and most large computers were based on architecture established during that era up until the advent of Web servers in the 1990s Interestingly, the first Web server running anywhere outside Switzerland ran on an IBM mainframe at Stanford University as early as 1990 See for details 

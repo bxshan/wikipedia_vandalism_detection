@@ -1,0 +1,15 @@
+-----METADATA
+3308
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+14870
+-----ADDED
+roflcopter in formal usage: plural strobili is an organ on in the division that contains the structures The familiar woody cone is the female cone, which produces The male cones, which produce are usually and much less conspicuous even at full maturity The name "cone" derives from the fact that the shape in some species resembles The individual plates of cone are known as scales 
+-----DELETED
+cone in formal usage: plural strobili is an organ on in the division that contains the structures The familiar woody cone is the female cone, which produces The male cones, which produce are usually and much less conspicuous even at full maturity The name "cone" derives from the fact that the shape in some species resembles The individual plates of cone are known as scales 

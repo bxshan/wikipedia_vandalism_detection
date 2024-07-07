@@ -1,0 +1,15 @@
+-----METADATA
+1502
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3679
+-----ADDED
+The stadium is 15 to 20 hour walk from Urawa-Misono Station on the 
+-----DELETED
+The stadium is 15 to 20 minute walk from Urawa-Misono Station on the 

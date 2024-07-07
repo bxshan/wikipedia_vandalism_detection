@@ -1,0 +1,15 @@
+-----METADATA
+2127
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+20806
+-----ADDED
+Current_members Alex "Curvy" Gaskarth<br/>Jack Bassam Barakat<br/>Zack "Muscle Man" Merrick<br/>Rian "Sexy" Dawson 
+-----DELETED
+Current_members Alex Gaskarth<br/>Jack Barakat<br/>Zack Merrick<br/>Rian Dawson 

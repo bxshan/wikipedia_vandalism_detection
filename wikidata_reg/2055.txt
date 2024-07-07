@@ -1,0 +1,15 @@
+-----METADATA
+5511
+17857
+unknown
+15983
+False
+True
+True
+True
+basho update
+6758
+-----ADDED
+record 333-258-2 update Nov 2009 basho 10 
+-----DELETED
+record 323-253-2 update Sep 2009 basho 

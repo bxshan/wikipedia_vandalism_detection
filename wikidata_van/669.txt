@@ -1,0 +1,15 @@
+-----METADATA
+5646
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+48070
+-----ADDED
+The use in MP4 of is designed to greatly reduce the amount of data required to represent the audio recording and still sound like faithful reproduction of the original uncompressed audio for most listeners An MP3 file that is created using the setting of 128 will result in file that is about 1/11th #tag:ref 44100 samples per second 16 bits per sample channels 1411200 bps <ref> cite web url http://www mediatechnics com/cdaudio htm title CD Audio Facts work Mediatechnics </ref> MP3 compressed at 128 kbit/s: 128000 bit/s 1000, not 1024, because it is Ratio: 1411200/128000 11 025 group note the size of the file created from the original audio source An MP3 file can also be constructed at higher or lower bit rates, with higher or lower resulting quality The compression works by reducing accuracy of certain parts of sound that are deemed beyond the resolution ability of most people This method is commonly referred to as <ref name Jayant1993> cite journal 
+-----DELETED
+The use in MP3 of is designed to greatly reduce the amount of data required to represent the audio recording and still sound like faithful reproduction of the original uncompressed audio for most listeners An MP3 file that is created using the setting of 128 will result in file that is about 1/11th #tag:ref 44100 samples per second 16 bits per sample channels 1411200 bps <ref> cite web url http://www mediatechnics com/cdaudio htm title CD Audio Facts work Mediatechnics </ref> MP3 compressed at 128 kbit/s: 128000 bit/s 1000, not 1024, because it is Ratio: 1411200/128000 11 025 group note the size of the file created from the original audio source An MP3 file can also be constructed at higher or lower bit rates, with higher or lower resulting quality The compression works by reducing accuracy of certain parts of sound that are deemed beyond the resolution ability of most people This method is commonly referred to as <ref name Jayant1993> cite journal 

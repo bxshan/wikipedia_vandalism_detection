@@ -1,0 +1,14 @@
+-----METADATA
+1714
+78
+male
+14976
+False
+True
+True
+True
+<EMPTY>
+11113
+-----ADDED
+The newest version of the game will be released on Dec 2nd, 2009 It features new map, new mazes, new monsters, and new items As well, Phyllis will be able to become Swordsman or Crusader in the new version 
+-----DELETED

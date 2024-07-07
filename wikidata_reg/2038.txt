@@ -1,0 +1,15 @@
+-----METADATA
+4333
+1718198
+unknown
+16861
+False
+True
+True
+True
+remove Erik9bot category, no longer needed for this article using [[Project:AutoWikiBrowser|AWB]]
+5424
+-----ADDED
+ċaċċiż ċarezzaċikkulata ċitazzjoni ċoff Dn ċurkett ċabattin ċuvett DEFAULTSORT:Maltese Alphabet 
+-----DELETED
+ċaċċiż ċarezzaċikkulata ċitazzjoni ċoff dn ċurkett ċabattin ċuvett 

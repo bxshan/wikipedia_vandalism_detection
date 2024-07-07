@@ -1,0 +1,15 @@
+-----METADATA
+12878
+23
+unknown
+14820
+False
+True
+True
+True
+<EMPTY>
+3637
+-----ADDED
+While dialect of region has evolved changed over time, it is worth noting distinct other group The dialect of small isolated island of is significantly unique that it seems relatively untouched by linguistic evolution It has been hypothesized that this dialect is closest resemblance there is to dialect of original colonists Twelve miles from mainland Virginia, this tiny island was discovered 1608 by Captain John Smith, island has always had very low population In 1800, islands population was that of 79 inhabitants This ballooned to 411 by 1860 The population peaked 1930 at 1190, but has since dwindled back down to 604 2000 census <ref> Shores, David 2000 Tangier Island: place, people, talk Cranbury, Jersey Associated University Presses </ref> <ref>http://en wikipedia org/wiki/Tangier,_Virginia</ref> Given islands geographic isloation fact that islands population never really grew to large number, community was able to retain significant amount of native dialect ^http://www tangierisland-va com/island/ Lippi-Green, Rosina 1997 English with an accent: Language, ideology, and discrimination in the United States New York: Routedge *Shores, David 2000 Tangier Island: place, people, and talk Cranbury, New Jersey Associated University Presses Wolfram, W, Schilling-Estes, 2006 American English Malden, Massachusetts: Blackwell Publishing 
+-----DELETED
+While the dialect of the region has evolved and changed over time, it is worth noting distinct other in the group The dialect of the small isolated island of in the is significantly unique in that it seems relatively untouched by linguistic evolution It has been hypothesized that this dialect is the closest resemblance there is to the dialect of the original colonists David Shores book Tangier Island: place, people, and talk describes several aspects of the community that could possibly influence the ^Lippi-Green, Rosina 1997 English with an accent: Language, ideology, discrimination United States York: Routedge ^Wolfram, W, Schilling-Estes, 2006 American English Malden, Massachusetts: Blackwell Publishing 

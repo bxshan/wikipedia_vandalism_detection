@@ -1,0 +1,15 @@
+-----METADATA
+2539
+128339
+unknown
+16240
+False
+True
+True
+True
+fix ref
+2843
+-----ADDED
+Baked Alaska also known as glace au four, omelette la norvégienne, Norwegian omelette and omelette surprise is dessert made of placed in pie dish lined with slices of or and topped with The entire dessert is then placed in an extremely hot for just long enough to firm the meringue <ref> http://www foodreference com/html/artbakedalaska html Baked Alaska </ref> The meringue is an effective and the short cooking time prevents the heat from getting through to the ice cream 
+-----DELETED
+Baked Alaska also known as glace au four, omelette la norvégienne, Norwegian omelette and omelette surprise is dessert made of placed in pie dish lined with slices of or and topped with The entire dessert is then placed in an extremely hot for just long enough to firm the meringue <ref> http://www foodreference com/html/artbakedalaska html Baked Alaska <ref> The meringue is an effective and the short cooking time prevents the heat from getting through to the ice cream 

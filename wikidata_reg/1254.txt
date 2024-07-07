@@ -1,0 +1,15 @@
+-----METADATA
+3140
+147
+unknown
+15962
+False
+True
+True
+True
+Added cover version from Metallica
+19598
+-----ADDED
+;Metallica, 2009 covered the song along with at Madison Square Garden in New York City for their performance at the Rock And Roll Hall of Fame 25th anniversary concert 
+-----DELETED
+Metallica 2009 Metallica covered the song along with Ray Davies at Madison Square Garden in New York City for their performance at the Rock And Roll Hall of Fame 25th anniversary concert 

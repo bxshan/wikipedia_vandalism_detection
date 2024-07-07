@@ -1,0 +1,14 @@
+-----METADATA
+7281
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2256
+-----ADDED
+Jack Bauer saves Rome Jack Bauer saves Asia Jack Bauer saves Africa Jack Bauer helps Jesus 
+-----DELETED

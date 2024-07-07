@@ -1,0 +1,15 @@
+-----METADATA
+4755
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1327
+-----ADDED
+Arthur Earl "Dutch" Wilson December 11, 1885 in died June 12, 1960 in was in cite book last Shatzkin, Mike title The Ballplayers year 1990 publisher Arbor House isbn 0-87795-984-6 pages 1184 
+-----DELETED
+Arthur Earl "Dutch" Wilson in died in was in cite book last Shatzkin, Mike title The Ballplayers year 1990 publisher Arbor House isbn 0-87795-984-6 pages 1184 

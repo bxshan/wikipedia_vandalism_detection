@@ -1,0 +1,15 @@
+-----METADATA
+16720
+0
+unknown
+0
+True
+False
+False
+False
+[[WP:UNDO|Undid]] revision 328309916 by [[Special:Contributions/Marek69|Marek69]] ([[User talk:Marek69|talk]])
+18025
+-----ADDED
+name Hoagie caption Hoagie Hoagie, also known as sub, grinder, hero, hoagie, Italian sandwich, wedge, zep, torpedo or roll, is popular that consists of an oblong often of or split lengthwise either into two pieces or opened in "V" on one side, and filled with various meats, cheeses, vegetables, spices, and sauces <ref name Wilson>Kenneth Wilson, http://www bartleby com/68/0/5800 html The Columbia Guide to Standard American English Columbia University Press, 1993 </ref><ref name AHD> http://www bartleby com/61/50/S0845000 html The American Heritage Dictionary of the English Language: Fourth Edition Houghton Mifflin Co 2000 </ref> The sandwich has no apparent generic name, and major cities have their own names for it <ref name Wilson/> The usage of the several terms varies regionally but not in any pattern, as they have been used variously by the people and enterprises who make and sell them The terms and sub are widespread and not assignable to any certain region, though many of the localized terms are clustered in the northeast United States, where the most Italian Americans live <ref name AHD/> 
+-----DELETED
+name Submarine sandwich caption Submarine sandwich submarine sandwich, also known as sub, grinder, hero, hoagie, Italian sandwich, wedge, zep, torpedo or roll, is popular that consists of an oblong often of or split lengthwise either into two pieces or opened in "V" on one side, and filled with various meats, cheeses, vegetables, spices, and sauces <ref name Wilson>Kenneth Wilson, http://www bartleby com/68/0/5800 html The Columbia Guide to Standard American English Columbia University Press, 1993 </ref><ref name AHD> http://www bartleby com/61/50/S0845000 html The American Heritage Dictionary of the English Language: Fourth Edition Houghton Mifflin Co 2000 </ref> The sandwich has no apparent generic name, and major cities have their own names for it <ref name Wilson/> The usage of the several terms varies regionally but not in any pattern, as they have been used variously by the people and enterprises who make and sell them The terms and sub are widespread and not assignable to any certain region, though many of the localized terms are clustered in the northeast United States, where the most Italian Americans live <ref name AHD/> 

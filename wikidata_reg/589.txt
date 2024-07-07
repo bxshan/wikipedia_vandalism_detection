@@ -1,0 +1,15 @@
+-----METADATA
+7605
+1718198
+unknown
+16861
+False
+True
+True
+True
+Convert date form XXXX-XX format using [[Project:AutoWikiBrowser|AWB]]
+3681
+-----ADDED
+season 2008-2009 Head coach: flagicon France fb end DEFAULTSORT:Besancon Rc France-footyclub-stub 
+-----DELETED
+season Head coach: flagicon France fb end France-footyclub-stub 

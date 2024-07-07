@@ -1,0 +1,15 @@
+-----METADATA
+3040
+2
+unknown
+14830
+False
+False
+False
+False
+Added link to thechimneyhouse.com
+2371
+-----ADDED
+The area is home to museum, the http://www thechimneyhouse com The Chimney House for events and occasions and five pubs: the Kelham Island Tavern <small> 2008 </small>, the Fat Cat, The Wellington, the Ship Inn and The Milestone It is also host to the brewers of Pale Rider, amongst others 
+-----DELETED
+The area is home to museum, the and five pubs: the Kelham Island Tavern <small> 2008 </small>, the Fat Cat, The Wellington, the Ship Inn and The Milestone It is also host to the brewers of Pale Rider, amongst others 

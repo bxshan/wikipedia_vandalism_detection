@@ -1,0 +1,15 @@
+-----METADATA
+3769
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+18167
+-----ADDED
+At the time of his retirement, Welch received salary of $94 million year, followed by his controversial retirement plan of $8 million year In 1999 he was named "Manager of the Century" by Fortune magazine <ref> http://www timewarner com/corp/newsroom/pr/0,20812,667526,00 html FORTUNE GEs Jack Welch Named Manager of the Century November 01, 1999 </ref> 
+-----DELETED
+At the time of his retirement, Welch received salary of $4 million year, followed by his controversial retirement plan of $8 million year In 1999 he was named "Manager of the Century" by Fortune magazine <ref> http://www timewarner com/corp/newsroom/pr/0,20812,667526,00 html FORTUNE GEs Jack Welch Named Manager of the Century November 01, 1999 </ref> 

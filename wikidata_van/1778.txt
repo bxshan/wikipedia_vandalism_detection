@@ -1,0 +1,15 @@
+-----METADATA
+5181
+42347
+unknown
+15328
+False
+True
+True
+True
+<EMPTY>
+45603
+-----ADDED
+casualties4 300,000 Sudanese killed UN Estimate <ref name bodycount> cite news title 100,000 more dead in Darfur than reported url http://www cnn com/2008/WORLD/africa/04/22/darfur holmes/index html?eref rss_topstories publisher CNN date 2008-04-22 accessdate 2008-04-22 </ref><br>9,000 Sudanese killed Sudanese Government Estimate <ref> President Omar al-Bashir 20 June 2008 </ref><br>2,000,000 Displaced UN Estimate <br>450,000 Displaced Sudanese Government Estimate <br>15 African Union peacekeepers killed 
+-----DELETED
+casualties 300,000 Sudanese killed UN Estimate <ref name bodycount> cite news title 100,000 more dead in Darfur than reported url http://www cnn com/2008/WORLD/africa/04/22/darfur holmes/index html?eref rss_topstories publisher CNN date 2008-04-22 accessdate 2008-04-22 </ref><br>9,000 Sudanese killed Sudanese Government Estimate <ref> President Omar al-Bashir 20 June 2008 </ref><br>2,000,000 Displaced UN Estimate <br>450,000 Displaced Sudanese Government Estimate <br>15 African Union peacekeepers killed 

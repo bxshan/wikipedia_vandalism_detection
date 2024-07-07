@@ -1,0 +1,15 @@
+-----METADATA
+2689
+11045
+unknown
+16056
+False
+True
+True
+True
+<EMPTY>
+7491
+-----ADDED
+Martin Cooper grew up in Chicago during the His parents were Ukrainian immigrants He received his undergraduate degree in Electrical Engineering in 1950 <ref name Economist> http://www economist com/science/tq/displaystory cfm?story_id 13725793 Economist, Father of the cell phone Printed June 4, 2009 Retrieved June 11, 2009 </ref> Cooper joined the and served on during the and later on stationed in 
+-----DELETED
+Martin Cooper grew up in Chicago during the His parents were Ukrainian immigrants He received his undergraduate degree in Electrical Engineering in 1950 <ref name Economist> http://www economist com/science/tq/displaystory cfm?story_id 13725793 Economist, Father of the cell phone Printed June 4, 2009 Retrieved June 11, 2009 </ref> Cooper joined the and served on during the and later on stationed in 

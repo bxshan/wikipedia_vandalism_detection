@@ -1,0 +1,15 @@
+-----METADATA
+2518
+18979
+unknown
+14828
+False
+True
+True
+True
+<EMPTY>
+11725
+-----ADDED
+Efs player no 24 nat Germany pos MF name 
+-----DELETED
+Efs player no 24 nat Germany pos MF name 

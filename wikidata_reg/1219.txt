@@ -1,0 +1,15 @@
+-----METADATA
+4636
+4851
+unknown
+15639
+False
+True
+True
+True
+<EMPTY>
+35637
+-----ADDED
+!Date!!Competition!!Vrs!!H/A!!Venue!!Result!!Score!!Tries!!Goals!!Att!!Report 26/12/2009 17/1/2010 Pre Season Highlights Report 22/1/2010 Pre Season Highlights Report 28/1/2010 Pre Season Highlights Report 
+-----DELETED
+!Date!!Competition!!Vrs!!H/A!!Venue!!Result!!Score!!Tries!!Goals!!Att!!TV!!Report 26/12/2009 Pre Season Highlights Report 17/1/2010 Pre Season Highlights Report 22/1/2010 28/1/2010 Pre Season Highlights Report 

@@ -1,0 +1,15 @@
+-----METADATA
+1719
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3428
+-----ADDED
+align "left" "" *aka "" 2010 
+-----DELETED
+align "left" "" aka "" 2010 

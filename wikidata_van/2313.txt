@@ -1,0 +1,15 @@
+-----METADATA
+3012
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+15430
+-----ADDED
+The ruddy spinning mule was invented in 1779 by It spins textile fibres into yarn by an intermittent process:<ref> harvnb Marsden 18 
+-----DELETED
+The spinning mule was invented in 1779 by It spins textile fibres into yarn by an intermittent process:<ref> harvnb Marsden 18 

@@ -1,0 +1,15 @@
+-----METADATA
+2126
+4168
+male
+14927
+False
+True
+True
+True
+ added reference that he was FIRST
+9296
+-----ADDED
+In 1979 Dr Goodheart accompanied the US Olympic team to Lake Placid, NY in the XIII<sup>th</sup> Olympic Winter Games as the first official US Olympic team chiropractor <ref> http://iaoco org/members html#anchor423020 Online registry of Olympic Chiropractic Doctors </ref> <ref> cite journal last Staff first title Chiropractic at the Winter Olympics journal Dynamic Chiropractic volume 24 page number date February 27, 2006 url http://www dynamicchiropractic com/mpacms/dc/article php?id 51078 </ref> 
+-----DELETED
+In 1979 Dr Goodheart accompanied the US Olympic team to Lake Placid, NY in the XIII<sup>th</sup> Olympic Winter Games as the first official US Olympic team chiropractor <ref> http://iaoco org/members html#anchor423020 Online registry of Olympic Chiropractic Doctors </ref> 

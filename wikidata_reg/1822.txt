@@ -1,0 +1,15 @@
+-----METADATA
+3275
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3436
+-----ADDED
+height height ft in measurements 34"-24 5"-35" 
+-----DELETED
+height height ft in 10 measurements 44"-44 5"-45" 

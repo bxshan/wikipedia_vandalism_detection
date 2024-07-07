@@ -1,0 +1,15 @@
+-----METADATA
+7513
+104253
+male
+15788
+False
+True
+True
+True
+<ref>{{London Gazette|issue=27283|startpage=1059|date=12 February 1901|accessdate=25 November 2009}}</ref>}}
+8698
+-----ADDED
+quote On the 21st October, 1899, at Elandslaagte, at most critical moment, the advance being momentarily checked by very severe fire at point blank range, these two Officers very gallantly rushed forward under this heavy fire and rallied the men, thus enabling the flanking movement, which decided the day, to be carried out London Gazette issue 27283 startpage 1059 date 12 February 1901 accessdate 25 November 2009 <ref> http://www stephen-stratford co uk/victoria_cross htm www stephen-stratford co uk </ref><ref> http://www angloboerwar com/VC/johnston_r htm www angloboerwar com </ref><ref> http://www angelfire com/biz4/bigbrian/fearless html www angelfire com </ref> 
+-----DELETED
+quote On the 21st October, 1899, at Elandslaagte, at most critical moment, the advance being momentarily checked by very severe fire at point blank range, these two Officers very gallantly rushed forward under this heavy fire and rallied the men, thus enabling the flanking movement, which decided the day, to be carried out http://www london-gazette co uk/issues/27283/pages/1059 http://www stephen-stratford co uk/victoria_cross htm www stephen-stratford co uk </ref><ref> http://www angloboerwar com/VC/johnston_r htm www angloboerwar com </ref><ref> http://www angelfire com/biz4/bigbrian/fearless html www angelfire com 

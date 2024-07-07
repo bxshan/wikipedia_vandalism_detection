@@ -1,0 +1,15 @@
+-----METADATA
+4332
+84633
+male
+14953
+False
+True
+True
+True
+pushpin map
+3875
+-----ADDED
+pushpin_map Guinea pushpin_mapsize 250 latd 12 latm 07 lats latNS longd 12 longm 24 longs longEW 
+-----DELETED
+pushpin_map <!-- the name of location map as per http://en wikipedia org/wiki/Template:Location_map --> pushpin_mapsize 300 latd latm lats latNS longd longm longs longEW 

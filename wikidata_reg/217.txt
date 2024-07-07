@@ -1,0 +1,15 @@
+-----METADATA
+2258
+9568
+male
+15476
+False
+True
+True
+True
+<EMPTY>
+32763
+-----ADDED
+Most wards in The Borough Council of Wellingborough are covered by the Constituency also some Wards in are also covered, these inculde:<ref name "Wellingborough Con"/> 
+-----DELETED
+Most wards in The Borough Council of Wellingborough are covered by the Constituency also some Wards in are also covered area these inculde:<ref name "Wellingborough Con"/> 

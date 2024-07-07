@@ -1,0 +1,15 @@
+-----METADATA
+2630
+78542
+unknown
+16127
+False
+True
+True
+True
+ ce
+4680
+-----ADDED
+This is an plant with thick stems 4-40 inches in length It is multi-branching in form and grows in large tufts The grayish colored leaves are shaped like and are about to inches long with many hairs, primarily short with only few being longer Its flowers are white with inch-long petals and yellow stamens It blooms from March to September The species is often confused with Oenothera deltoides ssp cognata that grows in an area southeast of the protected area <ref name "fwsgov"/> 
+-----DELETED
+This is an plant with thick stems 4-40 inches in length It is multi-branching in form and grows in large tufts The grayish colored leaves are shaped like and are about to inches long with many hairs, primarily short with only few being longer Its flowers are white with inch long petals and yellow stamens It blooms from March to September The species is often confused with Oenothera deltoides ssp cognata that grown in an area southeast of the protected area <ref name "fwsgov"/> 

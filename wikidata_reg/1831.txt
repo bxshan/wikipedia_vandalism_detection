@@ -1,0 +1,15 @@
+-----METADATA
+3255
+246
+male
+14862
+False
+True
+True
+True
+<EMPTY>
+17467
+-----ADDED
+In one dimension, not just Fermions, but bosons can obey the exclusion principle one dimensional Bose gas with delta function repulsive interactions of infinite strength is equivalent to gas of free fermions The reason for this is that in one dimension, exchange of particles requires that they pass through each other, and for infinitely strong repulsion, this cannot happen This model is described by quantum The exclusion principle is valid also for http://insti physics sunysb edu/~korepin/pauli pdf finite repulsion in Bose gas with delta function repulsive interactions as well as for and in one dimension 
+-----DELETED
+In one dimension, not just Fermions, but bosons can obey the exclusion principle one dimensional Bose gas with delta function repulsive interactions of infinite strength is equivalent to gas of free fermions The reason for this is that in one dimension, exchange of particles requires that they pass through each other, and for infinitely strong repulsion, this cannot happen This model is described by quantum 

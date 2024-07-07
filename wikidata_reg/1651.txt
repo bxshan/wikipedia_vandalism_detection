@@ -1,0 +1,15 @@
+-----METADATA
+10640
+35071
+male
+15823
+False
+True
+True
+True
+ recombine and update, last editor really chopped it up bad
+8036
+-----ADDED
+Voters of passed through held on November 4, 2008 which bans greyhound racing statewide as of January 1, 2010 however, an opponent of casinos, said through an aide that he has not changed his opinion and would presumably urge the Massachusetts legislature to not allow casino gambling in the state The Patrick administration announced that it was not currently focused on slots at the tracks or casinos, but that Patrick was "concerned about any job losses from any companies" and pledged to begin planning ways to assist or retrain track workers <ref> cite web url http://www enterprisenews com/business/x1807579058/Flynn-to-push-slot-legislation title With the end of greyhound racing in sight, Bridgewater lawmaker vows to again file slots bill last Elwell first Alice date 2008-11-06 publisher accessdate 2008-11-08 </ref> 
+-----DELETED
+Voters of the passed the through held on November 4, 2008 which bans greyhound racing statewide as of January 1, 2010 <ref name "run is over" /> Casino gambling is currently against law in Massachusetts, In 2007, governor idea of introducing it to the state failed to make it through the legislature However, an opponent of casinos, said through an aide that he has not changed his opinion and would presumably urge the Massachusetts legislature to not allow casino gambling in the state The Patrick administration announced that it is not currently focused on slots at the tracks or casinos, but that Patrick was "concerned about any job losses from any companies" and pledged to begin planning ways to assist or retrain track workers <ref> cite web url http://www enterprisenews com/business/x1807579058/Flynn-to-push-slot-legislation title With the end of greyhound racing in sight, Bridgewater lawmaker vows to again file slots bill last Elwell first Alice date 2008-11-06 publisher accessdate 2008-11-08 </ref> 

@@ -1,0 +1,15 @@
+-----METADATA
+1644
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+11598
+-----ADDED
+postal_code 53026 
+-----DELETED
+postal_code 56026 

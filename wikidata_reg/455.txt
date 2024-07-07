@@ -1,0 +1,15 @@
+-----METADATA
+2166
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+11147
+-----ADDED
+routes 
+-----DELETED
+start end stations routes 

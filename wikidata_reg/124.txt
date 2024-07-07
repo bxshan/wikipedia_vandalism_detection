@@ -1,0 +1,15 @@
+-----METADATA
+3488
+21293
+male
+15575
+False
+True
+True
+True
+<EMPTY>
+13027
+-----ADDED
+Jackie Brown is written and directed by It is an adaptation of the by American novelist but reworks it to create an homage to 1970s films The film stars and It was Tarantinos tenth film following his successes with 1992 and 1994 among others 
+-----DELETED
+Jackie Brown is written and directed by It is an adaptation of the by American novelist but reworks it to create an homage to 1970s films The film stars and It was Tarantinos tenth film, following his successes with 1992 1994 "" 1987 "" 1993 "" 1994 "" 1995 "" 1995 "" 1996 and "" 1996 

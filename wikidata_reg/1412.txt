@@ -1,0 +1,15 @@
+-----METADATA
+3351
+39350
+male
+15333
+False
+True
+True
+True
+Capitalisation, Replaced: [[Main-belt Asteroid]] → [[main-belt asteroid]], using [[Project:AutoWikiBrowser|AWB]]
+1552
+-----ADDED
+16021 Caseyvaughn 1999 CG81 is discovered on by the at 
+-----DELETED
+16021 Caseyvaughn 1999 CG81 is discovered on by the at 

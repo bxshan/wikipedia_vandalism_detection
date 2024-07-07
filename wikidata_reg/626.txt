@@ -1,0 +1,15 @@
+-----METADATA
+3960
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6050
+-----ADDED
+birth_place New village, Si ndh Death 20 november 2009 Ghulam Mustafa Jatoi غلام مصطفیٰ جتوئی born was politician, and was for months, from 1990 to 1990 
+-----DELETED
+birth_place New Jatoi village, Ghulam Mustafa غلام مصطفیٰ جتوئی born is politician, and was for months, from 1990 to 1990 

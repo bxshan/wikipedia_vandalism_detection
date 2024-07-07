@@ -1,0 +1,15 @@
+-----METADATA
+4700
+50028
+male
+16221
+False
+True
+True
+True
+[[Help:Reverting|Reverted]] edits by [[Special:Contributions/84.217.56.185|84.217.56.185]] ([[User talk:84.217.56.185|talk]]) to last version by Draggleduck
+13874
+-----ADDED
+bgcolor #FFDEAD 
+-----DELETED
+bgcolor "#CC9966" bgcolor "gold" bgcolor "silver" 

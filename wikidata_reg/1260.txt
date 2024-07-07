@@ -1,0 +1,15 @@
+-----METADATA
+6755
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+2545
+-----ADDED
+discovered October 3, 1981 epoch October 27, 2007 Discovered on October 3, 1981 by at the it was given the mp 1981 TW It was later renamed "Tyutchev" after the Russian poet "" <ref>MPC 34632 Minor Planet Center</ref> Reflist 
+-----DELETED
+discovered epoch Discovered on by at the it was given the mp 1981 TW It was later renamed "Tyutchev" after the Russian poet "" <ref>MPC 34632 Minor Planet Center</ref> reflist 

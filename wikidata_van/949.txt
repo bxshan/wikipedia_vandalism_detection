@@ -1,0 +1,15 @@
+-----METADATA
+3306
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+8582
+-----ADDED
+Although has no it is largely with being the has its own distinctive accent and vocabulary According to the 2001 census, English is the only language spoken in the home for around 80% of the population The next most common languages spoken at home are Chinese 1% Italian 9% Vietnamese 7% and Greek 4% LEXIE IS AUSTRAILIAN considerable proportion of first- and second-generation migrants are bilingual It is believed that there were between 200 and 300 Australian Aboriginal languages at the time of first European contact Only about 70 of these languages have survived and all but 20 of these are now endangered An indigenous language remains the main language for about 50,000 25% people Australia has sign language known as which is the main language of about 6,500 deaf people 
+-----DELETED
+Although has no it is largely with being the has its own distinctive accent and vocabulary According to the 2001 census, English is the only language spoken in the home for around 80% of the population The next most common languages spoken at home are Chinese 1% Italian 9% Vietnamese 7% and Greek 4% considerable proportion of first- and second-generation migrants are bilingual It is believed that there were between 200 and 300 Australian Aboriginal languages at the time of first European contact Only about 70 of these languages have survived and all but 20 of these are now endangered An indigenous language remains the main language for about 50,000 25% people Australia has sign language known as which is the main language of about 6,500 deaf people 

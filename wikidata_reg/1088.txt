@@ -1,0 +1,15 @@
+-----METADATA
+1690
+89
+unknown
+16165
+False
+True
+True
+True
+<EMPTY>
+9985
+-----ADDED
+Belmond is located at coord 42 50 50 93 36 44 type:city 42 847242, -93 612335 GR on the 
+-----DELETED
+Belmond is located at coord 42 50 50 93 36 44 type:city 42 847242, -93 612335 GR 

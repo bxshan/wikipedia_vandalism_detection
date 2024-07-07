@@ -1,0 +1,15 @@
+-----METADATA
+14622
+151628
+male
+15988
+False
+True
+True
+True
+added infobox
+1284
+-----ADDED
+Infobox Musical artist <!-- See Wikipedia:WikiProject_Musicians --> Name Megan Washington Img Img_capt Img_size Landscape Background solo_singer Birth_name Megan Washington Alias Born Died Origin Instrument Genre // Occupation Musician<br />Singer-songwriter Years_active 2006&ndash;present Label URL http://www myspace com/meganwashington She was born in and spent her teenage years in She is currently based in She studied jazz composition at the Queensland Conservatorium of Music and released Nightlight, an EP with jazz pianist Sean Foram in 2006 She moved away from jazz shortly thereafter and began performing in as the keyboardist and backing vocalist She has also been keyboardist and backing vocalist for In late 2008 she launched her current band, Washington, with Lance Ferguson, John Castle, Des White, Ross Irwin and Ryan Monro on bass The band released their debut Clementine in 2008 which was followed by second EP, How To Tame Lions; in August 2009 <ref> Cite web url http://www artshub com au/au/news-article/profiles/performing-arts/career-profile-megan-washington-169030 title Career Profile: Megan Washington author ArtsHub date 2007-12-17 publisher ArtsHub accessdate 2009-10-21 </ref> Clementine <small> HUB001 </small> 2008 EP "Clementine" "Cement" "How To Tame Lions" 
+-----DELETED
+She was born in and spent her teenage years in She is currently based in She studied jazz composition at the Queensland Conservatorium of Music and released Nightlight, an EP with jazz pianist Sean Foram in 2006 She moved away from jazz shortly thereafter and began performing in Old Man River, as the keyboardist and backing vocalist She has also been keyboardist and backing vocalist for Ben Lee In late 2008 she launched her current band, Washington, and this band released the Clementine EP in 2008 and the How To Tame Lions EP in August 2008 <ref> Cite web url http://www artshub com au/au/news-article/profiles/performing-arts/career-profile-megan-washington-169030 title Career Profile: Megan Washington author ArtsHub date 2007-12-17 publisher ArtsHub accessdate 2009-10-21 </ref> Clementine EP 2008<br /> Clementine<br /> Cement<br /> How To Tame Lions 

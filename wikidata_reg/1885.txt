@@ -1,0 +1,15 @@
+-----METADATA
+2694
+2767
+unknown
+15846
+False
+True
+True
+True
+<EMPTY>
+42268
+-----ADDED
+Fructose also levulose is simple found in many foods It is white solid that dissolves readily in water tree fruits, and some root vegetables, contain significant amounts of the fructose derivative table Sucrose is derived from the of and fructose 
+-----DELETED
+Fructose also levulose is simple found in many foods It is white solid that dissolves readily in water tree fruits, and some root vegetables, contain significant amounts of the fructose derivative table sugar Sucrose is derived from the of and fructose 

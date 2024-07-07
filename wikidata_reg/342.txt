@@ -1,0 +1,15 @@
+-----METADATA
+2207
+300
+male
+16171
+False
+True
+True
+True
+ removed irrelevant link to a story that contained none of these key words: Allah, akhbar, Takbir.
+9635
+-----ADDED
+
+-----DELETED
+Citation last Fisher first Ian author-link Ian Fisher journalist publication-date 2006-09-19 date 2006-09-18 year 2006 title Pope’s Regrets Over Statement Fail to Quiet Storm of Protests periodical place Rome url http://www nytimes com/2006/09/19/world/europe/19pope html?ei 5088&en c56927eae2c42670&ex 1316318400&partner rssnyt&emc rss&pagewanted all issn 0362-4331 accessdate 2007-08-25 

@@ -1,0 +1,15 @@
+-----METADATA
+2407
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4705
+-----ADDED
+identification_symbol The Squadron crest, approved in 1948, is described in heraldic terms "Kebabed upon sword erect argent hilted up, grey dove volant in bend holding in the beak sprig of olive vert fructed sable" 
+-----DELETED
+identification_symbol The Squadron crest, approved in 1948, is described in heraldic terms "in front of sword erect argent hilted up, grey dove volant in bend holding in the beak sprig of olive vert fructed sable" 

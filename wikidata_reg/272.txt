@@ -1,0 +1,15 @@
+-----METADATA
+21841
+133828
+unknown
+16549
+False
+True
+True
+True
+<EMPTY>
+42084
+-----ADDED
+Members of the House of Representatives are listed by their districts ** ** installed November 2, 1982 Louisiana Louisiana ushr Louisiana ** installed July 7, 1981 ushr New York 25 25 ushr North Carolina ushr North Carolina 11 11 ** ** installed June 29, 1982 ** ushr Pennsylvania 25 25 changed to October 14, 1981 
+-----DELETED
+Members of the House of Representatives elected statewide are listed by their districts :* :* installed November 2, 1982 End ushr Louisiana ushr Louisiana ushr Louisiana :* July 7, 1981 End New York 25 25 ushr North Carolina North Carolina 11 11 :* :* June 29, 1982 End :* ushr Pennsylvania 25 25 ::Switched affliation to October 14, 1981 

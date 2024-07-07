@@ -1,0 +1,15 @@
+-----METADATA
+5388
+816
+male
+14825
+False
+True
+True
+True
+ Changed currency, Changed City to Town, Inserted actual completion date. Inserted ASR as contractor
+9583
+-----ADDED
+recently constructed artificial located south coast England town opted build provide unique focal point towns multi-million pound waterfront redevelopment effort Bournemouth Borough Council, According local council, “The give beach its own identity, raise profile attract number visitors an annual basis Construction on this reef began in June 2008 by the New Zealand Company ASR Ltd and half was completed during the summer of that year Construction was suspended for the winter season and resumed the following summer The reef was officially declared open on the 2nd of November 2009<ref>http://www bournemouthecho co uk/news/features/surfreef/surfreefstories/4716058 Optimism_at_Boscombe_surf_reef___s_opening_day/</ref> Like most of the other reefs built to date, the Boscombe Reef was built from large sand-filled geotextile containers With total volume of 13,000 m3, the reef was designed purely as surfing break Since the reef was built, there have been few documented instances of surfers riding waves breaking on the reef As the season changes into the more energetic winter, it is expected that the reef will break more often 
+-----DELETED
+The most recently constructed artificial surfing reef is the Boscombe Reef located in on the south coast of England The city of Boscombe opted to build surfing reef to provide unique focal point for the city’s multi-million dollar waterfront redevelopment effort Bournemouth Borough Council, 2008 According to the local council, “The reef will give Boscombe beach its own identity, raise the profile of Boscombe and attract large number of visitors on an annual basis Construction this began June half was completed during summerof that year Construction was suspended winter season resumed following summer expected be completed October 2009 Like other reefs built date, was built from sand-filled geotextile containers With total volume 13,000 m3, was designed purely as break Since was built, there have been few documented instances surfers riding waves breaking As season changes into more energetic winter, it expected that break more often 

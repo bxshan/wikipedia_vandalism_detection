@@ -1,0 +1,15 @@
+-----METADATA
+3513
+123598
+unknown
+15703
+False
+True
+True
+True
+ comma
+8895
+-----ADDED
+The river, formed by the confluence of its north and south forks, begins at The North Fork Coquille River, convert 53 mi km long rises in northern and flows southwest The East Fork, convert 33 mi km long, rises in eastern Coos County, and flows generally west to join the North Fork <ref name "watershed association"/> 
+-----DELETED
+The river, formed by the confluence of its north and south forks, begins at The North Fork Coquille River, convert 53 mi km long rises in northern and flows southwest The East Fork, convert 33 mi km long, rises in eastern Coos County and flows generally west to join the North Fork <ref name "watershed association"/> 

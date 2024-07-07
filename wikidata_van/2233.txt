@@ -1,0 +1,15 @@
+-----METADATA
+1953
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2245
+-----ADDED
+Examples and applica IS SUKER 
+-----DELETED
+Examples and applications include: 

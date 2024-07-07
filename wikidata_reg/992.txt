@@ -1,0 +1,15 @@
+-----METADATA
+12888
+25410
+male
+16107
+False
+True
+True
+True
+succession box replaced, layout
+8174
+-----ADDED
+William Henry Waddington 11 December 1826 13 January 1894 was who was in reflist s-bef before s-ttl title years 1877 1879 s-aft rows after s-bef before s-ttl title years 1879 
+-----DELETED
+William Henry Waddington 11 December 1826 13 January 1894 was who was in 1879 succession box two to one before1 before2 title1 title2 years1 1877-1879 years2 after <references/> 

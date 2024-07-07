@@ -1,0 +1,15 @@
+-----METADATA
+3466
+37682
+unknown
+16118
+False
+True
+True
+True
+Reverted to revision 292028935 by [[Special:Contributions/Bearcat|Bearcat]]; rvv. ([[WP:TW|TW]])
+784
+-----ADDED
+reflist DEFAULTSORT:Metcalf, Tom US-baseball-pitcher-1940s-stub 
+-----DELETED
+Tom Metcalf is some fat smelly pie in my class 

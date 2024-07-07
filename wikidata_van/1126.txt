@@ -1,0 +1,15 @@
+-----METADATA
+5827
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+25668
+-----ADDED
+bonono de kiwi 
+-----DELETED
+main Frame rate Motion picture images are presented to an audience at constant speed In the theater, it is 24 frames per second, in NTSC US Television, it is 30 frames per second 29 97 to be exact in PAL Europe television it is 25 frames per second This speed of presentation does not vary However, by varying the speed at which the image is captured, various effects can be created knowing that the faster or slower recorded image will be played at constant speed For instance, photography is created by exposing an image at an extremely slow rate If cinematographer sets camera to expose one frame every minute for four hours, and then that footage is projected at 24 frames per second, the event that took four hours to record will now take 10 seconds to present frame per minute for hours equals 240 frames, projected at 24 frames per second equals 10 seconds This compresses the event that took place in four hours into just 10 seconds At this speed, one can present the events of whole day 24 hours in just one minute The inverse of this, if an image is captured at speeds above that at which they will be presented, the effect is to greatly slow down the image If cinematographer shoots person diving into pool at 96 frames per second, and that image is presented back at 24 frames per second, it will take times as long to watch the dive as it did for it to actually happen In motion pictures the manipulation of time and space is considerable contributing factor to the narrative storytelling tools plays much stronger role in this manipulation, but frame rate selection in the photography of the original action is also contributing factor to altering time "Ramping" is process whereby the capture frame rate of the camera changes over time For example, if in the course of 10 seconds of capture, the capture frame rate is adjusted from 60 frames per second to 24 frames per second, when played back at the standard film rate of 24 frames per second, unique time-manipulation effect is achieved For example, someone pushing door open and walking out into the street would appear to start off in but in few seconds later within the same shot the person would appear to walk in "realtime" normal speed The opposite speed-ramping is done in when Neo re-enters the Matrix for the first time to see the Oracle As he comes out of the warehouse "load-point", the camera zooms into Neo at normal speed but as it gets closer to Neos face time seems to slow down, perhaps visually accentuating Neo pausing and reflecting moment, and perhaps alluding to future manipulation of time itself within the Matrix later on in the movie 

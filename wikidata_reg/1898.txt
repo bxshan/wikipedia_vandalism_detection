@@ -1,0 +1,15 @@
+-----METADATA
+4010
+49689
+male
+16112
+False
+True
+True
+True
+ce
+4043
+-----ADDED
+Michael Mícheál Cíosóg 20 September, 1847 &ndash; 27 November, 1906 was an teacher and founder Cusack died on 27 November 1906 at the age of 59 
+-----DELETED
+Michael Cusack Mícheál Cíosóg 20 Sep 1847 &ndash; 27 Nov 1906 was an teacher and founder of the died on at age 59 

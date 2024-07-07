@@ -1,0 +1,15 @@
+-----METADATA
+7259
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+14591
+-----ADDED
+caps goals 34 <br>198 21 <!-- LEAGUE MATCHES ONLY --> pcupdate 16:30, 29 November 2009 UTC As of 2009 11 29 14 21 198! 21! 43! 25! 4! 6! 52! 5! 10! 275! 30! 59 
+-----DELETED
+caps goals 34 <br>197 21 <!-- LEAGUE MATCHES ONLY --> pcupdate 16:30, 22 November 2009 UTC As of 2009 11 25 13 20 197! 21! 43! 25! 4! 6! 52! 5! 10! 274! 30! 59 

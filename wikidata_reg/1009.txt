@@ -1,0 +1,15 @@
+-----METADATA
+10188
+3636
+unknown
+15827
+False
+True
+True
+True
+MD-04 update
+231415
+-----ADDED
+ushr Maryland Democratic incumbent may face primary challenge from or former staffer Glenn Ivey <ref> cite web url http://www rollcall com/issues/55_51/politics/40188-1 html?type printer_friendly title Ivey May Challenge Edwards publisher Roll Call author John McArdle date 2009-11-03 accessdate 2009-11-21 </ref> The district includes the inner part of and part of <ref> cite web author Member Profile url http://www cqpolitics com/wmspage cfm?docID profile-000000025663 title Profile for Rep Donna Edwards, Maryland Democrat, Inner Prince Georges County; part of Montgomery County publisher CQ Politics date 1958-06-28 accessdate 2009-07-28 </ref> Obama won 85% here in 2008 D+31 <ref name cpvi/> 
+-----DELETED
+ushr Maryland Democratic incumbent may face primary challenge from <ref> cite web url http://www politico com/news/stories/0509/23149_Page2 html title Should Edwards be shvitzing? Alex Isenstadt publisher Politico Com date accessdate 2009-07-28 </ref> The district includes the inner part of and part of <ref> cite web author Member Profile url http://www cqpolitics com/wmspage cfm?docID profile-000000025663 title Profile for Rep Donna Edwards, Maryland Democrat, Inner Prince Georges County; part of Montgomery County publisher CQ Politics date 1958-06-28 accessdate 2009-07-28 </ref> Obama won 85% here in 2008 D+31 <ref name cpvi/> 

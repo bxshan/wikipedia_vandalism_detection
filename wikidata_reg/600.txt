@@ -1,0 +1,15 @@
+-----METADATA
+1952
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2551
+-----ADDED
+http://adl serveftp org/dokuwiki/skdb SKDB but for hardware", etc 
+-----DELETED
+http://adl serveftp org/dokuwiki/skdb SKDB "apt-get but for hardware", etc 

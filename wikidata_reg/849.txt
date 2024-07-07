@@ -1,0 +1,15 @@
+-----METADATA
+2423
+1926
+male
+15189
+False
+True
+True
+True
+ fixed link for the reservation
+9790
+-----ADDED
+&ndash; Part of the reservation is in the town 
+-----DELETED
+&ndash; Part of the reservation is in the town 

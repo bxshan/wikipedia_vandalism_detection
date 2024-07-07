@@ -1,0 +1,15 @@
+-----METADATA
+1520
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5804
+-----ADDED
+leader_name Anthony Perdue will be presendent in the year 2028 
+-----DELETED
+leader_name 

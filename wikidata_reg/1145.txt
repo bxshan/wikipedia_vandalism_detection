@@ -1,0 +1,14 @@
+-----METADATA
+4989
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+12600
+-----ADDED
+wikiquote Descent 
+-----DELETED

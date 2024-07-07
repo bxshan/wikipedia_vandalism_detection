@@ -1,0 +1,15 @@
+-----METADATA
+3358
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+30428
+-----ADDED
+:: To be heat wave such period should last at least one day, but conventionally it lasts from several days to several weeks In 1900, Burrows more rigidly defined “hot wave” as spell of three or more days on each of which the maximum shade temperature reaches or exceeds convert 90 °F °C abbr on More realistically, the comfort criteria for any one region are dependent upon the normal conditions of that 
+-----DELETED
+:: To be heat wave such period should last at least one day, but conventionally it lasts from several days to several weeks In 1900, Burrows more rigidly defined “hot wave” as spell of three or more days on each of which the maximum shade temperature reaches or exceeds convert 90 °F °C abbr on More realistically, the comfort criteria for any one region are dependent upon the normal conditions of that region 

@@ -1,0 +1,14 @@
+-----METADATA
+1662
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+37062
+-----ADDED
+http://www falloutsoftware com/3D-OpenGL-Tutorials htm Fallout Software, OpenGL Tutorials 
+-----DELETED

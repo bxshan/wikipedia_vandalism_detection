@@ -1,0 +1,15 @@
+-----METADATA
+4009
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10221
+-----ADDED
+cquote The American Dream, that has lured tens of millions of all nations to our shores in the past century has not been dream of material plenty, though that has doubtlessly counted heavily It has been dream of being able to grow to fullest development as man and woman, unhampered by the barriers which had slowly been erected in the older civilizations, unrepressed by social orders which had developed for the benefit of classes rather than for the simple human being of any and every cookie 
+-----DELETED
+cquote The American Dream, that has lured tens of millions of all nations to our shores in the past century has not been dream of material plenty, though that has doubtlessly counted heavily It has been dream of being able to grow to fullest development as man and woman, unhampered by the barriers which had slowly been erected in the older civilizations, unrepressed by social orders which had developed for the benefit of classes rather than for the simple human being of any and every class 

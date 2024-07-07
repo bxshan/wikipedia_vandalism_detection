@@ -1,0 +1,15 @@
+-----METADATA
+3201
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+21726
+-----ADDED
+mineral is naturally occurring solid formed through processes that has definent chemical composition, highly ordered atomic structure, and specific physical properties by comparison, is an aggregate of minerals and/or and need not have specific chemical composition Minerals range in composition from pure and simple to very complex with thousands of known forms <ref name Klein> cite book last first James editor1-last Hurlbut editor1-first Cornelius editor2-last Klein editor2-first Cornelis date 06 March 1985 title Manual of Mineralogy publisher John Wiley Sons Inc edition 20 isbn 0-471-80580-7 free older version: http://www archive org/details/danasmanualmine00fordgoog 1912 edition </ref> The study of minerals is called 
+-----DELETED
+mineral is naturally occurring solid formed through processes that has characteristic chemical composition, highly ordered atomic structure, and specific physical properties by comparison, is an aggregate of minerals and/or and need not have specific chemical composition Minerals range in composition from pure and simple to very complex with thousands of known forms <ref name Klein> cite book last first James editor1-last Hurlbut editor1-first Cornelius editor2-last Klein editor2-first Cornelis date 06 March 1985 title Manual of Mineralogy publisher John Wiley Sons Inc edition 20 isbn 0-471-80580-7 free older version: http://www archive org/details/danasmanualmine00fordgoog 1912 edition </ref> The study of minerals is called 

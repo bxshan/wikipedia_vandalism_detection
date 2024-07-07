@@ -1,0 +1,15 @@
+-----METADATA
+5307
+33367
+unknown
+16443
+False
+True
+True
+True
+ Addition, adjustment.
+14429
+-----ADDED
+Scholar theorizes that Sif likely originated as compliment to Thor through his fertility associations, and that the name Sif Simek provides the etymology "relation by marriage" may have originally simply meant "the wife of Thor Simek rejects notions of "vegetation cult" venerating Sif, says that Sif does not appear to have function, dismisses theories proposing connections between Sifs hair and grain as "over-zealous inerpretation ", and theorizes that Snorri invented the story of Sifs shorn locks in attempt to explain the attributes of various gods <ref name SIMEK283>Simek 2007:283 </ref> 
+-----DELETED
+Scholar theorizes that Sif likely originated as compliment to Thor through his fertility associations, and that the name Sif Simek provides the etymology "relation by marriage" may have originally simply meant "the wife of Thor Simek rejects notions of "vegetation cult" venerating Sif, dismisses theories proposing connections between Sifs hair and grain as "over-zealous inerpretation ", and theorizes that Snorri invented the story of Sifs shorn locks in attempt to explain the attributes of various gods <ref name SIMEK283>Simek 2007:283 </ref> 

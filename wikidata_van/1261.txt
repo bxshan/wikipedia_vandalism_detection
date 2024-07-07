@@ -1,0 +1,15 @@
+-----METADATA
+4720
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+81589
+-----ADDED
+The is Missouris statewide public university system, the flagship institution and largest university in the state is the in The others in the system are and Missouris "premiere liberal arts and sciences university,"<ref>http://colleges usnews rankingsandreviews com/best-colleges/kirksville-mo/truman-state-2495</ref><ref>http://governors truman edu/images/Chapter%20174%20Missouri%20Revised%20Statutes pdf</ref> is the only public institution in the state with highly selective admissions standards <ref>http://www dhe mo gov/mdhe/boardbook2content jsp?id 296</ref><ref>http://www princetonreview com/TrumanStateUniversity aspx</ref> was the first medical school in the world originally the University of Health Sciences, was the first medical school in Kansas City 
+-----DELETED
+The is Missouris statewide public university system, the flagship institution and largest university in the state is the in The others in the system are and Missouris "premiere liberal arts and sciences university,"<ref>http://colleges usnews rankingsandreviews com/best-colleges/kirksville-mo/truman-state-2495</ref><ref>http://governors truman edu/images/Chapter%20174%20Missouri%20Revised%20Statutes pdf</ref> is the only public institution in the state with highly selective admissions standards <ref>http://www dhe mo gov/mdhe/boardbook2content jsp?id 296</ref><ref>http://www princetonreview com/TrumanStateUniversity aspx</ref> was the first medical school in the world originally the University of Health Sciences, was the first medical school in Kansas City 

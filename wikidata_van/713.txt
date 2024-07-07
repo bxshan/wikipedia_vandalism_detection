@@ -1,0 +1,15 @@
+-----METADATA
+4715
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5696
+-----ADDED
+DJ Shepherd likes smell his own farts 
+-----DELETED
+IP spoofing is most frequently used in In such attacks, the goal is flood the victim with overwhelming amounts of traffic, and the attacker does not care about receiving responses the attack packets Packets with spoofed addresses are thus suitable for such attacks They have additional advantages for this purpose&mdash;they are more difficult filter since each spoofed packet appears come from different address, and they hide the true source of the attack Denial of service attacks that use spoofing typically randomly choose addresses from the entire IP address space, though more sophisticated spoofing mechanisms might avoid unroutable addresses or unused portions of the IP address space The proliferation of large makes spoofing less important in denial of service attacks, but attackers typically have spoofing available as tool, if they want use it, so defenses against denial-of-service attacks that rely on the validity of the source IP address in attack packets might have trouble with spoofed packets technique used observe denial-of-service attack activity in the Internet, relies on attackers use of IP spoofing for its effectiveness IP spoofing can also be method of attack used by network intruders to defeat network security measures, such as based on IP addresses This method of attack on remote system can be extremely difficult, as it involves modifying thousands of packets at time This type of attack is most effective where trust relationships exist between machines For example, it is common on some corporate networks to have internal systems trust each other, so that users can log in without username or password provided they are connecting from another machine on the internal network and so must already be logged in By spoofing connection from trusted machine, an attacker may be able to access the target machine without an authentication Another more-recent use is to change computers country of origin for the purposes of accessing internet content limited to specific geopolitical areas For example, Hulus online-tv service can only be accessed by American residents, but theoretically also by computers spoofing American locations 

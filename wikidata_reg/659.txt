@@ -1,0 +1,15 @@
+-----METADATA
+2672
+5726
+unknown
+15896
+False
+True
+True
+True
+<EMPTY>
+8447
+-----ADDED
+The standardized spelling employs few characters that are not available in the most common electronic Replacements are often used, particularly in electronic formats, the most important is the use of instead of o-with-tail unicode 
+-----DELETED
+The standardized spelling employs few characters that are not available in the most common electronic Replacements are often used, particularly in electronic formats, the most important is to use instead of o-with-tail unicode 

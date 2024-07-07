@@ -1,0 +1,15 @@
+-----METADATA
+5746
+104253
+male
+15788
+False
+True
+True
+True
+<ref>{{London Gazette|issue=29074|supp=yes|startpage=1700|date=16 February 1916|accessdate=29 November 2009}}</ref>
+2198
+-----ADDED
+allegiance UK On 14 December, 1914 near during an attack on position, Private Robson left his trench under very heavy fire and rescued wounded NCO Subsequently, during another attack, he tried to bring second wounded man into cover, while exposed to heavy fire In this attack he was wounded almost at once, but persevered in his efforts until wounded second time <ref> London Gazette issue 29074 supp yes startpage 1700 date 16 February 1916 accessdate 29 November 2009 </ref> reflist 
+-----DELETED
+allegiance flagicon United Kingdom On near during an attack on position, Private Robson left his trench under very heavy fire and rescued wounded NCO Subsequently, during another attack, he tried to bring second wounded man into cover, while exposed to heavy fire In this attack he was wounded almost at once, but persevered in his efforts until wounded second time 

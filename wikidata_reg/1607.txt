@@ -1,0 +1,15 @@
+-----METADATA
+3739
+506
+male
+15367
+False
+True
+True
+True
+<EMPTY>
+1876
+-----ADDED
+The IBox software included the and that were needed to connect computer running to the Internet in 1994 The IBox package also included licensed copy of the AIR Mail an AIR News an news client AIR AIR and an Network File Manager 
+-----DELETED
+The IBox software included the and that were needed to connect computer running to the Internet in 1994 The IBox package also included licensed copy of the AIR Mail an AIR News an news client, AIR AIR and an Network File Manager 

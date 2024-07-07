@@ -1,0 +1,15 @@
+-----METADATA
+26939
+58921
+unknown
+16045
+False
+True
+True
+True
+<EMPTY>
+45430
+-----ADDED
+GK 1982 31 1998 156 2013 YS CB 1970 140 2010 Free tw cap BIH LB 1980 2006 123 £0 45m SCO DM 1978 14 2007 81 2011 £2 25m NIR RM 1985 2008 84 £3m SCO CM 1984 10 14 82 2011 £2m tw SCO 1983 18 2005 165 110 2010 £0 5m tw ESP 10 CF 1979 26 2004 221 64 2010 £0 45m si player bg eu nb SCO 14 pos CF age age 1986 14 2008 59 2012 £1 9m fb si player bg eu nb SCO 16 pos RB age age 1984 16 2007 96 12 2012 £2m fb si player bg eu nb SCO 18 pos CF age age 1979 12 23 2008 90 29 2011 £2m fb si player bg eu nb USA 20 pos LW age age 1982 24 2007 35 2010 £0 7m fb si player bg eu nb SCO 26 pos LB age age 1985 30 2002 63 2010 YS fb si player bg eu nb NIR 27 pos CF age age 1987 16 2008 39 2013 £3 25m fb si player bg eu nb SCO 29 pos AM age age 1991 24 2007 22 YS fb si player bg eu nb SCO 66 pos CB age age 1991 12 27 2007 YS Fb si footer cSCO ss 2008-09 position on pitch Wikipedia players articles, fb out2 footer ss 2009 Fb ss footer squad numbers http://news bbc co uk/sport1/hi/football/teams/r/rangers/club_stats/default stm BBC Sport date 26 October 2009 Fb disc footer 
+-----DELETED
+fb si player bg eu nb SCO pos GK age age 1982 31 1998 154 2013 YS CB 1970 10 2007 138 2010 Free tw cap fb si player bg eu nb BIH pos LB age age 1980 2006 121 2011 £0 45m DM 1978 14 79 2011 £2 25m fb si player bg eu nb NIR pos RM age age 1985 2008 82 2012 £3m SCO CM 1984 10 14 2007 81 £2m tw fb si player bg eu nb SCO pos CF age age 1983 18 2005 163 107 2010 £0 5m tw ESP CF 1979 26 2004 219 64 2010 £0 45m fb si player bg eu nb SCO 14 pos CF age age 1986 14 2008 57 2012 £1 9m SCO 16 RB 1984 16 2007 94 11 £2m fb si player bg eu nb SCO 18 pos CF age age 1979 12 23 2008 88 28 2011 £2m USA 20 LW 1982 24 34 2010 £0 7m fb si player bg eu nb SCO 26 pos LB age age 1985 30 2002 63 2010 YS NIR 27 1987 16 2008 38 2013 £3 25m fb si player bg eu nb SCO 29 pos AM age age 1991 24 2007 20 YS SCO 66 CB 1991 12 27 2007 YS Fb si footer cESP ss 2008-09 position on pitch Wikipedia players articles, out2 footer ss 2009 Fb ss footer squad numbers http://news bbc co uk/sport1/hi/football/teams/r/rangers/club_stats/default stm BBC Sport date 26 October 2009 Fb disc footer 

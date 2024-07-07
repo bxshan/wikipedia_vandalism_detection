@@ -1,0 +1,14 @@
+-----METADATA
+2952
+1488335
+male
+17073
+False
+True
+True
+True
+Removed category [[:Category:Psychedelic music|Psychedelic music]]; Quick-adding category [[:Category:Psychedelic rock musicians|Psychedelic rock musicians]] (using [[WP:HOTCAT|HotCat]])
+4480
+-----ADDED
+
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+6073
+17624
+unknown
+15645
+False
+True
+True
+True
+[[WP:UNDO|Undid]] revision 327032138 by [[Special:Contributions/Billc1028|Billc1028]] ([[User talk:Billc1028|talk]])
+74097
+-----ADDED
+and php?resultpage 1&table SEARCH_RESULTS&action &title The%20One%20That%20I%20Want&artist John&format SINGLE&debutLP &category &sex &releaseDate &requestNo &type &level &label &company &certificationDate &awardDescription &catalogNo &aSex &rec_id &charField &gold &platinum &multiPlat &level2 &certDate &album &id &after &before on&startMonth 1&endMonth 3&startYear 1958&endYear 2009&sort Artist&perPage 25 "Youre the One That Want" certifications RIAA Gold Platinum Searchable Database</ref> 
+-----DELETED
+"", and <ref> http://www riaa com/goldandplatinumdata php?resultpage 1&table SEARCH_RESULTS&action &title The%20One%20That%20I%20Want&artist John&format SINGLE&debutLP &category &sex &releaseDate &requestNo &type &level &label &company &certificationDate &awardDescription &catalogNo &aSex &rec_id &charField &gold &platinum &multiPlat &level2 &certDate &album &id &after &before on&startMonth 1&endMonth 3&startYear 1958&endYear 2009&sort Artist&perPage 25 "Youre the One That Want" certifications RIAA Gold Platinum Searchable Database</ref> php?table SEARCH_RESULTS 

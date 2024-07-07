@@ -1,0 +1,15 @@
+-----METADATA
+2043
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+38180
+-----ADDED
+occupation Actress, comedian, radio disc jockey, author, singer-songwriter, talk show host, activist 
+-----DELETED
+occupation Actress, comedian, radio disc jockey, author, vampire, singer-songwriter, talk show host, activist 

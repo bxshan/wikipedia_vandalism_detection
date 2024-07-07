@@ -1,0 +1,15 @@
+-----METADATA
+1954
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10376
+-----ADDED
+Flybe operated by Edinburgh, Glasgow 
+-----DELETED
+Flybe operated by Belfast-City, Edinburgh, Glasgow 

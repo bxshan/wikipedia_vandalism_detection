@@ -1,0 +1,15 @@
+-----METADATA
+2830
+2019
+unknown
+14947
+False
+True
+True
+True
+Dates European form and deprecated links.
+4464
+-----ADDED
+Christian Settipani born 31 January 1961 is the of an in and and at the Sorbonne University 
+-----DELETED
+Christian Settipani born is the of an in and and at the Sorbonne University 

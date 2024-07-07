@@ -1,0 +1,14 @@
+-----METADATA
+1167
+8138
+male
+15346
+False
+True
+True
+True
+<EMPTY>
+6434
+-----ADDED
+French Agnès de Bourgogne 28 November 2009 
+-----DELETED

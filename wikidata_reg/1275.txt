@@ -1,0 +1,15 @@
+-----METADATA
+4261
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+13949
+-----ADDED
+Single January 2010 The albums lead single, "" was written by and produced by It premiered on 23 August 2009 on Switch and was fully released on October 2009 <ref> cite web url http://thesaturdays co uk/ title The Saturdays publisher The Saturdays date accessdate 2009-09-26 </ref> The second single was announced as "" and will be released on January 2010 
+-----DELETED
+Single date 04 January 2010 The albums lead single, "" was written by and produced by It premiered on 23 August 2009 on Switch and was fully released on October 2009 <ref> cite web url http://thesaturdays co uk/ title The Saturdays publisher The Saturdays accessdate 2009-09-26 </ref> 

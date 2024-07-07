@@ -1,0 +1,15 @@
+-----METADATA
+1746
+27662
+male
+15812
+False
+True
+True
+True
+[[WP:UNDO|Undid]] revision 328244473 by [[Special:Contributions/69.118.79.53|69.118.79.53]] ([[User talk:69.118.79.53|talk]])
+50188
+-----ADDED
+colors Blue, Black, White, Silver<br /> color box #007CC5 color box black color box white color box silver 
+-----DELETED
+colors Blue, Purple, Black, White, Silver<br /> color box #007CC5 color box black color box white color box silver 

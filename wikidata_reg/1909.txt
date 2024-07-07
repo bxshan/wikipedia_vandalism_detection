@@ -1,0 +1,15 @@
+-----METADATA
+49553
+133947
+male
+15972
+False
+True
+True
+True
+removed no longer used PBB summary template, turned off automatic summary updates to preserve edits, wikified and subdivided, removed unused fields from citations
+16092
+-----ADDED
+However, both and are at least partially necessary for the HR pathway to function Therefore, cells which are deficient in BRCA1 or BRCA2 have been shown to be highly sensitive to PARP1 inhibition or knock-down, resulting in cell death by in stark contrast to cells with at least one good copy of both BRCA1 and BRCA2 Many breast cancers have defects in the BRCA1 BRCA2 HR repair pathway either due to mutations in BRCA1 or BRCA2, or other essential genes in the pathway the latter termed cancers with "BRCAness" Tumors with BRCAness are hypothesized to be highly sensitive to PARP1 inhibitors, and it has been demonstrated in mice that these inhibitors can both prevent BRCA1/2-deficient from becoming tumors as well as eradicate tumors having previously formed from BRCA1/2-deficient xenografts 
+-----DELETED
+<!-- The PBB_Controls template provides controls for Protein Box Bot, please see Template:PBB_Controls for details --> <!-- The PBB_Summary template is automatically maintained by Protein Box Bot See Template:PBB_Controls to Stop updates --> PBB_Summary section_title 

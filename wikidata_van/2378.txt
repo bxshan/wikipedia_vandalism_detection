@@ -1,0 +1,15 @@
+-----METADATA
+1762
+4777
+male
+14958
+False
+True
+True
+True
+Reverted edits by [[Special:Contributions/81.96.119.29|81.96.119.29]] to last revision by Meaghan ([[WP:HG|HG]])
+15789
+-----ADDED
+align "left" flagicon FRA ST 2007- 98 46 
+-----DELETED
+align "left" flagicon FRA ST 2007- 98 46 

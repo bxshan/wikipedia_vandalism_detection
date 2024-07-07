@@ -1,0 +1,15 @@
+-----METADATA
+2125
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+12617
+-----ADDED
+population_as_of 2008 population_total 28586 
+-----DELETED
+population_as_of 2006 population_total 27,650 

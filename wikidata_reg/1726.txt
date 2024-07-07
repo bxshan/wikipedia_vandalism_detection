@@ -1,0 +1,15 @@
+-----METADATA
+4135
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+21593
+-----ADDED
+The Elizabethan era had with reign 1558&ndash;1603 and is often considered to be the in It was the height of the no the flowering of music and This was also the time during which flourished, and and many others composed plays that broke free of Englands past style of plays and theatre It was an age of exploration and expansion abroad, while back at home, the became more acceptable to the people, most certainly after the was repulsed It was also the end of the period when was separate realm before its royal union with 
+-----DELETED
+The Elizabethan era was associated with reign 1558&ndash;1603 and is often considered to be the in It was the height of the no the flowering of music and This was also the time during which flourished, and and many others composed plays that broke free of Englands past style of plays and theatre It was an age of exploration and expansion abroad, while back at home, the became more acceptable to the people, most certainly after the was repulsed It was also the end of the period when was separate realm before its royal union with 

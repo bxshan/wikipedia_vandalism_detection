@@ -1,0 +1,14 @@
+-----METADATA
+9447
+13
+unknown
+15880
+False
+True
+True
+True
+<EMPTY>
+11380
+-----ADDED
+class "wikitable" style "text-align: center; font-size:95%;" !colspan Petrol engine !width "80px" Model !width "200px" Engine !width "90px" Transmission !width "90px" CO2 Emissions convert 1396 cc cuin abbr on 16-valve I4 <br /> 109 PS Manual 145 g/km convert 1591 cc cuin abbr on 16-valve I4 <br /> 126 PS Manual 152 g/km convert 1591 cc cuin abbr on 16-valve I4 <br /> 126 PS Automatic 165 g/km convert 1975 cc cuin abbr on 16-valve I4 <br /> 143 PS Manual 170 g/km convert 1975 cc cuin abbr on 16-valve I4 <br /> 143 PS Automatic 182 g/km !colspan Diesel engine !width "80px" Model !width "200px" Engine !width "90px" Transmission !width "90px" CO2 Emissions CRDi convert 1582 cc cuin abbr on 16-valve turbo I4 <br /> 90 PS Manual 119 g/km CRDi convert 1582 cc cuin abbr on 16-valve turbo I4 <br /> 116 PS Manual 119 g/km CRDi convert 1582 cc cuin abbr on 16-valve turbo I4 <br /> 116 PS Automatic 150 g/km CRDi U2* convert 1582 cc cuin abbr on 16-valve turbo I4 <br /> 128 PS CRDi convert 1991 cc cuin abbr on 16-valve turbo I4 <br /> 140 PS Manual 145 g/km 
+-----DELETED

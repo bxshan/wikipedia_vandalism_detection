@@ -1,0 +1,15 @@
+-----METADATA
+5728
+15
+unknown
+14829
+False
+True
+True
+True
+<EMPTY>
+15123
+-----ADDED
+\int_z^ A+B/a αt -Az- B/α αz </math> <math> \int_0^ \infty mc^ ln e^ -m∗ c^ -1 \, dt 
+-----DELETED
+<math> \int_z^ \infty e^ A+ B/a e^ αt -1 e^ -Az- B/α e^ αz -1 \, dt </math> \int_0^ mc^ ln -m∗ c^ 

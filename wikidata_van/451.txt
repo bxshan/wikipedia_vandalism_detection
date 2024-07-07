@@ -1,0 +1,14 @@
+-----METADATA
+1481
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+8094
+-----ADDED
+john turner is another guy who loves drink 
+-----DELETED

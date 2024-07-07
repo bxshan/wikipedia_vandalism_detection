@@ -1,0 +1,15 @@
+-----METADATA
+2679
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+2125
+-----ADDED
+&ndash; with her husband May 17, 1377&ndash; DEFAULTSORT:Argos And Nauplia 
+-----DELETED
+&ndash; with her husband &ndash; 

@@ -1,0 +1,15 @@
+-----METADATA
+1866
+23629
+male
+15907
+False
+True
+True
+True
+[[Wikipedia:Articles for deletion/The Grief Recovery Institute]] closed as keep
+10840
+-----ADDED
+
+-----DELETED
+<!-- Please do not remove or change this AfD message until the issue is settled --> AfDM page The Grief Recovery Institute logdate 2009 November 20 substed yes <!-- For administrator use only: oldafdfull page The Grief Recovery Institute date 20 November 2009 result keep --> rescue <!-- End of AfD message, feel free to edit beyond this point --> 

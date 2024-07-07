@@ -1,0 +1,15 @@
+-----METADATA
+4627
+2284
+unknown
+15778
+False
+True
+True
+True
+<EMPTY>
+78397
+-----ADDED
+At present the most important centers for Hispanism in France are at the Universities of Bordeaux and Toulouse, and in Paris, where Institut DES Études Hispaniques exists the call, founded in 1912 Very prestigious magazines are published in addition, like Bulletin Hispanique 
+-----DELETED
+At present the most important centers for Hispanism in France are at the Universities of Bordeaux and Toulouse, and in Paris, where Institut DES Études Hispaniques exists the call, founded in 1912 Very prestigious magazines are published in addition, like Bulletin Hispanique 

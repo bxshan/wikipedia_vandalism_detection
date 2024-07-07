@@ -1,0 +1,15 @@
+-----METADATA
+1732
+4504
+unknown
+15993
+False
+True
+True
+True
+please help verify guest stars
+1247
+-----ADDED
+Guests <!-- doesnt look right, an illustrator --> 
+-----DELETED
+Guests 

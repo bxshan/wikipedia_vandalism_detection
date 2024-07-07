@@ -1,0 +1,15 @@
+-----METADATA
+4972
+0
+unknown
+0
+True
+False
+False
+False
+wikilink Europe
+6869
+-----ADDED
+The HTC HD2, also known as the HTC T8585 or the HTC Leo, is -powered designed and manufactured by available in from mid-November 2009, some months later for other regions such as Asia Pacific and North America in Q1 2010 
+-----DELETED
+The HTC HD2, also known as the HTC T8585 or the HTC Leo, is -powered designed and manufactured by available in Europe from mid-November 2009, some months later for other regions such as Asia Pacific and North America in Q1 2010 

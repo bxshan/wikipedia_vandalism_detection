@@ -1,0 +1,15 @@
+-----METADATA
+2150
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2408
+-----ADDED
+Marroquín, known as "El Gato Imperial", was captured on January 23, 2006 and was found guilty of the murder of four victims 
+-----DELETED
+Marroquín, known as "El Sádico", was captured on January 23, 2006 and was found guilty of the murder of four victims 

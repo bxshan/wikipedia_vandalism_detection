@@ -1,0 +1,14 @@
+-----METADATA
+2956
+38613
+unknown
+16042
+False
+True
+True
+True
+Added navigation
+1478
+-----ADDED
+DEFAULTSORT:Brucato MinorPlanets Navigator 4202 Minitti 4204 Barsig MinorPlanets_Footer 
+-----DELETED

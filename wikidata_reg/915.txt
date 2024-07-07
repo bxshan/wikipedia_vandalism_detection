@@ -1,0 +1,15 @@
+-----METADATA
+3903
+0
+unknown
+0
+True
+False
+False
+False
+  Changed generic references of duct tape from "duck" to "duct"
+19170
+-----ADDED
+As might be expected from its widespread use, duct tape has featured in many references in popular culture Its image is one of "make-do", or "cheap fix", and it is particularly associated with men For instance, in the US Martin Cranes beloved and ugly old armchair, complete with pieces of duc tape covering rips in the fabric, sat in the middle of an otherwise impeccably furnished room The character of the sees duct tape as the answer to any problem, dubbing it "the handymans secret weapon" and spawning major motion picture called The title character of the television series also master of improvised inventions, made frequent use of duct tape, flattened roll of which he frequently kept in his back pocket The devoted an entire episode to duct tape by lifting car with it, repairing and making boat out of it, and creating duct tape cannon 
+-----DELETED
+As might be expected from its widespread use, duck tape has featured in many references in popular culture Its image is one of "make-do", or "cheap fix", and it is particularly associated with men For instance, in the US Martin Cranes beloved and ugly old armchair, complete with pieces of duck tape covering rips in the fabric, sat in the middle of an otherwise impeccably furnished room The character of the sees duck tape as the answer to any problem, dubbing it "the handymans secret weapon" and spawning major motion picture called The title character of the television series also master of improvised inventions, made frequent use of duck tape, flattened roll of which he frequently kept in his back pocket The devoted an entire episode to Duck Tape by lifting car with it, repairing and making boat out of it, and creating duck tape cannon 

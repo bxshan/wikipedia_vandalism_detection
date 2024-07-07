@@ -1,0 +1,15 @@
+-----METADATA
+1714
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+30696
+-----ADDED
+attendance 15,668 
+-----DELETED
+attendance 

@@ -1,0 +1,15 @@
+-----METADATA
+1814
+301559
+female
+15518
+False
+True
+True
+True
+rem blue link which doesn't mention entry
+629
+-----ADDED
+former MLA from Alberta, Canada 
+-----DELETED
+former MLA from 

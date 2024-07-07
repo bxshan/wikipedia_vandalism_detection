@@ -1,0 +1,15 @@
+-----METADATA
+2200
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2100
+-----ADDED
+The Maitri missile project is next-generation Quick Reaction Surface-to-Air Missile QRSAM with lethal hundred per cent kill probability It is should not be confused with the similar Indian Army Low-Level Quick Reaction Missile system LLQRM requirement 
+-----DELETED
+The Maitri missile project is short-range surface to air missile It is next-generation Quick Reaction Surface-to-Air Missile QRSAM It is should not be confused with the similar Indian Army Low-Level Quick Reaction Missile system LLQRM requirement 

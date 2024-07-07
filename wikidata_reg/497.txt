@@ -1,0 +1,15 @@
+-----METADATA
+9053
+91877
+unknown
+16210
+False
+True
+True
+True
+[[Help:Reverting|Reverted]] edits by [[Special:Contributions/68.231.116.79|68.231.116.79]] ([[User talk:68.231.116.79|talk]]) to last version by SmackBot
+39168
+-----ADDED
+By 2004, search engines had incorporated wide range of undisclosed factors in their ranking algorithms to reduce the impact of link manipulation Google says it ranks sites using more than 200 different signals The three leading search engines, Google, and do not disclose the algorithms they use to rank pages Notable SEOs, such as Rand Fishkin, and have studied different approaches to search engine optimization, and have published their opinions in online forums and blogs <ref> cite web author url http://blog searchenginewatch com/blog/050929-072711 title Rundown On Search Ranking Factors publisher date September 29, 2005 accessdate 2007-05-08 </ref><ref> cite web url http://www seomoz org/article/search-ranking-factors title Search Engine Ranking Factors V2 publisher SEOmoz org date April 2, 2007 accessdate 2007-05-14 </ref> SEO practitioners may also study patents held by various search engines to gain insight into the algorithms <ref> cite web author Christine Churchill url http://searchenginewatch com/showPage html?page 3564261 title Understanding Search Engine Patents publisher date November 23, 2005 accessdate 2007-05-08 </ref> 
+-----DELETED
+By 2004, search engines had incorporated wide range of undisclosed factors in their ranking algorithms to reduce the impact of link manipulation Google says it ranks sites using more than 200 different signals The three leading search engines, Google, and do not disclose the algorithms they use to rank pages Notable SEOs, such as Rand Fishkin, Stoney DeGeyter, and have studied different approaches to search engine optimization, and have published their opinions in online forums and blogs <ref> cite web author url http://blog searchenginewatch com/blog/050929-072711 title Rundown On Search Ranking Factors publisher date September 29, 2005 accessdate 2007-05-08 </ref><ref> cite web url http://www seomoz org/article/search-ranking-factors title Search Engine Ranking Factors V2 publisher SEOmoz org date April 2, 2007 accessdate 2007-05-14 </ref> SEO practitioners may also study patents held by various search engines to gain insight into the algorithms <ref> cite web author Christine Churchill url http://searchenginewatch com/showPage html?page 3564261 title Understanding Search Engine Patents publisher date November 23, 2005 accessdate 2007-05-08 </ref> 

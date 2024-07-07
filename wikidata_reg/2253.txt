@@ -1,0 +1,15 @@
+-----METADATA
+3990
+81427
+male
+15763
+False
+True
+True
+True
+cleanup assoc acts
+62074
+-----ADDED
+Associated_acts <!--PLEASE NOTE: If you are going to add to this list make sure that it is an artist who has formed significant part of Dr Dres career Thank you DO NOT INCLUDE TUPAC, MEL-MAN, OR ANY PRODUCERS/RECORD STAFF--> 
+-----DELETED
+Associated_acts <!--PLEASE NOTE: If you are going to add to this list make sure that it is an artist who has formed significant part of Dr Dres career Thank you--> 

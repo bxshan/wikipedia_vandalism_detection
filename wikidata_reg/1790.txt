@@ -1,0 +1,14 @@
+-----METADATA
+1386
+119783
+male
+16865
+False
+True
+True
+True
+<EMPTY>
+386
+-----ADDED
+Solar eclipse set 2015-2018 
+-----DELETED

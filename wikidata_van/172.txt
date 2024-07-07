@@ -1,0 +1,15 @@
+-----METADATA
+10085
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10127
+-----ADDED
+HIya keely this is ur grandma absoultely have no clue about this definetion so just wanted to say hi and plz give me the definition to gilbert the goldfish! 
+-----DELETED
+main Richter magnitude scale In 1935, developed the <math>M_\mathrm </math> scale also known as the with the goal of quantifying medium-sized earthquakes between magnitude and in Southern This scale was based on the responses of and their distance from the epicentre Because of this, there is an upper limit on the highest measurable magnitude; all large earthquakes will have local magnitude of around The local magnitudes estimate of earthquake size is also unreliable for measurements taken at distance of more than about 350 miles 600 ;km from the earthquakes <ref name "USGSMagPolicy"/> The moment magnitude <math>M_\mathrm </math> scale was introduced in 1979 by seismologists and to address these shortcomings while maintaining consistency Thus, for medium-sized earthquakes, the moment magnitude values should be similar to Richter values That is, magnitude earthquake will be about on both scales This scale was based on the physical properties of the earthquake, specifically the <math>M_0</math> Unlike other scales, the moment magnitude scale does not saturate at the upper end; there is no upper limit to the possible measurable magnitudes However, this has the side-effect of low-energy earthquakes clustering together <ref name "MMSperHanks" /> Moment magnitude is now the most common estimate of both medium and large earthquake magnitudes,<ref name "MSNBC-CHENGDU" cite web last Boyle first Alan title Quakes by the numbers publisher date May 12, 2008 url http://cosmiclog msnbc msn com/archive/2008/05/12/1012798 aspx quote That original scale has been tweaked through the decades, and nowadays calling it the "Richter scale" is an anachronism The most common measure is known simply as the moment magnitude scale accessdate 2008-05-12 </ref> but is rarely used for smaller quakes For example, the does not use this scale for with magnitude of less than 5, which is the great majority of quakes For these smaller quakes, other magnitude scales similar to the Richter scale are used Neither scale measures the which is the perceptible moving, shaking, and local damages experienced during quake The shaking intensity at given spot depends on many factors, such as soil types, soil sublayers, depth, type of displacement, and range from the epicenter not counting the complications of building engineering and architectural factors Rather, they are used to estimate only the total energy released by the quake The following table compares magnitudes towards the upper end of the Richter Scale for major Californian earthquakes <ref name "MMSperHanks" /> Table type class "wikitable sortable" hdrs Date!!<math>M_0\times10^ 25 </math>!!<math>M_\mathrm </math>!!<math>M_\mathrm </math> row1! 2! 3! row2 1940-05-19! 30! 4! row3 1941-07-01! 9! 9! row4 1942-10-21! 9! 5! row5 1946-03-15! 1! 3! row6 1947-04-10! 7! 2! row7 1948-12-04! 1! 5! row8! 200! 2! row9 1954-03-19! 4! 2! 

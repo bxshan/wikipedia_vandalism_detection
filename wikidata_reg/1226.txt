@@ -1,0 +1,15 @@
+-----METADATA
+2526
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+22869
+-----ADDED
+26 61 <br> <small> flag BRA <br> <br> <br> November 6, 2009 flagicon RUS </small> 
+-----DELETED
+26 61 <br> <small> flag BRA <br> <br> November 6, 2009 flagicon RUS </small> 

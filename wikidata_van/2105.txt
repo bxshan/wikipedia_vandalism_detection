@@ -1,0 +1,15 @@
+-----METADATA
+1489
+52
+unknown
+15381
+False
+True
+True
+True
+<EMPTY>
+7667
+-----ADDED
+country USSR 
+-----DELETED
+country USA 

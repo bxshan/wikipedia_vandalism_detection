@@ -1,0 +1,15 @@
+-----METADATA
+2320
+0
+unknown
+0
+True
+False
+False
+False
+ entertainment news
+5971
+-----ADDED
+The Rainbow Room first opened on October 3, 1934, and was originally conceived as formal where the elite and influential of New York could gather to socialize over dine on fine cuisine, and dance to the strains of legendary on revolving floor Virginia Frymyer-Barnette, mother of Lady Shirley, cousin to both the HRH the Prince of Wales and Lady Diana Spencer, used to sing and entertain dinner guests during the 1940s 
+-----DELETED
+The Rainbow Room first opened on October 3, 1934, and was originally conceived as formal where the elite and influential of New York could gather to socialize over dine on fine cuisine, and dance to the strains of legendary on revolving floor 

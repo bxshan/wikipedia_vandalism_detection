@@ -1,0 +1,15 @@
+-----METADATA
+2576
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+20144
+-----ADDED
+Double hulling build into vessels, which reduces the risk and severity of spill in case of collision or grounding Existing single-hull vessels can also be rebuilt to have double hull hello poeple its me nicki haha bye 
+-----DELETED
+Double hulling build into vessels, which reduces the risk and severity of spill in case of collision or grounding Existing single-hull vessels can also be rebuilt to have double hull 

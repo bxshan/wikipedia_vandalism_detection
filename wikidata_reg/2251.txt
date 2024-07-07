@@ -1,0 +1,15 @@
+-----METADATA
+10840
+53
+unknown
+14835
+False
+True
+True
+True
+<EMPTY>
+813
+-----ADDED
+Infobox Golfer name David Gilford image imagesize <!-- Optional, default is 200px --> fullname David Gilford nickname birthdate Birth date and age 1965 09 14 df birthplace deathdate <!-- Death date and age YYYY MM DD 1965 09 14 df --> deathplace height height ft in 10 weight nationality ENG residence spouse Donna 1998 partner children Joseph, Benjamin twins, 2004 college yearpro 1986 retired <!-- Year retired --> tour <!-- Current tours which member of --> prowins pgawins <!-- Number of PGA Tour wins --> eurowins champwins <!-- Number of Champions Tour wins --> japwins <!-- Number of Japan Golf Tour wins --> asiawins <!-- Number of Asian Tour wins --> sunwins <!-- Number of Sunshine Tour wins --> auswins <!-- Number of PGA Tour of Australasia wins --> otherwins <!-- Number of Other wins --> majorwins <!-- Number of Major Championship wins --> masters T24: 1995 usopen T60: 1996 open T32: 1996 pga T44: 1994 wghofid <!-- World Golf Hall of Fame member ID --> wghofyear <!-- World Golf Hall of Fame year inducted --> award1 <!-- Achievement or award details --> year1 <!-- Year of achievement or award --> award2 year2 awardssection <!-- location of awards page or section --> 
+-----DELETED
+Infobox Golfer 

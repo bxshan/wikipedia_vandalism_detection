@@ -1,0 +1,15 @@
+-----METADATA
+3193
+201
+unknown
+14899
+False
+True
+True
+True
+<EMPTY>
+16874
+-----ADDED
+In studies, LM reported some impression of horizontal movement at speed of 14 degrees of her predetermined visual field per second deg/s while fixating in the middle of the motion path, with difficulty seeing motion both below and above this velocity When allowed to track the moving spot, she had some horizontal movement vision up to 18 deg/s For vertical movement, the patient could only see motion below 10 deg/s fixated or 13 deg/s when tracking the target The patient described her perceptual experience for stimulus velocities higher than 18 and 13 deg/s, respectively as "one light spot left or right" or "one light spot up or down" and "sometimes at successive positions in between", but never as motion <ref name LM/> 
+-----DELETED
+In studies, LM reported some impression of horizontal movement at speed of 14 degrees of her predetermined visual field per second deg/s while fixating in the middle of the motion path, with difficulty seeing motion below and above this velocity When allowed to track the moving spot, she had some horizontal movement vision up to 18 deg/s For vertical movement, the patient could only see motion below 10 deg/s fixated or 13 deg/s when tracking the target The patient described her perceptual experience for stimulus velocities higher than 18 and 13 deg/s, respectively as "one light spot left or right" or "one light spot up or down" and "sometimes at successive positions in between", but never as motion <ref name LM/> 

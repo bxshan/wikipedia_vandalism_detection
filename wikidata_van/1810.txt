@@ -1,0 +1,15 @@
+-----METADATA
+3421
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5283
+-----ADDED
+In English, Fuck represents the this sound is also represented by "f" in the International Phonetic Alphabet and X-SAMPA represents the same sound in most other languages written in the Latin alphabet, provided they use the letter at all; some exceptions include where it represents the IPA /ɸ/ and where it represents the IPA /v/ 
+-----DELETED
+In English, represents the this sound is also represented by "f" in the International Phonetic Alphabet and X-SAMPA represents the same sound in most other languages written in the Latin alphabet, provided they use the letter at all; some exceptions include where it represents the IPA /ɸ/ and where it represents the IPA /v/ 

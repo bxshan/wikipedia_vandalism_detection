@@ -1,0 +1,15 @@
+-----METADATA
+2404
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+135333
+-----ADDED
+Shortly after being elected president, some western media outlets published claims that Ahmadinejad was among the students who stormed the US embassy in Tehran, sparking the This claim has been denied by the Iranian government, the Iranian opposition as well as CIA investigation on the matter 
+-----DELETED
+Shortly after being elected president, some western media outlets published claims that Ahmadinejad was involved in the iran hostage crisis This claim has been denied by the Iranian government, Iranian oppositions as well as CIA investigation on this matter 

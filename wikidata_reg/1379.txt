@@ -1,0 +1,15 @@
+-----METADATA
+11251
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+23429
+-----ADDED
+Voice Actor Japanese Voice Actor English Stitch Yūna Jumba Pleakley Hämsterviel Gantu Obaa Grandma Kijimuna Yūnas father Kōichi Yamadera Taka Sae-chan ??? Piko Angel Reuben Sparky Felix Soro ??? ??? 
+-----DELETED
+Voice Actor Stitch Yūna Jumba Pleakley Hämsterviel Gantu Obaa Grandma Kijimuna Yūnas father Kōichi Yamadera Taka Sae-chan ??? Piiko Angel Reuben Sparky Felix Soro ??? 

@@ -1,0 +1,15 @@
+-----METADATA
+2838
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4073
+-----ADDED
+Immersion students require 11 French credits in order to receive their Honours Certificate of Bilingual Studies in French Immersion Extended French students require French credits to receive their Honours Certificate of Bilingual Studies in Extended French French credits can be obtained by taking available courses in French such as: French, Geography, Gym, Art, History, Math immersion and Civics Careers 
+-----DELETED
+Immersion students require 11 French credits in order to receive their Honours Certificate of Bilingual Studies in French Immersion Extended French students require French credits to receive their Honours Certificate of Bilingual Studies in Extended French French credits can be obtained by taking available courses in French such as: French, Geography, Gym, Art, History, Math immersion and Civics Careers 

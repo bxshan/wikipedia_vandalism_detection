@@ -1,0 +1,15 @@
+-----METADATA
+17762
+15043
+male
+15497
+False
+True
+True
+True
+refine infobox, rmv spam ELs
+4871
+-----ADDED
+Infobox Protected area name Horton Plains National Park photo Srilankamountainforest jpg photo_caption Worlds End, sheer precipice lies in the park map_caption Horton Plains National Park locator_x 135 lat_s long_s coords_ref area convert 3160 ha mi2 visitation_num governing_body world_heritage_site in tentative list 2006 
+-----DELETED
+Infobox Protected area name "Maha Eliya" National Park<br /> Horton Plains National Park map_caption Location of Horton Plains locator_x 120 lat_s 00 long_s 00 area 31 598 km² visitation_num 150,000 governing_body cite web url http://www infolanka com/discover/horton/ title Journey to the End of the World: Sri Lankas Horton Plains author Anu Weerasuriya year 1991 month May work publisher InfoLanka com accessdate 2008-11-01 cite web url http://www lakdasun com/attractions/attraction-07-horton-plains-national-park htm title Horton Plains Maha-Eliya Heaven on Earth, 2100m Above Sea Level author Lakdasun year 2009 month January work publisher Lakdasun com accessdate 2009-02-07 cite web url http://www colorfulpages com/hortonplains html title Horton Plains මහ එළිය author Colorfulpages year December, 2008 accessdate 2009-07-10 

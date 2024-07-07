@@ -1,0 +1,15 @@
+-----METADATA
+5947
+147960
+unknown
+16653
+False
+True
+True
+True
+ link, move external link
+5821
+-----ADDED
+Cases before are determined by randomly selected three- divisions, unless hearing or rehearing before sitting is ordered hearing or rehearing before sitting en banc may be ordered by majority judges regular active service, generally only when consideration by full is necessary maintain uniformity decisions, or when case involves question exceptional importance en banc consists nine judges regular active service, except that retired judge may sit rehear case or controversy if he or she sat on division at original hearing Pursuant statute, Chief Judge may designate assign temporarily one or more judges Superior Court serve on Court Appeals when business so requires In the exercise of its inherent power over members of the profession, the court established the District of Columbia Bar and has the power to approve the rules governing disciplinary proceedings The court also reviews the rules of al conduct and has established rules governing the admission of members of the District of Columbia Bar and the resolution of complaints concerning the unauthorized practice of law in the District of Columbia 
+-----DELETED
+Cases before the court are determined by randomly selected three- divisions, unless hearing or rehearing before the court sitting en banc is ordered hearing or rehearing before the court sitting en banc may be ordered by majority of the judges in regular active service, generally only when consideration by the full court is necessary to maintain uniformity of its decisions, or when the case involves question of exceptional importance The en banc court consists of the nine judges of the court in regular active service, except that retired judge may sit to rehear case or controversy if he or she sat on the division at the original hearing Pursuant to statute, the Chief Judge may designate and assign temporarily one or more judges of the Superior Court of the District of Columbia to serve on the District of Columbia Court of Appeals when the business of the court so requires In exercise inherent power over members profession, established http://www dcbar org Bar has power approve rules governing disciplinary proceedings also reviews rules al conduct has established rules governing admission members Bar resolution complaints concerning unauthorized practice law 

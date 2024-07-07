@@ -1,0 +1,15 @@
+-----METADATA
+4578
+27312
+unknown
+15312
+False
+True
+True
+True
+<EMPTY>
+45012
+-----ADDED
+ESPOLI 14 16 42 49 FFCC00 Fb cl team 11 LDU Portoviejo 11 17 gf 30 ga 55 bc FF8888 Fb cl team 12 Técnico 18 gf 42 ga 65 bc FF8888 
+-----DELETED
+Fb cl team ESPOLI 14 16 gf 42 ga 49 advances bc FFCC00 11 LDU Portoviejo 11 17 30 55 relegated FF8888 Fb cl team 12 Técnico 18 gf 42 ga 65 relegated bc FF8888 

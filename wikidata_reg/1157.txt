@@ -1,0 +1,15 @@
+-----METADATA
+2393
+0
+unknown
+0
+True
+False
+False
+False
+boozing -> drinking
+2318
+-----ADDED
+Not all of the songs are related to drinking, despite the title The last three tracks are recorded as one continuous track In one of the CD reissues this obviously confused the engineers, leading to mis-match of track numbers Their version of "John Barleycorn" is close to the version recorded by The tune is Wir Pflü­gen by Johann Schultz, better known as We Plough The Fields and Scatter an old English hymn It was recorded in February 1978 at Chipping Norton Studios 
+-----DELETED
+Not all of the songs are related to boozing, despite the title The last three tracks are recorded as one continuous track In one of the CD reissues this obviously confused the engineers, leading to mis-match of track numbers Their version of "John Barleycorn" is close to the version recorded by The tune is Wir Pflü­gen by Johann Schultz, better known as We Plough The Fields and Scatter an old English hymn It was recorded in February 1978 at Chipping Norton Studios 

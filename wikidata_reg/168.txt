@@ -1,0 +1,15 @@
+-----METADATA
+2367
+48
+unknown
+15479
+False
+True
+True
+True
+<EMPTY>
+1762
+-----ADDED
+*The Musical Times, volume 101, no 1409 July 1960 page 439 
+-----DELETED
+References The Musical Times, volume 101, no 1409 July 1960 page 439 

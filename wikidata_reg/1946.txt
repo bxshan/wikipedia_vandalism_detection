@@ -1,0 +1,15 @@
+-----METADATA
+2580
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4680
+-----ADDED
+*Bassman 70 1977-1983 Silverface piggyback head Same as the Bassman 50, with 70 Watts/RMS and master volume control 
+-----DELETED
+*Bassman 70 1977-1983 Silverface piggyback head Same as the Bassman 50, with 70 Watts/RMS and master volume control with "pull boost" circuit 

@@ -1,0 +1,15 @@
+-----METADATA
+5285
+61822
+male
+15243
+False
+True
+True
+True
+punctuation
+15253
+-----ADDED
+and were used to kill several million people between 1941 and 1945 Some stationary gas chambers could kill 2,500 Fact date January 2009 people at once The use of gas chambers during the Holocaust was attested to by several sources including the and testimony from Commandant of the and other German soldiers <ref>The Vrba-Wetzler report, Rudolf Vrba Alfred Wetzler, http://www holocaustresearchproject net/othercamps/auschproto html</ref><ref>Modern History Sourcebook: Rudolf Hoess, Commandant of Auschwitz: Testimony at Nuremberg, 1946 http://www fordham edu/halsall/mod/1946hoess html</ref><ref>Testimony of SS private Boeck, quoted in "Auschwitz: Technique and operation of the gas chambers" Pressac, the Beate Klarsfeld Foundation, NY, 1989, 181, http://www nizkor org/ftp cgi/people/b/ftp py?people/b/boeck richard/boeck-testimony</ref> 
+-----DELETED
+and were used to kill several million people between 1941 and 1945 Some stationary gas chambers could kill 2,500 Fact date January 2009 people at once The use of gas chambers during the Holocaust was attested to by several sources including the and testimony from Commandant of the and other German soldiers <ref>The Vrba-Wetzler report, Rudolf Vrba Alfred Wetzler, http://www holocaustresearchproject net/othercamps/auschproto html</ref><ref>Modern History Sourcebook: Rudolf Hoess, Commandant of Auschwitz: Testimony at Nuremberg, 1946 http://www fordham edu/halsall/mod/1946hoess html</ref><ref>Testimony of SS private Boeck, quoted in "Auschwitz: Technique and operation of the gas chambers Pressac, the Beate Klarsfeld Foundation, NY, 1989, 181, http://www nizkor org/ftp cgi/people/b/ftp py?people/b/boeck richard/boeck-testimony</ref> 

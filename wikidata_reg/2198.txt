@@ -1,0 +1,15 @@
+-----METADATA
+4321
+5142
+unknown
+16500
+False
+True
+True
+True
+ Link fixed
+17718
+-----ADDED
+flag Flag Mendoza Province, svg Covering an area of 148 827 km2, its the seventh biggest province of Argentina with 5,35% of the countrys total surface The population estimate for 2008 is million habitants, which makes it the fifth largest populated province of the country, or 4,35% of the total national population 
+-----DELETED
+flag Mendoza svg Covering an area 148 827 km2, its the seventh biggest province with 5,35% the countrys total surface The population estimate for 2008 is million habitants, which makes it the fifth largest populated province the country, or 4,35% the total national population 

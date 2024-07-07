@@ -1,0 +1,15 @@
+-----METADATA
+3946
+43139
+male
+16100
+False
+True
+True
+True
+<EMPTY>
+20021
+-----ADDED
+The following players have played more than 250 league and cup appearances for Huddersfield Town Statistics correct up to December 5, 2009 22 fb ENG 290 2001&ndash;present 23 fb ENG 289 1998&ndash;2008 
+-----DELETED
+The following players have played more than 250 league and cup appearances for Huddersfield Town Statistics correct up to December 1, 2009 22 fb ENG 289 2001&ndash;present 22 fb ENG 289 1998&ndash;2008 

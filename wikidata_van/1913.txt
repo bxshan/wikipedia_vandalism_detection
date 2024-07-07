@@ -1,0 +1,15 @@
+-----METADATA
+4054
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+8455
+-----ADDED
+Gustav Kirchhoff was born in the son of Friedrich Kirchhoff, lawyer, and Johanna Henriette Wittke He had really awesome big nose He graduated from the Albertus in 1847 where he attended the mathematico-physical seminar directed by and He married Clara Richelot, the daughter of his mathematics professor Richelot In the same year, they moved to where he stayed until he received professorship at 
+-----DELETED
+Gustav Kirchhoff was born in the son of Friedrich Kirchhoff, lawyer, and Johanna Henriette Wittke He graduated from the Albertus in 1847 where he attended the mathematico-physical seminar directed by and He married Clara Richelot, the daughter of his mathematics professor Richelot In the same year, they moved to where he stayed until he received professorship at 

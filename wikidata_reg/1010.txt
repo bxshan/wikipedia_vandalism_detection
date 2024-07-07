@@ -1,0 +1,15 @@
+-----METADATA
+5788
+2179
+male
+16144
+False
+True
+True
+True
+[[WP:UNDO|Undid]] revision 328236260 by [[Special:Contributions/Jimbo Wales|Jimbo Wales]] ([[User talk:Jimbo Wales|talk]]) cites are there
+4841
+-----ADDED
+The Salahis are the co-chairs of <ref> cite news url http://www makli com/michaele-salahi-0014599/ title News from Around the Globe:Michaele Salahi date 2009-11-26 </ref> and been involved in numerous controversies over the years including running bogus charity, numerous fights with their neighbors, bitter and protracted legal battle for control of the family winery, and failure to pay hundreds of thousands of dollars in bills for the Americas Polo Cup <ref> cite news url http://www vdacs virginia gov/news/releases-b/051309journeycure shtml title State warns public about charitable solicitation by Journey For The Cure Foundation author Marion Horsley date 2009-05-13 </ref><ref name "Fox" /><ref> cite news url http://askmissa com/2009/11/26/tareq-and-michaele-salahi-sari-behavior/ title Tareq and Michaele Salahi: Sari Behavior date 2009-11-26 author Andrea Rodgers </ref><ref> cite news publisher date 2009-11-26 url http://www washingtonpost com/wp-dyn/content/article/2009/11/25/AR2009112504113 html?hpid topnews title Off the list, but somehow on the South Lawn author Amy Argetsinger and Roxanne Roberts </ref><ref name "Winery" /><ref> cite news url http://www webofdeception com/whitehousepartycrasher html title Tareq Dirgham Salahis Rap Sheet </ref> 
+-----DELETED
+The Salahis are the co-chairs of <ref> cite news url http://www makli com/michaele-salahi-0014599/ title News from Around the Globe:Michaele Salahi date 2009-11-26 </ref><ref> cite news url http://www vdacs virginia gov/news/releases-b/051309journeycure shtml title State warns public about charitable solicitation by Journey For The Cure Foundation author Marion Horsley date 2009-05-13 </ref><ref name "Fox" /><ref> cite news url http://askmissa com/2009/11/26/tareq-and-michaele-salahi-sari-behavior/ title Tareq and Michaele Salahi: Sari Behavior date 2009-11-26 author Andrea Rodgers </ref><ref> cite news publisher date 2009-11-26 url http://www washingtonpost com/wp-dyn/content/article/2009/11/25/AR2009112504113 html?hpid topnews title Off the list, but somehow on the South Lawn author Amy Argetsinger and Roxanne Roberts </ref><ref name "Winery" /><ref> cite news url http://www webofdeception com/whitehousepartycrasher html title Tareq Dirgham Salahis Rap Sheet </ref> 

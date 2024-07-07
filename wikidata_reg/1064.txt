@@ -1,0 +1,15 @@
+-----METADATA
+2759
+1349
+unknown
+16279
+False
+True
+True
+True
+<EMPTY>
+5870
+-----ADDED
+Habibi began writing short stories in the 1960s, and in 1972 resigned from the Knesset in order to write his first novel: which became classic in modern Arab literature The book depicts the life of an employing and It was based on the traditional anti hero Said in Arab Literature On playful way it deals on how it is for Arabic people to live in the state of Israel And how one who has nothing to do with politics is drawn in to it He followed this by other books, short stories and play His last novel, published in 1992, was Saraya, the Ogres Daughter 
+-----DELETED
+Habibi began writing short stories in the 1960s, and in 1972 resigned from the Knesset in order to write his first novel: Which became classic in modern Arab literature The book depicts the life of an employing and It was based on the traditional anti hero Said in Arab Literature On playful way it deals on how it is for Arabic people to live in the state of Israel And how one who has nothing to do with politics is drawn in to it He followed this by other books, short stories and play His last novel, published in 1992, was Saraya, the Ogres Daughter 

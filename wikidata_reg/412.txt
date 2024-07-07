@@ -1,0 +1,15 @@
+-----METADATA
+2100
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4098
+-----ADDED
+UFC 109 is an upcoming event to be held by the on February 6, 2010 at the in <ref> cite news url http://mmajunkie com/news/16660/ufc-109-at-mandalay-bay-wec-45-at-the-palms-could-be-finalized-next-week mma UFC 109 at Mandalay Bay publisher mmajunkie com accessdate 2010-10-29 </ref> 
+-----DELETED
+UFC 109 is an upcoming event to be held by the UFC on February 6, 2010 at the in <ref> cite news url http://mmajunkie com/news/16660/ufc-109-at-mandalay-bay-wec-45-at-the-palms-could-be-finalized-next-week mma UFC 109 at Mandalay Bay publisher mmajunkie com accessdate 2010-10-29 </ref> 

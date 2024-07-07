@@ -1,0 +1,15 @@
+-----METADATA
+7528
+3074
+unknown
+15766
+False
+True
+True
+True
+[[WP:UNDO|Undid]] revision 329148419 by [[Special:Contributions/Dvdurst|Dvdurst]] ([[User talk:Dvdurst|talk]])Generally , linking a term that is commonly known is unnecessary, as is >1 link per term.
+55762
+-----ADDED
+Overall control, after separation from launch vehicle, is performed at Mission Operations Center MOC at science instruments are operated at Clyde Tombaugh Science Operations Center T-SOC in Navigation, which is not realtime, is performed at various contractor facilities; is lead on New Horizons navigation team and is responsible for planning trajectory adjustments as spacecraft speeds toward outer solar system 2029 The probe leaves the solar system 
+-----DELETED
+Overall control, after separation from the launch vehicle, is performed at Mission Operations Center MOC at the The science instruments are operated at the Clyde Tombaugh Science Operations Center T-SOC in Navigation, which is not realtime, is performed at various contractor facilities; is the lead on the New Horizons navigation team and is responsible for planning trajectory adjustments as the spacecraft speeds toward the outer 2029 probe leaves 

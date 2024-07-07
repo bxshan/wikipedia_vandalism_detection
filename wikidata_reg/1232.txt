@@ -1,0 +1,15 @@
+-----METADATA
+3410
+305
+unknown
+15392
+False
+True
+True
+True
+ correct picture
+39445
+-----ADDED
+worlds largest passenger ship was built in Turku 
+-----DELETED
+worlds largest passenger ship was build in Turku 

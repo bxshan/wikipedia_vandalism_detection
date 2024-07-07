@@ -1,0 +1,15 @@
+-----METADATA
+6252
+9
+unknown
+15357
+False
+False
+False
+False
+<EMPTY>
+54440
+-----ADDED
+clubname Rubbishest Team In History nickname We Love The Geordies position Last shirtsponsors 
+-----DELETED
+clubname Sunderland nickname Black Cats, Mackems position 16th shirtsponsors 

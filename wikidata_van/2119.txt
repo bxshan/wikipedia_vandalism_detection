@@ -1,0 +1,15 @@
+-----METADATA
+3521
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+16455
+-----ADDED
+Zworykin war born in in 1888, upohtrey on to the family of prosperous merchant He had relatively calm upbringing, rarely seeing his father except on religious holidays He studied at the under According to recently discovered accumulated personal correspondence of Zworykin, he helped Boris Rosing with experimental work on television in the basement of Rosings private lab at the School of Artillery of Rosing had filed his first patent on television system in 1907, featuring very early cathode ray tube as receiver, and mechanical device as transmitter Its demonstration in 1911, based on an improved design, was among the first demonstrations of TV of any kind 
+-----DELETED
+Zworykin war born in in 1888, perhaps on to the family of prosperous merchant He had relatively calm upbringing, rarely seeing his father except on religious holidays He studied at the under According to recently discovered accumulated personal correspondence of Zworykin, he helped Boris Rosing with experimental work on television in the basement of Rosings private lab at the School of Artillery of Rosing had filed his first patent on television system in 1907, featuring very early cathode ray tube as receiver, and mechanical device as transmitter Its demonstration in 1911, based on an improved design, was among the first demonstrations of TV of any kind 

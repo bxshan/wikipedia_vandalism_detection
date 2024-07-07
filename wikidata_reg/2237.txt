@@ -1,0 +1,15 @@
+-----METADATA
+2020
+9951
+male
+16012
+False
+True
+True
+True
+rewording intro as per [[Wikipedia:Manual of Style (biographies)#Names|WP:MOSBIO]]
+11430
+-----ADDED
+Matthew Robert "Matt" Bonner born April 5, 1980 is an professional player currently with the of the Hes nicknamed Red Rocket 
+-----DELETED
+Matthew Matt "Red Rocket" Robert Bonner born April 5, 1980 in is an professional player currently with the of the 

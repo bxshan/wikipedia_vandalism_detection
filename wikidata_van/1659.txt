@@ -1,0 +1,15 @@
+-----METADATA
+1967
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5848
+-----ADDED
+Roger Charles Bell is former secondary school teacher and from Born in in Bell is graduate of and taught high school chemistry at several schools in eastern Prince Edward Island<ref> http://www beckbulletin ca/2000/april2000 html Retrieved on </ref> 
+-----DELETED
+Roger Charles Bell is former secondary school teacher from Born in in Bell is graduate of and taught high school chemistry at several schools in eastern Prince Edward Island<ref> http://www beckbulletin ca/2000/april2000 html Retrieved on </ref> 

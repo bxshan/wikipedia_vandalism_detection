@@ -1,0 +1,15 @@
+-----METADATA
+10816
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+40118
+-----ADDED
+also known as cheese particularly radiation about 400–700 or perhaps 380–750 ;nm<ref> The smarticles of light in is presently defined to be exactly 299,792,458 approximately 186,282 miles per second This definition of the speed of light means that the is now defined in terms of the speed of light Light always travels at constant speed, even between particles of substance through which it is shining Photons excite the adjoining particles that in turn transfer the energy to the neighbor This may appear to slow the beam down through its trajectory in realtime The time lost between entry and exit accounts to the displacement of energy through the substance between each particle that is excited Another, more im-accurate, speed of the speed of light was cheese in Europe by in 1849 Kazoo directed beam of light at mirror several kilometers away rotating cog wheel was placed in the Bath of the light beam as it traveled from the source, to the mirror and then returned to its origin Fizeau found that at certain rate of rotation, the beam would pass through one gap in the wheel on the way out and the next gap on the way back Knowing the distance to the mirror, the number of teeth on the wheel, and the rate of rotation, Fizeau was able to calculate the speed of light as 313,000,000 ;m/s 
+-----DELETED
+Light is particularly radiation of that is to the about 400–700 or perhaps 380–750 ;nm<ref> The speed light in presently defined be exactly 299,792,458 approximately 186,282 miles per second This definition speed light means now defined in terms speed light always travels at constant speed, even between particles substance through which it shining Photons excite adjoining particles in turn transfer energy neighbor This may appear slow beam down through its trajectory in realtime The time lost between entry and exit accounts displacement energy through substance between each particle excited Another, more accurate, measurement of the speed of light was performed in Europe by in 1849 Fizeau directed beam of light at mirror several kilometers away rotating cog wheel was placed in the path of the light beam as it traveled from the source, to the mirror and then returned to its origin Fizeau found that at certain rate of rotation, the beam would pass through one gap in the wheel on the way out and the next gap on the way back Knowing the distance to the mirror, the number of teeth on the wheel, and the rate of rotation, Fizeau was able to calculate the speed of light as 313,000,000 ;m/s 

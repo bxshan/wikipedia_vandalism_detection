@@ -1,0 +1,15 @@
+-----METADATA
+3733
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10915
+-----ADDED
+<blockquote>The mid- to late 1990s were the years when Britains capital earned the sobriquet of `Londonistan,` title provided by French officials infuriated at the growing presence of Islamist radicals in London and the failure of British authorities to do anything about it Raids in France and Belgium had produced phone and fax numbers linked to the UK, and names of suspects were passed on Some French officials believe that if more had been done by Britain at the time, the network behind the might have been broken up and the attacks prevented <ref> http://books google com/books?id EdD29KmPy7IC&pg PP17&dq londonistan+french#v onepage&q londonistan%20french&f false Inside the jihad: my life with Al Qaeda By Omar Nasiri </ref></blockquote> 
+-----DELETED
+<blockquote>The mid- to late 1990s were the years when Britains capital earned the sobriquet of `Londonistan,` title provided by French officials infuriated at the growing presence of Islamist radicals in London and the failure of British authorities to do anything about it Raids in France and Belgium had produced phone and fax numbers lijnked to the UK, and names of suspects were passed on Some French officials believe that if more had been done by Britain at the time, the network behind the might have been broken up and the attacks prevented <ref> http://books google com/books?id EdD29KmPy7IC&pg PP17&dq londonistan+french#v onepage&q londonistan%20french&f false Inside the jihad: my life with Al Qaeda By Omar Nasiri </ref></blockquote> 

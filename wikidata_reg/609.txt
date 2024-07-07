@@ -1,0 +1,15 @@
+-----METADATA
+3309
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4698
+-----ADDED
+The starters from that team were -Matt Nevins sr QB- Corey Smith soph RB Anthony Velez Jr FB- Jarrett Smith Sr WR- Josh Fullerton Sr WR- Adrian Rosario Sr TE- Joe Demarchis Sr OL Frank Boyle Jr OL Trever Perkins Jr OL- Tom Difilippo Jr OL- Carlos Wilson Sr DL -Jeremy Gruhl Sr DL- Matt Pietrowski Soph DL- Ali Muhammad Soph DE- Mike Connor Soph DE-Adam McPartland Jr Lb -Adam Powlis Jr LB Brian Oflaherty Jr LB Damian Grey Sr DB Sheldon Parker Sr DB -Brian Faison Sr DB-Stewart Matson Jr DB 
+-----DELETED
+The starters from that team were -Matt Nevins sr QB- Corey Smtih soph RB Ant Velez Jr FB- Jarrett Smith Sr WR- Josh Fullerton Sr WR- Adrian Rosario Sr TE- Joe Demarchais Sr OL Frank Boyle Jr OL Trever Perkins Jr OL- Tom Difilippo Jr OL- Carlos Wilson Sr DL -Jeremy Gruhl Sr DL- Matt Pietrowski Soph DL- Ali Muhammad Soph DE- Mike Connor Soph DE-Adam McPartland Jr Lb -Adam Powlis Jr LB Brian Oflaherty Jr LB Damian Grey Sr DB Sheldon Parker Sr DB -Brian Faison Sr DB-Stewart Matson Jr DB 

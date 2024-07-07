@@ -1,0 +1,15 @@
+-----METADATA
+5214
+120261
+male
+16222
+False
+True
+True
+True
+ move that portion after the first cite
+8745
+-----ADDED
+The version of the game was reviewed in 1990 in #155 by Hartley, Patricia, and Kirk Lesser in "The Role of Computers" column The reviewers gave the game out of stars, saying that it was "not hard" but adding, "it is proven that those who write game code specifically for one computer system and don’t rely on port of another system’s code usually publish better-than-average game "<ref name "Dragon155"> cite journal pages 95-101 </ref> The Lessers also noted that the games graphics were reminiscent of the Mac game in that ou have top-down view of your area, in black and white and shades of gray "<ref name "Dragon155"/> 
+-----DELETED
+</ref> The version of the game was reviewed in 1990 in #155 by Hartley, Patricia, and Kirk Lesser in "The Role of Computers" column The reviewers gave the game out of stars, saying that it was "not hard" but adding, "it is proven that those who write game code specifically for one computer system and don’t rely on port of another system’s code usually publish better-than-average game The Lessers also noted that the games graphics were reminiscent of the Mac game in that ou have top-down view of your area, in black and white and shades of gray "<ref name "Dragon155"> cite journal pages 95-101 

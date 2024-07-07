@@ -1,0 +1,15 @@
+-----METADATA
+1755
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+40880
+-----ADDED
+Boston, Chicago-Midway, Halifax via Ottawa Montréal-Trudeau, Myrtle Beach seasonal; begins February 28 Newark, Ottawa, Quebec City, St Johns via Halifax Thunder Bay, Mont-Tremblant seasonal 
+-----DELETED
+Boston, Chicago-Midway, Halifax, Montréal-Trudeau, Myrtle Beach seasonal; begins February 28 Newark, Ottawa, Quebec City, St Johns, Thunder Bay, Mont-Tremblant seasonal 

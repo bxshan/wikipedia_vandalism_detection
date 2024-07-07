@@ -1,0 +1,15 @@
+-----METADATA
+5514
+221461
+male
+16326
+False
+True
+True
+True
+<EMPTY>
+1005
+-----ADDED
+style "margin: 1em 1em; float:right; text-align:center; width: 20em;" class "toccolours" colspan "2" style "padding:0 1em;border-bottom:1px #aaa solid;" Previous: Next: The 1973 was the 16th season of the championship became the second driver to win three BTCC titles, driving <ref>http://www btcc net/html/history_stats php?statstype_id Official list of BTCC champions</ref> 
+-----DELETED
+BTCC season Previous 1972 Current Next 1974 The 1973 British Saloon Car Championship, now known as the British Touring Car Championship, was the 16th season became the second driver to win three BTCC titles, driving <ref>http://www btcc net/html/history_stats php?statstype_id Official list of BTCC champions</ref> 

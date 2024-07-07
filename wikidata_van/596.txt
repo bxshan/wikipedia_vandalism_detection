@@ -1,0 +1,14 @@
+-----METADATA
+1453
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9355
+-----ADDED
+Zak Durok was former King of Scotland 
+-----DELETED

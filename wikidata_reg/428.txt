@@ -1,0 +1,15 @@
+-----METADATA
+3726
+11263
+male
+15333
+False
+True
+True
+True
+<EMPTY>
+13322
+-----ADDED
+The red stingray, Dasyatis akajei, is of in the found in the northwestern off and and possibly elsewhere It primarily inhabits shallow, sandy close to shore, and has been known to enter The red stingray has diamond-shaped disc and gains its from its bright orange-red underside; there may also be patches of orange at various spots on its upper surface Most individuals are no more than convert ft abbr on long 
+-----DELETED
+The red stingray, Dasyatis akajei, is of in the found in the northwestern off and and possibly elsewhere It primarily inhabits shallow, sandy close to shore, and has been known to enter The red stingray has diamond-shaped disc and gains its from its bright orange-red underside; there may also be patches of orange in various spots on its upper surface Most individuals are no more than convert ft abbr on long 

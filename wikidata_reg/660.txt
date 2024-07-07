@@ -1,0 +1,15 @@
+-----METADATA
+1831
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+28410
+-----ADDED
+Panama City Tocumen International Airport to flagicon Costa Rica 
+-----DELETED
+Panama City Tocumen International Airport toCosta Rica, flagicon Costa Rica 

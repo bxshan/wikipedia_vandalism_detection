@@ -1,0 +1,15 @@
+-----METADATA
+5267
+4853
+unknown
+15658
+False
+True
+True
+True
+ Fixed sales.
+13063
+-----ADDED
+66,000 align "center" 404,037 align "center" 
+-----DELETED
+align "center" 66,000 align "center" 404,037 

@@ -1,0 +1,15 @@
+-----METADATA
+4722
+76971
+male
+16621
+False
+True
+True
+True
+per [[WP:MOSTM]] using [[Project:AutoWikiBrowser|AWB]]
+16448
+-----ADDED
+The "smart puck" was developed by the when it held NHL broadcasting rights for the The puck had integrated electronics to track its position on screen; blue streak traced the path of the puck across the ice The streak would turn red if the puck was shot especially hard This was an experiment in broadcasting intended to help viewers unfamiliar with hockey to better follow the game by making the puck more visible It was ill-received by many traditional hockey fans, but appreciated by many of the more casual viewers The system debuted with much publicity in the All Star game at the Boston Fleet Center on Jan 20, 1996 While this production had the highest ratings of any hockey game to date, the system was shelved when Fox Sports lost the NHL broadcast rights three years later 
+-----DELETED
+The "smart puck" was developed by the when it held NHL broadcasting rights for the The puck had integrated electronics to track its position on screen; blue streak traced the path of the puck across the ice The streak would turn red if the puck was shot especially hard This was an experiment in broadcasting intended to help viewers unfamiliar with hockey to better follow the game by making the puck more visible It was ill-received by many traditional hockey fans, but appreciated by many of the more casual viewers The system debuted with much publicity in the All Star game at the Boston Fleet Center on Jan 20, 1996 While this production had the highest ratings of any hockey game to date, the system was shelved when Fox Sports lost the NHL broadcast rights three years later 

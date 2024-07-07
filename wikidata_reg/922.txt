@@ -1,0 +1,15 @@
+-----METADATA
+13061
+12169
+unknown
+16067
+False
+True
+True
+True
+add tag; add elaboration
+2376
+-----ADDED
+at the Musée des Arts et Métiers The Musée des Arts et Métiers Museum of Arts and Industry is museum in that houses the collection of the National Conservatory of Arts and Industry which was founded in 1794 as depository for the preservation of scientific instruments and inventions reflist refimprove date November 2009 http://www arts-et-metiers net/ Official site languageicon fr 
+-----DELETED
+at the Musée des Arts et Métiers The Musée des Arts et Métiers is museum in that houses the collection of the which was founded in 1794 as depository for the preservation of scientific instruments and inventions http://www arts-et-metiers net/ Official site languageicon fr 

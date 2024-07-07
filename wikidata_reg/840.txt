@@ -1,0 +1,15 @@
+-----METADATA
+7891
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1486
+-----ADDED
+Infobox planet March 8, epoch May 14, 2008 12040 Jacobi 1997 EK8 is discovered on March 8, 1997 by at Reflist Beltasteroid-stub 
+-----DELETED
+Infobox Planet discovered epoch 12040 Jacobi EK8 is on by at reflist beltasteroid-stub 

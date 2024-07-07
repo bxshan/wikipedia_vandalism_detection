@@ -1,0 +1,15 @@
+-----METADATA
+2087
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+89659
+-----ADDED
+Bottom, two regular tubes Left, matchstick shown for scale hi 
+-----DELETED
+Bottom, two regular tubes Left, matchstick shown for scale 

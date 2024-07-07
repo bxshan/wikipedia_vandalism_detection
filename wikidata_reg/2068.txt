@@ -1,0 +1,15 @@
+-----METADATA
+19330
+13584
+male
+16424
+False
+True
+True
+True
+Removed Category:Vietnamese Ingredients since that only applies to one species.  Changed taxobox image since the same image was used in the taxobox of that particular species.
+14799
+-----ADDED
+image Starr 050721-7264 sandwicensis jpg image_caption sandwicensis flowers, Kanaio Beach, All species have bean-like seed pods, except the The resilient seeds are often carried by the sea for large distances and are commonly-found "s" The conspicuous, even dramatic coral trees are widely used as Cockspur Coral Tree is the national flower of and The Coastal Coral Tree is the official city tree of where it is referred to simply as the "coral tree" <ref> cite book url http://books google com/books?id MkArAAAAYAAJ title Tropical Legumes: Resources for the Future author Advisory Committee on Technology Innovation, Board on Science and Technology for International Development, Commission on International Relations, National Research Council publisher National Academy of Sciences year 1979 page 258 </ref> The state trees of and in are bucaré ceibo and Purple Coral Tree bucaré anauco, respectively as well as the and have the Indian Coral Tree as floral emblems Known as thong lang in the latter species is also one of the thong "trees" referred to in the name of In similar vein, in derives its name from tzompahuacá, "place of the In people use the leaves of variegata to wrap nem kind of fermented pork <small></small> &ndash; Purple Coral Tree, bois immortelle, bucaré anauco, bucayo, gallito <small></small> &ndash; Wiliwili commonscat-inline Erythrina Erythrina 
+-----DELETED
+image CoralBeanFlower jpg image_caption herbacea flowers All species have bean-like seed pods, except the The resilient seeds are often carried by the sea for large distances and are commonly-found "s" The conspicuous, even dramatic coral trees are widely used as Cockspur Coral Tree is the national flower of and The Coastal Coral Tree is the official city tree of where it is referred to simply as the "coral tree" The state trees of and in are bucaré ceibo and Purple Coral Tree bucaré anauco, respectively as well as the and have the Indian Coral Tree as floral emblems Known as thong lang in the latter species is also one of the thong "trees" referred to in the name of In similar vein, in derives its name from tzompahuacá, "place of the In people use the leaves of variegata to wrap nem kind of fermented pork <small></small> &ndash; Purple Coral Tree, bois immortelle, bucaré anauco, bucayo, gallito Pantropical <small></small> &ndash; Wiliwili commons Erythrina Erythrina 

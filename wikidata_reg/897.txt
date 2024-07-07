@@ -1,0 +1,15 @@
+-----METADATA
+5863
+4192
+unknown
+15071
+False
+True
+True
+True
+<EMPTY>
+4755
+-----ADDED
+Born birth date and age 1981 10 29 in Genre Label URL 2008: Welcome To Sillycone Valley 
+-----DELETED
+Born birth date and age 1981 10 29 Fact date June 2008 in Genre Label C+C Records URL http://www ccrecords com/lene_alexandra/ LeneAlexandra com 2008: 

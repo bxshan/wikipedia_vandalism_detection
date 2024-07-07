@@ -1,0 +1,15 @@
+-----METADATA
+7382
+167531
+male
+15671
+False
+True
+True
+True
+Reverted to revision 326417775 by [[Special:Contributions/ClueBot|ClueBot]]. ([[WP:TW|TW]])
+1604
+-----ADDED
+staff 28 gender Co-educational lower_age upper_age 11 free_label_2 coord 52 54 31 31 11 display title *Hasan LEGEND YASMIN LEGENDDDD Better then hasan:D:D:D jokess xxx 
+-----DELETED
+staff 36 gender both lower_age upper_age 11 coord 52 54 31 31 11 display title *which basterd fuk put that fukin cunt 

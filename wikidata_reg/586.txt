@@ -1,0 +1,15 @@
+-----METADATA
+5711
+16118
+unknown
+16145
+False
+True
+True
+True
+"deahcore" is unsourced
+2320
+-----ADDED
+<ref name allmusic> cite web author Heaney, Gregory title Oceano url http://allmusic com/cg/amg dll?p amg&sql 11:gzfwxzugldke~T1 publisher accessdate 2009-11-28 </ref><ref> cite web author Sharpe-Young, Garry title Oceano url http://www musicmight com/artist/united+states/illinois/chicago/oceano1 publisher accessdate 2009-11-28 </ref>, <ref name allmusic /><ref name musicmight /> Oceano is an American band from formed in 2006 The band currently consists of vocalist Adam Warren, Guitarist Andrew Mikhael, Drummer Daniel Terchin and bassist Jason Jones 
+-----DELETED
+Oceano is an American band from formed in 2006 The band currently consists of vocalist Adam Warren, Guitarist Andrew Mikhael, Drummer Daniel Terchin and bassist Jason Jones 

@@ -1,0 +1,15 @@
+-----METADATA
+4881
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3117
+-----ADDED
+pseudonym Dashes nationality American period Hes man, he doesnt get one genre Blogger, Technologist, Govt influences The Internet influenced The Internet/Blogs 
+-----DELETED
+pseudonym nationality period genre influences influenced 

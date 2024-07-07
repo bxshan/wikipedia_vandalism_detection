@@ -1,0 +1,15 @@
+-----METADATA
+3298
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6158
+-----ADDED
+Potomac Horse Fever Waste of my time Holly Oberholtzer PHF is febrile disease affecting horses It is also known as Shasta River Crud and Equine Monocytic Ehrlichiosis It was first described in areas surrounding the northwest of in the 1980s, but cases have been described in many other parts of the United States, such as and Currently, it is found in more than 40 states within the US, as well as in Canada<ref name PH>Pascoa, Elaine "PHF Prevention Practical Horseman July 2008: 60-66 </ref> 
+-----DELETED
+Potomac Horse FeverWaste of my time PHF is febrile disease affecting horses It is also known as Shasta River Crud and Equine Monocytic Ehrlichiosis It was first described in areas surrounding the northwest of in the 1980s, but cases have been described in many other parts of the United States, such as and Currently, it is found in more than 40 states within the US, as well as in Canada<ref name PH>Pascoa, Elaine "PHF Prevention Practical Horseman July 2008: 60-66 </ref> 

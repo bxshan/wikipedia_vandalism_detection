@@ -1,0 +1,15 @@
+-----METADATA
+1925
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4878
+-----ADDED
+that should be used by all applications can be put in the global assembly cache For example, if all applications should use an assembly located in the global assembly cache, version policy statement can be added to the Machine config file that redirects references to the assemblyy 
+-----DELETED
+that should be used by all applications can be put in the global assembly cache For example, if all applications should use an assembly located in the global assembly cache, version policy statement can be added to the Machine config file that redirects references to the assembly 

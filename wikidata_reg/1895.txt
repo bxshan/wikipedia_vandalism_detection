@@ -1,0 +1,15 @@
+-----METADATA
+6323
+60
+male
+14831
+False
+True
+True
+True
+link [[TsAGI]] instead of full transliteration
+7327
+-----ADDED
+June 1950 directive ordered to develop supersonic fighter that used the convert 50 kN lbf adj on abbr on Based on recommendation from one of aerodynamicists, Yakovlev was directed to use the rhomboid or cropped delta-shaped wing covered in captured German research <ref name g4>Gordon, pp 184–85</ref> The directive was extremely ambitious as it required the maximum speed to be at time when the world speed record was barely over the <ref> cite web url http://www speedrecordclub com/outair php#700-800 title Speed Record Club accessdate 2009-11-10 </ref> This requirement had to be revised when the AL-5 was delayed and substitute engine had to be chosen No other Soviet turbojet offered the same sort of power as the AL-5 so the project was recast as technology demonstrator to evaluate the novel wing aerodynamics The convert 15 kN lbf adj on abbr on was chosen and the maximum speed was expected to be convert 1100 km/h abbr on at take-off weight of convert 2407 kg abbr on <ref name g4/> 
+-----DELETED
+June 1950 directive ordered to develop supersonic fighter that used the convert 50 kN lbf adj on abbr on Based on recommendation from one of TsAGIs Tsentrahlnyy Aerodinamicheskiy Ghidrodinamicheskiy Institoot—Central Aerodynamics and Hydrodynamics Institute aerodynamicists, Yakovlev was directed to use the rhomboid or cropped delta-shaped wing covered in captured German research <ref name g4>Gordon, pp 184–85</ref> The directive was extremely ambitious as it required the maximum speed to be at time when the world speed record was barely over the <ref> cite web url http://www speedrecordclub com/outair php#700-800 title Speed Record Club accessdate 2009-11-10 </ref> This requirement had to be revised when the AL-5 was delayed and substitute engine had to be chosen No other Soviet turbojet offered the same sort of power as the AL-5 so the project was recast as technology demonstrator to evaluate the novel wing aerodynamics The convert 15 kN lbf adj on abbr on was chosen and the maximum speed was expected to be convert 1100 km/h abbr on at take-off weight of convert 2407 kg abbr on <ref name g4/> 

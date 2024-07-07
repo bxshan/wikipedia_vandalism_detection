@@ -1,0 +1,15 @@
+-----METADATA
+3899
+37857
+unknown
+15292
+False
+True
+True
+True
+fmt fix
+6974
+-----ADDED
+The term people skills is used to include both psychological and social skills, but is less inclusive than According to the Portland Business Journal,<ref>Rifkin, http://portland bizjournals com/portland/stories/2002/06/03/focus6 html “Invest in people skills to boost bottom line” Retrieved on 2009-10-14</ref> people skills are often described as understanding ourselves and moderating our responses, talking effectively and empathizing accurately, building relationships of trust, respect and productive interactions British definition is “the ability to communicate effectively with people in friendly way, especially in business ”<ref> http://www macmillandictionary com/dictionary/british/people-skills “Macmillan Dictionary” Retrieved on 2009-08-18</ref> The term is not listed yet in major US dictionaries <ref> http://dictionary reference com/browse/people+skills&fromAsk true&o 100074 Dictionary com definition Retrieved on 2009-08-18</ref><ref> http://encarta msn com/dictionary_/people%20skills html Encarta dictionary definition Retrieved on 2009-08-18</ref> 
+-----DELETED
+The term people skills is used to include both psychological and social skills, but is less inclusive than According to the Portland Business Journal,<ref>Rifkin, http://portland bizjournals com/portland/stories/2002/06/03/focus6 html “Invest in people skills to boost bottom line” Retrieved on 2009-10-14</ref> people skills are often described as understanding ourselves and moderating our responses, talking effectively and empathizing accurately, building relationships of trust, respect and productive interactions British definition is “the ability to communicate effectively with people in friendly way, especially in business ”<ref> http://www macmillandictionary com/dictionary/british/people-skills “Macmillan Dictionary” Retrieved on 2009-08-18</ref> The term is not listed yet in major US dictionaries <ref> http://dictionary reference com/browse/people+skills&fromAsk true&o 100074 “Dictionary com/Ask” Retrieved on 2009-08-18</ref><ref> http://encarta msn com/dictionary_/people%2520skills html “encarta msn com/dictionary” Retrieved on 2009-08-18</ref> 

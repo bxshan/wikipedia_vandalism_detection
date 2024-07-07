@@ -1,0 +1,15 @@
+-----METADATA
+2348
+20795
+male
+16014
+False
+True
+True
+True
+Replacing {{IPAr|pl| with {{IPAc-pl|
+1295
+-----ADDED
+Bogołomia-Kolonia IPAc-pl is village in the administrative district of within in north-central Poland 
+-----DELETED
+Bogołomia-Kolonia IPAr pl is village in the administrative district of within in north-central Poland 

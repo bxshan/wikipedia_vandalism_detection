@@ -1,0 +1,15 @@
+-----METADATA
+2239
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6489
+-----ADDED
+Soured milk is food product, distinguished from spoiled and is general term for milk that has acquired tart taste and disgusting smell, which is often nicknamed "The Paul Hamilton Effect", either through the addition of an acid, such as lemon juice or vinegar, or through bacterial fermentation The acid causes milk to coagulate and form thicker consistency Soured milk that is produced by bacterial fermentation is more specifically called or <ref name "FDCh1P131">and they are also used for face when it is washed by sour milk 
+-----DELETED
+Soured milk is food product, distinguished from spoiled and is general term for milk that has acquired tart taste, either through the addition of an acid, such as lemon juice or vinegar, or through bacterial fermentation The acid causes milk to coagulate and form thicker consistency Soured milk that is produced by bacterial fermentation is more specifically called or <ref name "FDCh1P131">and they are also used for face when it is washed by sour milk 

@@ -1,0 +1,15 @@
+-----METADATA
+3424
+110633
+unknown
+15319
+False
+True
+True
+True
++pic
+1061
+-----ADDED
+image ArlingtonMA_WilliamProctorHouse jpg caption photo of the house, taken in 2008 William Proctor House, built in 1870, is historic house at 390 Massachusetts Avenue in It now houses professional offices 
+-----DELETED
+image caption William Proctor House, built in 1870, is historic house at 390 Massachusetts Avenue in 

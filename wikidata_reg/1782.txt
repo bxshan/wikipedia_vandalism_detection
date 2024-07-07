@@ -1,0 +1,15 @@
+-----METADATA
+2305
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4983
+-----ADDED
+The election was won convincingly by the of son of Indira who claimed 414 seats, and majority of 295 in the 533-seat parliament 
+-----DELETED
+The election was won convincingly by son of Indira who claimed 414 seats, and majority of 295 in the 533-seat parliament 

@@ -1,0 +1,15 @@
+-----METADATA
+687
+38491
+male
+16531
+False
+True
+True
+True
+[[WP:AES|←]]Redirected page to [[Oligoryzomys griseolus]]
+36
+-----ADDED
+#redirect to scientific name 
+-----DELETED
+#redirect 

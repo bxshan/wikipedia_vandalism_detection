@@ -1,0 +1,14 @@
+-----METADATA
+5858
+33
+unknown
+15003
+False
+True
+True
+True
+<EMPTY>
+4805
+-----ADDED
+<gallery> Image:Legende_500k_020409 jpg Legende Image:901 géol_500k-NW jpg North-West quadrant Image:902 géol_500k-NE jpg North-East quadrant Image:903 géol_500k-SW jpg South-East quadrant </gallery> <gallery> Image:Legende_200k_020409 jpg Legende Image:904 Saint-Louis_Dagana_200k jpg Saint-Louis Dagana Image:905 Podor_Saldé_200k jpg Podor Saldé Image:906 Matam_Semmé_200k jpg Matam Semmé </gallery> 
+-----DELETED

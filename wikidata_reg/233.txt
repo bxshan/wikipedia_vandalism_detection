@@ -1,0 +1,15 @@
+-----METADATA
+2337
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+25074
+-----ADDED
+Ethnographic methodology is not usually evaluated in terms of philosophical standpoint such as positivism and emotionalism ethnographies nonetheless need to be evaluated in some manner While there is no consensus on evaluation standards, Richardson 2000, ;254 <ref>Richardson,L 2000 Evaluating ethnography Qualitative Inquiry, 253-255 </ref> provides criteria that ethnographers might find helpful They 
+-----DELETED
+Ethnographic methodology is not usually evaluated in terms of philosophical standpoint such as positivism and emotionalism ethnographies nonetheless need to be evaluated in some manner While there is no consensus on evaluation standards, Richardson 2000, ;254 <ref>Richardson,L 2000 Evaluating ethnography Qualitative Inquiry, 253-255 </ref> provides criteria that ethnographers might find helpful They include: 

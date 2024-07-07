@@ -1,0 +1,15 @@
+-----METADATA
+2224
+579601
+male
+16543
+False
+True
+True
+True
+delink dup link
+22595
+-----ADDED
+All twelve member schools of the participate in the The conference was officially formed in 1994 but did not begin conference play until the fall of 1996 There is rich tradition throughout the conference The schools that comprise the Big 12 Conference, all former members of either the or the have won 18 including three since the inception of the Big 12 Conference 
+-----DELETED
+All twelve member schools of the participate in the The conference was officially formed in 1994 but did not begin conference play until the fall of 1996 There is rich tradition throughout the conference The schools that comprise the all former members of either the or the have won 18 including three since the inception of the Big 12 Conference 

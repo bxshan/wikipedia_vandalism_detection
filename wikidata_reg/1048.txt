@@ -1,0 +1,15 @@
+-----METADATA
+3559
+39567
+male
+16168
+False
+True
+True
+True
+more detail
+19417
+-----ADDED
+In India, sometime during this century or slightly later<ref>http://books google com/books?id CKLxjjXqAsQC&pg PA39&lpg PA39&dq panini+BCE&source web&ots Gakie80Lfx&sig oEJkmNhpxv9H9qavcz-XKGdallE&hl en&sa X&oi book_result&resnum 10&ct result</ref>, composed grammar for which is the oldest extant grammar of any language 
+-----DELETED
+In India, sometime during this century<ref>http://books google com/books?id CKLxjjXqAsQC&pg PA39&lpg PA39&dq panini+BCE&source web&ots Gakie80Lfx&sig oEJkmNhpxv9H9qavcz-XKGdallE&hl en&sa X&oi book_result&resnum 10&ct result</ref>, composed grammar for which is the oldest extant grammar of any language 

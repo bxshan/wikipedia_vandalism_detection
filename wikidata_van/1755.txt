@@ -1,0 +1,14 @@
+-----METADATA
+4921
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+24554
+-----ADDED
+EAT AT EINSTEIN BROS 
+-----DELETED

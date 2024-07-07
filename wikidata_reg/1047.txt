@@ -1,0 +1,15 @@
+-----METADATA
+6075
+123598
+unknown
+15703
+False
+True
+True
+True
+ latest revision date
+63305
+-----ADDED
+Lock Haven is the county seat of Clinton County <ref> cite web title Find County publisher National Association of Counties date 2005 url http://www naco org/Template cfm?Section Find_a_County&Template /cffiles/counties/usamap cfm accessdate May 11, 2009 </ref> According to the the city has total area of convert sqmi km2 convert sqmi km2 of which is land About convert sqmi km2 ;percent, is water <ref> cite web title United States Gazetteer files: 2000 and 1990 url http://www census gov/geo/www/gazetteer/gazette html publisher United States Census Bureau date October 22, 2009 accessdate November 30, 2009 </ref> 
+-----DELETED
+Lock Haven is the county seat of Clinton County <ref> cite web title Find County publisher National Association of Counties date 2005 url http://www naco org/Template cfm?Section Find_a_County&Template /cffiles/counties/usamap cfm accessdate May 11, 2009 </ref> According to the the city has total area of convert sqmi km2 convert sqmi km2 of which is land About convert sqmi km2 ;percent, is water <ref> cite web title United States Gazetteer files: 2000 and 1990 url http://www census gov/geo/www/gazetteer/gazette html publisher United States Census Bureau date May 5, 2003 accessdate November 30, 2009 </ref> 

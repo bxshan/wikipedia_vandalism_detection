@@ -1,0 +1,15 @@
+-----METADATA
+2726
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+15642
+-----ADDED
+isz da best 
+-----DELETED
+Spacecraft have very demanding insulation requirements Lightweight insulators are strong requirement, as extra mass on vehicle to be launched into earth orbit or beyond is extremely expensive In space, there is no atmosphere to attenuate the suns radiated energy, so the surfaces of objects in space heat up very quickly In space, heat cannot be given off by convective heat transfer, nor conducted to another object the gold foil often seen covering satellites and space probes, is used to control thermal radiation, as are specialty paints Launch and re-entry place severe mechanical stresses on spacecraft, so the strength of an insulator is critically important as seen by the failure of insulating foam on the Re-entry through the atmosphere generates very high temperatures, requiring insulators with excellent thermal properties, for example the reinforced -carbon composite nose cone and fiber tiles of the 

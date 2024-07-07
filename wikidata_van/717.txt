@@ -1,0 +1,15 @@
+-----METADATA
+2183
+4
+unknown
+14819
+False
+False
+False
+False
+<EMPTY>
+72853
+-----ADDED
+city state 
+-----DELETED
+city state 

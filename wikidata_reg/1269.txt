@@ -1,0 +1,15 @@
+-----METADATA
+4148
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9573
+-----ADDED
+flagicon Peru Bolivia flagicon Bolivia flagicon Brasil flagicon Brasil flagicon Uruguay 
+-----DELETED
+flagicon Peru Ricardo Troncone Paraguay flagicon Paraguay flagicon Paraguay 

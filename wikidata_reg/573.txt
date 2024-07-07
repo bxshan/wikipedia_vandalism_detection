@@ -1,0 +1,15 @@
+-----METADATA
+5852
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+8821
+-----ADDED
+R31 made her first trial flight with Campbell Sallabank of two hours in July 1918 under the command of Hinks top speed of convert 70 mph km/h abbr on was achieved: well above the expected convert 50 55 mph km/h abbr on and faster than any other airship then in service She was originally powered by six convert 275 hp kW abbr on engines, but in view of the performance and to reduce fuel consumption one was removed, reducing the maximum speed to still satisfactory convert 65 mph km/h abbr on and similarly the R32 was built with six engines and later converted to five-engine configuration <ref name "a32"/> 
+-----DELETED
+R31 made her first trial flight of two hours in July 1918 under the command of Hinks top speed of convert 70 mph km/h abbr on was achieved: well above the expected convert 50 55 mph km/h abbr on and faster than any other airship then in service She was originally powered by six convert 275 hp kW abbr on engines, but in view of the performance and to reduce fuel consumption one was removed, reducing the maximum speed to still satisfactory convert 65 mph km/h abbr on and similarly the R32 was built with six engines and later converted to five-engine configuration <ref name "a32"/> 

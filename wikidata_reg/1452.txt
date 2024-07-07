@@ -1,0 +1,15 @@
+-----METADATA
+4743
+10
+unknown
+14822
+False
+True
+True
+True
+<EMPTY>
+5849
+-----ADDED
+Standard Mathematica consists of front end which provides user interface and controlling process the control kernel which has computational tasks performed by up to four processes Mathematica calls the processes performing computations "compute kernels" gridMathematica allows additional processes compute kernels to be used 
+-----DELETED
+Standard Mathematica consists of three components: front end which provides the user interface, controlling process the control kernel which distributes tasks, and four compute kernels which take instruction from the control kernel and perform distributed computations gridMathematica allows additional compute kernels to be used 

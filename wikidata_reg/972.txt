@@ -1,0 +1,14 @@
+-----METADATA
+2162
+84633
+male
+14953
+False
+True
+True
+True
+Removed category [[:Category:Villages in Karnataka|Villages in Karnataka]]; Quick-adding category [[:Category:Villages in Davanagere district|Villages in Davanagere district]] (using [[WP:HOTCAT|HotCat]])
+181
+-----ADDED
+
+-----DELETED

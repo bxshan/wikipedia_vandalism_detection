@@ -1,0 +1,15 @@
+-----METADATA
+3599
+9511
+male
+15460
+False
+True
+True
+True
++link
+3157
+-----ADDED
+relations Rich Christiano born October 2, 1956 is an filmmaker, who has and many He owns Christiano Film Group, co-founded and founded ChristianMovies com in 1997 <ref> cite web url http://www westsidenewsonline com/OldSite/westside/news/2007/0708/features/localshelp html title Locals help California filmmaker date July 8, 2007 work Westside News accessdate April 16, 2009 </ref> He is also the brother of and co-authored Time Changer with Greg Mitchell 
+-----DELETED
+relations Dave Christiano brother Rich Christiano born October 2, 1956 is an filmmaker, who has and many He owns Christiano Film Group, co-founded and founded ChristianMovies com in 1997 <ref> cite web url http://www westsidenewsonline com/OldSite/westside/news/2007/0708/features/localshelp html title Locals help California filmmaker date July 8, 2007 work Westside News accessdate April 16, 2009 </ref> He is also the of Dave Christiano, and co-authored Time Changer with Greg Mitchell 

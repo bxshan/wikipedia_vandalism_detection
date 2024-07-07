@@ -1,0 +1,15 @@
+-----METADATA
+1562
+562
+unknown
+15122
+False
+True
+True
+True
+<EMPTY>
+3442
+-----ADDED
+clubnumber 30<!--10--> 
+-----DELETED
+clubnumber <!--10--> 

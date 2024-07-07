@@ -1,0 +1,15 @@
+-----METADATA
+1986
+0
+unknown
+0
+True
+False
+False
+False
+ External link
+9694
+-----ADDED
+cite book authorlink Yiannis Moschovakis author Moschovakis, Yiannis title Descriptive Set Theory publisher North Holland year 1980 isbn 0-444-70199-0 http://www math ucla edu/~ynm/books htm Second edition available online 
+-----DELETED
+cite book authorlink Yiannis Moschovakis author Moschovakis, Yiannis title Descriptive Set Theory publisher North Holland year 1980 isbn 0-444-70199-0 

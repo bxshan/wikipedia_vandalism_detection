@@ -1,0 +1,15 @@
+-----METADATA
+1702
+5
+unknown
+14830
+False
+False
+False
+False
+<EMPTY>
+22274
+-----ADDED
+The movie caused guy with full head of hair named David Webb in Maryville, Tennessee to become very popular The movie became hit in Maryville and resulted in the many people befriending David Webb for safety purposes 
+-----DELETED
+The movie caused guy named David Webb in Maryville, Tennessee to become very popular The movie became hit in Maryville and resulted in the many people befriending David Webb for safety purposes 

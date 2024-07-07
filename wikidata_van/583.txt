@@ -1,0 +1,15 @@
+-----METADATA
+5609
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+92292
+-----ADDED
+An introduction by this is sparta led Welles to the New York stage He toured in three off-Broadway productions with company Restless and impatient when the planned Broadway opening of Romeo and Juliet was canceled, Welles staged drama festival of his own with the Todd School, inviting and from Dublins Gate Theatre to appear, along with New York stage luminaries It was roaring success The subsequent revival of Romeo and Juliet brought Welles to the notice of who was then casting for an unusual lead actor and about to take lead role in the 
+-----DELETED
+An introduction by led Welles to the New York stage He toured in three off-Broadway productions with company Restless and impatient when the planned Broadway opening of Romeo and Juliet was canceled, Welles staged drama festival of his own with the Todd School, inviting and from Dublins Gate Theatre to appear, along with New York stage luminaries It was roaring success The subsequent revival of Romeo and Juliet brought Welles to the notice of who was then casting for an unusual lead actor and about to take lead role in the 

@@ -1,0 +1,15 @@
+-----METADATA
+23991
+5808
+unknown
+16477
+False
+True
+True
+True
+<EMPTY>
+72230
+-----ADDED
+DEN GK 1091 11 RB 1143 14 10 IRE CM 1882 22 17 891 12 ni AUS ENG FW 1845 20 15 12 ARG 10 FW 936 11 10 fb ss player bg nb USA 13 pos FW min 525 gs c1a c1g c2a c2g c3a c3g c4a c4g nt fb ss player bg nb ENG 14 pos CM min 1968 gs 22 c1a 17 c1g c2a c2g c3a c3g c4a c4g c4g nt Also played RM fb ss player bg nb SVK 17 pos CB min 870 gs c1a c1g c2a c2g c3a c3g c4a c4g nt fb ss player bg nb SCO 23 pos RW min 1895 gs 22 c1a 16 c1g c2a c2g c3a c3g c4a c4g c4g nt Also played LW fb ss player bg nb ENG 26 pos RB min 1272 gs 15 c1a 12 c1g c2a c2g c3a c3g c4a c4g nt Also played CB fb ss player bg nb NOR 30 pos DF min 90 gs c1a c1g c2a c2g c3a c3g c4a c4g nt ni NIR fb ss footer 29 Nov 2009 Squad Numbers http://www leedsunited com/page/Fixtures/0,,10273,00 html Leeds United 
+-----DELETED
+fb ss player bg nb DEN pos GK min 1001 gs 10 c1a c1g c2a c2g c3a c3g c4a c4g nt ENG RB 1053 13 10 fb ss player bg nb IRE pos CM min 1792 gs 21 c1a 17 c1g c2a c2g c3a c3g c4a c4g nt CM 801 12 ni AUS fb ss player bg nb ENG pos FW min 1755 gs 19 c1a 15 c1g 12 c2a c2g c3a c3g c4a c4g nt ARG 10 FW 917 11 10 fb ss player bg nb USA 13 pos FW min 454 gs c1a c1g c2a c2g c3a c3g c4a c4g nt 14 1878 21 17 Also played RM fb ss player bg nb SVK 17 pos CB min 780 gs c1a c1g c2a c2g c3a c3g c4a c4g nt SCO 23 RW 1805 21 16 Also played LW fb ss player bg nb ENG 26 pos RB min 1182 gs 14 c1a 12 c1g c2a c2g c3a c3g c4a c4g nt Also played CB NOR 30 DF ni NIR fb ss footer 27 Nov 2009 Squad Numbers http://www leedsunited com/page/Fixtures/0,,10273,00 html Leeds United 

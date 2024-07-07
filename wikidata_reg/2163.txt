@@ -1,0 +1,15 @@
+-----METADATA
+1385
+840387
+unknown
+16321
+False
+True
+True
+True
+rm redundancy
+385
+-----ADDED
+Iwan Gronow is former of indie band and currently playing in new Manchester band Mutineers 
+-----DELETED
+Iwan Gronow is former of indie band and now currently playing in new Manchester band Mutineers 

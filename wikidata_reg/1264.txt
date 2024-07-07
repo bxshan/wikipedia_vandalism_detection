@@ -1,0 +1,15 @@
+-----METADATA
+1952
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+702
+-----ADDED
+Naaga lang-te నాగ is film starring with The movie was produced by one of South Indias successful producers, and directed by the two of them together co-wrote the screenplay The film was released on January 10, 2003, where it turned out to be big hit The films score was by and The music director for this movie is Mani Sharma 
+-----DELETED
+Naaga lang-te నాగ is film starring with and The movie was produced by one of South Indias successful producers, and directed by the two of them together co-wrote the screenplay The film was released on January 10, 2003, where it turned out to be big hit The films score was by and The music director for this movie is Mani Sharma 

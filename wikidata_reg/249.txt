@@ -1,0 +1,14 @@
+-----METADATA
+2212
+19678
+female
+15813
+False
+True
+True
+True
+Removed category [[:Category:Silent films|Silent films]]; Quick-adding category [[:Category:American silent films|American silent films]] (using [[WP:HOTCAT|HotCat]])
+3262
+-----ADDED
+
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+1723
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9867
+-----ADDED
+*Bone biopsy is rarely performed but will confirm rickets This is very true 
+-----DELETED
+*Bone biopsy is rarely performed but will confirm rickets 

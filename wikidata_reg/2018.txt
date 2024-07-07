@@ -1,0 +1,14 @@
+-----METADATA
+1261
+11742
+male
+15757
+False
+True
+True
+True
+[[:sl:Pjongjang]]
+25117
+-----ADDED
+
+-----DELETED

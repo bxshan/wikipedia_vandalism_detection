@@ -1,0 +1,15 @@
+-----METADATA
+3748
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+39864
+-----ADDED
+Infrared IR radiation is with between 700 ;nm and 300 ;mm,mother fucking shit which equates to between ;THz and 430 ;THz—a span of more than three <ref> cite web author Dr Liew url http://www crisp nus edu sg/~research/tutorial/em htm title Electromagnetic Waves publisher Centre for Remote Imaging, Sensing and Processing accessdate 2006-10-27 </ref> 
+-----DELETED
+Infrared IR radiation is with between 700 ;nm and 300 ;µm, which equates to between ;THz and 430 ;THz—a span of more than three <ref> cite web author Dr Liew url http://www crisp nus edu sg/~research/tutorial/em htm title Electromagnetic Waves publisher Centre for Remote Imaging, Sensing and Processing accessdate 2006-10-27 </ref> 

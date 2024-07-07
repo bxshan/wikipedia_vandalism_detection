@@ -1,0 +1,15 @@
+-----METADATA
+6445
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+104413
+-----ADDED
+The documentary Inside Waco claims hi bob that the investigation started when in 1992 the ATF became concerned over reports of coming from the Carmel compound 
+-----DELETED
+The documentary Inside Waco claims that the investigation started when in 1992 the ATF became concerned over reports of coming from the Carmel compound 

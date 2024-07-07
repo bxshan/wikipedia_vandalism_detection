@@ -1,0 +1,15 @@
+-----METADATA
+2552
+68434
+unknown
+16874
+False
+True
+True
+True
+ linking title
+59304
+-----ADDED
+http://www gutenberg org/files/16199/16199 txt Memoirs of the Author of Vindication of the Rights of Woman 1798 Eds Pamela Clemit and Gina Luria Walker Peterborough: Broadview Press Ltd 2001 ISBN 1-55111-259-0 
+-----DELETED
+Memoirs of the Author of Vindication of the Rights of Woman 1798 Eds Pamela Clemit and Gina Luria Walker Peterborough: Broadview Press Ltd 2001 ISBN 1-55111-259-0 http://www gutenberg org/files/16199/16199 txt Project Gutenberg EBook 

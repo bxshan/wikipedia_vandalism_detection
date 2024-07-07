@@ -1,0 +1,14 @@
+-----METADATA
+1031
+33885
+unknown
+15139
+False
+True
+True
+True
+Added {{[[Template:unreferencedBLP|unreferencedBLP]]}} tag to article using [[WP:FRIENDLY|Friendly]]
+2252
+-----ADDED
+unreferencedBLP date December 2009 
+-----DELETED

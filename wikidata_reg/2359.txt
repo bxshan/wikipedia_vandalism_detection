@@ -1,0 +1,15 @@
+-----METADATA
+3103
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+15146
+-----ADDED
+Hair, except on the head, was unattractive on woman Consequently, they removed hairs by shaving them, plucking them, stripping them using resin paste and scraping them with pumice stone Older women faced ridicule for depilation because it was viewed primarily as preparation for sex <ref>Martial 12 32 21-2, 10 90 </ref> 
+-----DELETED
+Hair, except on the head, was unattractive on woman Consequently, they removed hairs by shaving them, plucking them, stripping them using resin paste and scraping them with pumice stone Older women faced ridicule for depilation because it was viewed primarily as preparation for sex <ref name "dress"/> 

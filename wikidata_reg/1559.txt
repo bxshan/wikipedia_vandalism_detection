@@ -1,0 +1,15 @@
+-----METADATA
+4980
+1718198
+unknown
+16861
+False
+True
+True
+True
+Remove Erik9Bot unref cat from years using [[Project:AutoWikiBrowser|AWB]]
+2430
+-----ADDED
+Trajan captures the capital of 
+-----DELETED
+Trajan captures the capital of 

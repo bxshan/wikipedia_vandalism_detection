@@ -1,0 +1,15 @@
+-----METADATA
+1720
+3740
+male
+16155
+False
+True
+True
+True
+<EMPTY>
+16565
+-----ADDED
+Ship propulsion General Electric turbines; 80,000 ;shp; propellers 
+-----DELETED
+Ship propulsion General Electric turbines; 80,000 ;shp; screws 

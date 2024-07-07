@@ -1,0 +1,14 @@
+-----METADATA
+1430
+19678
+female
+15813
+False
+True
+True
+True
+Removed category [[:Category:Crime films|Crime films]]; Quick-adding category [[:Category:1970s crime films|1970s crime films]] (using [[WP:HOTCAT|HotCat]])
+1422
+-----ADDED
+
+-----DELETED

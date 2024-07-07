@@ -1,0 +1,15 @@
+-----METADATA
+6768
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1412
+-----ADDED
+discovered September 29, 1994 epoch May 14, 2008 9207 Petersmith 1994 SF12 is discovered on September 29, 1994 by at Reflist 
+-----DELETED
+discovered epoch 9207 Petersmith 1994 SF12 is discovered on by at reflist 

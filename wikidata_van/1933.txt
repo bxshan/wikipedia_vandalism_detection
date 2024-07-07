@@ -1,0 +1,15 @@
+-----METADATA
+1680
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1806
+-----ADDED
+The regiment was mustered out on July 9, 1865 thats all 
+-----DELETED
+The regiment was mustered out on July 9, 1865 

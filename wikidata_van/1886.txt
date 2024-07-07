@@ -1,0 +1,15 @@
+-----METADATA
+4406
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+14772
+-----ADDED
+In scientific contexts the term transdisciplinarity is used in various ways In Canada, it means boobies In the German speaking countries the term is most often used for integrative forms of research Mittelstrass 2003 This meaning is in contrast to understanding transdisciplinarity as principle for unity of knowledge beyond disciplines Nicolescu 2002, see below Transdisciplinarity as principle of integrative forms of research comprises family of methods for relating scientific knowledge and extra-scientific experience and practice in problem-solving In this understanding, transdisciplinary research addresses issues of the real world, not issues of origin and relevance only in scientific debate further important feature in understanding transdisciplinary research is whether and to what extent an integration of different scientific perspectives is addressed This aspect is often used to distinguish between trans-, inter- and multidisciplinarity Because of these different and to some extent inconsistent concepts and terminologies, the field of transdisciplinary research is difficult to structure In the German speaking research, 2003 conference held in Göttingen made the attempt to show the wide range of different understandings of multi-, inter- and transdisciplinarity and made suggestions for converging them without eliminating present usages see Brand/Schaller/Völker 2004 For an overview of terminology see as well Pohl Hirsch Hadorn 2007 who also propose more systematic usage of key terms 
+-----DELETED
+In scientific contexts the term transdisciplinarity is used in various ways In the German speaking countries the term is most often used for integrative forms of research Mittelstrass 2003 This meaning is in contrast to understanding transdisciplinarity as principle for unity of knowledge beyond disciplines Nicolescu 2002, see below Transdisciplinarity as principle of integrative forms of research comprises family of methods for relating scientific knowledge and extra-scientific experience and practice in problem-solving In this understanding, transdisciplinary research addresses issues of the real world, not issues of origin and relevance only in scientific debate further important feature in understanding transdisciplinary research is whether and to what extent an integration of different scientific perspectives is addressed This aspect is often used to distinguish between trans-, inter- and multidisciplinarity Because of these different and to some extent inconsistent concepts and terminologies, the field of transdisciplinary research is difficult to structure In the German speaking research, 2003 conference held in Göttingen made the attempt to show the wide range of different understandings of multi-, inter- and transdisciplinarity and made suggestions for converging them without eliminating present usages see Brand/Schaller/Völker 2004 For an overview of terminology see as well Pohl Hirsch Hadorn 2007 who also propose more systematic usage of key terms 

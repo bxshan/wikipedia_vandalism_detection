@@ -1,0 +1,15 @@
+-----METADATA
+3705
+0
+unknown
+0
+True
+False
+False
+False
+ typo
+39042
+-----ADDED
+Gilliam was honored with the Director with Unique Visual Sensitivity Award at the film festival in Poland in 2009 <ref> http://imaginariumofdrparnassus com/blog/2009/11/28/terry-gilliam-presents-dr-p-and-receives-honor-at-plus-camerimage-fest-in-lodzpoland-1129/ Terry Gilliam Presents Dr and Receives Honor At Plus Camerimage Fest In Lodz Poland 11/29 The Imaginarium of Doctor Parnassus Support site, Saturday, November 28th, 2009</ref> 
+-----DELETED
+Gilliam was honored with the Director with Unique Visual Sensitivity Award at the film festival in Poland in 2009 <ref></ http://imaginariumofdrparnassus com/blog/2009/11/28/terry-gilliam-presents-dr-p-and-receives-honor-at-plus-camerimage-fest-in-lodzpoland-1129/ Terry Gilliam Presents Dr and Receives Honor At Plus Camerimage Fest In Lodz Poland 11/29 The Imaginarium of Doctor Parnassus Support site, Saturday, November 28th, 2009</ref> 

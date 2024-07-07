@@ -1,0 +1,15 @@
+-----METADATA
+1858
+59990
+unknown
+16065
+False
+True
+True
+True
+ activate
+35057
+-----ADDED
+cite book last McCaffery first Larry title Storming the Reality Studio: casebook of cyberpunk and postmodern science fiction publisher location year 1991 isbn 9780822311683 oclc 23384573 refs harv 
+-----DELETED
+cite book last McCaffery first Larry title Storming the Reality Studio: casebook of cyberpunk and postmodern science fiction publisher location year 1991 isbn 9780822311683 oclc 23384573 

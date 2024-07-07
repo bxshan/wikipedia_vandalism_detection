@@ -1,0 +1,15 @@
+-----METADATA
+6196
+40503
+unknown
+16087
+False
+True
+True
+True
+Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]] using [[Project:AutoWikiBrowser|AWB]]
+16637
+-----ADDED
+By the 18th century the fees charged to become with voting rights, were exorbitant and the borough of Sudbury, along with 177 other English towns, was reformed by 1835 
+-----DELETED
+By the 18th century the fees charged to become with voting rights, were exorbitant and the borough of Sudbury, along with 177 other English towns, was reformed by 1835 

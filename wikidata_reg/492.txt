@@ -1,0 +1,15 @@
+-----METADATA
+2661
+0
+unknown
+0
+True
+False
+False
+False
+Simpler proof for low-frequence systems
+8155
+-----ADDED
+follows: while uncovered element exists, add all at most sets contain this element cover In end we end up with some cover, we output To see that this <math>f</math>-approximation it suffices note that every time we add sets, at least those in optimal cover well For <math>f 2</math>, this normal approximation for vertex cover 
+-----DELETED
+The formulates set covering instance relaxed to The resulting linear program can be solved in polynomial time using the and the solutions are rounded to obtain an approximate integral solution 

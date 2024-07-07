@@ -1,0 +1,15 @@
+-----METADATA
+2446
+930986
+unknown
+16555
+False
+True
+True
+True
+[[WP:AWB/T|Typo fixing]] using [[Project:AWB]]
+808
+-----ADDED
+Balnapaling lang-gd Baile nam Pèiling is village on the north side of the opposite located in eastern and is in the council area of 
+-----DELETED
+Balnapaling lang-gd Baile nam Pèiling is village on the north side of the opposite located in easter and is in the council area of 

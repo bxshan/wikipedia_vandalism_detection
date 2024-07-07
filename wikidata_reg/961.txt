@@ -1,0 +1,14 @@
+-----METADATA
+1333
+12515
+male
+16299
+False
+True
+True
+True
+Removed category [[:Category:Sport in Thailand|Sport in Thailand]]; Quick-adding category [[:Category:National sports teams of Thailand|National sports teams of Thailand]] (using [[WP:HOTCAT|HotCat]])
+662
+-----ADDED
+
+-----DELETED

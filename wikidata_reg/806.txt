@@ -1,0 +1,15 @@
+-----METADATA
+4544
+203496
+male
+16334
+False
+True
+True
+True
+[[Help:Reverting|Reverted]] edits by [[Special:Contributions/66.241.90.145|66.241.90.145]] ([[User talk:66.241.90.145|talk]]) to last version by DynamicUno
+72732
+-----ADDED
+The Wrath of Khan was released in North America on June 4, 1982 It was box office success, earning US$97 ;million worldwide and setting world record for first-day box office gross Critical reaction to the film was positive; reviewers highlighted Khan, the films pacing and the character interactions as strong elements Negative reaction focused on weak special effects and some of the acting The Wrath of Khan is generally considered one of the best films of the Star Trek series and is credited with creating renewed interest in the franchise 
+-----DELETED
+The Wrath of Khan was released in North America on June 4, 1982 It was box office success, earning US$97 ;million worldwide and setting world record for first-day box office gross Critical reaction to the film was positive; reviewers highlighted Khan, the films pacing and the character interactions as strong elements The Wrath of Khan is generally considered one of the best films of the Star Trek series and is credited with creating renewed interest in the franchise 

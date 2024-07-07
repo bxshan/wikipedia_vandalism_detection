@@ -1,0 +1,15 @@
+-----METADATA
+3312
+18681
+unknown
+16127
+False
+True
+True
+True
+<EMPTY>
+14419
+-----ADDED
+The Sydney Autumn Racing Carnival features the richest two year old horse race in the world, the Stakes, which is run in April every year The tennis tournament is held in January prior to the The foot race is held every August and is one of the largest timed foot races in the world 
+-----DELETED
+The Sydney Autumn Racing Carnival featuring the richest year old horse race in the world the is run in April every year, and the tennis tournament is held in January prior to the The held every August is one of the largest timed foot races in the world 

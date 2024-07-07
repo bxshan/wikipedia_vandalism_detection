@@ -1,0 +1,15 @@
+-----METADATA
+6600
+109916
+male
+16368
+False
+True
+True
+True
++ categories
+5780
+-----ADDED
+Infobox Royalty house <br> 
+-----DELETED
+Infobox Nobility noble family 

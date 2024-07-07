@@ -1,0 +1,15 @@
+-----METADATA
+2319
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3524
+-----ADDED
+There are four houses at Luckley: Beatty red LUCIE IS IN BEATTY!!!, Nelson blue Drake green Jellicoe yellow 
+-----DELETED
+There are four houses at Luckley: Beatty red Nelson blue Drake green Jellicoe yellow 

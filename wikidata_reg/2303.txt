@@ -1,0 +1,15 @@
+-----METADATA
+4791
+138
+male
+15032
+False
+True
+True
+True
+undid revision 327385313
+6327
+-----ADDED
+Thanksgiving Day is Traditionally, it is time to give thanks for the harvest and express in general It is celebrated primarily in and the While perhaps religious in origin, Thanksgiving is now primarily identified as secular holiday 
+-----DELETED
+Thanksgiving Day is Traditionally, it is time to give thanks for the harvest and express in general It is celebrated primarily in the While perhaps religious in origin, Thanksgiving is now primarily identified as secular holiday 

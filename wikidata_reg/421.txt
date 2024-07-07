@@ -1,0 +1,15 @@
+-----METADATA
+3257
+35389
+male
+15480
+False
+True
+True
+True
+Categories, Removed: [[Category:Tephritidae]], using [[Project:AutoWikiBrowser|AWB]]
+818
+-----ADDED
+species alternata 
+-----DELETED
+species alternata 

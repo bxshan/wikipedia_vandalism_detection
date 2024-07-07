@@ -1,0 +1,15 @@
+-----METADATA
+2056
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+73710
+-----ADDED
+Image label 15 43 scale 350 text <font size color "Blue"></font> 
+-----DELETED
+Image label 16 43 scale 350 text <font size color "Blue"></font> 

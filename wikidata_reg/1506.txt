@@ -1,0 +1,15 @@
+-----METADATA
+4150
+25
+unknown
+14843
+False
+True
+True
+True
+  Motor learning page link
+9642
+-----ADDED
+Chunks in are identified by pauses between successive actions Terrace, 2001 He also suggested that during the sequence performance stage after learning subjects download list items as chunks during pauses Terrace also argued for an operational definition of chunks suggesting distinction between the notions of input and output chunks from the ideas of short-term and long-term memory Input chunks reflect the limitation of working memory during the encoding of new information how new information is stored in long-term memory, and how it is retrieved during subsequent recall Output chunks reflect the organization of over-learned motor programs that are generated on-line in working memory Sakai et al 2003 showed that subjects spontaneously organize sequence into number of chunks across few sets, and that these chunks were distinct among subjects tested on the same sequence Sakai et al 2003 showed that performance of shuffled sequence was poorer when the chunk patterns were disrupted than when the chunk patterns were preserved Chunking Patterns also seem to depend on the effectors used 
+-----DELETED
+Chunks in motor learning are identified by pauses between successive actions Terrace, 2001 He also suggested that during the sequence performance stage after learning subjects download list items as chunks during pauses Terrace also argued for an operational definition of chunks suggesting distinction between the notions of input and output chunks from the ideas of short-term and long-term memory Input chunks reflect the limitation of working memory during the encoding of new information how new information is stored in long-term memory, and how it is retrieved during subsequent recall Output chunks reflect the organization of over-learned motor programs that are generated on-line in working memory Recently Sakai et al 2003 showed that subjects spontaneously organize sequence into number of chunks across few sets and that these chunks were distinct among subjects tested on the same sequence Sakai et al 2003 showed that performance of shuffled sequence was poorer when the chunk patterns were disrupted than when the chunk patterns were preserved Chunking Patterns also seem to depend on the effectors used 

@@ -1,0 +1,15 @@
+-----METADATA
+5586
+386
+unknown
+15730
+False
+True
+True
+True
+[[WP:UNDO|Undid]] revision 327664382 by [[Special:Contributions/69.76.179.199|69.76.179.199]] ([[User talk:69.76.179.199|talk]])
+56998
+-----ADDED
+Fuel cells are different from conventional electrochemical cell in that they consume reactant from an external source, which must be replenished<ref> cite web url http://www loc gov/rr/scitech/tracer-bullets/batteriestb html#scope title Batteries, Supercapacitors, and Fuel Cells: Scope accessdate 11 Feb 2009 date 20 Aug 2007 publisher Science Reference Services </ref> &ndash; thermodynamically By contrast, batteries store electrical energy chemically and hence represent thermodynamically closed system 
+-----DELETED
+Fuel cells are different from conventional electrochemical cell in that they consume damn reactant from an external source, which must be replenished<ref> cite web url http://www loc gov/rr/scitech/tracer-bullets/batteriestb html#scope title Batteries, Supercapacitors, and Fuel Cells: Scope accessdate 11 Feb 2009 date 20 Aug 2007 publisher Science Reference Services </ref> &ndash; thermodynamically By contrast, batteries store electrical energy chemically and hence represent thermodynamically closed system bitch 

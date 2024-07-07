@@ -1,0 +1,15 @@
+-----METADATA
+3028
+60
+unknown
+14820
+False
+True
+True
+True
+<EMPTY>
+2105
+-----ADDED
+"Mr Lincoln Holroyd was born in Bradford,England He received his early education on the cornet by his father Edwin Holroyd well known bandman Upon coming to America, he took up his studies with Mr Karl Koenig of Philadelphia, who was graduate of the Conservatory at Leipzig, Germany 
+-----DELETED
+"Mr Lincoln Holroyd was born in Bradford,England He received his early education on the cornet by his father Edwin Holroyd well known bandman Upon coming to America, he took up his studies with Mr Karl Koenig of Philedelphia, who was graduate of the Conservatory at Leipzig, Germany 

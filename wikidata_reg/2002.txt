@@ -1,0 +1,15 @@
+-----METADATA
+5767
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+24386
+-----ADDED
+year_established 1961; completed Originally, I-287 was disjointed because of community opposition The New York stretch effectively ended at and the New Jersey portion at in with gap in between In the late 1980s, construction finally commenced, with the missing section opening in November 1993 
+-----DELETED
+year_established 1961 Completed 1993 <ref name "nyr" /> Originally, I-287 was long disjointed because of community opposition The New York stretch effectively ended at and the New Jersey portion at in only about convert mi km from the interchange, with gap in between In the late 1980s, construction finally commenced, with the missing section opening in November 

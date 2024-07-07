@@ -1,0 +1,15 @@
+-----METADATA
+1941
+2714
+male
+16179
+False
+True
+True
+True
+<EMPTY>
+12857
+-----ADDED
+bk Iran bkw China bku 18 Iran bkw Japan bk China 
+-----DELETED
+bk Iran bkw China bku 18 Iran bkw Japan bkw China 

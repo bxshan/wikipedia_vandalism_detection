@@ -1,0 +1,15 @@
+-----METADATA
+4175
+188793
+male
+15638
+False
+True
+True
+True
+<EMPTY>
+4228
+-----ADDED
+caps goals 47 <br> 27 <br> <br> <br>12 <br>26 <br>13 pcupdate 11:35, 22 November 2009 UTC 
+-----DELETED
+caps goals 47 <br> 27 <br> <br> <br>12 <br>26 <br>12 pcupdate 18:13, November 2009 UTC 

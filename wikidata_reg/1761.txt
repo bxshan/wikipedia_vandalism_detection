@@ -1,0 +1,15 @@
+-----METADATA
+3590
+45452
+male
+16102
+False
+True
+True
+True
+clean up using [[Project:AWB]]
+21252
+-----ADDED
+Mens Championships: The following are the results of the 2009 Womens Cross Country Championships:<ref name "mac-sports com"/> 
+-----DELETED
+The following are the results of the 2009 Mens Cross Country Championships:<ref>http://mac-sports com/downloads1/359272 HTM?ATCLID 204824724&SPSID 106158&SPID 13148&DB_OEM_ID 9400</ref> Womens Championships:<ref>http://mac-sports com/downloads1/359272 HTM?ATCLID 204824724&SPSID 106158&SPID 13148&DB_OEM_ID 9400</ref> 

@@ -1,0 +1,15 @@
+-----METADATA
+4987
+0
+unknown
+0
+True
+False
+False
+False
+Added a little text about the prospective sale of Habitat + a citation.
+5989
+-----ADDED
+In 1981, the companys shares were floated on the <ref name cc/> and in 1982 merged with Group to form Habitat Mothercare Group PLC <ref name cc/> The now-listed company bought the furniture retailer Heals and the fashion chain in 1983 <ref name cc/> In 1986, the company merged with to form <ref name cc/> In 1992 Habitat was purchased from Storehouse by <ref name cc/> In October 2009, following several years of trading losses, the family, who own IKANO, put Habitat up for sale By December, number of formal offers had been made and it was expected that the company would be sold before the end of the year <ref name "Times Dec 09" /> 
+-----DELETED
+In 1981, the companys shares were floated on the <ref name cc/> and in 1982 merged with Group to form Habitat Mothercare Group PLC <ref name cc/> The now-listed company bought the furniture retailer Heals and the fashion chain in 1983 <ref name cc/> In 1986, the company merged with to form <ref name cc/> In 1992 Habitat was purchased from Storehouse by <ref name cc/> 

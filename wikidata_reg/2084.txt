@@ -1,0 +1,15 @@
+-----METADATA
+4520
+181948
+unknown
+16237
+False
+True
+True
+True
+found it
+1777
+-----ADDED
+The Cope reaction or Cope elimination, developed by is an of an to form an and The reaction mechanism involves an intramolcular 5-membered cyclic leading to product This gives the same result as the ref but the is part of the The amine oxide is prepared by of the corresponding with an oxidant such as The actual elimination just requires heat 
+-----DELETED
+The Cope reaction or Cope elimination, developed by is an of an to form an and This is an alternative to the clarify alternative way different reagents to get same result or way to get alternative Zaitzef result? with the being part of the and with 5-membered cyclic leading to The amine oxide is prepared by of the corresponding with an oxidant such as The actual elimination just requires heat 

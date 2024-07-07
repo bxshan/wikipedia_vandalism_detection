@@ -1,0 +1,15 @@
+-----METADATA
+8016
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+16325
+-----ADDED
+show_name want be celebrity Here! want to be celebrity Get Me Out of Here is series in which wanna be celebrities live together in environment with few luxuries, competing to win cash prize for charity In return for their appearance, wanna be celebrities nominate to which makes donations The celebrities are paid fee to compensate for loss of earnings The producers keep the details of contracts private The money is raised by allowing viewers to vote, by phone, text message or TV interactive service, for the celebrity to complete "Bushtucker Trial" ndash physical task usually involving snakes, spiders or other animals ndash and, later each series, for the celebrity they would like to see win The last celebrity, after others have been evicted, is the winner and named King or Queen of the Jungle 
+-----DELETED
+show_name Im Celebrity Get Me Out of Here! Im Celebrity Here is series in which celebrities live together in environment with few luxuries, competing win cash prize for charity In return for their appearance, celebrities nominate to which makes donations The celebrities are paid fee to compensate for loss of earnings The producers keep the details of contracts private The money is raised by allowing viewers to vote, by phone, text message or TV interactive service, for the celebrity to complete "Bushtucker Trial" ndash physical task usually involving snakes, spiders or other animals ndash and, later each series, for the celebrity they would like to see win The last celebrity, after others have been evicted, is the winner and named King or Queen of the Jungle 

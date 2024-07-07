@@ -1,0 +1,15 @@
+-----METADATA
+11319
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1569
+-----ADDED
+Infobox planet August 4, epoch May 14, 2008 3928 Randa 1981 PG is discovered on August 4, 1981 by at Reflist Small Solar System bodies 
+-----DELETED
+Infobox Planet discovered epoch 3928 Randa PG is on by at reflist MinorPlanets_Footer 

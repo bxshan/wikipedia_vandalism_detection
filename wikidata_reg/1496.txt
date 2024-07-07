@@ -1,0 +1,15 @@
+-----METADATA
+4999
+281593
+male
+16570
+False
+True
+True
+True
+[[Help:Reverting|Reverted]] edits by [[Special:Contributions/122.167.100.117|122.167.100.117]] ([[User talk:122.167.100.117|talk]]) to last version by Graham87
+76223
+-----ADDED
+BWV 234 Mass in major BWV 524 
+-----DELETED
+BWV 234 ---- Mass in major <nowiki> <gallery>He died on July 28, 1750 in Leipzig, Germany Insert non-formatted text here 

@@ -1,0 +1,15 @@
+-----METADATA
+3239
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+8480
+-----ADDED
+Triangular trade, or Triangle trade, is historical term indicating among three ports or regions export commodities that are not required in the region from which its major come Triangular trade thus provides mechanism for rectifying trade imbalances between these regions 
+-----DELETED
+Triangular trade, or Triangle trade, is historical term indicating among three ports or regions Triangular trade usually evolves when region has commodities that are not required in the region from which its major come Triangular trade thus provides mechanism for rectifying trade imbalances between these regions 

@@ -1,0 +1,14 @@
+-----METADATA
+2066
+0
+unknown
+0
+True
+False
+False
+False
+Supertruck racing no longer at mallala
+6032
+-----ADDED
+Supertruck Racing has now left the venue with its final weekend held in late 2009 due to the declining surface of the track 
+-----DELETED

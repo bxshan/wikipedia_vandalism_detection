@@ -1,0 +1,15 @@
+-----METADATA
+1932
+2
+unknown
+15820
+False
+False
+False
+False
+<EMPTY>
+3777
+-----ADDED
+Cowthorpe is village in the district of It is situated convert mi km north of convert mi km from and convert 13 mi km from It is home to the legandary Cameron Purves who is locally reknowned for his great appetite and eating habits 
+-----DELETED
+Cowthorpe is village in the district of It is situated convert mi km north of convert mi km from and convert 13 mi km from 

@@ -1,0 +1,15 @@
+-----METADATA
+3941
+97785
+male
+16014
+False
+True
+True
+True
+[[:en:User:NicoV/Wikipedia Cleaner/Documentation|WikiCleaner]] 0.98 - Repairing link to disambiguation page - [[Wikipedia:Disambiguation pages with links|You can help!]] - [[Nike]]
+13251
+-----ADDED
+Goldberg explains that the smiley face on the cover is reference to comments made by comedian on when he said that "when fascism comes to America, it will not be in brown and black shirts It will not be with jackboots It will be sneakers and smiley shirts Smiley-smiley "<ref> http://www sun-sentinel com/news/opinion/sfl-jonah23jansbjan25,0,4187686 story?track rss When conservative and liberal talk South Florida Sun-Sentinel, Jonah Goldberg, January 25, 2008</ref><ref> harvnb Goldberg 2008 pp 1–2 </ref> 
+-----DELETED
+Goldberg explains that the smiley face on the cover is reference to comments made by comedian on when he said that "when fascism comes to America, it will not be in brown and black shirts It will not be with jackboots It will be sneakers and smiley shirts Smiley-smiley "<ref> http://www sun-sentinel com/news/opinion/sfl-jonah23jansbjan25,0,4187686 story?track rss When conservative and liberal talk South Florida Sun-Sentinel, Jonah Goldberg, January 25, 2008</ref><ref> harvnb Goldberg 2008 pp 1–2 </ref> 

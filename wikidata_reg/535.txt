@@ -1,0 +1,14 @@
+-----METADATA
+1438
+14952
+unknown
+15416
+False
+True
+True
+True
+European Champion Footer Template
+2505
+-----ADDED
+Footer European Champions 200m Breaststroke Men 
+-----DELETED

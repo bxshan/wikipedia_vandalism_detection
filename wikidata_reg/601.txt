@@ -1,0 +1,15 @@
+-----METADATA
+5481
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+18227
+-----ADDED
+Pop art is an art movement of the twentieth century Characterized by themes and techniques drawn from popular such as and mundane cultural objects, pop art is widely interpreted as reaction to the then-dominant ideas of as well as an expansion upon them <ref name iha/> Pop art, aimed to employ images of popular as opposed to elitist culture in art, emphasizing the banal or elements of any given culture, most often through the use of <ref name ages/> It is also associated with the artists use of mechanical means of reproduction or rendering techniques 
+-----DELETED
+Im Matt Hynes and im in the picture in the right and love men named cand Pop art is an art movement of the twentieth century Characterized by themes and techniques drawn from popular such as and mundane cultural objects, pop art is widely interpreted as reaction to the then-dominant ideas of as well as an expansion upon them <ref name iha/> Pop art, aimed to employ images of popular as opposed to elitist culture in art, emphasizing the banal or elements of any given culture, most often through the use of <ref name ages/> It is also associated with the artists use of mechanical means of reproduction or rendering techniques 

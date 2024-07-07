@@ -1,0 +1,15 @@
+-----METADATA
+5034
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+501
+-----ADDED
+11431 Karelbosscha is with an of 2039 0558492 58 The asteroid was discovered on May 13, 1971 Reflist 
+-----DELETED
+BASEPAGENAME is with an of 2039 0558492 58 The asteroid was discovered on reflist 

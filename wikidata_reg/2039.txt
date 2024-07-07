@@ -1,0 +1,15 @@
+-----METADATA
+6049
+205854
+male
+16334
+False
+True
+True
+True
+[[Help:Reverting|Reverted]] edits by [[Special:Contributions/41.204.53.42|41.204.53.42]] ([[User talk:41.204.53.42|talk]]) to last version by Zombie433
+6193
+-----ADDED
+height height 72 caps goals <br />14 <br />24 <br />15 <br />48 <br />25 nationalcaps goals <br /> <br /> 
+-----DELETED
+height height 80 caps goals <br />14 <br />24 <br />15 <br />48 <br />25 nationalcaps goals <br /> <br /> 

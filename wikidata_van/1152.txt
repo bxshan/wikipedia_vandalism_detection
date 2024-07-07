@@ -1,0 +1,15 @@
+-----METADATA
+1889
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9614
+-----ADDED
+The well known artist is frequently seen and well known for wearing trench coats while on stage AKA The "gimme gimme trench coat" look 
+-----DELETED
+The well known artist is frequently seen and well known for wearing trench coats while on stage 

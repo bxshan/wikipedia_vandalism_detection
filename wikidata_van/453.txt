@@ -1,0 +1,15 @@
+-----METADATA
+7190
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+30508
+-----ADDED
+thhh of atomism, in can be found in <ref> cite book title Comparative History of Ideas, 2nd ed publisher New York: KPI year 1986 isbn 81-208-1004-x quote In India, the concept of atom appeared for the first time in the Jain scriptures page 145 author Hajime Nakamura </ref><ref> cite book title Outlines of Indian Philosophy author Hiriyanna, publisher New York, The Macmillan Company year 1932 isbn 81-208-1099-9 quote The term anu, the Sanskrit equivalent of atom is found in the Upanishads but the atomic theory is foreign to the Vedanta Of the remaining schools of Indian thought, it is, as we shall see, characteristic feature of more than one, the Jaina form of it being probably the earliest page 162 </ref><ref> cite book title Dictionary of World Philosophy author Iannone,A Pablo publisher Taylor Francis year 2001 isbn 0415179955 quote The earliest version of atomism can be found in Jainism, school of Indian philosophy that arose around 800 BCE page 62 </ref> Some of the earliest known theories were also developed in the 2nd century BCE by philosopher In Hindu philosophy, the and schools developed elaborate theories on how atoms combined into more complex objects first in pairs, then trios of pairs but believed the interactions were ultimately driven by the will of God specifically, the Hindu and that the atoms themselves were otherwise inactive, without physical properties of their own 
+-----DELETED
+theory of atomism, in can be found in <ref> cite book title Comparative History of Ideas, 2nd ed publisher New York: KPI year 1986 isbn 81-208-1004-x quote In India, the concept of atom appeared for the first time in the Jain scriptures page 145 author Hajime Nakamura </ref><ref> cite book title Outlines of Indian Philosophy author Hiriyanna, publisher New York, Macmillan Company year 1932 isbn 81-208-1099-9 quote term anu, the Sanskrit equivalent of atom is found in the Upanishads but the atomic theory is foreign to the Vedanta Of the remaining schools of Indian thought, it is, as we shall see, characteristic feature of more than one, the Jaina form of it being probably the page 162 </ref><ref> cite book title Dictionary of World Philosophy author Iannone,A Pablo publisher Taylor Francis year 2001 isbn 0415179955 quote version of atomism can be found in Jainism, school of Indian philosophy that arose around 800 BCE page 62 </ref> Some of the known theories were also developed in the 2nd century BCE by philosopher In Hindu philosophy, the and schools developed elaborate theories on how atoms combined into more complex objects first in pairs, then trios of pairs but believed the interactions were ultimately driven by the will of God specifically, the Hindu and that the atoms themselves were otherwise inactive, without physical properties of their own 

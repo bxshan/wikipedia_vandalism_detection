@@ -1,0 +1,15 @@
+-----METADATA
+2973
+197922
+unknown
+16148
+False
+True
+True
+True
+Rm, noted in footnote
+63912
+-----ADDED
+Laura ref Natalie Vote Total 
+-----DELETED
+ref Laura Vote Total /10 Natalie /8 

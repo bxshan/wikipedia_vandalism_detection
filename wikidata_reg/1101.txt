@@ -1,0 +1,15 @@
+-----METADATA
+2172
+3115
+unknown
+15184
+False
+True
+True
+True
+<EMPTY>
+12681
+-----ADDED
+Sutter County is located along the in the of the of north of state capital Sutter County is part of the CSA 
+-----DELETED
+Sutter County is located along the in the of the of north of state capital 

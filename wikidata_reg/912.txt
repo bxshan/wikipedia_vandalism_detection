@@ -1,0 +1,15 @@
+-----METADATA
+2752
+28212
+male
+16474
+False
+True
+True
+True
+Reverted 1 edit by [[Special:Contributions/77.28.169.183|77.28.169.183]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Laveol|Laveol]]. ([[WP:TW|TW]])
+21939
+-----ADDED
+Bogomilism lang-bg Богомилство is the dualistic the of and the reform movement, which emerged in between 927 and 970 and spread into and 
+-----DELETED
+Bogomilism and lang-bg Богомилство is the dualistic the of and the reform movement, which emerged in the region of between 927 and 970 and spread into and 

@@ -1,0 +1,15 @@
+-----METADATA
+27281
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+12095
+-----ADDED
+
+-----DELETED
+two other uses the Internet companOverview Name Chlorine Symbol Cl Atomic Number 17 Atomic Weight 35 453 Density 214 g/l note melting Point -101 °C Boiling Point -34 04 °C Thermal properties Phase Gas Melting Point -101 °C Boiling Point -34 04 °C Absolute Melting Point 171 Absolute Boiling Point 239 11 Critical Pressure 991 MPa 78 87 Atm Critical Temperature 416 Heat of Fusion kJ/mol Heat of Vaporization 10 kJ/mol Heat of Combustion N/A Specific Heat 478 J/ kg note Adiabatic Index 7/5 Neel Point N/A Thermal Conductivity 0089 W/ Thermal Expansion N/A Bulk physical properties Density 214 g/l note Density Liquid N/A Molar Volume 011031 Brinell Hardness N/A Mohs Hardness N/A Vickers Hardness N/A Bulk Modulus GPa Shear Modulus N/A Young Modulus N/A Poisson Ratio N/A Refractive Index 000773 Speed of Sound 206 m/s Thermal Conductivity 0089 W/ Thermal Expansion N/A Reactivity Valence Electronegativity 16 ElectronAffinity 349 kJ/mol Ionization Energies 1251 2, 2298, 3822, 5158 6, 6542, 9362, 11018, 33604, 86×104, 43961 kJ/mol Health and Safety Autoignition Point N/A Flashpoint N/A Heat of Combustion N/A DOT Hazard Class N/A DOT Numbers N/A EU Number N/A NFPA Fire Rating N/A NFPA Hazards N/A NFPA Health Rating N/A NFPA Reactivity Rating N/A RTECS Classes N/A RTECS Number RTECSFO2100000 NFPA Label N/A Classifications Alternate Names None Names of Allotropes Dichlorine Block Group 17 Period Electron Configuration Ne 3s23p5 Color Yellow Discovery 1774 in Sweden Gas phase Diatomic CAS Number CAS7782-50-5 CID Number CID24526 Gmelin Number N/A NSC Number N/A RTECS Number RTECSFO2100000 Electrical properties Electrical Type Insulator Electrical Conductivity 01 S/m Resistivity 100 Superconducting Point N/A Magnetic properties Magnetic Type Diamagnetic Curie Point N/A Mass Magnetic Susceptibility -7 2×10-9 Molar Magnetic Susceptibility -2 55×10-10 Volume Magnetic Susceptibility -2 31×10-8 Abundances in Universe 0001% in Sun 0008% in Meteorites 037% in Earths Crust 017% in Oceans 2% in Humans 12% Atomic dimensions and structure Atomic Radius 79 pm Covalent Radius 99 pm Van der Waals Radius 175 pm Crystal Structure Base Centered Orthorhombic Lattice Angles π/2, π/2, π/2 Lattice Constants 622 35, 445 61, 817 85 pm Space Group Name Cmca Space Group Number 64 Nuclear Properties Half-Life Stable Lifetime Stable Decay Mode N/A Quantum Numbers 2P3/2 Neutron Cross Section 35 Neutron Mass Absorption 033 Known Isotopes 28Cl, 29Cl, 30Cl, 31Cl, 32Cl, 33Cl, 34Cl, 35Cl, 36Cl, 37Cl, 38Cl, 39Cl, 40Cl, 41Cl, 42Cl, 43Cl, 44Cl, 45Cl, 46Cl, 47Cl, 48Cl, 49Cl, 50Cl, 51Cl Stable Isotopes 35Cl, 37Cl Isotopic Abundances 35Cl 75 78% 37Cl 24 22% 

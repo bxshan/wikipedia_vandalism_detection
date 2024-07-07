@@ -1,0 +1,14 @@
+-----METADATA
+1681
+91085
+unknown
+17036
+False
+True
+True
+True
+Removed category [[:Category:Settlements in Virginia|Settlements in Virginia]]; Quick-adding category [[:Category:Neighborhoods in Virginia|Neighborhoods in Virginia]] (using [[WP:HOTCAT|HotCat]])
+1858
+-----ADDED
+
+-----DELETED

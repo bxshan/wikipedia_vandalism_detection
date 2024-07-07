@@ -1,0 +1,15 @@
+-----METADATA
+20761
+9359
+unknown
+16120
+False
+True
+True
+True
+Balance brackets using [[Template:Close table|Close Table]] using [[Project:AutoWikiBrowser|AWB]]
+47820
+-----ADDED
+12 <ref>http://world guns ru/machine/mg47-e http</ref> 12 ;mm <ref name "ReferenceA"/> Powered by 360 ;hp engine and has longer chassis with roadwheels either side It is fitted with 2-man turret The turret can be armed with an automatic gun calibre 23, 25 or 30 ;mm 35 Swiss 23 ;mm, copy of the Soviet 25 ;mm, improved version of the Type 85 57 ;mm, copy of the Soviet 37 ;mm, twin barrel copy of the Soviet 100 ;mm, copy of the Soviet gun 35 in service HQ-15 licensed built close table 
+-----DELETED
+12 ;mm <ref>http://www ausairpower net/APA-PLA-Div-ADS html#mozTocId836386</ref> http://world guns ru/machine/mg47-e http 12 ;mm <ref>http://www ausairpower net/APA-PLA-Div-ADS html#mozTocId836386</ref> Powered by the 360 hp engine and has longer chassis with roadwheels either side It is fitted with 2-man turret The turret can be armed with an automatic gun of calibre 23, 25 or 30 35 ;mm, copy of Swiss 23 ;mm, copy of the Soviet 25 ;mm, improved version of the Type 85 57 ;mm, copy Soviet 37 ;mm, twin barrel copy of the Soviet 100 the Soviet gun 35 in service HQ-15 licensed built 

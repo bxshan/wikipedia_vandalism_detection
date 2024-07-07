@@ -1,0 +1,15 @@
+-----METADATA
+2316
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+17099
+-----ADDED
+Certain tribes used extracts from North American plants as hair shampoo; for example the of present day coastal used extracts from the for shampoo <ref>C Michael Hogan 2008 http://www globaltwitcher com/artspec_information asp?thingid 88976 Coastal Woodfern Dryopteris arguta GlobalTwitcher, ed Stromberg </ref> http://www americancrewshampoo com American Crew Shampoo uses tea tree oil in their blend of ingredients 
+-----DELETED
+Certain tribes used extracts from North American plants as hair shampoo; for example the of present day coastal used extracts from the for shampoo <ref>C Michael Hogan 2008 http://www globaltwitcher com/artspec_information asp?thingid 88976 Coastal Woodfern Dryopteris arguta GlobalTwitcher, ed Stromberg </ref> 

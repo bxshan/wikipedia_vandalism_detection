@@ -1,0 +1,14 @@
+-----METADATA
+2904
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+24957
+-----ADDED
+big pile of monkey nuts 
+-----DELETED

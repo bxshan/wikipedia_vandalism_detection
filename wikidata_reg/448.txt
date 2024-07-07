@@ -1,0 +1,15 @@
+-----METADATA
+4872
+25133
+male
+16308
+False
+True
+True
+True
+ Adding links to plains
+39246
+-----ADDED
+The civilian aerospace industry has developed the as well as the upcoming project to compete with Boeing and Airbus 
+-----DELETED
+The civilian aerospace industry has developed the Sukhoi Superjet, as well as the upcoming MS 21 project to compete with Boeing and Airbus 

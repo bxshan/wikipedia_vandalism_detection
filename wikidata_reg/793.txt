@@ -1,0 +1,15 @@
+-----METADATA
+4446
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+23020
+-----ADDED
+one of six universities in Kerala, is located at Kottayam is located about 10 ;km from the town There are number of Arts Science Colleges, including College Kottayam,K College pampady, BCM College etc There are government engineering colleges,Kidangoor engineering college are some near the town, self financed engineering colleges are also there in kottayam Mangalam college of engineering and technology, Saintgits college of engineering and technology, StJoseph college of engineering and technology are some of the main colleges in the district Polytechnic colleges and several nursing schools are located in and around the town 
+-----DELETED
+one of six universities in Kerala, is located at Kottayam is located about 10 ;km from the town There are number of Arts Science Colleges, including College Kottayam,K College pampady, BCM College etc There is government engineering college, near the town Polytechnic colleges and several nursing schools are located in and around the town 

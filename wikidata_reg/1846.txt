@@ -1,0 +1,15 @@
+-----METADATA
+4790
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9047
+-----ADDED
+production 2003-2010 Infobox Automobile generation name Espace image production 2011-present assembly similar <br><br><br><br> 
+-----DELETED
+production 2003-present 

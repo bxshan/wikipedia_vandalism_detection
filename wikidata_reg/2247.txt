@@ -1,0 +1,15 @@
+-----METADATA
+10167
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1653
+-----ADDED
+Infobox planet May 5, epoch May 14, 2008 2748 Patrick Gene 1981 JF2 is discovered on May 5, 1981 by at Reflist Minor planets navigator 2747 Český Krumlov 2749 Walterhorn Small Solar System bodies Asteroid-stub 
+-----DELETED
+Infobox Planet discovered epoch 2748 Patrick Gene JF2 is on by at reflist MinorPlanets Navigator 2747 Český Krumlov 2749 Walterhorn MinorPlanets_Footer asteroid-stub 

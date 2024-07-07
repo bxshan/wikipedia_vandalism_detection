@@ -1,0 +1,15 @@
+-----METADATA
+1647
+1327
+unknown
+15858
+False
+True
+True
+True
+<EMPTY>
+11593
+-----ADDED
+Some of the current platform as service offerings date back to 1999, and shared computing and development environments dates back to the 1970s and mainframe computing 
+-----DELETED
+Some of the current platform as service offering date back to 1999, and shared computing and development environments dates back to the 1970s and mainframe computing 

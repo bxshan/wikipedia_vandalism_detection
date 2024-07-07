@@ -1,0 +1,15 @@
+-----METADATA
+3392
+33903
+unknown
+16278
+False
+True
+True
+True
+To indicate a more specific location, provide geographical coordinates, a category
+1476
+-----ADDED
+location coord 46 50 25 121 33 32 display title 
+-----DELETED
+location coord missing Washington 

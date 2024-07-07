@@ -1,0 +1,15 @@
+-----METADATA
+1023
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+17608
+-----ADDED
+For the sitcom starring the comedian George Lopez is in fact homosexual TV series 
+-----DELETED
+For the sitcom starring the comedian George Lopez TV series 

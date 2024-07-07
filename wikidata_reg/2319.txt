@@ -1,0 +1,15 @@
+-----METADATA
+3407
+5282
+male
+16026
+False
+True
+True
+True
+  spell out and link ''Origin''
+10721
+-----ADDED
+Evolution was widely accepted in scientific circles within few years after the publication of but the acceptance of as its driving mechanism was much less widespread There were variety of reasons for this Natural selection, with its emphasis on death and competition, did not appeal to many naturalists because they felt it was immoral and left little room for purpose or the concept of "progress" in the development of life In addition, some felt that natural selection would be too slow, given the estimates of the age of the earth and sun 10–100 million years being made at the time by physicists such as Another objection was that natural selection could not work because at the time the models for inheritance involved blending of inherited characteristics 
+-----DELETED
+Evolution was widely accepted in scientific circles within few years after the publication of Origin, but the acceptance of as its driving mechanism was much less widespread There were variety of reasons for this Natural selection, with its emphasis on death and competition, did not appeal to many naturalists because they felt it was immoral and left little room for purpose or the concept of "progress" in the development of life In addition, some felt that natural selection would be too slow, given the estimates of the age of the earth and sun 10–100 million years being made at the time by physicists such as Another objection was that natural selection could not work because at the time the models for inheritance involved blending of inherited characteristics 

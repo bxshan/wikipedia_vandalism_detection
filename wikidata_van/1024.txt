@@ -1,0 +1,15 @@
+-----METADATA
+4482
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7867
+-----ADDED
+During an interview in 1996, David Broder said that "It’s clear that some journalists now are in market category where the amount of money that they can make on extracurricular activities raises, in my mind, exactly, and, clearly, in the public’s mind, exactly the same kind of conflict-of-interest questions that we are constantly raising with people in public life <ref> http://www pbs org/wgbh/pages/frontline/shows/press/interviews/broder html Frontline "Why Does America Hate the Press", July 11, 1996</ref> In June, 2008, however, magazine reported that David Broder had accepted free accommodations and thousands of dollars in speaking fees from various business and healthcare groups, in one instance penning an opinion column supporting positions favored by one of the groups <ref> http://harpers org/archive/2008/06/hbc-90003064 Ken Silverstein June 12, 2008</ref> The Washington Posts ombudsman, wrote that Broders acceptance of speaking fees was an apparent violation of the papers policy on outside speeches, as was the fact that some of the groups that paid Broder also lobby Congress <ref> http://www washingtonpost com/wp-dyn/content/article/2008/06/20/AR2008062002627 html Deborah Howell June 22, 2008 </ref> Howell continued that "He Broder also said he had cleared his speeches with Milton Coleman, deputy managing editor, or Tom Wilkinson, an assistant managing editor, but neither remembered him mentioning them 
+-----DELETED
+During an interview in 1996, David Broder said that "It’s clear that some journalists now are in market category where the amount of money that they can make on extracurricular activities raises, in my mind, exactly, and, clearly, in the public’s mind, exactly the same kind of conflict-of-interest questions that we are constantly raising with people in public life <ref> http://www pbs org/wgbh/pages/frontline/shows/press/interviews/broder html Frontline "Why Does America Hate the Press", July 11, 1996</ref> In June, 2008, however, magazine reported that David Broder had accepted free accommodations and thousands of dollars in speaking fees from various business and healthcare groups, in one instance penning an opinion column supporting positions favored by one of the groups <ref> http://harpers org/archive/2008/06/hbc-90003064 Ken Silverstein June 12, 2008</ref> The Washington Posts ombudsman, wrote that Broders acceptance of speaking fees was an apparent violation of the papers policy on outside speeches, as was the fact that some of the groups that paid Broder also lobby Congress <ref> http://www washingtonpost com/wp-dyn/content/article/2008/06/20/AR2008062002627 html Deborah Howell June 22, 2008 </ref> Howell continued that "He Broder also said he had cleared his speeches with Milton Coleman, deputy managing editor, or Tom Wilkinson, an assistant managing editor, but neither remembered him mentioning them 

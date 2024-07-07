@@ -1,0 +1,15 @@
+-----METADATA
+3345
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+43850
+-----ADDED
+Burnley is large in the in England,It is known as one of the least inhabital towns throughout Europe due to its plagues of mice and disheveled inhabitants With population of around 73,500 It lies convert 11 mi km east of and convert 25 mi km east of at the confluence of the and 
+-----DELETED
+Burnley is large in the in England, with population of around 73,500 It lies convert 11 mi km east of and convert 25 mi km east of at the confluence of the and 

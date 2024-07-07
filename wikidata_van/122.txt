@@ -1,0 +1,15 @@
+-----METADATA
+3010
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7779
+-----ADDED
+#"Put the holy Finger on You" 3:25 All songs composed by and 
+-----DELETED
+#"Put the Finger on You" 3:25 All songs composed by and 

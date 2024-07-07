@@ -1,0 +1,15 @@
+-----METADATA
+2510
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7281
+-----ADDED
+title_orig Esperanza means "A flaming piece of shit book" in Spanish translator Dick Hertz image_caption Dear God, her forehead looks like the bottom of boat 
+-----DELETED
+title_orig translator image_caption 

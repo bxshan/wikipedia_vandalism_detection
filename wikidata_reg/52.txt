@@ -1,0 +1,15 @@
+-----METADATA
+4716
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5429
+-----ADDED
+In December 2009, Comcast acquired 51% of NBC Universal from GE, which retained 49% This is major step for Comcast in its maturation from straight content delivery company to controlling and managing up and down the value chain, from content creation to end-user distribution from not only cable subscribers but other multimedia outlets 
+-----DELETED
+In December 2009, Comcast acquired 51% of NBC Universal from GE, which retained 49% This is major step for Comcast in its maturation from straight content delivery company to controlling and managing up and down the value chain, from content creation to end-user distribution 

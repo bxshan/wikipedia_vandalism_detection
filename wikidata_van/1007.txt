@@ -1,0 +1,15 @@
+-----METADATA
+3342
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+35208
+-----ADDED
+hovercraft air-cushion vehicle, ACV will sink in two minutes capable of traveling over surfaces while supported by cushion of slow moving, high-pressure air which is ejected against the surface below and contained within "skirt Although supported by air, hovercraft are not considered an 
+-----DELETED
+hovercraft air-cushion vehicle, ACV is capable of traveling over surfaces while supported by cushion of slow moving, high-pressure air which is ejected against the surface below and contained within "skirt Although supported by air, hovercraft are not considered an 

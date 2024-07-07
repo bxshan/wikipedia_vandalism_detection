@@ -1,0 +1,15 @@
+-----METADATA
+1996
+89945
+unknown
+16317
+False
+True
+True
+True
+ I've heard of stage service out Highway 20, but not Greyhound - izzatso, really?
+21829
+-----ADDED
+Lines provides bus service south to north to and west to <!--Greyhound goes to Bella Coola??--> 
+-----DELETED
+Lines provides bus service south to north to and west to 

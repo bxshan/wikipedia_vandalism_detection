@@ -1,0 +1,15 @@
+-----METADATA
+6132
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1597
+-----ADDED
+discovered July 10, 1989 epoch May 14, 2008 6386 Keithnoll 1989 NK1 is discovered on July 10, 1989 by at Reflist 
+-----DELETED
+discovered epoch 6386 Keithnoll 1989 NK1 is discovered on by at reflist 

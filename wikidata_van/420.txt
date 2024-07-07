@@ -1,0 +1,15 @@
+-----METADATA
+5007
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10216
+-----ADDED
+Verrazano was born at his ancestral home in south of <ref> cite book last Morison first Samuel Eliot authorlink Samuel Eliot Morison title The European Discovery of America: The Northern Voyages publisher Oxford University Press year 1971 location New York page 283 </ref> Although he left detailed account of his voyages to North America, little is known about his life After 1506, he settled in in where he began his career as navigator; probably in 1508, in the company of captain Thomas Aubert, he embarked for the American coast on ship called La Pensée, equipped by the shipowner He explored, possibly during fishing trip, the region of Newfoundland and the mouth of the St Lawrence River in Canada and made numerous voyages to the eastern In 1523, he was invited by King to explore an area between and in order to find sea route through the newly-found Americas to the Epic 
+-----DELETED
+Verrazano was born at his ancestral home in south of <ref> cite book last Morison first Samuel Eliot authorlink Samuel Eliot Morison title The European Discovery of America: The Northern Voyages publisher Oxford University Press year 1971 location New York page 283 </ref> Although he left detailed account of his voyages to North America, little is known about his life After 1506, he settled in in where he began his career as navigator; probably in 1508, in the company of captain Thomas Aubert, he embarked for the American coast on ship called La Pensée, equipped by the shipowner He explored, possibly during fishing trip, the region of Newfoundland and the mouth of the St Lawrence River in Canada and made numerous voyages to the eastern In 1523, he was invited by King to explore an area between and in order to find sea route through the newly-found Americas to the 

@@ -1,0 +1,15 @@
+-----METADATA
+607
+0
+unknown
+0
+True
+False
+False
+False
+[[WP:AES|←]]Redirected page to [[Grenelle agreements]]
+32
+-----ADDED
+#REDIRECT 
+-----DELETED
+#REDIRECT 

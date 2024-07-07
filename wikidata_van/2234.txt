@@ -1,0 +1,15 @@
+-----METADATA
+3072
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5593
+-----ADDED
+rogue DNS server translates legitimate domain names of search engines, online banks, online brokers, etc into IP addresses of malicious websites Most users depend on DNS servers automatically assigned by their use DNS-changing to invisibly switch the automatic DNS server assignment by the ISP to manual DNS server assignment from rogue DNS servers When users then try to visit legitimate domain names, they are sent to another bogus website This attack is termedbbbbdb If the site they are redirected to is malicious website, masquerading as legitimate website, in order to fraudulently obtain sensitive information, it is termed <ref> cite web url http://blog trendmicro com/rogue-domain-name-system-servers-5breposted5d/ 
+-----DELETED
+rogue DNS server translates legitimate domain names of search engines, online banks, online brokers, etc into IP addresses of malicious websites Most users depend on DNS servers automatically assigned by their use DNS-changing to invisibly switch the automatic DNS server assignment by the ISP to manual DNS server assignment from rogue DNS servers When users then try to visit legitimate domain names, they are sent to another bogus website This attack is termed If the site they are redirected to is malicious website, masquerading as legitimate website, in order to fraudulently obtain sensitive information, it is termed <ref> cite web url http://blog trendmicro com/rogue-domain-name-system-servers-5breposted5d/ 

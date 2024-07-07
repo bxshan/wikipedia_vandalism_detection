@@ -1,0 +1,14 @@
+-----METADATA
+2154
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5462
+-----ADDED
+Resident of C-block, one of the bigger bosses to come out of the area 
+-----DELETED

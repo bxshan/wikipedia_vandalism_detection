@@ -1,0 +1,15 @@
+-----METADATA
+5740
+12859
+male
+15191
+False
+True
+True
+True
+Geographical terms
+8501
+-----ADDED
+name The November 2009 Great Britain and Ireland floods was weather event affecting parts of and in mid-November 2009 bringing heavy rain and severe gales caused damage and flooding to the south of Great Britain on 13-14 November Unsettled weather continued across the south and later to the north On 19–20 November, many towns and villages in and were affected Three bridges collapsed, one of them leading to the death of police officer, PC Bill Barker, who was standing on the bridge when it collapsed 
+-----DELETED
+name November 2009 UK and Ireland floods The United Kingdom was weather event affecting parts of in mid-November bringing heavy rain severe gales caused damage flooding to the south of on 13-14 Unsettled weather continued across the south later to the north On 19–20 November, many towns villages in were affected Three bridges collapsed, one of them leading to the death of police officer, PC Bill Barker, who was standing on the bridge when it collapsed 

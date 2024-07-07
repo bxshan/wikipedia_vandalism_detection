@@ -1,0 +1,15 @@
+-----METADATA
+4678
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+107565
+-----ADDED
+largest_city my house area_sq_mi cm<!--Do not remove per --> area_rank 999999999999999 GDP_PPP $2 
+-----DELETED
+largest_city Mogadishu area_sq_mi 246,201 <!--Do not remove per --> area_rank 41st GDP_PPP $7 599 billion 

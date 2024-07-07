@@ -1,0 +1,14 @@
+-----METADATA
+2834
+7070
+unknown
+15074
+False
+True
+True
+True
+ Add entry on McWilliam
+184659
+-----ADDED
+sortname William McWilliam align "center" sort 1700 17?? Member of the Northwest Territory House of Representatives 1799-1800 delegate to the House of Representatives for Northwest Territory 1800-01 align "center" <ref> cite web title McWilliam, William, 1764-1804 url http://bioguide congress gov/scripts/biodisplay pl?index M000571 accessdate Nov 20, 2009 </ref> 
+-----DELETED

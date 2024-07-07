@@ -1,0 +1,15 @@
+-----METADATA
+4075
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+28001
+-----ADDED
+Boston, Cancún, Charlotte Begins December 15 Denver, Fort Lauderdale, Fort Myers, Houston-Intercontinental, Las Vegas, London-Heathrow seasonal Los Angeles, New York-LaGuardia, Newark, Orlando, Phoenix, San Diego begins December 17; ends January San Francisco, San Juan seasonal Seattle/Tacoma seasonal Tampa, West Palm Beach seasonal 
+-----DELETED
+Boston, Cancún, Denver, Fort Lauderdale, Fort Myers, Houston-Intercontinental, Las Vegas, London-Heathrow seasonal Los Angeles, New York-LaGuardia, Newark, Orlando, Phoenix, San Diego begins December 17; ends January San Francisco, San Juan seasonal Seattle/Tacoma seasonal Tampa, West Palm Beach seasonal 

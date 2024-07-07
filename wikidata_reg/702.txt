@@ -1,0 +1,14 @@
+-----METADATA
+1348
+10672
+male
+16607
+False
+True
+True
+True
+  [[ANOVA Gauge R&R]]
+14522
+-----ADDED
+
+-----DELETED

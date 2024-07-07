@@ -1,0 +1,15 @@
+-----METADATA
+1634
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+25198
+-----ADDED
+years3 1999–2017 
+-----DELETED
+years3 1999– 

@@ -1,0 +1,15 @@
+-----METADATA
+1209
+316874
+male
+16005
+False
+True
+True
+True
+csd a7 does not apply to media, such as novels.
+16751
+-----ADDED
+
+-----DELETED
+db-a7 hangon 

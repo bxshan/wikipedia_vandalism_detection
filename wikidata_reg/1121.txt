@@ -1,0 +1,15 @@
+-----METADATA
+4620
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7633
+-----ADDED
+reader server is one that makes the articles available in the hierarchical format originated by 10, or offers the NNTP or commands, for use by newsreaders reader server typically also works as transit server, but it may operate independently or serve as an alternative interface to an When receiving news, this type of server must perform the additional steps of filing articles into newsgroups and assigning sequential numbers within each group An Xref line is usually added, listing all the groups where the message appears and the sequence numbers Unlike Message IDs, the numbers and ordering of articles will differ on each server; but related servers may force agreement by operating in slave mode, re-using their siblings Xref lines Reader servers typically also maintain NOV database that allows newsreaders to quickly obtain message summaries and present messages in threaded form 
+-----DELETED
+bixa comcordo plenamente reader server is one that makes the articles available in the hierarchical format originated by 10, or offers the NNTP or commands, for use by newsreaders reader server typically also works as transit server, but it may operate independently or serve as an alternative interface to an When receiving news, this type of server must perform the additional steps of filing articles into newsgroups and assigning sequential numbers within each group An Xref line is usually added, listing all the groups where the message appears and the sequence numbers Unlike Message IDs, the numbers and ordering of articles will differ on each server; but related servers may force agreement by operating in slave mode, re-using their siblings Xref lines Reader servers typically also maintain NOV database that allows newsreaders to quickly obtain message summaries and present messages in threaded form 

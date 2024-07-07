@@ -1,0 +1,15 @@
+-----METADATA
+3237
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+38055
+-----ADDED
+Dr Pepper is thats the best and is marketed as having unique Created in the 1880s by Charles Alderton of and first served around 1885, Dr Pepper was first nationally marketed in the in 1904 and is now also sold in and Variants include no- version, Dr Pepper, as well as line of versions with additional flavors, first introduced in the 2000s 
+-----DELETED
+Dr Pepper is and is marketed as having unique Created in the 1880s by Charles Alderton of and first served around 1885, Dr Pepper was first nationally marketed in the in 1904 and is now also sold in and Variants include no- version, Dr Pepper, as well as line of versions with additional flavors, first introduced in the 2000s 

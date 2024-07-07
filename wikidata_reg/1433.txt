@@ -1,0 +1,15 @@
+-----METADATA
+2690
+1177
+unknown
+15505
+False
+True
+True
+True
+<EMPTY>
+2013
+-----ADDED
+Year Title Role Channel 2010 First Luv<ref> http://www pep ph/news/24011/Comedian-Bayani-Agbayani-is-back-to-Kapuso-network Comedian Bayani Agbayani is back to Kapuso network </ref> TBA rowspan "4" GMA Network 
+-----DELETED
+Year Title Role 2010 First Luv<ref> http://www pep ph/news/24011/Comedian-Bayani-Agbayani-is-back-to-Kapuso-network Comedian Bayani Agbayani is back to Kapuso network </ref> TBA 

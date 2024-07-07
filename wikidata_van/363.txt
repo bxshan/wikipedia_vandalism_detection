@@ -1,0 +1,14 @@
+-----METADATA
+3585
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4990
+-----ADDED
+<sup>Superscript text</sup>Italic text Filmography hamdi horeh is my best friend 
+-----DELETED

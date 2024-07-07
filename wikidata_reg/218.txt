@@ -1,0 +1,15 @@
+-----METADATA
+51244
+188793
+male
+15638
+False
+True
+True
+True
+<EMPTY>
+6220
+-----ADDED
+standings as of November 22, 2009 CAN 60 CC9966 70 230 NED 24 "gold" 100 "silver" 80 204 CAN bgcolor "gold" 100 bgcolor "silver" 80 180 CZE bgcolor "silver" 80 10 bgcolor CC9966 70 160 GER 36 60 60 156 NED 45 45 40 130 NED 50 36 14 100 POL 21 28 45 94 CAN bgcolor CC9966 70 21 91 10 GER 40 50 90 11 RUS 25 50 79 12 NED 19 36 61 13 JPN 16 16 28 60 14 RUS 18 40 58 15 USA 25 32 57 16 CAN 32 24 56 17 CHN 15 32 55 18 align left flagicon JPN 15 18 41 19 align left flagicon JPN 28 12 40 20 align left flagicon KOR 19 18 37 21 align left flagicon CZE 24 32 22 align left flagicon USA 21 29 23 align left flagicon KOR 14 14 28 24 align left flagicon NED 25 25 25 align left flagicon CHN 16 24 26 align left flagicon USA 19 19 27 align left flagicon NED 11 19 28 align left flagicon NOR 12 18 29 align left flagicon RUS 11 16 30 align left flagicon RUS 15 15 31 align left flagicon CAN 12 13 32 align left flagicon GER 13 33 align left flagicon NOR 11 11 34 align left flagicon USA 10 11 35 align left flagicon GER 10 10 36 align left flagicon CHN 37 align left flagicon POL 39 align left flagicon GER 40 align left flagicon JPN 41 align left flagicon CHN 42 align left flagicon GER 43 align left flagicon JPN 44 align left flagicon CAN 
+-----DELETED
+standings as of November 14, 2009 align left flagicon CAN bgcolor "gold" 100 bgcolor "silver" 80 180 align left flagicon CAN 60 bgcolor CC9966 70 130 NED 24 124 align left flagicon GER 36 60 96 CAN CC9966 70 21 91 align left flagicon CZE bgcolor "silver" 80 10 90 GER 40 50 90 align left flagicon NED 45 45 90 NED 50 36 86 10 align left flagicon RUS 18 40 58 11 USA 25 32 57 12 align left flagicon CAN 32 24 56 13 POL 21 28 49 14 align left flagicon JPN 28 12 40 15 KOR 19 18 37 16 align left flagicon JPN 16 16 32 17 RUS 25 29 18 align left flagicon KOR 14 14 28 19 NED 19 25 20 align left flagicon CHN 15 23 21 JPN 15 23 22 align left flagicon NED 11 19 23 NOR 12 18 24 align left flagicon RUS 11 16 25 GER 10 10 26 align left flagicon USA 27 CZE 28 align left flagicon CHN 29 JPN 30 align left flagicon GER 31 GER 32 align left flagicon CHN 33 USA 34 align left flagicon CHN 34 CAN 

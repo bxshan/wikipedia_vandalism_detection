@@ -1,0 +1,15 @@
+-----METADATA
+3586
+40630
+male
+17658
+False
+True
+True
+True
+  remove quote from novel. the fact that it's a novel means we can only use it if its relevance is argued by a reliable source
+83583
+-----ADDED
+
+-----DELETED
+Herzls utopian novel which described Jewish state, includes an Arab citizen of the state called Reschid Bey in conversation with Christian who is happy to be minority in well-run modern state: <blockquote>"Youre queer fellows, you Moslems Dont you regard these Jews as intruders?" "You speak strangely, Christian," responded the friendly Reschid "Would you call man robber who takes nothing from you, but brings you something instead? The Jews have enriched us Why should we be angry with them? They dwell among us like brothers Why should we not love them?<ref>Altneuland book 3, http://www wzo org il/en/resources/view asp?id 1602 accessed 14/7/2008</ref></blockquote> 

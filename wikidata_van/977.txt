@@ -1,0 +1,15 @@
+-----METADATA
+3042
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+53195
+-----ADDED
+Around 1912, the Collegio Romano was apparently short of money and decided to sell very discreetly some of its holdings Wilfrid Voynich acquired 30 manuscripts, among them the manuscript that now bears his name In 1930, after his death, the manuscript was inherited by his widow, known as the author of the novel and daughter of famous mathematician She died in 1960 and left the manuscript to her close friend, Miss In 1961, Anne Nill sold the book to another antique book dealer, Unable to find buyer, Kraus donated the manuscript to Yale University in 1969 Bob says hi and so do 
+-----DELETED
+Around 1912, the Collegio Romano was apparently short of money and decided to sell very discreetly some of its holdings Wilfrid Voynich acquired 30 manuscripts, among them the manuscript that now bears his name In 1930, after his death, the manuscript was inherited by his widow, known as the author of the novel and daughter of famous mathematician She died in 1960 and left the manuscript to her close friend, Miss In 1961, Anne Nill sold the book to another antique book dealer, Unable to find buyer, Kraus donated the manuscript to Yale University in 1969 

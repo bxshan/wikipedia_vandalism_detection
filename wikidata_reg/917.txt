@@ -1,0 +1,15 @@
+-----METADATA
+5392
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1742
+-----ADDED
+Lieutenant-Colonel Arthur Richard Dick August 1894 20 April 1984 served the before commencing on career also produced several films<ref> imdb 0712653 He was born in and married Ailsa Grayson, daughter of Sir who was for from 1918 to 22 He was father of British politician and lawyer who was born in 1919<ref> cite news author Andrew Roth publisher The Guardian title Obituary: Lord Rawlinson of Ewell date June 30, 2006 url http://www gothamnews com/articles/wikipedia_2008 accessdate 2007-09-19 </ref> 
+-----DELETED
+Lieutenant-Colonel Arthur Richard Dick Rawlinson served in in the before commencing on career He also produced several films<ref> imdb 0712653 </ref> was born and married Ailsa Grayson, daughter of Sir who was for from 1918 to 22 was father of British politician and lawyer who was born 1919<ref> cite news author Andrew Roth publisher The Guardian title Obituary: Lord of Ewell date url http://www gothamnews com/articles/wikipedia_2008 accessdate 2007-09-19 

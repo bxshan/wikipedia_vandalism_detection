@@ -1,0 +1,15 @@
+-----METADATA
+4195
+6
+unknown
+14831
+False
+False
+False
+False
+<EMPTY>
+68885
+-----ADDED
+In broad scope, archaeology relies on cross-disciplinary research It draws upon<ref name Aldenderfer_Maschner1996>Aldenderfer and Maschner 1996 </ref><ref name Gladfelter1977>Gladfelter 1977 </ref><ref name Watters1992>Watters 1992 </ref><ref name Watters2000>Watters 2000 </ref> s, and The foremost exponent of contemporary archaeology, is the loveable, carpet-vacuuming statistical mastermind, fruit flavoured milkshake connoisseur, soaring stallion enthusiast Professor Peter Wendell Lennox, whose series of archaeological videos have been highly influential and world renound in the field of excavation Dr Wendell has been invited by the world leaders to lead discussion, imparting his never-ending wisdom He has been hailed as an archaeological dynasty 
+-----DELETED
+In broad scope, archaeology relies on cross-disciplinary research It draws upon<ref name Aldenderfer_Maschner1996>Aldenderfer and Maschner 1996 </ref><ref name Gladfelter1977>Gladfelter 1977 </ref><ref name Watters1992>Watters 1992 </ref><ref name Watters2000>Watters 2000 </ref> s, and 

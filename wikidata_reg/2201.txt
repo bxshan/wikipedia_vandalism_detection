@@ -1,0 +1,14 @@
+-----METADATA
+6168
+41530
+male
+15318
+False
+True
+True
+True
+<EMPTY>
+89109
+-----ADDED
+*26 November The report of the Commission of Investigation into the Catholic Archdiocese of Dublin is published <ref> cite web url http://www rte ie/news/2009/1126/abuse html title Litany of abuse in Dublin Archdiocese date 2009-11-26 work RTE News accessdate 2009-11-26 </ref> 
+-----DELETED

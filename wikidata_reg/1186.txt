@@ -1,0 +1,15 @@
+-----METADATA
+11240
+56792
+female
+15167
+False
+True
+True
+True
+ trimmed captions
+16058
+-----ADDED
+with soldier wearing 
+-----DELETED
+police officer with IOTV in is issued to soldiers deploying to and soldier wearing the 

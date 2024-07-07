@@ -1,0 +1,15 @@
+-----METADATA
+2072
+110
+unknown
+14829
+False
+True
+True
+True
+<EMPTY>
+965
+-----ADDED
+Craig Heller is physiologist and biologist, currently professor at He has worked primarily on circadian rhythms and homeostasis He is also credited with inventing "the glove," vacuum cooling device used to cool core body temperature and increase muscle performance, which has been used by athletes at Stanford, by the University of Miami Hurricanes, and by boxer Prof Heller still teaches undergraduate classes at Stanford, including Bio42 
+-----DELETED
+Craig Heller is physiologist and biologist, currently professor at He has worked primarily on circadian rhythms and homeostasis He is also credited with inventing "the glove," vacuum cooling device used to cool core body temperature and increase muscle performance, which has been used by athletes at Stanford, by the University of Miami Hurricanes, and by boxer Prof Heller still teaches undergraduate classes at Stanford 

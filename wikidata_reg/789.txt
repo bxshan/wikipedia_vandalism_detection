@@ -1,0 +1,15 @@
+-----METADATA
+2224
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+35828
+-----ADDED
+The Baltimore Police Department BPD provides services to the city of and was officially established by the on It is organized into ten districts, nine based on geographical areas and the Public Housing Section, and is responsible for policing convert 78 sqmi of and convert sqmi of waterways 
+-----DELETED
+The Baltimore Police Department BPD provides services to the city of and was officially established by the on It is organized into ten districts, nine based on geographical areas and the Public Housing Section, and is responsible for policing 78 square miles of and convert sqmi of waterways 

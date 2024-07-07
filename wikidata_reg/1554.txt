@@ -1,0 +1,15 @@
+-----METADATA
+1740
+27367
+male
+16224
+False
+True
+True
+True
+ fixed
+30532
+-----ADDED
+style "background:#FFCC99" colspan "2" No longer in Camp<br> Day 20 
+-----DELETED
+!style "background:#FFCC99" colspan No longer in Camp<br> Day 20 

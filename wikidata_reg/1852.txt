@@ -1,0 +1,15 @@
+-----METADATA
+2924
+35343
+male
+16640
+False
+True
+True
+True
+<EMPTY>
+3435
+-----ADDED
+url http://www meteoswiss admin ch/web/de/klima/klima_schweiz/tabellen html title Temperature and Precipitation Average Values-Table, 1961-1990 accessdate May 2009 
+-----DELETED
+url http://www meteoswiss admin ch/web/de/klima/klima_schweiz/tabellen html title Temperature and Percipitation Average Values-Table, 1961-1990 accessdate May 2009 

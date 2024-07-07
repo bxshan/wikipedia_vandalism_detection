@@ -1,0 +1,15 @@
+-----METADATA
+1008
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10322
+-----ADDED
+saudia is the best country in the world The whole world is going to 
+-----DELETED
+saudia is the best country in the world 

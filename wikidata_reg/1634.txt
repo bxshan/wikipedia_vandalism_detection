@@ -1,0 +1,15 @@
+-----METADATA
+3428
+471180
+male
+16708
+False
+True
+True
+True
+<EMPTY>
+7577
+-----ADDED
+Stevens established the in in 1916 Now on the the former farm is the site of the present <ref name "UofOLibraries" /> 
+-----DELETED
+Stevens established the in in 1916 Now on the the former farm is the site of the present <ref name "UofOLibraries" /> 

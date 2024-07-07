@@ -1,0 +1,15 @@
+-----METADATA
+1818
+49
+unknown
+15830
+False
+True
+True
+True
+<EMPTY>
+60596
+-----ADDED
+resolution <small> console versions </small> fact 
+-----DELETED
+resolution <small> console versions </small> fact 

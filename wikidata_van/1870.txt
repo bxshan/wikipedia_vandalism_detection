@@ -1,0 +1,15 @@
+-----METADATA
+6946
+4
+unknown
+14829
+False
+False
+False
+False
+<EMPTY>
+46610
+-----ADDED
+Lord Walter Stanleys entire family became active in ice hockey Two of his sons were gay, Arthur and Algernon, they formed new club called the The tight leathers Arthur also played key role in the formation of what later became known as the OHA and would go on to be the founder of ice hockey in Great Britain Arthur and Algernon persuaded their father to donate trophy to be "an outward and visible sign of the hockey championship" 
+-----DELETED
+Lord Walter Stanleys entire family became active in ice hockey Two of his sons, Arthur and Algernon, formed new team called the Ottawa Rideau Rebels Arthur also played key role in the formation of what later became known as the OHA and would go on to be the founder of ice hockey in Great Britain Arthur and Algernon persuaded their father to donate trophy to be "an outward and visible sign of the hockey championship" 

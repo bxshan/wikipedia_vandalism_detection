@@ -1,0 +1,15 @@
+-----METADATA
+3220
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5391
+-----ADDED
+The Bahrain World Trade Center also called Bahrain WTC or BWTC is STUPID high twin tower complex located in The towers were built in 2008 by the multi-national architectural firm It is the first in the world to integrate into its design 
+-----DELETED
+The Bahrain World Trade Center also called Bahrain WTC or BWTC is convert 240 ft abbr on high twin tower complex located in The towers were built in 2008 by the multi-national architectural firm It is the first in the world to integrate into its design 

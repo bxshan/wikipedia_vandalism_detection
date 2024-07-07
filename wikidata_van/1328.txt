@@ -1,0 +1,15 @@
+-----METADATA
+7074
+23797
+male
+15516
+False
+True
+True
+True
+Revert - no class listings please
+11838
+-----ADDED
+
+-----DELETED
+Warrior Warriors constantly seek strength They might seem to be daredevils due to their desire for power, but are gifted with sharp minds and good combat sense With high Health and Strength, their melee capabilities in both attack and defense make themselves the ideal vanguard in all battles Warriors may be promoted to Knights or Gladiators at Lvl 20 Magician Wise beyond their years, Magicians love magic above all else Considered studious recluses, they were often cloistered in the Magi Academy for much of their lives This has all begun to change as Elgas dark influence begins to threaten their way of life No book-bound cowards to be dismissed on battlefield, Magicians of all disciplines make up for frailer bodies with high ranged-damage output and jovially refer to their new way of life as "putting theory in practice" Magicians may be promoted to Acolytes or Battlemagi at Lvl 20 Archer Archers are ranged physical-damage combatants proficient at swift hit-and-run tactics Besides making up for low damage-per-hit with an extremely high attack rate, Archers are also dangerous for their ability to launch opponents into the air, thereby incapacitating them while racking up the damage with lightning-quick shots Archers may be promoted to Hunters or Rangers at Lvl 20 Thief Growing up in the harsh backalleys was all the training these elusive denizens needed to become the premier melee-damage dealers of Dragonica Combining agility and power, these claw-wielders are able to deal huge amounts of burst damage up-close, with the primary objective of taking down enemies before receiving much damage themselves Thieves may be promoted to Jesters or Assassins at Lvl 20 

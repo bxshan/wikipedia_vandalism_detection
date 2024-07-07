@@ -1,0 +1,15 @@
+-----METADATA
+6016
+91670
+female
+15693
+False
+True
+True
+True
+update taxonomy in taxobox according to B&R and clean up
+884
+-----ADDED
+image_caption Umbilical view of the of Euchemotrema leai unranked_familia clade <br/>informal group <br/>clade <br/>clade <br/>informal group 
+-----DELETED
+image_caption umbilical view of the of Euchemotrema leai subclassis superordo ordo subordo infraordo unranked_familia 

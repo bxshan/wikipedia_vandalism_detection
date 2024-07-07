@@ -1,0 +1,15 @@
+-----METADATA
+4144
+14441
+unknown
+15026
+False
+True
+True
+True
+cleanup
+4848
+-----ADDED
+The 15th Philadelphia Police District, the and the Frankford Special Services District will improve safety and security in the district by improving communication between the two police departments and the community The District is also seeking additional funding to enable the reinstatement of the Safety Ambassadors Program, which has representatives on the street to assist the public and to report any problems to the police <ref> cite web url http://www frankfordssd org/index php/services title Services Offered by the District accessdate 2009-11-29 date 2009-11-29 publisher Frankford Special Services District of Philadelphia </ref> reflist 
+-----DELETED
+The 15th Philadelphia Police District, the and the Frankford Special Services District will improve safety and security in the district by improving communication between the two police departments and the community The District is also seeking additional funding to enable the reinstatement of the Safety Ambassadors Program, which has representatives on the street to assist the public and to report any problems to the police <ref> cite web url http://www frankfordssd org/index php/services title Services Offered by the District accessdate 2009-11-29 date 2009-11-29 publisher Frankford Special Services District of Philadelphia </ref> <references/> 

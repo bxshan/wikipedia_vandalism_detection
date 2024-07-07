@@ -1,0 +1,15 @@
+-----METADATA
+5370
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+42285
+-----ADDED
+The Master Chiefs backstory is never explained in the games But his mom is great at well you know heres hint bow chicka bow wo prequel of Halo: Combat Evolved, the 2001 novel The Fall of Reach, reveals much of the characters history and was released as companion to the game The Master Chief, originally named John, was born in 2511 and first lived with his family on the human colony planet Eridanus II Large for his six years of age, and approximately foot above his school peers, he is described as typical boy with brown hair, freckles and gap between his two front teeth <ref name "Nylund2001"/> In 2517, John and seventy-four other children his age are covertly taken from their homes and replaced with to hide the kidnapping The original children are brought to planet one of the UNSCs headquarters, to begin intense physical and psychological training to become supersoldiers <ref name "Nylund2001"/> They are assigned new identification numbers instead of last names; John becomes known as John-117 Approximately eight years later, John and the other children are biologically and cybernetically augmented and enhanced These procedures had substantial risks;<ref name "Nylund2001"/> only John and thirty-two other Spartans survive <ref name "Nylund2001"/> 
+-----DELETED
+The Master Chiefs backstory is never explained in the games prequel of Halo: Combat Evolved, the 2001 novel The Fall of Reach, reveals much of the characters history and was released as companion to the game The Master Chief, originally named John, was born in 2511 and first lived with his family on the human colony planet Eridanus II Large for his six years of age, and approximately foot above his school peers, he is described as typical boy with brown hair, freckles and gap between his two front teeth <ref name "Nylund2001"/> In 2517, John and seventy-four other children his age are covertly taken from their homes and replaced with to hide the kidnapping The original children are brought to planet one of the UNSCs headquarters, to begin intense physical and psychological training to become supersoldiers <ref name "Nylund2001"/> They are assigned new identification numbers instead of last names; John becomes known as John-117 Approximately eight years later, John and the other children are biologically and cybernetically augmented and enhanced These procedures had substantial risks;<ref name "Nylund2001"/> only John and thirty-two other Spartans survive <ref name "Nylund2001"/> 

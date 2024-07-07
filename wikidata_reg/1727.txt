@@ -1,0 +1,15 @@
+-----METADATA
+6800
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1411
+-----ADDED
+discovered October 1, 1996 epoch May 14, 2008 8569 Mameli 1996 TG is discovered on October 1, 1996 by at the Reflist 
+-----DELETED
+discovered epoch 8569 Mameli 1996 TG is discovered on by at the reflist 

@@ -1,0 +1,14 @@
+-----METADATA
+821
+3228
+male
+15134
+False
+True
+True
+True
+Added stub template
+371
+-----ADDED
+D&D-videogame-stub 
+-----DELETED

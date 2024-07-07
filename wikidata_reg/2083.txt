@@ -1,0 +1,15 @@
+-----METADATA
+3363
+195139
+male
+16622
+False
+True
+True
+True
+Darwin, Northern Territory
+5098
+-----ADDED
+1938 November 5-7, 1938 11,520 ;km<br> 7,162 miles RAF Long Range Development Unit; and first pilots crew of two also qualified pilots in each aircraft From Ismailia, Egypt to in three aircraft flew in formation, Hogan landed to refuel at Koepang 500 miles short of Darwin thus officially holding the record 10,715 ;km until the other two landed at <ref> http://www flightglobal com/pdfarchive/view/1938/1938%20-%203166 html Flight 1938 </ref> 
+-----DELETED
+1938 November 5-7, 1938 11,520 ;km<br> 7,162 miles RAF Long Range Development Unit; and first pilots crew of two also qualified pilots in each aircraft From Ismailia, Egypt to Darwin, Australia; three aircraft flew in formation, Hogan landed to refuel at Koepang 500 miles short of Darwin thus officially holding the record 10,715 ;km until the other two landed at <ref> http://www flightglobal com/pdfarchive/view/1938/1938%20-%203166 html Flight 1938 </ref> 

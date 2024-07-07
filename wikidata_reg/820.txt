@@ -1,0 +1,15 @@
+-----METADATA
+3524
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+12365
+-----ADDED
+Amidst this strife, megacorporation Abstergo has devised plan to seize control of the minds and free will of every person on Earth To achieve this goal, they must locate an artifact called the "Piece of Eden" To do so Abstergo captures Desmond Miles, former bartender turned assassin trainee, to search his ancestors memories stored in his DNA in order to find the Piece of Eden Desmond is forced to enter the Animus, machine that allows for the viewing of such memories 
+-----DELETED
+Amidst this strife, megacorporation Abstergo has devised plan to seize control of the minds and free will of every person on Earth To achieve this goal, they must locate an artifact called the "Piece of Eden" To do so Abstergo captures Desmond Miles, former assassin trainee turned bartender, to search his ancestors memories stored in his DNA in order to find the Piece of Eden Desmond is forced to enter the Animus, machine that allows for the viewing of such memories 

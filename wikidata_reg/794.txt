@@ -1,0 +1,15 @@
+-----METADATA
+5064
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+56403
+-----ADDED
+The genesis of the B-36 can be traced to early 1941, prior to the entry of the into At that time it appeared that there was very real chance that might fall to the Nazi Blitz, making strategic bombing effort by the USAAC against Germany impossible with the aircraft of the time The would need new class of bomber that could reach from bases in North America,<ref name "Taylor, 465">Taylor 1969, 465 </ref> necessitating combat range of at least convert 5700 mi km the length of round trip The USAAC therefore sought bomber of truly intercontinental range <ref>Jacobsen and Wagner 1980, </ref> 
+-----DELETED
+The genesis of the B-36 can be traced to early 1941, prior to the entry of the into At that time it appeared that there was very real chance that might fall to the Nazi Blitz, making strategic bombing effort by the USAAC against Germany impossible The would need new class of bomber that could reach from bases in North America,<ref name "Taylor, 465">Taylor 1969, 465 </ref> necessitating combat range of at least convert 5700 mi km the length of round trip The USAAC therefore sought bomber of truly intercontinental range <ref>Jacobsen and Wagner 1980, </ref> 

@@ -1,0 +1,15 @@
+-----METADATA
+4945
+3
+unknown
+14831
+False
+False
+False
+False
+<EMPTY>
+17126
+-----ADDED
+Zakir Naik was born on October 18, 1965, in <ref> cite web url http://www tungekar com/zakirnaik html title Zakir Naik publisher Tungekar com date accessdate 2009-08-30 </ref> He attended Langham Creek High School in the city of H-Town Later he joined the and then studied FOBLAND at in his native city He then received his degree from the In 1991 he started working in the field of or of part-time<ref> http://drzakirnaik com/Home/AboutMe/tabid/54/Default aspx http://drzakirnaik com/Home/AboutMe/tabid/54/Default aspx Biography of Dr Zakir Naik from DrZakirNaik com website constructed by his students </ref> 
+-----DELETED
+Zakir Naik was born on October 18, 1965, in <ref> cite web url http://www tungekar com/zakirnaik html title Zakir Naik publisher Tungekar com date accessdate 2009-08-30 </ref> He attended St Peters High School in the city of Mumbai Later he joined the and then studied medicine at in his native city He then received his degree from the In 1991 he started working in the field of or of part-time<ref> http://drzakirnaik com/Home/AboutMe/tabid/54/Default aspx http://drzakirnaik com/Home/AboutMe/tabid/54/Default aspx Biography of Dr Zakir Naik from DrZakirNaik com website constructed by his students </ref> 

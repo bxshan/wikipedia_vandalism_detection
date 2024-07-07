@@ -1,0 +1,15 @@
+-----METADATA
+2873
+24
+unknown
+14833
+False
+True
+True
+True
+<EMPTY>
+5393
+-----ADDED
+parody of the song called http://www example com link title Kiss the Girl Continued was released as video by comedy website The parody serves as an alternative and extended version of the original, with exchanged lyrics after the first verse 
+-----DELETED
+parody of the song called Kiss the Girl Continued was released as video by comedy website The parody serves as an alternative and extended version of the original, with exchanged lyrics after the first verse 

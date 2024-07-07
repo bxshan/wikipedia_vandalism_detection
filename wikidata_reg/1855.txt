@@ -1,0 +1,15 @@
+-----METADATA
+5589
+76971
+male
+16621
+False
+True
+True
+True
+revert comments added into the text itself; fix 'had' to 'been'
+6472
+-----ADDED
+Although certainly carnivore, the paucity of known Cretaceous east coast dinosaurs make ascertaining the specific diet of Dryptosaurus difficult 
+-----DELETED
+This is listed in the wrong period PLease fix Although certainly carnivore, the paucity of known Cretaceous east coast dinosaurs make ascertaining the specific diet of Dryptosaurus difficult 

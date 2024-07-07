@@ -1,0 +1,15 @@
+-----METADATA
+2614
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3027
+-----ADDED
+*The Macquaria novemaculeata, member of the temperate perch family, 
+-----DELETED
+*The Macquaria novemaculeata, member of the temperate perch family, 

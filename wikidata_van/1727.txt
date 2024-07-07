@@ -1,0 +1,15 @@
+-----METADATA
+1951
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+13695
+-----ADDED
+German Expressionism refers to number of related creative movements in before the that reached peak in during the 1920s These developments in Germany were part of larger movement in north and central European art This article deals with the cinematic part of said movement *Im total bullshiter 
+-----DELETED
+German Expressionism refers to number of related creative movements in before the that reached peak in during the 1920s These developments in Germany were part of larger movement in north and central European art This article deals with the cinematic part of that movement 

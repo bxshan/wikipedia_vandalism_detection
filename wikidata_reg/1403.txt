@@ -1,0 +1,15 @@
+-----METADATA
+4561
+26284
+male
+15621
+False
+True
+True
+True
+ removed commented out deleted image, changing plain dead link to a cite template with archive parameters
+52730
+-----ADDED
+Kurdish culture is close to that of other Kurds, for instance, also celebrate as New Years Day 
+-----DELETED
+<!-- Deleted image removed: <ref> http://www britannica com/eb/article-22937 Iraq Encyclopædia Britannica </ref> --> Kurdish culture is close to that of other Kurds, for instance, also celebrate as New Years Day 

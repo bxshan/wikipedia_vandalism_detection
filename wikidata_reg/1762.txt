@@ -1,0 +1,14 @@
+-----METADATA
+801
+330987
+unknown
+15789
+False
+True
+True
+True
+Quick-adding category [[:Category:Bantu languages|Bantu languages]] (using [[WP:HOTCAT|HotCat]])
+321
+-----ADDED
+
+-----DELETED

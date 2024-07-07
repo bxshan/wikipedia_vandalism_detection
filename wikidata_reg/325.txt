@@ -1,0 +1,15 @@
+-----METADATA
+5659
+399
+unknown
+14959
+False
+True
+True
+True
+<EMPTY>
+19420
+-----ADDED
+*The term Old Testament is used exclusively to identify the Hebrew Bible as portion of the Christian scriptures This however, is not historically correct Since it was composed by the people of ancient Israel hundreds of years before Christianity existed Referring to it as the Old Testament suggests that the Hebrew Bible is Christian work When it fact, its authorship is Jewish, not Christian; and its content deals with the religion, politics, and culture of the ancient Hebrew people of Israel, and not with that of Christianity 
+-----DELETED
+*The term Old Testament is used exclusively to identify the Hebrew Bible as portion of the Christian scriptures This however, is not historically correct Since it was composed by the people of ancient Israel hundreds of years before Christianity existed Referring to it as the Old Testament suggests that the Hebrew Bible is Christian work When it fact, its authorship is Jewish, not Christian; and its content deals with the religion, politics, and culture of ancient Israel, and not with that of Christianity 

@@ -1,0 +1,15 @@
+-----METADATA
+1936
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+68323
+-----ADDED
+image_map Horse with erection jpg 
+-----DELETED
+image_map Brooklyn Highlight New York City Map Julius Schorzman png 

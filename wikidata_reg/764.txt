@@ -1,0 +1,15 @@
+-----METADATA
+1608
+10907
+unknown
+15205
+False
+True
+True
+True
+coordinates added
+2194
+-----ADDED
+51 5023 -0 1591 type:landmark_region:GB-WSM display title 
+-----DELETED
+missing London 

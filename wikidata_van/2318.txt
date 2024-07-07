@@ -1,0 +1,15 @@
+-----METADATA
+7215
+15
+unknown
+14941
+False
+True
+True
+True
+<EMPTY>
+10678
+-----ADDED
+image Richard Barnbrook BNP at mayoral election3 jpg term_end2 May 2008 predecessor2 Adolph Hilter successor2 majority3 272 25% alongside3 Tracy Laysdown <br> Warren Northover predecessor3 nationality British, 
+-----DELETED
+image Richard John Barnbrook BNP at mayoral election3 jpg term_end2 predecessor2 successor2 majority3 272 25% alongside3 Tracy Lansdown <br> Warren Northover predecessor3 nationality British 

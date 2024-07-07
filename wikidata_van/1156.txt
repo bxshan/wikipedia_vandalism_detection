@@ -1,0 +1,15 @@
+-----METADATA
+26051
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+18092
+-----ADDED
+border "2" cellpadding "4" cellspacing "0" style "margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; all films FLOP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+-----DELETED
+border "2" cellpadding "4" cellspacing "0" style "margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" bgcolor "#CCCCCC" align "center" Year! Film! Role! Notes rowspan "1" <!-- Please do NOT add opinions like "flop" or "blockbuster" here they will be removed again! If you disagree, discuss on the talk page first, please Also dont add minor awards only Filmfare, National, State, ITFA or Vijay Awards --> rowspan "1" rowspan "2" Deva HiT rowspan "3" Flop Vishnu Average Rahim Average rowspan "5" Balu Average Raja Block buster movie Average Shiva Average Selva Average rowspan "5" Kannan Flop Ganesh Block buster Movie Vijay Hit Vijay Super Hit Jeevanandam Winner, Block buster Movie rowspan "3" Gokulakrishnan Super hit Vasanth Super Hit Seluvai Average rowspan "4" Kutty Block Buster Movie Average Karunakaran Average Kannan Average rowspan "3" Gautham Average Shiva Block buster Movie Vijay Block buster Movie rowspan "3" Aravinth Block buster movie Badri Super Hit Ashok Super hit rowspan "3" Surya hit Shiva Hit Bhagavathi Hit rowspan "3" Boopathy Hit Sarathy Average Thirumalai Block buster rowspan "3" Udhayakumaran Flop Saravanavelu Block buster movie Madhurevel Super hit rowspan "4" Sivagiri Winner, Sachien hit Sukran Extended cameo hit Sivakasi Muthappa hit Aathi Average rowspan "2" Thamizh Sathyamoorthy Winner, <br>Nominated: Block buster movie Guru, <br>Prasad Average rowspan "2" Vetrivel Super Hit As himself Guest appearance Flop rowspan "2" Pugazh,<br>Major Saravanan Super hit To be released December 18, 2009 Sure will be hit the screen rowspan "1" Filming rowspan "1" First project with Seeman 

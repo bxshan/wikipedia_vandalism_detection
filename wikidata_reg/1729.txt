@@ -1,0 +1,15 @@
+-----METADATA
+1968
+718067
+unknown
+15513
+False
+True
+True
+True
+BOT--Reverting link addition(s) by [[:en:Special:Contributions/Tooclassy4most|Tooclassy4most]] to revision 327162466 (http://www.twitter.com/mcpb/)
+3042
+-----ADDED
+
+-----DELETED
+http://www twitter com/mcpb/ Official Twitter 

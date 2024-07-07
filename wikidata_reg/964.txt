@@ -1,0 +1,15 @@
+-----METADATA
+2320
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+82580
+-----ADDED
+fatalities 32 the perpetrator<ref injuries 25<ref name "August panel report" /> 
+-----DELETED
+fatalities 33 including the perpetrator <ref name "August panel report" /> injuries 23<ref 

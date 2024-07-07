@@ -1,0 +1,15 @@
+-----METADATA
+1923
+0
+unknown
+0
+True
+False
+False
+False
+  check my argument on the discussions page under your "Vacant belts" thread
+21819
+-----ADDED
+rowspan "2" align "center" flagicon PUR <br>27-0 24 KO <br>June 7, 2008 
+-----DELETED
+rowspan "2" align "center" vacant 

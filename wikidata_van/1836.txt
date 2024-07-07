@@ -1,0 +1,15 @@
+-----METADATA
+2614
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9378
+-----ADDED
+Methionine is one of only two amino acids encoded by single codon fuck all biomed cock suckas in the standard encoded by UGG, is the other The codon AUG is also the "Start" message for that signals the initiation of protein from mRNA As consequence, methionine is incorporated into the N-terminal position of all in and during translation, although it is usually removed by 
+-----DELETED
+Methionine is one of only two amino acids encoded by single codon AUG in the standard encoded by UGG, is the other The codon AUG is also the "Start" message for that signals the initiation of protein from mRNA As consequence, methionine is incorporated into the N-terminal position of all in and during translation, although it is usually removed by 

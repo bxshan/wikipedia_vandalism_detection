@@ -1,0 +1,15 @@
+-----METADATA
+6284
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+23512
+-----ADDED
+In order to create flow web, topological web is first constructed After the members of the web are decided, the of each functional group is calculated, usually in kg carbon/ In order to calculate feeding rates, researchers assume that the population of the functional group is in equilibrium At equilibrium, the reproduction of the group balances the rate at which members are lost through natural death and predation<ref name Hunt> cite authors Hunt, Coleman, Ingham, Ingham, Elliott, Moore, Rose, Reid, and Morley year 1987 title The detrital food web in shortgrass prairie journal Biology and Fertility of Soils volume pages 57–68 </ref> When feeding rate is known, the efficiency with which nutrients are converted into organism biomass can be calculated This energy stored in the organism represents the amount available to be passed on to the next trophic level the liabeth velazquez orozco 
+-----DELETED
+In order to create flow web, topological web is first constructed After the members of the web are decided, the of each functional group is calculated, usually in kg carbon/ In order to calculate feeding rates, researchers assume that the population of the functional group is in equilibrium At equilibrium, the reproduction of the group balances the rate at which members are lost through natural death and predation<ref name Hunt> cite authors Hunt, Coleman, Ingham, Ingham, Elliott, Moore, Rose, Reid, and Morley year 1987 title The detrital food web in shortgrass prairie journal Biology and Fertility of Soils volume pages 57–68 </ref> When feeding rate is known, the efficiency with which nutrients are converted into organism biomass can be calculated This energy stored in the organism represents the amount available to be passed on to the next trophic level 

@@ -1,0 +1,15 @@
+-----METADATA
+4376
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+28506
+-----ADDED
+After the alphabet was developed by the ICAO see below it was adopted by many other international and national organizations, including the NIPPLE the ITU the IMO the FAA the ANSI and the ARRL It is subset of the much older INTERCO which originally included visual signals by flags or flashing light, sound signals by whistle, siren, foghorn, or bell, as well as one, two, or three letter codes for many phrases <ref> http://www nga mil/portal/site/maritime/?epi_menuItemID 923e01c531c0a3825b2a7fbd3227a759&epi_menuID 35ad5b8aabcefa1a0fc133443927a759&epi_baseMenuID e106a3b5e50edce1fec24fd73927a759 International Code of Signals United States Edition, 1969 Edition Revised 2003 Chapter 1, pages 18-19, 148 </ref> The same alphabetic code words are used by all agencies, but each agency chooses one of two different sets of numeric code words NATO uses the regular English numeric words Zero, One, with some alternative pronunciations whereas the IMO provides for compound numeric words Nadazero, Unaone, Bissotwo In practice these are very rarely used, as they frequently lead to more confusion between speakers of different languages 
+-----DELETED
+After the alphabet was developed by the ICAO see below it was adopted by many other international and national organizations, including the NATO the ITU the IMO the FAA the ANSI and the ARRL It is subset of the much older INTERCO which originally included visual signals by flags or flashing light, sound signals by whistle, siren, foghorn, or bell, as well as one, two, or three letter codes for many phrases <ref> http://www nga mil/portal/site/maritime/?epi_menuItemID 923e01c531c0a3825b2a7fbd3227a759&epi_menuID 35ad5b8aabcefa1a0fc133443927a759&epi_baseMenuID e106a3b5e50edce1fec24fd73927a759 International Code of Signals United States Edition, 1969 Edition Revised 2003 Chapter 1, pages 18-19, 148 </ref> The same alphabetic code words are used by all agencies, but each agency chooses one of two different sets of numeric code words NATO uses the regular English numeric words Zero, One, with some alternative pronunciations whereas the IMO provides for compound numeric words Nadazero, Unaone, Bissotwo In practice these are very rarely used, as they frequently lead to more confusion between speakers of different languages 

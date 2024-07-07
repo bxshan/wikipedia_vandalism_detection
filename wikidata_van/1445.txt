@@ -1,0 +1,15 @@
+-----METADATA
+2596
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+65970
+-----ADDED
+name Johnson Wayne image John Wayne in Wake of the Red Witch trailer jpg caption Mr Johnson Wayne 
+-----DELETED
+name Bonnie and Clyde image Bonnieclyde jpg caption Bonnie and Clyde in March 1933, in photo found by police at the Joplin, Missouri hideout 

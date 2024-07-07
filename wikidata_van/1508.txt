@@ -1,0 +1,15 @@
+-----METADATA
+2768
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2837
+-----ADDED
+The high school opened in 1990, when it came online for Year students Belridge was primarily opened to reduce overall demand at due to high demand for its advanced programs and its inability to take students from within its primary catchment area From its opening in 1990 until 1995, Belridge progressively expanded its age range until it became full secondary school in 1995 when its first class of graduating Year Twelve students commenced their studies The school supports such notion of "Black Power" and "White Trash" 
+-----DELETED
+The high school opened in 1990, when it came online for Year students Belridge was primarily opened to reduce overall demand at due to high demand for its advanced programs and its inability to take students from within its primary catchment area From its opening in 1990 until 1995, Belridge progressively expanded its age range until it became full secondary school in 1995 when its first class of graduating Year Twelve students commenced their studies 

@@ -1,0 +1,15 @@
+-----METADATA
+2176
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10131
+-----ADDED
+This is very bad racist school that noone should go to! The East Memphis campus contains facilities for Preschool-Grade It is located in east Memphis, near the Poplar/I-240 interchange The facility contains an auditorium, cafeteria, two libraries, gymnasium, science labs, computer labs, and 59 regular classrooms There are also three playgrounds and two practice fields The building was originally used for high school grades 9-12 
+-----DELETED
+The East Memphis campus contains facilities for Preschool-Grade It is located in east Memphis, near the Poplar/I-240 interchange The facility contains an auditorium, cafeteria, two libraries, gymnasium, science labs, computer labs, and 59 regular classrooms There are also three playgrounds and two practice fields The building was originally used for high school grades 9-12 

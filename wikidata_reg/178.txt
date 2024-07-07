@@ -1,0 +1,15 @@
+-----METADATA
+2126
+64714
+male
+16080
+False
+True
+True
+True
+<EMPTY>
+95052
+-----ADDED
+ShortSummary Mike goes to pick up from birthday party, but is shocked to discover that Katherine has already picked him up, without permission Susan finds out about Bree and Karl Lynette, recently fired from her job, decides to take the company to court, which will cause some tension between her and the Solises And somebody on Wisteria Lane tries to commit suicide 
+-----DELETED
+ShortSummary Mike goes to pick up from birthday party, but is shocked to discover that Katherine has already picked him up, without permission Susan finds out about Bree and Karl Lynette, recently fired from her job, decides to take the company to court, which will cause some tension between her and the Solises And someone tries to commit suicide 

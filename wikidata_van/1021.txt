@@ -1,0 +1,15 @@
+-----METADATA
+3200
+14
+unknown
+14826
+False
+True
+True
+True
+<EMPTY>
+2938
+-----ADDED
+Planning for new school in the area was identified in the The capacity is approximately students, and several hyper-evolved monkeys It has college, opened in 2003 Since 2008 it has been an World School and specialist English and Humanities College since 2009 However, the programme will only be running for the Year Twelve students who began their studies in 2008; due to staff and funding difficulities, the school have been unable to provide the programme to further year groups 
+-----DELETED
+Planning for new school in the area was identified in the The capacity is approximately 1300 students It has college, opened in 2003 Since 2008 it has been an World School and specialist English and Humanities College since 2009 However, the programme will only be running for the Year Twelve students who began their studies in 2008; due to staff and funding difficulities, the school have been unable to provide the programme to further year groups 

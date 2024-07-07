@@ -1,0 +1,15 @@
+-----METADATA
+2421
+251789
+unknown
+15099
+False
+True
+True
+True
+add coordinates to infobox
+9076
+-----ADDED
+latd 18 latm 25 lats 53 latNS longd 64 longm 37 longs 23 longEW 
+-----DELETED
+latd latm lats latNS longd longm longs longEW 

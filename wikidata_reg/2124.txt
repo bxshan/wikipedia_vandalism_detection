@@ -1,0 +1,15 @@
+-----METADATA
+1499
+13388
+male
+15724
+False
+True
+True
+True
+<EMPTY>
+66927
+-----ADDED
+stadium 
+-----DELETED
+stadium 

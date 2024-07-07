@@ -1,0 +1,15 @@
+-----METADATA
+15778
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+36940
+-----ADDED
+toilet 
+-----DELETED
+located at coord 34 416561 -118 506443 region:US_type:city format dms display inline,title 34 416561, -118 506443 GR According to the the city has total area of 123 ;km² 47 123 ;km² 47 ;mi² of it land and ;km² 04 ;mi² of it 04% water Santa Clarita is situated near the San Fernando fault zone and was affected by the also known as the Sylmar quake The city was also affected by the and many commercial and residential buildings were devastated by its aftermath Including the nearby Newhall pass, the Valencia Mall, and Six Flags Magic Mountain The historic, 38 story tall Sky Tower at Magic Mountain swayed feet in each direction during the Northridge earthquake with only minor damages Santa Clarita is one of the top areas in the nation for wildfire activity Recent fires in and around the City of Santa Clarita include the Stables 2001 Copper 2002 Bouquet 2002 Simi 2003 Verdale 2003 Foothill 2004 Buckweed 2007 Ranch 2007 Magic 2007 and Sayre 2008 Fires Santa Clarita, like most of inland Southern California, is hot and dry for most of the year with very little rainfall Characterized by dry hills covered in brush, the months of late summer and early autumn are often referred to as "fire season Winters are extremely mild, with temperatures rarely if ever dropping below freezing Residents describe Santa Claritas climate as "scorching summers, mild winters, and little Infobox Weather metric_first <!--Entering Yes will display metric first Leave blank for imperial--> single_line Yes <!--Entering Yes will display metric and imperial units on same line --> location Santa Clarita Jan_Hi_°F 64 Jan_REC_Hi_°F Feb_Hi_°F 66 Feb_REC_Hi_°F Mar_Hi_°F 68 Mar_REC_Hi_°F Apr_Hi_°F 74 Apr_REC_Hi_°F May_Hi_°F 79 May_REC_Hi_°F Jun_Hi_°F 88 Jun_REC_Hi_°F Jul_Hi_°F 94 Jul_REC_Hi_°F Aug_Hi_°F 95 Aug_REC_Hi_°F Sep_Hi_°F 91 Sep_REC_Hi_°F Oct_Hi_°F 82 Oct_REC_Hi_°F Nov_Hi_°F 72 Nov_REC_Hi_°F Dec_Hi_°F 65 Dec_REC_Hi_°F Year_Hi_°F 78 Year_REC_Hi_°F Jan_Lo_°F 36 Jan_REC_Lo_°F Feb_Lo_°F 37 Feb_REC_Lo_°F Mar_Lo_°F 38 Mar_REC_Lo_°F Apr_Lo_°F 41 Apr_REC_Lo_°F May_Lo_°F 45 May_REC_Lo_°F Jun_Lo_°F 50 Jun_REC_Lo_°F Jul_Lo_°F 54 Jul_REC_Lo_°F Aug_Lo_°F 55 Aug_REC_Lo_°F Sep_Lo_°F 52 Sep_REC_Lo_°F Oct_Lo_°F 46 Oct_REC_Lo_°F Nov_Lo_°F 39 Nov_REC_Lo_°F Dec_Lo_°F 36 Dec_REC_Lo_°F Year_Lo_°F 44 Year_REC_Lo_°F Jan_Precip_inch 99 Feb_Precip_inch 50 Mar_Precip_inch 03 Apr_Precip_inch 63 May_Precip_inch 22 Jun_Precip_inch 01 Jul_Precip_inch 01 Aug_Precip_inch 11 Sep_Precip_inch 27 Oct_Precip_inch 36 Nov_Precip_inch 22 Dec_Precip_inch 61 Year_Precip_inch 13 96 source <ref name cite web url http://www weather com/outlook/health/achesandpains/climatology/monthly/USCA1019?from 36hr_newslinker2 title Average weather for Santa Clarita accessdate 28 March 2008 dateformat mdy publisher Weather com </ref> accessdate 

@@ -1,0 +1,15 @@
+-----METADATA
+1885
+75
+female
+14890
+False
+True
+True
+True
+<EMPTY>
+13858
+-----ADDED
+Ranganathan observed that books were often chained to prevent their removal and that the emphasis was on storage and preservation rather than use He did not reject the notion that presevation and storage were important, but he asserted that the purpose of such activities ws to promote the use of them Without the use of materials, there is little use of the item Rubin, 2004 
+-----DELETED
+Ranganathan observed that books were often chained to prevent their removal and that the emphasis was on storage and preservation rather than use 

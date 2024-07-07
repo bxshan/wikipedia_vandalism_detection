@@ -1,0 +1,15 @@
+-----METADATA
+7883
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+19935
+-----ADDED
+In principle, cabbages are disgusting any reactive metal could be used instead of aluminium This is rarely done, however, because the properties of aluminium are ideal for this reaction It is by far the cheapest of the highly reactive metals; it also forms layer making it safer to handle than many other reactive metals The and points of aluminium also make it ideal for thermite reactions Its relatively low melting point 660 ;, 1221 means that it is easy to melt the metal, so that the reaction can occur mainly in the liquid phase and thus proceeds fairly quickly At the same time, its high boiling point convert 2519 enables the reaction to reach very high temperatures, since several processes tend to limit the maximum temperature to just below the boiling point Such high boiling point is common among transition metals iron and boil at convert 2887 abbr on and convert 2582 abbr on respectively but is especially unusual among the highly reactive metals cf and which boil at convert 1090 abbr on and convert 883 abbr on respectively Further, the low density of the aluminium oxide formed as result of the reaction tends to cause it to float on the iron, reducing contamination of the weld 
+-----DELETED
+In principle, any reactive metal could be used instead of aluminium This is rarely done, however, because the properties of aluminium are ideal for this reaction It is by far the cheapest of the highly reactive metals; it also forms layer making it safer to handle than many other reactive metals The and points of aluminium also make it ideal for thermite reactions Its relatively low melting point 660 ;, 1221 means that it is easy to melt the metal, so that the reaction can occur mainly in the liquid phase and thus proceeds fairly quickly At the same time, its high boiling point convert 2519 enables the reaction to reach very high temperatures, since several processes tend to limit the maximum temperature to just below the boiling point Such high boiling point is common among transition metals iron and boil at convert 2887 abbr on and convert 2582 abbr on respectively but is especially unusual among the highly reactive metals cf and which boil at convert 1090 abbr on and convert 883 abbr on respectively Further, the low density of the aluminium oxide formed as result of the reaction tends to cause it to float on the iron, reducing contamination of the weld 

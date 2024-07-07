@@ -1,0 +1,15 @@
+-----METADATA
+6167
+152265
+male
+15578
+False
+True
+True
+True
+<ref name="Wobser Bar">[http://lighthouse.boatnerd.com/gallery/Detroit/detroitriverlight.htm Wobser, David, Bar Point Shoal Lighthouse at] boatnerd.com</ref>
+13832
+-----ADDED
+The light shares its design and engineering with the which was also built in 1885 
+-----DELETED
+The light shares its design and engineering with the which was also built in 1885 

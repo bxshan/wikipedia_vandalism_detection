@@ -1,0 +1,15 @@
+-----METADATA
+9737
+1718198
+unknown
+16861
+False
+True
+True
+True
+Date maintenance tags and general  fixes using [[Project:AutoWikiBrowser|AWB]]
+61057
+-----ADDED
+Essay-like November 2009 No footnotes date October 2008 
+-----DELETED
+essay-like nofootnotes October 2008 

@@ -1,0 +1,15 @@
+-----METADATA
+3087
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+27390
+-----ADDED
+The nervous system is hi peeps defined by the presence of special type of cell, the Neurons are distinctive in number of ways, but their most fundamental property is that they communicate with other cells via s, which are membrane-to-membrane junctions containing molecular machinery that allows rapid transmission of signals, either electrical or chemical 
+-----DELETED
+The nervous system is defined by the presence of special type of cell, the Neurons are distinctive in number of ways, but their most fundamental property is that they communicate with other cells via s, which are membrane-to-membrane junctions containing molecular machinery that allows rapid transmission of signals, either electrical or chemical 

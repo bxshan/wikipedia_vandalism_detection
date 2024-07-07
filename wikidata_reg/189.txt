@@ -1,0 +1,15 @@
+-----METADATA
+2822
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6578
+-----ADDED
+Willstätter was born in He went to school there and, when his family moved, he attended the Technical School in At age 18 he entered the to study science and stayed for the next fifteen years He was in the Department of Chemistry, first as student of -- he received his doctorate in 1894 then as faculty member His doctoral thesis was on the structure of Willstätter continued his research into other and synthesized several of them In 1896 he was named and in 1902 Professor extraordinarius professor without chair 
+-----DELETED
+Willstätter was born in to Jewish family in He went to school there and, when his family moved, he attended the Technical School in At age 18 he entered the to study science and stayed for the next fifteen years He was in the Department of Chemistry, first as student of -- he received his doctorate in 1894 then as faculty member His doctoral thesis was on the structure of Willstätter continued his research into other and synthesized several of them In 1896 he was named and in 1902 Professor extraordinarius professor without chair 

@@ -1,0 +1,15 @@
+-----METADATA
+8368
+10322
+unknown
+15763
+False
+True
+True
+True
+<EMPTY>
+3378
+-----ADDED
+caps goals 21 <br />26 <br />40 <br />28 pcupdate November 29, 2009 align "center" 12 align "center" 19 Total! 28! 2! 5! 0!! 4! 0! 37! colspan "12" <small>Last updated </small> 
+-----DELETED
+caps goals 21 <br />26 <br />40 <br />27 pcupdate November 23, 2009 align "center" 11 align "center" 18 Total! 27! 2! 5! 0!! 4! 0! 36! colspan "12" <small>Last updated </small> 

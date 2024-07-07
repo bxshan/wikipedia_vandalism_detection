@@ -1,0 +1,15 @@
+-----METADATA
+1891
+157959
+male
+15838
+False
+True
+True
+True
+rm book ref. Too old, adds nothing to clarify the distinct importance of flat honing as opposed to other forms of honing (which still needs a rewrite of most of this article)
+5968
+-----ADDED
+
+-----DELETED
+http://books google com/books?id NRXnXmFRjWYC&pg PT1127&dq flat+honing&as_brr 3&ei krEGS_u_G5u-zgS1ytS6Dw&client firefox-a#v onepage&q flat%20honing&f false DESK EDITION: Tool and manufacturing engineers handbook By Cubberly, Ramon Bakerjian, Society of Manufacturing Engineers 

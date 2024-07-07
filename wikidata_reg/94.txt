@@ -1,0 +1,15 @@
+-----METADATA
+1684
+4560
+unknown
+16301
+False
+True
+True
+True
+<EMPTY>
+593
+-----ADDED
+coord 41 5505 -8 4234 type:landmark_region:PT display title 
+-----DELETED
+coord 41 5506 -8 4235 type:landmark_region:PT display title 

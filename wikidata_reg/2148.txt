@@ -1,0 +1,15 @@
+-----METADATA
+1976
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+22546
+-----ADDED
+Sung Lei-Chung <br> 宋理忠 bao Magazine Editor <br> Chao Magazine Ex-Sales Manager 
+-----DELETED
+Sung Lei-Chung <br> 宋理忠 Ching Song 清爽 Magazine Vice-Editor <br> Chao Magazine Ex-Sales Manager 

@@ -1,0 +1,15 @@
+-----METADATA
+1956
+199578
+male
+16395
+False
+True
+True
+True
+Merging DAB page content (cleaned up) to more general page; most "The [X]" DAB pages redir to "[X]" DABs.
+357
+-----ADDED
+#REDIRECT 
+-----DELETED
+The Pool may refer to: *, 2007 drama film co-written and directed by Chris Smith *, universal independent role-playing game which was written in year 2000 by James West *, play written by and starring James Brough and Helen Elizabeth disambig 

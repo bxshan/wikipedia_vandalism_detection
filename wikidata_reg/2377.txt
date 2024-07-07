@@ -1,0 +1,15 @@
+-----METADATA
+3540
+96104
+male
+15299
+False
+True
+True
+True
+BOX: goal for SWINDON was scored in a non-official tournament, stats are league only!
+5983
+-----ADDED
+caps goals <br>0 <br> 15 <br> <br> 33 <br> 24 18 <br> 31 <br> 30 17 <br> 21 <br> <br>?? <br>?? <br>?? <br>?? <br> <br> 14 
+-----DELETED
+caps goals <br>0 <br> 15 <br> <br> 33 <br> 24 18 <br> 31 <br> 30 17 <br> 21 <br> <br>?? <br>?? <br>?? <br>?? <br> <br> 14 

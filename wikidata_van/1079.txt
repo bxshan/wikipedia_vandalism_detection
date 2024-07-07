@@ -1,0 +1,15 @@
+-----METADATA
+2298
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10831
+-----ADDED
+As consequence the street level in the city rose, as new buildings were constructed on top of rubble and rubish go 
+-----DELETED
+As consequence the street level in the city rose, as new buildings were constructed on top of rubble and rubbish 

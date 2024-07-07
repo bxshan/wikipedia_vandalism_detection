@@ -1,0 +1,15 @@
+-----METADATA
+2839
+51714
+male
+16134
+False
+True
+True
+True
+<EMPTY>
+60193
+-----ADDED
+*, Unattached Company, 2nd Brigade Weaverville, 1861-1862 
+-----DELETED
+Union Guard Unattached Company, 2nd Brigade Weaverville, 1861-1862 

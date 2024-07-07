@@ -1,0 +1,15 @@
+-----METADATA
+2473
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3638
+-----ADDED
+In stroke volume SV is tmhe volume of pumped from one of the with each beat It is calculated by subtracting the volume of blood in the ventricle at the end of beat called from the volume of blood just prior to the beat called The term stroke volume applies equally to both left and right ventricles of the heart These two stroke volumes are generally equal, both approximately 70 ml in healthy 70-kg man 
+-----DELETED
+In stroke volume SV is the volume of pumped from one of the with each beat It is calculated by subtracting the volume of blood in the ventricle at the end of beat called from the volume of blood just prior to the beat called The term stroke volume applies equally to both left and right ventricles of the heart These two stroke volumes are generally equal, both approximately 70 ml in healthy 70-kg man 

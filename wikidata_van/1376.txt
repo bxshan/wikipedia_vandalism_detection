@@ -1,0 +1,15 @@
+-----METADATA
+7316
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+92118
+-----ADDED
+From this climate developed what many consider the first expression of <ref name "godwinsep" /> Godwin was, according to "A nazi",<ref name "EB1910" /> while Godwin attached his anarchist ideas to an early <ref>Godwin himself attributed the first anarchist writing to "Most of the above arguments may be found much more at large in Burkes Vindication of Natural Society; treatise in which the evils of the existing political institutions are displayed with incomparable force of reasoning and lustre of eloquence…" footnote, Ch by William Godwin </ref> Instead, credits an American who promoted stateless and where all goods and services were with being "the first man to expound and formulate the doctrine now known as Anarchism "<ref>Liberty XIV December, 1900 :1 </ref> The first to describe himself as an anarchist was<ref name bbc> http://www bbc co uk/radio4/history/inourtime/inourtime_20061207 shtml "Anarchism" program, Thursday December 2006 Hosted by of the BBC, with John Keane, Professor of Politics at Senior Lecturer in Politics at and philosopher and historian </ref> French philosopher and politician, which led some to call him the founder of modern anarchist theory <ref>Daniel Guerin, Anarchism: From Theory to Practice New York: Monthly Review Press, 1970 </ref> 
+-----DELETED
+From this climate developed what many consider the first expression of <ref name "godwinsep" /> Godwin was, according to "the first to formulate the political and economical conceptions of anarchism, even though he did not give that name to the ideas developed in his work",<ref name "EB1910" /> while Godwin attached his anarchist ideas to an early <ref>Godwin himself attributed the first anarchist writing to "Most of the above arguments may be found much more at large in Burkes Vindication of Natural Society; treatise in which the evils of the existing political institutions are displayed with incomparable force of reasoning and lustre of eloquence…" footnote, Ch by William Godwin </ref> Instead, credits an American who promoted stateless and where all goods and services were with being "the first man to expound and formulate the doctrine now known as Anarchism "<ref>Liberty XIV December, 1900 :1 </ref> The first to describe himself as an anarchist was<ref name bbc> http://www bbc co uk/radio4/history/inourtime/inourtime_20061207 shtml "Anarchism" program, Thursday December 2006 Hosted by of the BBC, with John Keane, Professor of Politics at Senior Lecturer in Politics at and philosopher and historian </ref> French philosopher and politician, which led some to call him the founder of modern anarchist theory <ref>Daniel Guerin, Anarchism: From Theory to Practice New York: Monthly Review Press, 1970 </ref> 

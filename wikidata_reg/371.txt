@@ -1,0 +1,15 @@
+-----METADATA
+8142
+1718198
+unknown
+16861
+False
+True
+True
+True
+Fix cite video parameters using [[Project:AWB]]
+3438
+-----ADDED
+Much of the historical content of the episode was inspired by the invention of the and the of 1943, as portrayed in the movie Writer Anthony Horowitz planned his story to shadow one aspect of the development of the bomb -the episode depicts group of scientists experimenting with mechanism to put backspin on the bomb The test sequence was designed to replicate the actual tests, including depiction of the official cameraman, which allowed them to add in archive footage <ref>Interview with episode director Tristram Powell in: cite video date 2007 title "Foyles War:Behind the Scenes Documentary" medium DVD Extra feature !!!!! Series Five! 
+-----DELETED
+Much of the historical content of the episode was inspired by the invention of the and the of 1943, as portrayed in the movie Writer Anthony Horowitz planned his story to shadow one aspect of the development of the bomb -the episode depicts group of scientists experimenting with mechanism to put backspin on the bomb The test sequence was designed to replicate the actual tests, including depiction of the official cameraman, which allowed them to add in archive footage <ref>Interview with episode director Tristram Powell in: cite video year 2007 title "Foyles War:Behind the Scenes Documentary" medium DVD Extra feature !!!!!! 

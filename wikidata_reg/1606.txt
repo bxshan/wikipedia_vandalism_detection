@@ -1,0 +1,15 @@
+-----METADATA
+3287
+554
+unknown
+15043
+False
+True
+True
+True
+<EMPTY>
+117027
+-----ADDED
+*<ref> http://www centrovegetariano org/Article-97-Col%25F3quio%2Bsobre%2B%25C9tica%2Be%2Ba%2BDefesa%2Bdos%2BAnimais html Centro Vegetariano, Colóquio sobre Ética Defesa dos Animais pt </ref> 
+-----DELETED
+*<ref> http://www centrovegetariano org/Article-97-Col%25F3quio%2Bsobre%2B%25C9tica%2Be%2Ba%2BDefesa%2Bdos%2BAnimais html Centro Vegetariano, Colóquio sobre Ética Defesa dos Animais pt </ref> 

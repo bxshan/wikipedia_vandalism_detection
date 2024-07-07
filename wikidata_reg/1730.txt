@@ -1,0 +1,15 @@
+-----METADATA
+8552
+177774
+male
+16596
+False
+True
+True
+True
+Spell ralway => railway
+7300
+-----ADDED
+In the first case decided before the Occupiers Liability Act was passed girl who had trespassed on the railway was hit by train The House of Lords ruled that the fencing around the railway was adequate, and the girl had voluntarily accepted the risk by breaking through it In the second case, student who had broken into closed swimming-pool and injured himself by diving into the shallow end was similarly held responsible for his own injuries The third case involved man who dived into shallow lake, despite the presence of "No Swimming" signs; the signs were held to be an adequate warning 
+-----DELETED
+In the first case decided before the Occupiers Liability Act was passed girl who had trespassed on the railway was hit by train The House of Lords ruled that the fencing around the ralway was adequate, and the girl had voluntarily accepted the risk by breaking through it In the second case, student who had broken into closed swimming-pool and injured himself by diving into the shallow end was similarly held responsible for his own injuries The third case involved man who dived into shallow lake, despite the presence of "No Swimming" signs; the signs were held to be an adequate warning 

@@ -1,0 +1,15 @@
+-----METADATA
+1761
+344
+unknown
+15834
+False
+True
+True
+True
+  added director and writers for episode two
+5358
+-----ADDED
+WrittenBy Jeff Schaffer and Jackie Marcus Schaffer DirectedBy Jeff Schaffer 
+-----DELETED
+WrittenBy DirectedBy 

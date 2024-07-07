@@ -1,0 +1,15 @@
+-----METADATA
+1852
+4897
+unknown
+15251
+False
+True
+True
+True
+Undoing own edit ([[Wikipedia:Huggle|HG]])
+15375
+-----ADDED
+:Coleman Young to Detroit journalists via closed-circuit television from "Aloha, Mutherfuckers!"<ref> 
+-----DELETED
+:Coleman Young to Detroit journalists via closed-circuit television from "Aloha, Motherfuckers!"<ref> 

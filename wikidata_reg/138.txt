@@ -1,0 +1,15 @@
+-----METADATA
+1637
+111736
+unknown
+15497
+False
+True
+True
+True
+Reverting edits by [[Special:Contributions/Hockeyfan3221|Hockeyfan3221]]: no link to any page
+24691
+-----ADDED
+
+-----DELETED
+&ndash; Daniel Lis, Canadian citizen 

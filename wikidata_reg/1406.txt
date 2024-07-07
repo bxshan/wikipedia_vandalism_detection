@@ -1,0 +1,14 @@
+-----METADATA
+1448
+153
+unknown
+15158
+False
+True
+True
+True
+Lord Mayor/Oberbuergermeister
+25659
+-----ADDED
+Bürgermeistertitel Oberbürgermeister 
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+1504
+34
+unknown
+14870
+False
+True
+True
+True
+<EMPTY>
+2542
+-----ADDED
+http://www cyberjournalist net/news/004006 php 
+-----DELETED
+http://www cyberjournalist net/news/004006 php</ref> 

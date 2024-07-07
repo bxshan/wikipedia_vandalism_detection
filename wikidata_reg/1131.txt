@@ -1,0 +1,15 @@
+-----METADATA
+6759
+238
+unknown
+15089
+False
+True
+True
+True
+<EMPTY>
+11300
+-----ADDED
+"cyan" <sup>†</sup><br "pink" Kate Wormald<br "pink" Demi Sorono<sup>†</sup><br bgcolor "pink" <br /> Ballet bgcolor "cyan" Charlie Bartley<sup>†</sup><br /> bgcolor "pink" Amy Campbell<br /> bgcolor "cyan" Ben Veitch<br /> 
+-----DELETED
+bgcolor "cyan" <sup>†</sup><br /> jazz contemporary bgcolor "pink" Kate Wormald<br /> contemporary "pink" Demi Sorono<sup>†</sup><br breaking/hip-hop bgcolor "pink" <br /> ballet/classical "cyan" Charlie Bartley<sup>†</sup><br hip-hop bgcolor "pink" Amy Campbell<br /> contemporary "cyan" Ben Veitch<br jazz 

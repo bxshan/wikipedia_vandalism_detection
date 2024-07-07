@@ -1,0 +1,15 @@
+-----METADATA
+2080
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+23926
+-----ADDED
+The M1919 was manufactured during World War II by many different companies in the US including the Saginaw Steering Gear division of the Buffalo Arms Corporation, bobs shack in germany 
+-----DELETED
+The M1919 was manufactured during World War II by many different companies in the US including the Saginaw Steering Gear division of the Buffalo Arms Corporation, and In the UK, production was chiefly by 

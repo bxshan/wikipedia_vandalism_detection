@@ -1,0 +1,14 @@
+-----METADATA
+1319
+2942733
+female
+16248
+False
+True
+True
+True
+Removed category [[:Category:Politics of Greater Manchester|Politics of Greater Manchester]]; Quick-adding category [[:Category:Elections in Greater Manchester|Elections in Greater Manchester]] (using [[WP:HOTCAT|HotCat]])
+1449
+-----ADDED
+
+-----DELETED

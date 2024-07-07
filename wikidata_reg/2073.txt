@@ -1,0 +1,15 @@
+-----METADATA
+8052
+0
+unknown
+0
+True
+False
+False
+False
+infobox: unnecessary caps to lower case
+38176
+-----ADDED
+company_logo products divisions homepage http://www newscorp com/ NewsCorp com 
+-----DELETED
+company_logo products<br /> homepage http://www newscorp com/ NewsCorp com 

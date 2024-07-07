@@ -1,0 +1,15 @@
+-----METADATA
+5553
+33798
+male
+15731
+False
+True
+True
+True
+ rescued broken <ref>
+119265
+-----ADDED
+In early after severe outbreak in and the people suffering from the flu increased On there were alone 10 new cases registered, increasing the total amount of cases to 63 <ref> http://www diena lv/lat/politics/hot/cuku-gripa-latvija-versas-plasuma-ceturtdien-lielakais-diennakti-registretais-saslimuso-skaits Latvijā diennaktī lielākais saslimušo skaits ar cūku gripu </ref> Just four days later, on the number reached 89 cases and the first death of H1N1 in Latvia was confirmed <ref> http://www delfi lv/news/national/politics/latvija-registreti-jau-89-cuku-gripas-gadijumi d?id 27927279 Latvijā reģistrēti jau 89 ‘cūku gripas’ gadījumi </ref><ref> http://www delfi lv/news/national/politics/no-cuku-gripas-mirusajai-bijusas-ari-citas d?id 27932393 No ‘cūku gripas’ mirušajai bijušas arī citas kaites </ref> As more people got precautious and the pharmacies werent supplied enough, already the next day for moment they ran out of any profilactic drugs against influenza <ref> http://www tvnet lv/zinas/latvija/article php?id 614639 Zāļu tirgotājiem beigušies pretgripas medikamenti </ref> On the number of registered cases reached 132 <ref> http://www tvnet lv/zinas/latvija/article php?id 614754 Jaunā gripa konstatēta vēl 22 cilvēkiem; mediķi aicina necelt paniku </ref> The next day, with another 33 new cases, the total amount reached already 165 people <ref>http://www delfi lv/news/national/politics/latvija-registreti-jau-89-cuku-gripas-gadijumi d?id 27927279 Latvijā reģistrēti jau 89 ‘cūku gripas’ gadījumi </ref> 
+-----DELETED
+In early after severe outbreak in and the people suffering from the flu increased On there were alone 10 new cases registered, increasing the total amount of cases to 63 <ref> http://www diena lv/lat/politics/hot/cuku-gripa-latvija-versas-plasuma-ceturtdien-lielakais-diennakti-registretais-saslimuso-skaits Latvijā diennaktī lielākais saslimušo skaits ar cūku gripu </ref> Just four days later, on the number reached 89 cases and the first death of H1N1 in Latvia was confirmed <ref> http://www delfi lv/news/national/politics/latvija-registreti-jau-89-cuku-gripas-gadijumi d?id 27927279 Latvijā reģistrēti jau 89 ‘cūku gripas’ gadījumi </ref><ref> http://www delfi lv/news/national/politics/no-cuku-gripas-mirusajai-bijusas-ari-citas d?id 27932393 No ‘cūku gripas’ mirušajai bijušas arī citas kaites </ref> As more people got precautious and the pharmacies werent supplied enough, already the next day for moment they ran out of any profilactic drugs against influenza <ref> http://www tvnet lv/zinas/latvija/article php?id 614639 Zāļu tirgotājiem beigušies pretgripas medikamenti </ref> On the number of registered cases reached 132 <ref> http://www tvnet lv/zinas/latvija/article php?id 614754 Jaunā gripa konstatēta vēl 22 cilvēkiem; mediķi aicina necelt paniku </ref> The next day, with another 33 new cases, the total amount reached already 165 people <ref name "latvia"/> 

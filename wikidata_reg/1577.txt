@@ -1,0 +1,15 @@
+-----METADATA
+11979
+112843
+male
+16684
+False
+True
+True
+True
+reformat
+8519
+-----ADDED
+</ref><ref TheAgonist2004-07-26> </ref><ref TheAgonist2004-07-30> </ref><ref name UzbekEmbassyYusupov2004> </ref><ref name Tass2004-03-29> </ref><ref name AssociatedPress2004-08-03> </ref><ref name ArbSummaryOfEvidenceYakubAbahanov> Yusupov was described as being the leader of group that executed series of terrorist bombings on March 28 2004 
+-----DELETED
+</ref> Not in source <ref name TheAgonist2004-07-26> </ref> Not in source <ref TheAgonist2004-07-30> </ref> Not in source <ref name UzbekEmbassyYusupov2004> </ref> Not in source <ref Tass2004-03-29> </ref> Not in source <ref name AssociatedPress2004-08-03> </ref> Not in source Yusupov was described by whom as being the leader of group that executed series of terrorist bombings on March 28 2004 

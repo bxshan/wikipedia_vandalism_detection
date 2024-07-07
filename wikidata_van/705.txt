@@ -1,0 +1,15 @@
+-----METADATA
+1927
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+46620
+-----ADDED
+fs player no 22 nat ENG pos FW name other on loan from 
+-----DELETED
+fs player no 22 nat ENG pos FW name other on loan from 

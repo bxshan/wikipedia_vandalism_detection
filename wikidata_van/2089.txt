@@ -1,0 +1,15 @@
+-----METADATA
+3511
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+19262
+-----ADDED
+passenger ship is whose primary function is to carry passengers The category does not include which have accommodations for limited numbers of passengers, such as the ubiquitous twelve-passenger freighters once common on the seas in which the transport of passengers is secondary to the carriage of freight The type gui9o87o78o8go87o8ots, or other cargo-handling gear for that purpose Only in more recent and in virtually all has this cargo capacity been eliminated 
+-----DELETED
+passenger ship is whose primary function is to carry passengers The category does not include which have accommodations for limited numbers of passengers, such as the ubiquitous twelve-passenger freighters once common on the seas in which the transport of passengers is secondary to the carriage of freight The type does however include many classes of ships designed to transport substantial numbers of passengers as well as freight Indeed, until recently virtually all were able to transport mail, package freight and express, and other cargo in addition to passenger luggage, and were equipped with and derricks, kingposts, or other cargo-handling gear for that purpose Only in more recent and in virtually all has this cargo capacity been eliminated 

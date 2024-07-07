@@ -1,0 +1,15 @@
+-----METADATA
+5594
+11790
+unknown
+15293
+False
+True
+True
+True
+<EMPTY>
+32181
+-----ADDED
+*: Gold<ref name "Swiss Certifications 2008"/> *: Gold<ref>http://www ifpi se/wp/wp-content/uploads/guld-platina-20082 pdf</ref></small> rowspan "3" Heavy Rotation 
+-----DELETED
+*: Gold<ref name "Swiss Certifications 2008"/></small> Heavy Rotation Heavy Rotation Heavy Rotation 

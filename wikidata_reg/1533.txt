@@ -1,0 +1,15 @@
+-----METADATA
+2220
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+26769
+-----ADDED
+Fs player no nat Bulgaria name pos FW other wasnt indexed because of an injury 
+-----DELETED
+Fs player no nat Bulgaria name pos FW other wasnt indexed because of an injure 

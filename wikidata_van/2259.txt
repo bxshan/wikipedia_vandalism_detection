@@ -1,0 +1,15 @@
+-----METADATA
+3250
+436
+male
+14848
+False
+True
+True
+True
+<EMPTY>
+70881
+-----ADDED
+India responded to the covert activity by announcing rewards for captured Pakistani or paratroopers <ref> http://www time com/time/magazine/article/0,9171,842104-9,00 html Ending the Suspense September 17, 1965, TIME magazine</ref> Meanwhile, in Pakistan, rumors spread that India had retaliated with its own covert operations, sending commandos deep into Pakistan territory,<ref name "fightergap" /> Indian commandos remain covert and executed important missions and escaped back in India again leaving Pakistan wandering about what hit them 
+-----DELETED
+India responded to the covert activity by announcing rewards for captured Pakistani or paratroopers <ref> http://www time com/time/magazine/article/0,9171,842104-9,00 html Ending the Suspense September 17, 1965, TIME magazine</ref> Meanwhile, in Pakistan, rumors spread that India had retaliated with its own covert operations, sending commandos deep into Pakistan territory,<ref name "fightergap" /> Indian commandos remain covert and executed important missions and escaped back in India again leaving Pakistan wandering 

@@ -1,0 +1,15 @@
+-----METADATA
+5462
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+31588
+-----ADDED
+The History of the Netherlands from 1939 to 1945 covers the events in the Netherlands that took place under the German occupation that started on May 10, 1940 with the The Netherlands hope to stay neutral when WWII broke out in 1939 but this failed to come true when invaded the Netherlands in May 1940 On May 15, 1940, one day after the the Dutch forces capitulated Subsequently the and the went into exile in and installed pro-Nazy government The occupying forces were only supported by small, despised minority of the Dutch and grew in the course of the five years of the occupation The Germans deported and murdered Most of the South of the country was liberated in the second half of 1944 The rest, especially in the West of the country suffered from the On May 5, 1945 the whole country were liberated after the German forces surrended to the 
+-----DELETED
+History of Netherlands 1939-1945 covers the events in Netherlands that took place under German occupation The Netherlands hope to stay neutral when WWII broke out in 1939 failed to come true when invaded the Netherlands in May 1940 Germany and the and the fled to England The occupying forces were only supported by small, despised minority of the Dutch and grew in the course of the five years of the occupation The Germans deported and murdered Most of the South of the country was liberated in the second half of 1944 The rest, especially in the West of the country suffered from 

@@ -1,0 +1,15 @@
+-----METADATA
+8629
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1468
+-----ADDED
+Infobox planet September 29, epoch May 14, 2008 14542 Karitskaya 1997 SW9 is discovered on September 29, 1997 by at Reflist 
+-----DELETED
+Infobox Planet discovered epoch 14542 Karitskaya SW9 is on by at reflist 

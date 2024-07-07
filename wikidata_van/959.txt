@@ -1,0 +1,15 @@
+-----METADATA
+7919
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10292
+-----ADDED
+name Silvertonge birthname Silvertonge Kate Silvertonge born August 1970 is an currently employed by the <ref> http://www telegraph co uk/news/main jhtml?xml /news/2005/09/26/ubbc xml&sSheet /portal/2005/09/26/ixportaltop html Newsroom spat forces BBC anchor to quit Daily Telegraph, 27 September 2005</ref> Silvertonge was born in England, the daughter of parents; Terry Silverton, turned registered <ref> http://www telegraph co uk/culture/tvandradio/5292044/Kate-Silverton-now-its-her-turn-to-make-the-news html Kate Silverton: now its her turn to make the news, Daily Telegraph, May 2009 </ref> and Patricia Silverton, who now heads her daughters company Silverton has two sisters, Claire and Amy Silverton attended in where she was champion swimmer and started to compete in the She was and gained the Silverton also practices She spent year studying and before switching and has in from the where she attended <ref>http://www bbc co uk/bigcat/presenters/katesilverton/ Kate Silverton joins the Big Cat team, BBC Website</ref> 
+-----DELETED
+name Kate Silverton birthname Silverton Kate Silverton born August 1970 is an currently employed by the <ref> http://www telegraph co uk/news/main jhtml?xml /news/2005/09/26/ubbc xml&sSheet /portal/2005/09/26/ixportaltop html Newsroom spat forces BBC anchor to quit Daily Telegraph, 27 September 2005</ref> Silverton was born in England, the daughter of parents; Terry Silverton, turned registered <ref> http://www telegraph co uk/culture/tvandradio/5292044/Kate-Silverton-now-its-her-turn-to-make-the-news html Silverton: now its her turn to make the news, Daily Telegraph, May 2009 </ref> and Patricia Silverton, who now heads her daughters company Silverton has two sisters, Claire and Amy Silverton attended in where she was champion swimmer and started to compete in the She was and gained the Silverton also practices She spent year studying and before switching and has in from the where she attended <ref>http://www bbc co uk/bigcat/presenters/katesilverton/ Silverton joins the Big Cat team, BBC Website</ref> 

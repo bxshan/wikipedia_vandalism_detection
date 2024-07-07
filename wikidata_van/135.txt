@@ -1,0 +1,15 @@
+-----METADATA
+3227
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4368
+-----ADDED
+motto Fidelitas in Parvis lang-la Attention To Detail religion 
+-----DELETED
+motto Fidelitas in Parvis lang-la Fiddling With Little Children religion 

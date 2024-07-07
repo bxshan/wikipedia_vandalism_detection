@@ -1,0 +1,15 @@
+-----METADATA
+6441
+123598
+unknown
+15703
+False
+True
+True
+True
+added second author and corporate author to citation
+4251
+-----ADDED
+The Memorial Park Site, also known as Memorial Park Site 36Cn164, is site of archeological interest located near the confluence of and the in in the of <ref name "NHRP nom form"/> Research projects conducted at the site since 1979 have found prehistoric cultural deposits that collectively span 8,000 ;years <ref name "Schuldenrein"> cite web last Schuldenrein first Joseph coauthors Vento, Frank; Christopher Goodwin and Associates, Inc title Geoarcheological Investigations at the Memorial Park Site 36CN164 Pennsylvania url http://www dtic mil/cgi-bin/GetTRDoc?AD ADA302109&Location U2&doc GetTRDoc pdf publisher United States Army Corps of Engineers, Baltimore District date July 19, 1994 format PDF page 1-1 accessdate November 22, 2009 </ref> in age-related sequence, the deposits represent every major prehistoric period from the to the <ref name "Schuldenrein"/> The sites dominant component holds the remains of an early Late Woodland 500&ndash;1000 village inhabited by people of the Clemson Island culture <ref name "NHRP nom form"/><ref name "Schuldenrein"/> The convergent streams and their two valleys made the site readily accessible to people living in both drainage basins <ref name "NHRP nom form"/> 
+-----DELETED
+The Memorial Park Site, also known as Memorial Park Site 36Cn164, is site of archeological interest located near the confluence of and the in in the of <ref name "NHRP nom form"/> Research projects conducted at the site since 1979 have found prehistoric cultural deposits that collectively span 8,000 ;years <ref name "Schuldenrein"> cite web last Schuldenrein first Joseph co-authors Vento, Frank title Geoarcheological Investigations at the Memorial Park Site 36CN164 Pennsylvania url http://www dtic mil/cgi-bin/GetTRDoc?AD ADA302109&Location U2&doc GetTRDoc pdf publisher United States Army Corps of Engineers, Baltimore District date July 19, 1994 format PDF page 1-1 accessdate November 22, 2009 </ref> in age-related sequence, the deposits represent every major prehistoric period from the to the <ref name "Schuldenrein"/> The sites dominant component holds the remains of an early Late Woodland 500&ndash;1000 village inhabited by people of the Clemson Island culture <ref name "NHRP nom form"/><ref name "Schuldenrein"/> The convergent streams and their two valleys made the site readily accessible to people living in both drainage basins <ref name "NHRP nom form"/> 

@@ -1,0 +1,14 @@
+-----METADATA
+4606
+133945
+male
+15972
+False
+True
+True
+True
+ + citations
+3072
+-----ADDED
+refbegin cite book author Baranowski editor Boyer PD, Lardy H, Myrbäck title The Enzymes edition 2nd series volume year 1963 publisher Academic Press location New York isbn oclc doi pages 85-96 chapter α-Glycerophosphate dehydrogenase chapterurl quote cite journal author Brosemer RW, Kuhn RW title Comparative structural properties of honeybee and rabbit α-glycerophosphate dehydrogenases journal Biochemistry volume issue pages 2095–105 year 1969 month May pmid 4307630 doi url issn cite journal author OBrien SJ, MacIntyre RJ title The -glycerophosphate cycle in Drosophila melanogaster Biochemical and developmental aspects journal Biochem Genet volume issue pages 141–61 year 1972 month October pmid 4340553 doi url issn cite journal author Warkentin DL, Fondy TP title Isolation and characterization of cytoplasmic L-glycerol-3-phosphate dehydrogenase from rabbit-renal-adipose tissue and its comparison with the skeletal-muscle enzyme journal Eur Biochem volume 36 issue pages 97–109 year 1973 month July pmid 4200180 doi url issn cite journal author Albertyn J, van Tonder A, Prior BA title Purification and characterization of glycerol-3-phosphate dehydrogenase of Saccharomyces cerevisiae journal FEBS Lett volume 308 issue pages 130–2 year 1992 month August pmid 1499720 doi url issn cite journal author Koekemoer TC, Litthauer D, Oelofsen title Isolation and characterization of adipose tissue glycerol-3-phosphate dehydrogenase journal Int Biochem Cell Biol volume 27 issue pages 625–32 year 1995 month June pmid 7671141 doi 10 1016/1357-2725 95 00012-E url issn refend 
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+2979
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+34735
+-----ADDED
+Several factors contribute to the spread of the HIV virus For one the American Government to kill African Americans Second, stigma is attached to admitting to HIV infection and to using condoms For another, many deny that the HIV virus causes AIDS: and have both suggested AIDS stems from poverty rather than HIV infection And finally, many myths are attached to the use of condoms, such as the ideas that conspiracy wants to limit the growth of the African population and that condoms stifle the traditional power of the man in his community 
+-----DELETED
+Several factors contribute to the spread of the HIV virus For one, stigma is attached to admitting to HIV infection and to using condoms For another, many deny that the HIV virus causes AIDS: and have both suggested AIDS stems from poverty rather than HIV infection And finally, many myths are attached to the use of condoms, such as the ideas that conspiracy wants to limit the growth of the African population and that condoms stifle the traditional power of the man in his community 

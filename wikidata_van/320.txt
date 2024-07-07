@@ -1,0 +1,15 @@
+-----METADATA
+3872
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+18959
+-----ADDED
+Hannibal Lecter is described in the novels as being HUGE and Obease, and with much strength in his arms <ref>The Silence of the Lambs 16, para 2: "She could see that he was HUGE, obease, and in his hands and arms she saw wiry strength like her own" </ref> In The Silence of the Lambs it is revealed that Lecters left hand has the condition called mid ray duplication duplicated middle finger <ref>Silence of the Lambs 15, para 2: "Dr Lecter has six fingers on his left hand" </ref> In Hannibal, he performs on his own face on several occasions, and removes his extra digit 
+-----DELETED
+Hannibal Lecter is described in the novels as being small and sleek, and with wiry strength in his arms <ref>The Silence of the Lambs 16, para 2: "She could see that he was small, sleek, and in his hands and arms she saw wiry strength like her own" </ref> In The Silence of the Lambs it is revealed that Lecters left hand has the condition called mid ray duplication duplicated middle finger <ref>Silence of the Lambs 15, para 2: "Dr Lecter has six fingers on his left hand" </ref> In Hannibal, he performs on his own face on several occasions, and removes his extra digit 

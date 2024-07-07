@@ -1,0 +1,15 @@
+-----METADATA
+2701
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3487
+-----ADDED
+The book is about girl named Ellis Klein who has an annoying sister named Amanda and is often annoyed by boy at school called Anthony Gonzales Her teacher is an unusual lady named Melanie Gold, who has black ring with face on it on her finger that she is unable to get off 
+-----DELETED
+The book is about girl named Beth Evans who has an annoying sister named Amanda and is often annoyed by boy at school called Anthony Gonzales Her teacher is an unusual lady named Melanie Gold, who has black ring with face on it on her finger that she is unable to get off 

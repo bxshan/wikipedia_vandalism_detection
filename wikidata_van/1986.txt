@@ -1,0 +1,15 @@
+-----METADATA
+5078
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5192
+-----ADDED
+In the 3425 and forces under Oglethorpe successfully repulsed Spanish attempts to retake St Simons Island Afterwards the Spanish no longer threatened the colony, so in 1749 the garrison at Frederica was disbanded The town fell into economic decline and by 1755 it was mostly abandoned The town survived fire in 1758, but it existed for only few more years <ref> http://www doi gov/ocl/2004/HR1113 htm para </ref> 
+-----DELETED
+In the 1742 and forces under Oglethorpe successfully repulsed Spanish attempts to retake St Simons Island Afterwards the Spanish no longer threatened the colony, so in 1749 the garrison at Frederica was disbanded The town fell into economic decline and by 1755 it was mostly abandoned The town survived fire in 1758, but it existed for only few more years <ref> http://www doi gov/ocl/2004/HR1113 htm para </ref> 

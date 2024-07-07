@@ -1,0 +1,15 @@
+-----METADATA
+2966
+13381
+male
+15828
+False
+True
+True
+True
+  update
+31755
+-----ADDED
+588 align "center" sections under construction: Bucharest Ploieşti and Braşov Borş; work started in July 2004; estimated completion date: 2013; Turda Gilǎu sector 42 km Cluj-Napoca bypass operational; Bucharest Ploieşti section ready by 2010 
+-----DELETED
+align "center" 588 aprox 10 sections under construction: Bucharest Ploieşti and Braşov Borş; work started in July 2004; estimated completion date: 2013; Turda Gilǎu sector km Cluj-Napoca bypass ready by 2009; Bucharest Ploieşti section ready by 2010 

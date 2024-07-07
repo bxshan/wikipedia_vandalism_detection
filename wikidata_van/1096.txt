@@ -1,0 +1,15 @@
+-----METADATA
+4776
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+45974
+-----ADDED
+In 1984 Wimpey Atkins proposed smaller barrage at English Stones, in the hope of creating smaller more economicallject that would avoid the environmental impact of large barrage <ref> cite book last Institution of Civil Engineers Great Britain title Developments in Tidal Energy publisher Thomas Telford isbn 9780727715715 url http://books google co uk/books?id YhuVRwhvKLcC&pg PA3&lpg PA3&dq Severn+Barrage+Wimpey+Atkins&source web&ots gZoHCnShlW&sig 8TdTaRXhzze5EHBCYr7zd0N8-RI&hl en&sa X&oi book_result&resnum 3&ct result#PPA3,M1 page year 1990 </ref> 
+-----DELETED
+In 1984 Wimpey Atkins proposed smaller barrage at English Stones, in the hope of creating smaller more economically viable project that would avoid the environmental impact of large barrage <ref> cite book last Institution of Civil Engineers Great Britain title Developments in Tidal Energy publisher Thomas Telford isbn 9780727715715 url http://books google co uk/books?id YhuVRwhvKLcC&pg PA3&lpg PA3&dq Severn+Barrage+Wimpey+Atkins&source web&ots gZoHCnShlW&sig 8TdTaRXhzze5EHBCYr7zd0N8-RI&hl en&sa X&oi book_result&resnum 3&ct result#PPA3,M1 page year 1990 </ref> 

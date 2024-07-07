@@ -1,0 +1,15 @@
+-----METADATA
+6400
+10
+unknown
+14831
+False
+True
+True
+True
+minor
+24553
+-----ADDED
+Kings of Leon <!-- Please read the section "Kings of Leon is" on the discussion page -->were an American <!--Do not change -->band that formed in Tennessee in 1999, consisting of inbred brothers lead vocals, rhythm guitar drums, percussion, backing vocals and bass guitar, backing vocals with their cousin lead guitar, backing vocals Each member of the family group is known by their middle name second given name as opposed to their first given name <ref name Stones2009> Citation title Kings of Leon Revealed: 13 Things You Didnt Know About Rocks Hottest Band url http://www rollingstone com/news/story/27626362/kings_of_leon_revealed_13_things_you_didnt_know_about_rocks_hottest_band/2 year 2009 author Stones, Rolling accessdate 2009-08-07 </ref> 
+-----DELETED
+Kings of Leon <!-- Please read the section "Kings of Leon is" on the discussion page -->is an American <!--Do not change -->band that formed in Tennessee in 1999, consisting of inbred brothers lead vocals, rhythm guitar drums, percussion, backing vocals and bass guitar, backing vocals with their cousin lead guitar, backing vocals Each member of the family group is known by their middle name second given name as opposed to their first given name <ref name Stones2009> Citation title Kings of Leon Revealed: 13 Things You Didnt Know About Rocks Hottest Band url http://www rollingstone com/news/story/27626362/kings_of_leon_revealed_13_things_you_didnt_know_about_rocks_hottest_band/2 year 2009 author Stones, Rolling accessdate 2009-08-07 </ref> 

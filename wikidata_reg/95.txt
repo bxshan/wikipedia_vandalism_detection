@@ -1,0 +1,15 @@
+-----METADATA
+3131
+3
+unknown
+14822
+False
+False
+False
+False
+<EMPTY>
+10314
+-----ADDED
+1976 1977 1988 1993 1993 1997 
+-----DELETED
+Myung-Whun Chung 1976 1977 Samuel Wong 1988 1993 Miguel Harth Bedoya 1993 1997 

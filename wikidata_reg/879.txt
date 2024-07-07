@@ -1,0 +1,15 @@
+-----METADATA
+2373
+904
+unknown
+15370
+False
+True
+True
+True
+<EMPTY>
+6348
+-----ADDED
+In the dot above lowercase and and uppercase is not regarded as an independent diacritic but as an integral part of the letter It is called 
+-----DELETED
+In the dot above lowercase and and uppercase is not regarded as an independent diacritic but as an integral part of the letter It is called 

@@ -1,0 +1,15 @@
+-----METADATA
+10314
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2858
+-----ADDED
+This year 2009-2010 the Student Body President is Ariel Herrera Student Body VP is Hayley McDaniel Student Body Secretary is Shannon Begaye Secretary: Laken Johnson Junior Class Officers: President: Jenna Olsen Vice President: Secretary: President: Vice President: Secretary: 
+-----DELETED
+This year 2008-2009 the Student Body President is Johnathon Bindues Student Body VP is Holly Parish Student Body Secretary is Hollie Watson Sophomore Class Officers: President: Kelsey Laughlin Vice President: Jenna Olson President: Edgar Cruz Vice President: Wilcox Secretary: Heather Fierro 

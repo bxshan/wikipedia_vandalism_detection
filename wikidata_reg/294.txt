@@ -1,0 +1,14 @@
+-----METADATA
+2762
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+22952
+-----ADDED
+<gallery> Image:Example jpg Caption1 Image:Example jpg Caption2 
+-----DELETED

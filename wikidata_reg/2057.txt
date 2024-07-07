@@ -1,0 +1,15 @@
+-----METADATA
+7483
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5838
+-----ADDED
+fate Acquired by The Chemical Banking Corporation was the for Chemical Bank in from 1823 until 1996 It changed its name to following the acquisition of the company by Chase Manhattan In 1996, Chemical was acquired by and continued under the Chase name until acquiring in December 2000 to form Throughout all of these acquisitions, Chemicals original management team remained in charge of both the bank and its private equity investment group, JP Morgan Partners, until acquiring in 2004 fact date November 2007 
+-----DELETED
+fate Acquired Chase Manhattan and assumed the name Chase The Chemical Banking was the for Chemical Bank in from 1823 until 1996 It changed its name to following the acquisition of In 1996, Chemical acquired and continued under the Chase name until acquiring in December 2000 to form Throughout all of these acquisitions, Chemicals original management team remained in charge of both the bank and its private equity investment group, JP Morgan Partners, until acquiring in 2004 fact date November 2007 

@@ -1,0 +1,15 @@
+-----METADATA
+2200
+20795
+male
+16014
+False
+True
+True
+True
+Replacing {{IPAr|pl| with {{IPAc-pl|
+1963
+-----ADDED
+Branice IPAc-pl is village located in the southern near the border with the It belongs to and is the seat of In 2006 it was inhabited by 2,300 people It lies approximately convert 17 km mi south of and convert 69 km mi abbr on south of the regional capital 
+-----DELETED
+Branice IPAr pl is village located in the southern near the border with the It belongs to and is the seat of In 2006 it was inhabited by 2,300 people It lies approximately convert 17 km mi south of and convert 69 km mi abbr on south of the regional capital 

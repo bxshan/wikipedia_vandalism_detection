@@ -1,0 +1,15 @@
+-----METADATA
+2134
+9131
+unknown
+14901
+False
+True
+True
+True
+<EMPTY>
+5523
+-----ADDED
+combatant1 combatant2 flagicon UK naval 
+-----DELETED
+combatant1 combatant2 flagicon UK naval 

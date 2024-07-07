@@ -1,0 +1,15 @@
+-----METADATA
+5892
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1414
+-----ADDED
+discovered September 13, 1991 epoch May 14, 2008 7586 Bismarck 1991 RH7 is discovered on September 13, 1991 by and at 
+-----DELETED
+discovered epoch 7586 Bismarck 1991 RH7 is discovered on by and at 

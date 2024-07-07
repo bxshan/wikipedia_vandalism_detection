@@ -1,0 +1,15 @@
+-----METADATA
+3444
+930986
+unknown
+16555
+False
+True
+True
+True
+accessyear {{cite web}} parameter cleanup using [[Project:AWB]]
+3267
+-----ADDED
+15, cite web title Gellman Research Group url http://www chem wisc edu/~gellman/ work Developed number of β-peptides and has explored their antimicrobial activity accessdate October 15, 2005 cite web title Iverson Research Group url http://research cm utexas edu/biverson/ work Developed aedamers that fold in aqueous solutions accessdate October 15, 2005 
+-----DELETED
+accessdate October 15 accessyear 2005 cite web title Gellman Research Group url http://www chem wisc edu/~gellman/ work Developed number of β-peptides and has explored their antimicrobial activity 15 accessyear cite web title Iverson Research Group url http://research cm utexas edu/biverson/ work Developed aedamers that fold in aqueous solutions accessdate October 15 accessyear 2005 

@@ -1,0 +1,15 @@
+-----METADATA
+6313
+3772
+male
+-1
+False
+True
+True
+True
+ fixed link
+89236
+-----ADDED
+Archaeologists have uncovered both the remains as well as artistic depictions of the horse in Cucuteni-Trypillian sites However, whether these finds were of domesticated or horses is matter of some debate It is known that before domestication, humans hunted and ate wild horses, and so far there has been no absolute proof uncovered that would provide solid evidence that the horse remains found in these settlements belonged to animals that were either consumed or were used as domestic work animals There is evidence that exists elsewhere that shows that horses were kept by some humans as domestic meat animals similar to cattle prior to their eventual use for draft work, and such may possibly be the case with these settlements, as well There are still many questions as yet unanswered about this subject <ref>Ștefan Cucoș Faza Cucuteni în zona subcarpatică Moldovei Muzeul de Istorie Piatra Neamț 1999 page 168</ref> 
+-----DELETED
+Archaeologists have uncovered both the remains as well as artistic depictions of the horse in Cucuteni-Trypillian sites However, whether these finds were of or horses is matter of some debate It is known that before domestication, humans hunted and ate wild horses, and so far there has been no absolute proof uncovered that would provide solid evidence that the horse remains found in these settlements belonged to animals that were either consumed or were used as domestic work animals There is evidence that exists elsewhere that shows that horses were kept by some humans as domestic meat animals similar to cattle prior to their eventual use for draft work, and such may possibly be the case with these settlements, as well There are still many questions as yet unanswered about this subject <ref>Ștefan Cucoș Faza Cucuteni în zona subcarpatică Moldovei Muzeul de Istorie Piatra Neamț 1999 page 168</ref> 

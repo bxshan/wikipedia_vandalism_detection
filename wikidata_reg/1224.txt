@@ -1,0 +1,14 @@
+-----METADATA
+1568
+38451
+unknown
+15602
+False
+True
+True
+True
+[[WP:UNDO|Undid]] revision 325816449 by [[Special:Contributions/78.149.176.251|78.149.176.251]] ([[User talk:78.149.176.251|talk]]) broke layout
+20527
+-----ADDED
+
+-----DELETED

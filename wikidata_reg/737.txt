@@ -1,0 +1,15 @@
+-----METADATA
+2377
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+27049
+-----ADDED
+R1 R2 R3 R4 RT H1 H2 H3 H4 HT 17 
+-----DELETED
+R1 R2 R3 R4 RT H1 H2 H3 H4 HT 

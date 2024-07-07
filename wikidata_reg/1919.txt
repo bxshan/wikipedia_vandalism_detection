@@ -1,0 +1,15 @@
+-----METADATA
+7096
+40680
+male
+15552
+False
+True
+True
+True
+Replacing {{expert}} with {{expert-subject-multiple}}.
+1790
+-----ADDED
+article issues article yes cleanup unreferencedBLP expert-subject-multiple Biography Australia Economics Geoffrey Geoff Colin Harcourt is an academic who studied at, and received his degree from the reflist Persondata NAME Harcourt, Geoffrey Colin ALTERNATIVE NAMES SHORT DESCRIPTION academic DATE OF BIRTH PLACE OF BIRTH DATE OF DEATH PLACE OF DEATH DEFAULTSORT:Harcourt, Geoff 
+-----DELETED
+article issues article yes cleanup November 2009 expand November 2009 unreferencedBLP November 2009 expert date Geoffrey Geoff Colin Harcourt is an academic who studied at, and received his degree from the unreferenced 

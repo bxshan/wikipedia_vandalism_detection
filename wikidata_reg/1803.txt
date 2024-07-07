@@ -1,0 +1,15 @@
+-----METADATA
+10044
+55115
+male
+16883
+False
+True
+True
+True
+<EMPTY>
+96844
+-----ADDED
+Observers note that the galvanization of conspiracy theorists, such as and Robert Spear, into militancy led to the rise of the which spread its anti-government ideology through speeches at rallies and meetings, through books and videotapes sold at gun shows, through fax networks and computer bulletin boards, and through shortwave and satellite radio <ref name "Berlet 1999"/> However, on the Internet is what most effectively contributed to their political ideas about the New World Order finding their way into the literature of some but also the previously apolitical literature of many s, s, and, most recently, The worldwide appeal of these subcultures then transmitted New World Order conspiracism like “” to large new audience of seekers of from the mid-1990s on <ref name "Barkun 2003"/> 
+-----DELETED
+Observers note that the galvanization of conspiracy theorists, such as and Robert Spear, into militancy led to the rise of the anti-government<ref name "Berlet 1999"/> and their use of on the Internet contributed to their political ideas about the New World Order finding their way into the literature of some but also the previously apolitical literature of many s, s, and, most recently, The worldwide appeal of these subcultures then transmitted New World Order conspiracism like “” to large new audience of seekers of from the mid-1990s on <ref name "Barkun 2003"/> 

@@ -1,0 +1,15 @@
+-----METADATA
+3995
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+16762
+-----ADDED
+"#823C96" Ga Dang align "center" bgcolor "gray" Nikola Branislava align "center" bgcolor "gray" Milena Branislava 
+-----DELETED
+align "center" bgcolor "#FFE105" Ga Dang "gray" Nikola Branislava align "center" bgcolor "gray" Milena Branislava 

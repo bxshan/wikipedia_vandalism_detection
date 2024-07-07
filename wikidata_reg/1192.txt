@@ -1,0 +1,15 @@
+-----METADATA
+2109
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+32666
+-----ADDED
+In spite of his stature as historian, modern historians know relatively little about Thucydides life The most reliable information comes from his own which expounds his nationality, paternity and native locality Thucydides informs us that he fought in the war, contracted the plague and was exiled by the He may have also been involved in quelling the Samian Revolt Thuc 117 
+-----DELETED
+In spite of his stature as historian, modern historians know relatively little about Thucydides life The most reliable information comes from his own which expounds his nationality, paternity and native locality Thucydides informs us that he fought in the war, contracted the plague and was exiled by the 

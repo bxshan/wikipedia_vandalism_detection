@@ -1,0 +1,14 @@
+-----METADATA
+2590
+38613
+unknown
+16042
+False
+True
+True
+True
+Added navigation
+1544
+-----ADDED
+DEFAULTSORT:Mikhailgrinev MinorPlanets Navigator 6213 Zwiers 6215 1973 EK MinorPlanets_Footer 
+-----DELETED

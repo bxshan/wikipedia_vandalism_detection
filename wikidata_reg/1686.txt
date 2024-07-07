@@ -1,0 +1,15 @@
+-----METADATA
+4074
+13263
+unknown
+15487
+False
+True
+True
+True
+<EMPTY>
+3495
+-----ADDED
+Otto Friedrich Wilhelm Freiherr von der Wenge Graf Lambsdorff, known as Otto Graf Lambsdorff Otto, Count Lambsdorff 20 December 1926 &ndash; December 2009 <ref> http://www welt de/politik/article5442764/Otto-Graf-Lambsdorff-gestorben html welt de de icon </ref> was German politician of the He was born in in the In 1999 Lambsdorff was appointed as the federal envoy to the negotiations for the compensation of in World War II by Chancellor which led to the Foundation "Remembrance, Responsibility and Future" <ref> http://www spiegel de/politik/deutschland/0,1518,665485,00 html Spiegel de de icon </ref> 
+-----DELETED
+Otto Friedrich Wilhelm Freiherr von der Wenge Graf Lambsdorff, known as Otto Graf Lambsdorff Otto, Count Lambsdorff 20 December 1926 &ndash; December 2009 <ref> http://www welt de/politik/article5442764/Otto-Graf-Lambsdorff-gestorben html welt de </ref> was German politician of the He was born in in the 

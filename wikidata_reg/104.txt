@@ -1,0 +1,15 @@
+-----METADATA
+19037
+195899
+male
+16114
+False
+True
+True
+True
+[[WP:AWB/T|Typo fixing]], general fixes and clean up, typos fixed: calvinists → Calvinists, african → African, european → European using [[Project:AutoWikiBrowser|AWB]]
+12854
+-----ADDED
+founded 1196 240px In 1478, the wars between and brought devastation to the abbey and the surrounding areas In 1585, the burnt down most of the buildings to prevent them from being used as refuge by the The abbey was restored in time for the of the Archdukes and in 1599 Further manors and castles Ermitage, Ten Bosch, Ixelles were built in Ixelles in the 16th century, gradually transforming the hamlet into full-fledged village The purity of the pond water attracted breweries to the area, some of which survived well into the 20th century The district also attained notoriety from early 2000s with perpetrated by African like Black Démolition It was the scene of in January 2001 Matongé, with its more recent immigrant communities from and along with African ones, is seen as symbol of in Belgium The pedestrian street rue longue-vie is full of snackbars where you can enjoy African food, especially fried chicken wings Most of these authentic places have been decorated by the famous afro-European artist John Bush Le Soleil dAfrique has quite fully became his museum 240px 180px 
+-----DELETED
+founded in 1196 240px In 1478, the wars between and brought devastation to the abbey and the surrounding areas In 1585, the burnt down most of the buildings to prevent them from being used as refuge by the The abbey was restored time for the of the Archdukes and 1599 Further manors and castles Ermitage, Ten Bosch, Ixelles were built Ixelles the 16th century, gradually transforming the hamlet into full-fledged village The purity of the pond water attracted breweries to the area, some of which survived well into the 20th century The district also attained notoriety from early 2000s with perpetrated by African like Black Démolition It was the scene of in January 2001 Matongé, with its more recent immigrant communities from and along with African ones, is seen as symbol of in Belgium The pedestrian street rue longue-vie is full of snackbars where you can enjoy african food, especially fried chicken wings Most of these authentic places have been decorated by the famous afro-european artist John Bush Le Soleil dAfrique has quite fully became his museum 240px 180px 

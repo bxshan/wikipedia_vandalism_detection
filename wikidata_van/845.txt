@@ -1,0 +1,15 @@
+-----METADATA
+2593
+41
+unknown
+15330
+False
+True
+True
+True
+<EMPTY>
+55436
+-----ADDED
+Joseph Ejercito Estrada"ANG ALAMAT KUNO" born Jose Marcelo Ejercito on April 19, 1937 was the serving from 1998 until his ouster in the 
+-----DELETED
+Joseph Ejercito Estrada born Jose Marcelo Ejercito on April 19, 1937 was the serving from 1998 until his ouster in the 

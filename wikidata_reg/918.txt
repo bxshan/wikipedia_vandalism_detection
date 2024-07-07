@@ -1,0 +1,15 @@
+-----METADATA
+2457
+517
+unknown
+15021
+False
+True
+True
+True
+<EMPTY>
+612
+-----ADDED
+satellite town near village in Agra district in the Indian state of Uttar Pradesh 
+-----DELETED
+village in Agra district in Indian state of Uttar Pradesh 

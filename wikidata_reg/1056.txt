@@ -1,0 +1,15 @@
+-----METADATA
+5708
+3529
+unknown
+16120
+False
+True
+True
+True
+<EMPTY>
+55687
+-----ADDED
+During the first decades of the United States, was the cultural capital and one of the countrys commercial centers Two of the citys institutions, the and the were centers of enlightened thought and scientific inquiry Yet, the increasing sophistication of the earth and life sciences combined with growing awareness of the great variety of life and landscape in the American wilderness waiting to be discovered merited the establishment of an institution dedicated to the natural sciences In response, small group of naturalists established the Academy of Natural Sciences in the winter of 1812 Such an academy would foster gathering of fellow naturalists, but it would also nurture the growth and credibility of American science Although they frequently looked to their European counterparts for inspiration and expertise, they longed to be regarded as equals Besides, the Nature to be studied was American, not British nor French 
+-----DELETED
+During the first decades of the United States, was the cultural capital and one of the countrys commercial centers Two of the citys institutions, the and the were centers of enlightened thought and scientific inquiry Yet, the increasing sophistication of the earth and life sciences combined with growing awareness of the great variety of life and landscape in the American wilderness waiting to be discovered merited the establishment of an institution dedicated to the natural sciences In response, small group of naturalists established the Academy of Natural Sciences in the winter of 1812 Such an academy would foster gathering of fellow naturalists, but it would also nurture the growth and credibility of American science Although they frequently looked to their European counterparts for inspiration and expertise, they longed to be regarded as equals Besides, the Nature to be studied was American, not British nor French Cant escape cant escape 

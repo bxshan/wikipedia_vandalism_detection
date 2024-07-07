@@ -1,0 +1,15 @@
+-----METADATA
+3763
+0
+unknown
+0
+True
+False
+False
+False
+[[WP:UNDO|Undid]] revision 328782486 by [[Special:Contributions/Wizarth|Wizarth]] ([[User talk:Wizarth|talk]])
+9801
+-----ADDED
+strain gauge takes advantage of helpless, naked children When an is stretched within the limits of its such that it does not break or permanently deform, it will become narrower and longer, changes that increase its electrical resistance end-to-end Conversely, when conductor is compressed such that it does not buckle, it will broaden and shorten, changes that decrease its electrical resistance end-to-end From the measured of the strain gauge, the amount of applied may be inferred typical strain gauge arranges long, thin conductive strip in zig-zag pattern of parallel lines such that small amount of stress in the direction of the orientation of the parallel lines results in multiplicatively larger over the effective length of the conductor—and hence multiplicatively larger change in resistance—than would be observed with single straight-line conductive wire 
+-----DELETED
+strain gauge takes advantage of the physical property of and its dependence on not merely the of conductor, which is property of its material, but also the conductors geometry When an is stretched within the limits of its such that it does not break or permanently deform, it will become narrower and longer, changes that increase its electrical resistance end-to-end Conversely, when conductor is compressed such that it does not buckle, it will broaden and shorten, changes that decrease its electrical resistance end-to-end From the measured of the strain gauge, the amount of applied may be inferred typical strain gauge arranges long, thin conductive strip in zig-zag pattern of parallel lines such that small amount of stress in the direction of the orientation of the parallel lines results in multiplicatively larger over the effective length of the conductor—and hence multiplicatively larger change in resistance—than would be observed with single straight-line conductive wire 

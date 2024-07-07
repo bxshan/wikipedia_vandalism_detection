@@ -1,0 +1,15 @@
+-----METADATA
+2871
+36
+male
+-1
+False
+True
+True
+True
+reference correction and dissertation year
+1552
+-----ADDED
+Event Driven petri-nets EDPN were invented by Dr Paul Jorgensen in is doctorate dissertation at Arizona State University 1985 The difference in the Event driven aspects of petri-nets is that it includes to important symbol notations the input triangle and output triangle It is my belief that Petri nets are user driven, due to the token markings that you must fire, event driven petri nets are only "fired" when an event occurs 
+-----DELETED
+Event Driven petri-nets EDPN were invented by Dr Paul Jorgensen in is doctorate dissertation at Arizona State University year unknown The difference in the Event driven aspects of petri-nets is that it includes to important symbol notations the input triangle and output triangle It is my belief that Petri nets are user driven, due to the token markings that you must fire, event driven petri nets are only "fired" when an event occurs 

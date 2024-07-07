@@ -1,0 +1,14 @@
+-----METADATA
+3154
+181946
+unknown
+16237
+False
+True
+True
+True
+standard DAB hatnote
+1775
+-----ADDED
+distinguish Cope rearrangement 
+-----DELETED

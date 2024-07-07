@@ -1,0 +1,15 @@
+-----METADATA
+2290
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7481
+-----ADDED
+Simon Neale born 1977 in Portsmouth UK has been playing with electronic music for years He grew up listening to mixture of synth-pop, early 90s House Rave, and attended secondary school that had an undiscovered TB303 and in the music room cupboard 
+-----DELETED
+Simon Neale born 1977 in Portsmouth UK has been playing with electronic music for years He grew up listening to mixture of synth-pop, early 90s House Rave, plus he attended secondary school that had an undiscovered TB303 and in the music room cupboard 

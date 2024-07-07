@@ -1,0 +1,15 @@
+-----METADATA
+906
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+956
+-----ADDED
+Cream corn is the 45th president 
+-----DELETED
+cuisine-stub 

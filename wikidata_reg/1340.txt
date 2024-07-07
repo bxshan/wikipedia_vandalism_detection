@@ -1,0 +1,15 @@
+-----METADATA
+4049
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+14791
+-----ADDED
+Large crowds have become synonymous with PN-G games During the high school football playoffs, its common to see crowds of 30,000 to 40,000 dedicated Indian fans at game Record attendances include the all-time Texas high school record and national high school record of 49,953 at for the 1977 State Championship game against the Plano Wildcats, as well as several attendance records at the during the 1973-1977 playoff games 1974-1978 Senior Class years; during which PN-G won the Class 4A Texas State Championship the highest class at the time at Texas Stadium in December 1975, beating the Odessa-Permian Wildcats 20-10 
+-----DELETED
+Large crowds have become synonymous with PN-G games During the high school football playoffs, its common to see crowds of 30,000 to 40,000 dedicated Indian fans at game Record attendances include the all-time Texas high school record and national high school record of 49,953 at for the 1977 State Championship game against the Plano Wildcats as well as several attendance records at the during the 1973-1977 playoff games 1974-1978 Senior Class years; during which PN-G won the Class 4A Texas State Championship the highest class at the time at Texas Stadium in December 1975, beating the Odessa-Permian Wildcats 20-10 

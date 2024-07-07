@@ -1,0 +1,15 @@
+-----METADATA
+5761
+158134
+male
+16067
+False
+True
+True
+True
+<EMPTY>
+11042
+-----ADDED
+deathdate date age 1973 1936 23 mf In early 1967, he got married, and in 1968, he shifted to where he joined the State Bank of India, as PRO In the following years, bad health plagued him, though he continued to write prolifically His writings has always been open about his pronounced <ref> http://cities expressindia com/fullstory php?newsid 51123 Batalvi brought alive on death anniversary May 2003 </ref>, and on May 1973, he died at his residence of father-in-law, at Kir Mangyal, due to of liver cirrhosis as result of chronic alcoholism, all of 36 years 
+-----DELETED
+deathdate death date and age 1973 1936 23 mf because of liver cirrhosis as result of chronic alcoholism In early 1967, he got married, in 1968, he shifted to where he joined the State Bank of India, as PRO In the following years, bad health plagued him, though he continued to write prolifically His writings has always been open about his pronounced <ref> http://cities expressindia com/fullstory php?newsid 51123 Batalvi brought alive on anniversary May 2003 </ref>, on May 1973, he died at his residence of father-in-law, at Kir Mangyal, all of 36 years 

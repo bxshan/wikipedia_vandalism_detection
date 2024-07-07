@@ -1,0 +1,15 @@
+-----METADATA
+1417
+2485
+unknown
+14921
+False
+True
+True
+True
+<EMPTY>
+3691
+-----ADDED
+Colorado Springs Cavaliers Independent 
+-----DELETED
+Colorado Springs Cavaliers Non-PASL 

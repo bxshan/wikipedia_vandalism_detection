@@ -1,0 +1,15 @@
+-----METADATA
+4206
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+13974
+-----ADDED
+gaynacrusg ha irish place name Ard na Croise <ref> cite web url http://www logainm ie/?text Ard+na+Croise&placeID 1166978&uiLang en title Placenames Database of Ireland Bunachar Logainmneacha na hÉireann publisher Logainm ie date accessdate 2008-12-27 </ref> Height, or Hill, of the Cross is an area located in County Clare approximately miles from the Limerick border The biggest feature of note in Ardnacrusha is the power station which was originally referred to as The Shannon Scheme This is largest river hydroelectric scheme and is operated on purpose built canal connected to the The plant includes fish ladders so that returning fish, such as salmon, can climb the river safely past the power station 
+-----DELETED
+Ardnacrusha irish place name Ard na Croise <ref> cite web url http://www logainm ie/?text Ard+na+Croise&placeID 1166978&uiLang en title Placenames Database of Ireland Bunachar Logainmneacha na hÉireann publisher Logainm ie date accessdate 2008-12-27 </ref> Height, or Hill, of the Cross is an area located in County Clare approximately miles from the Limerick border The biggest feature of note in Ardnacrusha is the power station which was originally referred to as The Shannon Scheme This is largest river hydroelectric scheme and is operated on purpose built canal connected to the The plant includes fish ladders so that returning fish, such as salmon, can climb the river safely past the power station 

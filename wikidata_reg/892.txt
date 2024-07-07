@@ -1,0 +1,15 @@
+-----METADATA
+2280
+2139
+unknown
+16669
+False
+True
+True
+True
+ fix Portugal date
+16606
+-----ADDED
+Flagicon POR 2009 October Wednesdays, 22:25 <ref> cite web url http://www axn pt/flashforward title AXN pt FlashForward mini-site publisher axn pt date accessdate 2009-10-01 </ref> 
+-----DELETED
+Flagicon POR October 7, 2009 Wednesdays, 22:25 <ref> cite web url http://www axn pt/flashforward title AXN pt FlashForward mini-site publisher axn pt date accessdate 2009-10-01 </ref> 

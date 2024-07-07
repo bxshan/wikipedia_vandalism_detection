@@ -1,0 +1,15 @@
+-----METADATA
+6562
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+56616
+-----ADDED
+In 1920, the world’s first partly automatic car phone system Mobile System MTA MTA was launched in Sweden With MTA, calls could be made and received in the car to/from the public telephone network, and the car phone could be paged The phone number was dialed using Calling from the car was fully automatic, while calling to it required an operator The person who wanted to call mobile phone had to know which base station the mobile phone was covered by The system was developed by and other engineers at network operator provided the switchboard while Svenska Radioaktiebolaget SRA owned by Ericsson and provided the telephones and base station equipment MTA phones were consisted of and s, and had weight of 40 ;kg In 1962, more modern version called Mobile System MTB was launched which used transistors in order to enhance the telephone’s calling capacity and improve its operational reliability In 1971 the version was launched, opening for several different brands of equipment and gaining commercial success <ref> http://books google com/books?id 8ZRo-lxUDwkC&pg PA55&dq Mobile+System+A+ MTA &hl sv#v onepage&q m%C3%A4kitalo&f false Mingtao Shi, Technology base of mobile cellular operators in Germany and China, page 55 </ref><ref> http://www mobilen50ar se/eng/FaktabladENGFinal pdf Facts about the Mobile Journey through Time </ref> 
+-----DELETED
+In 1956, the world’s first partly automatic car phone system Mobile System MTA MTA was launched in Sweden With MTA, calls could be made and received in the car to/from the public telephone network, and the car phone could be paged The phone number was dialed using Calling from the car was fully automatic, while calling to it required an operator The person who wanted to call mobile phone had to know which base station the mobile phone was covered by The system was developed by and other engineers at network operator provided the switchboard while Svenska Radioaktiebolaget SRA owned by Ericsson and provided the telephones and base station equipment MTA phones were consisted of and s, and had weight of 40 ;kg In 1962, more modern version called Mobile System MTB was launched which used transistors in order to enhance the telephone’s calling capacity and improve its operational reliability In 1971 the version was launched, opening for several different brands of equipment and gaining commercial success <ref> http://books google com/books?id 8ZRo-lxUDwkC&pg PA55&dq Mobile+System+A+ MTA &hl sv#v onepage&q m%C3%A4kitalo&f false Mingtao Shi, Technology base of mobile cellular operators in Germany and China, page 55 </ref><ref> http://www mobilen50ar se/eng/FaktabladENGFinal pdf Facts about the Mobile Journey through Time </ref> 

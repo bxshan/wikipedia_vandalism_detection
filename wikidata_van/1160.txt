@@ -1,0 +1,15 @@
+-----METADATA
+1520
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+45782
+-----ADDED
+year_end 1002 
+-----DELETED
+year_end 1946 

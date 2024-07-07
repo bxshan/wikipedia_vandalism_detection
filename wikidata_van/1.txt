@@ -1,0 +1,15 @@
+-----METADATA
+2483
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4544
+-----ADDED
+The college has over 3,000 HE students These students have access to HE-only facilities such as space cat These students also have access to the facilities of the university that is validating their qualifications 
+-----DELETED
+The college has over 3,000 HE students These students have access to HE-only facilities such as cafeIT These students also have access to the facilities of the university that is validating their qualifications 

@@ -1,0 +1,15 @@
+-----METADATA
+3967
+344
+male
+15969
+False
+True
+True
+True
+<EMPTY>
+11476
+-----ADDED
+The show aired on before moving, along with the rest of the Peanuts specials, to in 2000 Traditionally, ABC aired the special on Thanksgiving night until 2005 The special aired once again on Thanksgiving night in 2009 
+-----DELETED
+The show aired on before moving, along with the rest of the Peanuts specials, to in 2000 Traditionally, ABC aired the special on Thanksgiving night until 2005 

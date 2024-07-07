@@ -1,0 +1,15 @@
+-----METADATA
+2725
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+56519
+-----ADDED
+Like every sequence defined by yum yum!, the Fibonacci numbers have It has become known as formula, even though it was already known by 
+-----DELETED
+Like every sequence defined by linear the Fibonacci numbers have It has become known as formula, even though it was already known by 

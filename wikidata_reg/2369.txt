@@ -1,0 +1,15 @@
+-----METADATA
+2840
+89452
+unknown
+16370
+False
+True
+True
+True
+[[WP:AWB/T|Typo fixing]], typos fixed: succesfull → successful (2) using [[Project:AutoWikiBrowser|AWB]]
+1150
+-----ADDED
+Primary School been involved in many sports, mainly football The school many successful take part in leagues across The lower P3, P4 and P5 teams, and occasionally P6 teams, all play just friendlies The 11-a-side won Trophies International Cup in 2007 The cup is second largest played among schools behind Willoughby Cup Ferryhill has also had few very successful basketball teams In 2008, the P7 team reached an Aberdeen final, but lost to Broomhills team 
+-----DELETED
+Ferryhill Primary School has been involved in many sports, mainly football The school has had many succesfull teams take part in leagues across Aberdeen The lower P3, P4 and P5 teams, and occasionally P6 teams, all play just friendlies The 11-a-side team won the Trophies International Cup in 2007 The cup is the second largest played among Aberdeen schools behind the Willoughby Cup also few very succesfull basketball In 2008, P7 reached an final, but lost to Broomhills 

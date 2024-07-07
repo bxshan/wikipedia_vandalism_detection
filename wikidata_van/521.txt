@@ -1,0 +1,15 @@
+-----METADATA
+1344
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+106196
+-----ADDED
+<!-- Pursuant to community consensus reached at Talk:Tax protester/Request for comment, any POV tags will be removed unless they refer to hund page section showing specific examples of bias --> 
+-----DELETED
+<!-- Pursuant to community consensus reached at Talk:Tax protester/Request for comment, any POV tags will be removed unless they refer to talk page section showing specific examples of bias --> 

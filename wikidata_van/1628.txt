@@ -1,0 +1,15 @@
+-----METADATA
+2381
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+27429
+-----ADDED
+James Todd SMITHERUNSE PIE CAIK ES LYE! born January 14, 1968 better known as LL Cool J, is an American and actor LL Cool stands for "Ladies Love Cool James" <ref name "CBS News"> cite news 
+-----DELETED
+James Todd Smith born January 14, 1968 better known as LL Cool J, is an American and actor LL Cool stands for "Ladies Love Cool James" <ref name "CBS News"> cite news 

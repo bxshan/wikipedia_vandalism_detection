@@ -1,0 +1,15 @@
+-----METADATA
+2302
+52561
+male
+16654
+False
+True
+True
+True
+<EMPTY>
+5255
+-----ADDED
+With her reputation for being always being "immaculately turned out", cool under pressure,<ref name "herald2007" /> and the precision of her drama-school-refined accent and delivery, TV columnist Gareth McLean has described the "gloriously imperious" Mary Marquis as "the only newsreader Ive ever seen with beauty spot that wouldnt have looked out of place on Marie Antoinette" <ref> http://www guardian co uk/culture/garethmcleanblog/2008/mar/18/whileyoureanticipatingthes Gareth McLean on TV 18 March 2008</ref> 
+-----DELETED
+TV columnist Gareth McLean has described the "gloriously imperious" Mary Marquis as "the only newsreader Ive ever seen with beauty spot that wouldnt have looked out of place on Marie Antoinette" <ref> http://www guardian co uk/culture/garethmcleanblog/2008/mar/18/whileyoureanticipatingthes Gareth McLean on TV 18 March 2008</ref> 

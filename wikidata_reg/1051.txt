@@ -1,0 +1,15 @@
+-----METADATA
+7063
+723
+unknown
+14956
+False
+True
+True
+True
+citation needed
+126788
+-----ADDED
+The Peoples Republic of China PRC zh linktext lang cmn-Hans 中华 人民 共和国 linktext lang cmn-Hant 中華 人民 共和國 linktext lang cmn-Latn Zhōnghuá Rénmín Gònghéguó Audio Zh-Zhonghua renmin gongheguo ogg listen commonly known as China, is the largest in and the in the world with over billion people, approximately one-fifth of the worlds population It is ruled by the under system,<ref> cite book last Walton first Greg coauthors International Centre for Human Rights and Democratic Development title Chinas golden shield: corporations and the development of surveillance technology in the Peoples Republic of China publisher Rights Democracy date 2001 pages chapter Executive Summary isbn 9782922084429 url http://books google com/books?id S9rP0A2q14UC&lpg PA4&ots LH0GtACK-m&dq single-party%20%22peoples%20republic%20of%20china%22&lr &pg PA5#v onepage&q %22single-party%20state%22&f false accessdate 2009-08-29 </ref> and has jurisdiction over 22 <!--these are ONLY the provinces the PRC has jurisdictional control over It is already mentioned as disputed in the "Administrative divisions" section below -->, five and four Beijing, and and two highly autonomous<ref> cite web url http://en wikisource org/wiki/Sino-British_Joint_Declaration title Sino-British Joint Declaration accessdate 2008-09-08 </ref> and The PRCs capital is <ref> cite news url http://english people com cn/constitution/constitution html 
+-----DELETED
+The Peoples Republic of China PRC zh linktext lang cmn-Hans 中华 人民 共和国 linktext lang cmn-Hant 中華 人民 共和國 linktext lang cmn-Latn Zhōnghuá Rénmín Gònghéguó Audio Zh-Zhonghua renmin gongheguo ogg listen commonly known as China, is the largest in and the in the world with over billion people, approximately one-fifth of the worlds population It is specifically according to its ruled by the under system,<ref> cite book last Walton first Greg coauthors International Centre for Human Rights and Democratic Development title Chinas golden shield: corporations and the development of surveillance technology in the Peoples Republic of China publisher Rights Democracy date 2001 pages chapter Executive Summary isbn 9782922084429 url http://books google com/books?id S9rP0A2q14UC&lpg PA4&ots LH0GtACK-m&dq single-party%20%22peoples%20republic%20of%20china%22&lr &pg PA5#v onepage&q %22single-party%20state%22&f false accessdate 2009-08-29 </ref> and has jurisdiction over 22 <!--these are ONLY the provinces the PRC has jurisdictional control over It is already mentioned as disputed in the "Administrative divisions" section below -->, five and four Beijing, and and two highly autonomous<ref> cite web url http://en wikisource org/wiki/Sino-British_Joint_Declaration title Sino-British Joint Declaration accessdate 2008-09-08 </ref> and The PRCs capital is <ref> cite news url http://english people com cn/constitution/constitution html 

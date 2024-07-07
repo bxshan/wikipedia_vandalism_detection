@@ -1,0 +1,15 @@
+-----METADATA
+1992
+242
+unknown
+15991
+False
+True
+True
+True
+<EMPTY>
+7344
+-----ADDED
+caption The AbsolutePunk homepage as of November 2009 
+-----DELETED
+caption The AbsolutePunk homepage as of July 2008 

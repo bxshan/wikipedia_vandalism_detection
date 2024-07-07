@@ -1,0 +1,15 @@
+-----METADATA
+3556
+7761
+unknown
+14841
+False
+True
+True
+True
+[[WP:UNDO|Undid]] revision 328707553 by [[Special:Contributions/173.69.170.208|173.69.170.208]] ([[User talk:173.69.170.208|talk]]) "booms" is correct, not "bombs," with regard to AS nets & net tender
+30932
+-----ADDED
+The defenses heavily depended on fortifications but also included minefields, nets and booms, ships, and airplanes Therefore, all of the armed forces participated in seacoast defense, but the played the central role 
+-----DELETED
+The defenses heavily depended on fortifications but also included minefields, nets and bombs, ships, and airplanes Therefore, all of the armed forces participated in seacoast defense, but the played the central role 

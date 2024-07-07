@@ -1,0 +1,15 @@
+-----METADATA
+3388
+169745
+male
+15927
+False
+True
+True
+True
+fix Ligier links using [[Project:AutoWikiBrowser|AWB]]
+31611
+-----ADDED
+From 1993 to 1998, Hondas only presence in F1 was as an engine supplier through its parent company who supplied engines to and Mugen-powered cars had won Grands Prix by the end of the 1999 season In 1998, Honda was seriously considering entry in Formula One as constructor, going as far as producing an engine and hiring as technical director and designer test car, designed by Postlethwaite and built by was made and tested during 1999, driven by The team impressed at test sessions, beating some more experienced and better financed teams, even if they were mostly in the midfield At test of this car, Postlethwaite suffered fatal heart attack, the project was later shelved and Honda decided to merely recommit as full works engine supplier to BAR, starting in 2000 
+-----DELETED
+From 1993 to 1998, Hondas only presence in F1 was as an engine supplier through its parent company who supplied engines to and Mugen-powered cars had won Grands Prix by the end of the 1999 season In 1998, Honda was seriously considering entry in Formula One as constructor, going as far as producing an engine and hiring as technical director and designer test car, designed by Postlethwaite and built by was made and tested during 1999, driven by The team impressed at test sessions, beating some more experienced and better financed teams, even if they were mostly in the midfield At test of this car, Postlethwaite suffered fatal heart attack, the project was later shelved and Honda decided to merely recommit as full works engine supplier to BAR, starting in 2000 

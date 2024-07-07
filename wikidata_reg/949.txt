@@ -1,0 +1,15 @@
+-----METADATA
+4253
+6038
+unknown
+16921
+False
+True
+True
+True
+<EMPTY>
+1981
+-----ADDED
+Proposition of 1911 or Senate Constitutional Amendment No <ref> http://holmes uchastings edu/cgi-bin/starfinder/26999/calprop txt Search California Ballot Propositions </ref> was an amendment of the that granted women the right to vote in the state for the first time It was approved by voters in held as part of special election on 1911 On the same day voters enacted the modern system of in California, by approving which introduced the and the optional referendum, and which introduced the 
+-----DELETED
+Proposition of 1911 or Senate Constitutional Amendment No <ref> http://holmes uchastings edu/cgi-bin/starfinder/26999/calprop txt Search California Ballot Propositions </ref> was an amendment of the that granted women the right to vote in the state for the first time It was approved by voters in held as part of special election on 1911 On the same day voters enacted the modern system of in California, by enacting which introduced the and the optional referendum, and which introduced the 

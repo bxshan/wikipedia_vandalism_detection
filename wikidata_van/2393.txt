@@ -1,0 +1,15 @@
+-----METADATA
+2768
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10230
+-----ADDED
+<nowiki><nowiki>Insert non-formatted text here</nowiki></nowiki> Road signs There is nearby to the south called Ham some miles away in the village of Worth points towards both Ham and Ninky Nonk, thus reading: 
+-----DELETED
+There is nearby to the south called Ham some miles away in the village of Worth points towards both Ham and Sandwich, thus reading: 

@@ -1,0 +1,15 @@
+-----METADATA
+1659
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+50406
+-----ADDED
+purpose manufacture of faery dust 
+-----DELETED
+purpose 

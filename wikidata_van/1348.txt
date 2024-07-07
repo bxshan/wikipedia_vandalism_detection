@@ -1,0 +1,15 @@
+-----METADATA
+2910
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+43070
+-----ADDED
+<ref> htgfhgfhtp://in today reuters com/news/newsArticle aspx?type businessNews&storyID 2007-06-25T191336Z_01_NOOTR_RTRMDNC_0_India-281656-1 xml Reuters India: Hindustan Motors plans new vehicle with Mitsubishi </ref> 
+-----DELETED
+<ref> http://in today reuters com/news/newsArticle aspx?type businessNews&storyID 2007-06-25T191336Z_01_NOOTR_RTRMDNC_0_India-281656-1 xml Reuters India: Hindustan Motors plans new vehicle with Mitsubishi </ref> 

@@ -1,0 +1,15 @@
+-----METADATA
+2988
+67
+unknown
+15814
+False
+True
+True
+True
+<EMPTY>
+10890
+-----ADDED
+White phosphorus, or yellow phosphorus, or simply tetraphosphorus P<sub>4</sub> exists as made up of four The arrangement results in and instability The molecule is described as consisting of six single P-P bonds Two different crystalline forms are known The form, which is stable under standard conditions, has body-centered cubic crystal structure It transforms reversibly into the form at 195 The form is believed to have hexagonal crystal structure <ref>Marie-Thérèse Averbuch-Pouchot, Durif Topics in Phosphate Chemistry World Scientific, 1996 ISBN 9810226349 </ref> 
+-----DELETED
+White phosphorus, or yellow phosphorus, or simply tetraphosphorus P<sub>4</sub> exists as made up of four The arrangement resulting in and instability The molecule is described as consisting of six single P-P bonds Two different crystalline forms are known The form, which is stable under standard conditions, has body-centered cubic crystal structure It transforms reversibly into the form at 195 The form is believed to have hexagonal crystal structure <ref>Marie-Thérèse Averbuch-Pouchot, Durif Topics in Phosphate Chemistry World Scientific, 1996 ISBN 9810226349 </ref> 

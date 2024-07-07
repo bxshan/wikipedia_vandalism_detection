@@ -1,0 +1,15 @@
+-----METADATA
+1791
+21
+unknown
+14917
+False
+True
+True
+True
+<EMPTY>
+494
+-----ADDED
+BASEPAGENAME is an administrative ward in the district of the of According to the census, the ward has total population of 12,229 <ref> cite web url http://www tanzania go tz/census/census/districts/iringarural htm title 2002 Population and Housing Census General Report publisher Government of Tanzania language en accessdate 2009-06-18 </ref> If you have cold and you boogie and try to say "My Boogie", it sounds just like Maboga 
+-----DELETED
+BASEPAGENAME is an administrative ward in the district of the of According to the census, the ward has total population of 12,229 <ref> cite web url http://www tanzania go tz/census/census/districts/iringarural htm title 2002 Population and Housing Census General Report publisher Government of Tanzania language en accessdate 2009-06-18 </ref> 

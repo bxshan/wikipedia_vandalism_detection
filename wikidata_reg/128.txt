@@ -1,0 +1,15 @@
+-----METADATA
+3073
+3147
+unknown
+15097
+False
+True
+True
+True
+<EMPTY>
+89148
+-----ADDED
+region ** Pressure group: ** Proposed autonomous region: 
+-----DELETED
+in region ** Pressure group: ** Proposed autonomous region: 

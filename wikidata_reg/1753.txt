@@ -1,0 +1,15 @@
+-----METADATA
+1783
+319613
+male
+16375
+False
+True
+True
+True
+[[WP:UNDO|Undid]] revision 327746169 by [[Special:Contributions/79.106.109.74|79.106.109.74]] ([[User talk:79.106.109.74|talk]]) RVV
+7189
+-----ADDED
+Ship armament 4" gun, 3" gun, machine gun Empire Baxter Ship armor Ship aircraft 
+-----DELETED
+Ship armament 4" gun, 

@@ -1,0 +1,15 @@
+-----METADATA
+5491
+3057
+unknown
+14973
+False
+True
+True
+True
+Added some references for the publication dates, including links to original papers.
+4027
+-----ADDED
+1988<ref> Citation last1 Babai first1 László last2 Moran first2 Shlomo title Arthur-Merlin games: randomized proof system, hierarchy complexity class url http://crypto cs mcgill ca/~crepeau/COMP647/2007/TOPIC01/AMgames-Babai-Moran pdf publisher location Boston, MA year 1988 journal Comput Syst Sci issn 0022-0000 volume 36 issue pages 254–276 </ref>, 1989<ref> Citation last1 Goldwasser first1 last2 Micali first2 last3 Rackoff first3 title The knowledge complexity interactive proof systems url http://crypto cs mcgill ca/~crepeau/COMP647/2007/TOPIC02/GMR89 pdf publisher location Philadelphia year journal SIAM Journal on Computing issn 1095-7111 volume 18 issue pages 186–208 </ref> 1999 for for numbers in on 1997<ref> Citation last1 Shor first1 Peter title Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on Quantum Computer url http://citeseerx ist psu edu/viewdoc/download?doi 10 49 4929&rep rep1&type pdf publisher location Philadelphia year 1997 journal SIAM Journal on Computing issn 1095-7111 volume 26 issue pages 1484–1509 </ref> 
+-----DELETED
+1988, 1999 for for numbers in on 1997 

@@ -1,0 +1,15 @@
+-----METADATA
+7727
+58297
+unknown
+16507
+False
+True
+True
+True
+<EMPTY>
+12254
+-----ADDED
+senator Image:Johnadamsvp flipped jpg <br> Image:AaronBurr jpg <br> Image:George Clinton png <br> Image:T Jefferson by Charles Willson Peale 1791 jpg <br> Image:George Washington 1795 jpg <br> 
+-----DELETED
+of of senator of of of Image:Johnadamsvp flipped jpg<br>of<br> Image:AaronBurr jpg<br>of<br> Image:George Clinton png<br>of<br> Image:T Jefferson by Charles Willson Peale 1791 jpg<br>of<br> Image:George Washington 1795 jpg<br>of<br> 

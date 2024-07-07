@@ -1,0 +1,15 @@
+-----METADATA
+24954
+188793
+male
+15638
+False
+True
+True
+True
+<EMPTY>
+11648
+-----ADDED
+LAT "gold" "cc9966" 425 bgcolor "silver" bgcolor "silver" 420 GER bgcolor "gold" 417 USA 360 GBR bgcolor "cc9966" 352 GER 328 10 328 LAT 12 320 RUS 11 304 10 CAN 13 296 11 align "left" flagathlete CAN 12 280 12 align "left" flagathlete USA 14 11 248 13 align "left" flagathlete NZL 19 234 14 align "left" flagathlete SUI 13 16 216 15 align "left" flagathlete RUS 16 14 208 16 align "left" flagathlete CAN 15 17 192 17 align "left" flagathlete FRA 18 15 184 18 align "left" flagathlete SUI 160 19 align "left" flagathlete AUT 17 20 156 20 align "left" flagathlete AUT 21 19 136 <!-- 22 align "left" flagathlete JPN 20 22 124 --> 
+-----DELETED
+align "left" flagathlete LAT bgcolor "gold" 225 GER "silver" 210 align "left" flagathlete GBR bgcolor "cc9966" 200 192 align "left" flagathlete USA 184 USA 176 align "left" flagathlete CAN 176 SUI 160 align "left" flagathlete GER 152 CAN 152 11 align "left" flagathlete RUS 11 136 12 LAT 12 128 13 align "left" flagathlete SUI 13 120 14 14 112 15 align "left" flagathlete CAN 15 104 16 RUS 16 96 17 align "left" flagathlete AUT 17 88 18 FRA 18 80 19 align "left" flagathlete NZL 19 74 20 JPN 20 68 

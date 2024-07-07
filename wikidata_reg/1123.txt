@@ -1,0 +1,15 @@
+-----METADATA
+2713
+24561
+male
+16099
+False
+True
+True
+True
+<EMPTY>
+8795
+-----ADDED
+flagicon Russia yes RailGauge 1520 the breakaway flagicon Abkhazia closed since 
+-----DELETED
+flagicon Russia yes RailGauge 1520 via the breakaway flagicon Abkhazia closed for political reasons 

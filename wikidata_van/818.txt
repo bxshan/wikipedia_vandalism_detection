@@ -1,0 +1,14 @@
+-----METADATA
+1602
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+17716
+-----ADDED
+Lebanon consists of manufactured products such as food, cement, textiles, chemicals and metal products 
+-----DELETED

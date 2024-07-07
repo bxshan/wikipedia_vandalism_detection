@@ -1,0 +1,14 @@
+-----METADATA
+1871
+0
+unknown
+0
+True
+False
+False
+False
+[[WP:UNDO|Undid]] revision 328455032 by [[Special:Contributions/99.153.254.150|99.153.254.150]] ([[User talk:99.153.254.150|talk]])
+20427
+-----ADDED
+shortcoming of the software is that an attempt to link two same-sex people in marital relationship causes an error message to be issued, denying the recording of such relationships This is probably due to Church policy that doesnt accept same-sex partnerships as legitimate 
+-----DELETED

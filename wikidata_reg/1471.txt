@@ -1,0 +1,15 @@
+-----METADATA
+3025
+148166
+unknown
+16370
+False
+True
+True
+True
+[[WP:TSN|Typo fixing]] and general fixes, typos fixed: exhibtions → exhibitions using [[Project:AWB]]
+5807
+-----ADDED
+On returning to England, Kenderdine joined the Blackpool Sketching Club, now known as the in 1891, and was prolific exhibitor at their annual exhibitions and an occasional committee member He displayed many oils and an occasional charcoal and chalk of landscapes around the along the and the local Lancastrian coastline and countryside He also displayed number of life, head and group studies, and in 1901 and 1902 several of his paintings were hung at the Annual Summer Exhibition 
+-----DELETED
+On returning to England, Kenderdine joined the Blackpool Sketching Club, now known as the in 1891, and was prolific exhibitor at their annual exhibtions and an occasional committee member He displayed many oils and an occasional charcoal and chalk of landscapes around the along the and the local Lancastrian coastline and countryside He also displayed number of life, head and group studies, and in 1901 and 1902 several of his paintings were hung at the Annual Summer Exhibition 

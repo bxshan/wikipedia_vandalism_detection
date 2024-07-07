@@ -1,0 +1,15 @@
+-----METADATA
+2738
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1629
+-----ADDED
+The 12th General Assembly of Prince Edward Island represented the colony of between January 14, 1825 and DEFAULTSORT:12th General Assembly Of Prince Edward Island 
+-----DELETED
+The 12th General Assembly of Prince Edward Island represented the colony of between and 

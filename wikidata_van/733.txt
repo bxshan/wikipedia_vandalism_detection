@@ -1,0 +1,15 @@
+-----METADATA
+4010
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+47569
+-----ADDED
+This extraordinary instrument, prehistoric-looking combination of horn and harp created by Gaston,<ref>Gaston nº 8</ref> produces sound so terrible and loud that it causes physical destruction all around and panics animals and even fighter pilots Like the voice of the bard in it horrifies everyone except its originator The first time the instrument appears, the plucking of just one string causes the floor to collapse <ref name "ReferenceA"/> Gaston has also created at least one other instrument in the same vein, and an electric version of the Gaffophone <ref> Comic book reference writer story Gag #600 title volume 11 date 1997 publisher </ref> Fantasio has tried several times to get rid of the Gaffophone, without success 
+-----DELETED
+This extraordinary instrument, prehistoric-looking combination of horn and harp created by Gaston,<ref>Gaston nº 8</ref> produces sound so terrible and loud that it causes physical destruction all around and panics animals Like the voice of the bard in it horrifies everyone except its originator The first time the instrument appears, the plucking of just one string causes the floor to collapse <ref name "ReferenceA"/> Gaston has also created at least one other instrument in the same vein, and an electric version of the Gaffophone <ref> Comic book reference writer story Gag #600 title volume 11 date 1997 publisher </ref> Fantasio has tried several times to get rid of the Gaffophone, without success 

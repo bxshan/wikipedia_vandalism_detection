@@ -1,0 +1,15 @@
+-----METADATA
+4938
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+23256
+-----ADDED
+In 1997, has fallen into chaos, with criminal warlords ruling various sections of the city The most dangerous of these is Simon Phoenix who has just kidnapped busload of people that strayed into his territory The mounts raid on his headquarters, with Sergeant John Spartan nicknamed “Demolition Man” for the extensive property damage that occurs when he apprehends criminals going in first and alone He captures Phoenix, but the latter sets off explosives to destroy the building; the bodies of the bus passengers are soon found in the rubble Spartan is also arrested on Phoenix’s accusation that the hostages had been alive before Spartans actions, and both men are sent to the California State “CryoPrison,” where they are frozen in to serve out their lengthy sentences Spartan is sentenced to seventy years; eligible for parole no earlier or later than the year 2046, 50 years from 97 Phoenix is sentenced to life imprisonment 
+-----DELETED
+In 1997, has fallen into chaos, with criminal warlords ruling various sections of the city The most dangerous of these is Simon Phoenix who has just kidnapped busload of people that strayed into his territory The mounts raid on his headquarters, with Sergeant John Spartan nicknamed “Demolition Man” for the extensive property damage that occurs when he apprehends criminals going in first and alone He captures Phoenix, but the latter sets off explosives to destroy the building; the bodies of the bus passengers are soon found in the rubble Spartan is also arrested on Phoenix’s accusation that the hostages had been alive before Spartans actions, and both men are sent to the California State “CryoPrison,” where they are frozen in to serve out their lengthy sentences Spartan is sentenced to seventy years; eligible for parole no earlier or later than the year 2046, 50 years from 96 Phoenix is sentenced to life imprisonment 

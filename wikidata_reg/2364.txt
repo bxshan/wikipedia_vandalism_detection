@@ -1,0 +1,14 @@
+-----METADATA
+6635
+401397
+unknown
+15867
+False
+True
+True
+True
+infobox
+3968
+-----ADDED
+Infobox Military Person name Sir William Scotter image caption born 1922 died February 1981 placeofburial_label placeofburial placeofbirth placeofdeath placeofburial_coordinates <!-- coord LAT LONG display inline,title --> nickname allegiance flagicon United Kingdom branch serviceyears rank unit commands 1st Battalion the <br> battles awards <br><br> relations laterwork 
+-----DELETED

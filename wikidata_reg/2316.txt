@@ -1,0 +1,15 @@
+-----METADATA
+6018
+116854
+unknown
+17056
+False
+True
+True
+True
+Expanded using <!--Lee, Sydney "Dictionary of National Biography Index and Epitome", page 1208
+311
+-----ADDED
+fl 1590 cloth-worker, Alderman, and Lord Mayor of London, in the year 1596, gave to the several Hospitals in and about London <!-- http://www hrionline ac uk/strype/TransformServlet?page book1_273&display print Strype, Survey of London 1720 The Stuart London Project, Humanities Research Institute, The University of Sheffield, 34 Gell Street, Sheffield, S3 7QY --> or Skynner 1629?-1679 Colchester physician and historical writer; of St Johns College, Cambridge: St Johns College, Oxford, 1672; continued Batess "Elenchi Motuum Nuperorum" part iii 1676 and compiled "Life of General Monk" printed, 1723 <!--Lee, Sydney "Dictionary of National Biography Index and Epitome", page 1208, --> 1759–1818 British military engineer 1800?-1843 soldier and author; commanded 31st foot in Afghanistan, 1842-3; and was made and brevet lieutenant-colonel, 1842; published "Excursions in India" 1832 and "Adventures during Journey Overland to India" 1836 <!--Lee, Sydney "Dictionary of National Biography Index and Epitome", page 1208, --> 1804-1877 engineer; grandson of William Skinner 1700-1780 commissioner of public works and auditor-general in Ceylon Wrote "Fifty Years in Ceylon" published, 1891 <!--Lee, Sydney "Dictionary of National Biography Index and Epitome", page 1208, --> 1909 1991 New Zealand trade unionist 
+-----DELETED
+British military engineer Ceylon civil servant New Zealand trade unionist 

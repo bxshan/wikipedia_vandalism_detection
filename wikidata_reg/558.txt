@@ -1,0 +1,15 @@
+-----METADATA
+3362
+10
+unknown
+14842
+False
+True
+True
+True
+<EMPTY>
+5656
+-----ADDED
+There are both single-frame and multiple-frame variants of SR Multiple-frame SR use the sub-pixel shifts between multiple low resolution images of the same scene They create an improved resolution image fusing information from all low resolution images, and the created higher resolution images are better descriptions of the scene Single frame SR methods attempt to magnify the image without introducing blur These methods use other parts of the low resolution images, or other unrelated images, to guess how should the high resolution image look like Algorithms can also be divided by their domain: or 
+-----DELETED
+There are both single-frame and multiple-frame variants of SR, where multiple-frame are the most useful Algorithms can also be divided by their domain: or By fusing together several low-resolution LR images one enhanced-resolution image is formed 

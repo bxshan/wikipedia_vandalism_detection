@@ -1,0 +1,15 @@
+-----METADATA
+2636
+20795
+male
+16014
+False
+True
+True
+True
+Replacing {{IPAr|pl| with {{IPAc-pl|
+1583
+-----ADDED
+Święcko IPAc-pl is in the administrative district of within in south-western Poland Prior to 1945 it was in It lies approximately convert km mi north-west of and convert 77 km mi abbr on south-west of the regional capital 
+-----DELETED
+Święcko IPAr pl is in the administrative district of within in south-western Poland Prior to 1945 it was in It lies approximately convert km mi north-west of and convert 77 km mi abbr on south-west of the regional capital 

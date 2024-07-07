@@ -1,0 +1,15 @@
+-----METADATA
+3117
+34076
+unknown
+16960
+False
+True
+True
+True
+updated infobox
+17693
+-----ADDED
+spouse marriage 1933 1961 yearsactive 1925&ndash;1961 
+-----DELETED
+spouse 1933&ndash;1961 yearsactive 1925<ref name "cnncoldwar"/>&ndash;1961 

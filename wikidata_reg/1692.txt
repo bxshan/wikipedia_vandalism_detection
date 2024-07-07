@@ -1,0 +1,15 @@
+-----METADATA
+4065
+186348
+unknown
+16618
+False
+True
+True
+True
+[[Help:Reverting|Reverted]] edits by [[Special:Contributions/99.225.241.185|99.225.241.185]] ([[User talk:99.225.241.185|talk]]) to last version by Mindmatrix
+4021
+-----ADDED
+The Atlantic Maritime ecozone consists of two major regions, the which are hilly with poor soils, and the which have much richer soil <ref name "Appalachian"> Cite web url http://ecosys cfl scf rncan gc ca/classification/classif01-eng asp title Atlantic Maritime work Forest Ecozones of Canada publisher accessdate 2008-02-03 </ref> The inland regions are primarily of with ic soils that support expansive s, but are not adaptable to uses <ref name "bernhardt" /> The are atop with rich soils suitable for agricultural applications It is transitional forest, exhibiting features of both and forests <ref name "Appalachian" /> 
+-----DELETED
+The atlantic maritime is on the coaste of canada orunning along pei newfoundland, nova scotia and newbrunsick and some parts of quebec 

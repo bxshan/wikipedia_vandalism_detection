@@ -1,0 +1,15 @@
+-----METADATA
+1672
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+46340
+-----ADDED
+founded 12 
+-----DELETED
+founded 1886 

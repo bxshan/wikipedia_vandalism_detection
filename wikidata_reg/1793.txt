@@ -1,0 +1,15 @@
+-----METADATA
+2149
+7558
+unknown
+16173
+False
+True
+True
+True
+thats dvd date, not tv air date
+12301
+-----ADDED
+OriginalAirDate nowrap Start date 2010 23 <ref>http://www freakinsweetnews com/2009/08/12/seth-macfarnale-announces-darkside-sale-date Producer of Family Guy/American Dad confirms air date of Something, Something, Something Darkside </ref> 
+-----DELETED
+OriginalAirDate nowrap Start date 2009 12 22 <ref>http://www freakinsweetnews com/2009/08/12/seth-macfarnale-announces-darkside-sale-date Producer of Family Guy/American Dad confirms air date of Something, Something, Something Darkside </ref> 

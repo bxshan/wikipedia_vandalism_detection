@@ -1,0 +1,15 @@
+-----METADATA
+1217
+19
+unknown
+14825
+False
+True
+True
+True
+<EMPTY>
+1064
+-----ADDED
+<references/> http://www kippra org /<references/> 
+-----DELETED
+<references/>www kippra org/<references/> 

@@ -1,0 +1,15 @@
+-----METADATA
+987
+30
+unknown
+14830
+False
+True
+True
+True
+<EMPTY>
+4790
+-----ADDED
+Infobox school 
+-----DELETED
+Infobox school 

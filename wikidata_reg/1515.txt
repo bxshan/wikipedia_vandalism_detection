@@ -1,0 +1,15 @@
+-----METADATA
+4125
+9806
+female
+16399
+False
+True
+True
+True
+tweak; ULA announcer stated it on live broadcast at http://ulalaunch.com/DeltaIV_WGS-3.html
+7735
+-----ADDED
+The Wideband Global SATCOM system sometimes called the Wideband Gapfiller Satellite system is system planned for use in partnership by the DoD and the Australian Department of Defence <ref>http://www deagel com/news/Australia-Gets-Access-to-Wideband-Global-SATCOM-System_n000003065 aspx</ref> The system is composed of the Space Segment satellites, the Terminal Segment users and the Control Segment operators <ref> cite web url http://www afspc af mil/library/factsheets/factsheet asp?id 5582 title Wideband Global SATCOM Satellite publisher Air Force Space Command </ref> DoD wideband satellite communication services are currently provided by combination of the existing DSCS and GBS satellites <ref> cite web url http://handle dtic mil/100 2/ADA413216 title Environmental Assessment Air Force Wideband Gapfiller Satellite Program publisher Defense Technical Information Center </ref> According to quoted on Spaceflight Now, "A single WGS spacecraft has as much bandwidth as the entire existing DSCS constellation "<ref> cite web url http://www spaceflightnow com/news/n0704/25ccafs/ title Pre-launch ops keep crews busy at the Cape publisher Spaceflight Now </ref> 
+-----DELETED
+The Wideband Global SATCOM system sometimes called the Wideband Gapfiller Satellite system is system planned for use in partnership by the DoD and the Australian Department of Defence <ref>http://www deagel com/news/Australia-Gets-Access-to-Wideband-Global-SATCOM-System_n000003065 aspx</ref> The system is composed of the Space Segment satellites, the Terminal Segment users and the Control Segment operators <ref> cite web url http://www afspc af mil/library/factsheets/factsheet asp?id 5582 title Wideband Global SATCOM Satellite publisher Air Force Space Command </ref> DoD wideband satellite communication services are currently provided by combination of the existing DSCS and GBS satellites <ref> cite web url http://handle dtic mil/100 2/ADA413216 title Environmental Assessment Air Force Wideband Gapfiller Satellite Program publisher Defense Technical Information Center </ref> According to Spaceflight Now, "A single WGS spacecraft has as much bandwidth as the entire existing DSCS constellation "<ref> cite web url http://www spaceflightnow com/news/n0704/25ccafs/ title Pre-launch ops keep crews busy at the Cape publisher Spaceflight Now </ref> 

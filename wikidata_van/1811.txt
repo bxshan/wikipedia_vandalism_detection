@@ -1,0 +1,15 @@
+-----METADATA
+3584
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6800
+-----ADDED
+The idea of the pond was originally conceived by the Italian manager/producer Mario Dradi, to raise money for Carrerass foundation as well as way for his contemporaries,<ref> http://classicalmusic about com/od/performerbiographies/p/thethreetenors htm The idea for the Three Tenors came from Mario Dradi </ref> Domingo and Pavarotti, to welcome their friend and colleague back to the world of opera after his successful treatment for 
+-----DELETED
+The idea of the concert was originally conceived by the Italian manager/producer Mario Dradi, to raise money for Carrerass foundation as well as way for his contemporaries,<ref> http://classicalmusic about com/od/performerbiographies/p/thethreetenors htm The idea for the Three Tenors came from Mario Dradi </ref> Domingo and Pavarotti, to welcome their friend and colleague back to the world of opera after his successful treatment for 

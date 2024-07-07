@@ -1,0 +1,15 @@
+-----METADATA
+2016
+61959
+unknown
+16500
+False
+True
+True
+True
+rm old AFD, keep/no consensus
+3983
+-----ADDED
+
+-----DELETED
+<!-- Please do not remove or change this AfD message until the issue is settled --> AfDM page List of wineries and vineyards in Maine logdate 2009 November substed yes <!-- For administrator use only: oldafdfull page List of wineries and vineyards in Maine date November 2009 result keep --> <!-- End of AfD message, feel free to edit beyond this point --> 

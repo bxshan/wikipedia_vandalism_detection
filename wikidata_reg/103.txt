@@ -1,0 +1,15 @@
+-----METADATA
+1866
+611194
+unknown
+16620
+False
+True
+True
+True
+disam
+11220
+-----ADDED
+vgrelease United States AME February vgy 1986 <br /> vgrelease EU September 1986 vgrelease January vgy 1987 <br /> 
+-----DELETED
+vgrelease America AME February vgy 1986 <br /> vgrelease EU September 1986 vgrelease January vgy 1987 <br /> 

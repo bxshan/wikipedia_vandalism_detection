@@ -1,0 +1,15 @@
+-----METADATA
+6700
+66820
+male
+16128
+False
+True
+True
+True
+Castle details
+32480
+-----ADDED
+The immense cost of upkeep and the poor condition of the castle eventually took its toll on the family finances; the castle was abandoned in the early years of the twentieth century De-roofed in 1926, the lead being removed and sold,<ref>Eglinton Archive, Eglinton Country Park</ref> after house contents sale in December 1925, and progressively ruinous, the building finally came to an undignified end during the when it was seriously damaged during training held there The army also partly destroyed the iron bridge running to the old walled gardens Substantial remains of the castle survived WW2, however the buildings were rationalised in 1973 and only one main tower was kept, together with some outer wall, foundations and parts of the castle wings <ref>Campbell, Page 177</ref> 
+-----DELETED
+The immense cost of upkeep and the poor condition of the castle eventually took its toll on the family, so the castle was abandoned in the early years of the twentieth century De-roofed in 1926, the lead being removed and sold,<ref>Eglinton Archive, Eglinton Country Park</ref> after house contents sale in December 1925, and progressively ruinous, the building finally came to an undignified end during the when it was substantially destroyed during training held there The army also destroyed the iron bridge running to the old walled gardens and badly damaged the Tournament Bridge, which they partially rebuilt 

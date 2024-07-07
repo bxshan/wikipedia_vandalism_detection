@@ -1,0 +1,15 @@
+-----METADATA
+2644
+86215
+male
+15873
+False
+True
+True
+True
+layout tweak
+1377
+-----ADDED
+Macromolecular Chemistry and Physics was founded in 1943 as Die Makromolekulare Chemie/Macromolecular Chemistry by Its 2008 was 202 <ref>, 2008</ref> 
+-----DELETED
+Macromolecular Chemistry and Physics was founded in 1943 as Die Makromolekulare Chemie/Macromolecular Chemistry by Its 2008 was 202 <ref>Journal Citation Reports, 2008</ref> 

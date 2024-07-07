@@ -1,0 +1,15 @@
+-----METADATA
+1865
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+24362
+-----ADDED
+step further than the mediator-less MFC is the Microbial electrolysis cells MEC This cell, that again requires no mediator and has been invented by René Rozendal <ref> http://www awmc uq edu au/index html?page 84198 Microbial Electrolysis Cell </ref> This stuff is all lie dont use it 
+-----DELETED
+step further than the mediator-less MFC is the Microbial electrolysis cells MEC This cell, that again requires no mediator and has been invented by René Rozendal <ref> http://www awmc uq edu au/index html?page 84198 Microbial Electrolysis Cell </ref> 

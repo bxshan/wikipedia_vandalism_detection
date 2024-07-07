@@ -1,0 +1,15 @@
+-----METADATA
+4384
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+22979
+-----ADDED
+The 2007 All-Ireland Senior Hurling Championship Final was match held at on September 2007 The match was the 120th All-Ireland hurling final and was contested by and with Kilkenny winning 2-19 to 1-15 It was the first meeting of these two sides in the All-Ireland final since when Kilkenny were the winners Kilkenny were aiming to capture second All-Ireland title in succession while Limerick were hoping to capture first title since The prize for the winning team was the date September 2007 
+-----DELETED
+The 2007 All-Ireland Senior Hurling Championship Final was match held at on The match was the 120th All-Ireland hurling final and was contested by and with Kilkenny winning 2-19 to 1-15 It was the first meeting of these two sides in the All-Ireland final since when Kilkenny were the winners Kilkenny were aiming to capture second All-Ireland title in succession while Limerick were hoping to capture first title since The prize for the winning team was the date 

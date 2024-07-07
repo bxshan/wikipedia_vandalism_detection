@@ -1,0 +1,15 @@
+-----METADATA
+2037
+284
+male
+14966
+False
+True
+True
+True
+<EMPTY>
+74801
+-----ADDED
+ShortSummary Freddie decides to move out after his mother tries to vacuum his ear, makes him eat his vegetables on an iCarly webcast, and shows baby pictures of him at school Meanwhile, Carly, Sam, and Spencer start pet photography business and two guys get mad and vandalized their studio 
+-----DELETED
+ShortSummary Freddie decides to move out after his mother tries to vacuum his ear, makes him eat his vegetables on an iCarly webcast, and shows baby pictures of him at school Meanwhile, Carly, Sam, and Spencer start pet photography business 

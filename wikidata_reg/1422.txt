@@ -1,0 +1,15 @@
+-----METADATA
+2272
+20795
+male
+16014
+False
+True
+True
+True
+Replacing {{IPAr|pl| with {{IPAc-pl|
+1266
+-----ADDED
+Stępka IPAc-pl is village in the administrative district of within in north-central Poland 
+-----DELETED
+Stępka IPAr pl is village in the administrative district of within in north-central Poland 

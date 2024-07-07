@@ -1,0 +1,15 @@
+-----METADATA
+4859
+1912
+unknown
+16171
+False
+True
+True
+True
+punctuation
+13471
+-----ADDED
+An advanced version of the radar, called "Super Green Pine", "Green Pine" Block-B, or "Great Pine" lang-he אורן אדיר IPA-he oʁen adiʁ pron is to take the place of the original "Green Pine" It is composed of smaller transmit–receive modules with better capabilities than those of the "Green Pine", and is believed to produce double the power output, 
+-----DELETED
+An advanced version of the radar, called "Super Green Pine", "Green Pine" Block-B, or "Great Pine" lang-he אורן אדיר IPA-he oʁen adiʁ pron is to take the place of the original "Green Pine It is composed of smaller transmit–receive modules with better capabilities than those of the "Green Pine", and is believed to produce double the power output, 

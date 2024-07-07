@@ -1,0 +1,15 @@
+-----METADATA
+4359
+52
+unknown
+14829
+False
+True
+True
+True
+<EMPTY>
+7755
+-----ADDED
+The new goods chocolate, perfume, and colonial goods Ivory, Jade, Talismans Lodge activities are accessed at the beginning of the game, although only the spy is available for use All the other lodge activities are researched throughout the game at either school or university Some of the very powerful activities available to players include the deployment of the poisoner who introduces the plague to an opponents settlement or demagogue who can persuade workers to stop working for their masters 
+-----DELETED
+Lodge activities are accessed at the beginning of the game, although only the spy is for use All the other lodge activities are researched throughout the game at either school or university Some of the very powerful activities to players the deployment of the poisoner who introduces the plague to an opponents settlement or demagogue who can persuade workers to stop working for their masters 

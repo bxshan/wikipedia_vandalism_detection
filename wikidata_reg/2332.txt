@@ -1,0 +1,14 @@
+-----METADATA
+4346
+1718198
+unknown
+16861
+False
+True
+True
+True
+remove Erik9bot category, no longer needed for this article, added [[CAT:O|orphan]] tag using [[Project:AWB]]
+2135
+-----ADDED
+Orphan date December 2009 DEFAULTSORT:Psychologists Fallacy 
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+2076
+5
+unknown
+14828
+False
+False
+False
+False
+<EMPTY>
+10577
+-----ADDED
+Sangtar is Punjabi singer, music composer, songwriter and poet He has written songs and made music for many singers such as and His older brother Manmohan Waris and younger brother Kamal Heer are both Punjabi Pop\Folk singers 
+-----DELETED
+Sangtar is Punjabi singer, music composer, songwriter and poet He has written songs and made music for many singers such as and His older brother Manmohan Waris and younger brother Kamal Heer are both Punjabi Pop\Folk singers 

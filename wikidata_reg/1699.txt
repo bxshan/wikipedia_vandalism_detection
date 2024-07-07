@@ -1,0 +1,15 @@
+-----METADATA
+3670
+169763
+male
+15927
+False
+True
+True
+True
+fix Ligier links using [[Project:AutoWikiBrowser|AWB]]
+1577
+-----ADDED
+In 1993, Crooks became chief designer under but with the arrest of team boss which sent the team into decline, Crooks joined While with Simtek, he designed both the and He stayed with them until the team left in the middle of He went back to Ligier, before joining He later went to and 
+-----DELETED
+In 1993, Crooks became chief designer under but with the arrest of team boss which sent the team into decline, Crooks joined While with Simtek, he designed both the and He stayed with them until the team left in the middle of He went back to Ligier, before joining He later went to and 

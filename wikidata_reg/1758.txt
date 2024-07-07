@@ -1,0 +1,15 @@
+-----METADATA
+2256
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3928
+-----ADDED
+Bilateral economic relations between both countries are at very low level and there are significant fluctuations in the volume of trade According to data by the National Statistical Service of Greece, the total volume of trade between the two countries rose by 34 05% reaching 143 228 million Euros 
+-----DELETED
+Bilateral economic relations between both countries are at very low level and there are significant fluctuations in the volume of trade According to data by the National Statistical Service of Greece, the total volume of trade between the two countries rose by 34 05% reaching 143 228 million 

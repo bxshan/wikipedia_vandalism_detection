@@ -1,0 +1,14 @@
+-----METADATA
+1405
+65
+unknown
+15001
+False
+True
+True
+True
+<EMPTY>
+1894
+-----ADDED
+wikify date October 2009 copyedit article date October 2009 unref date October 2009 Infobox Indian Jurisdiction 
+-----DELETED

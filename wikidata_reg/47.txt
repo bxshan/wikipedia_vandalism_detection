@@ -1,0 +1,15 @@
+-----METADATA
+3959
+40
+unknown
+15359
+False
+True
+True
+True
+Changed a misspelling in Yobie Benjamin's name (was spelt Benjamiin)
+38745
+-----ADDED
+More critically, SFGate blogger Yobie Benjamin wrote that the "Macbook Pro that came preloaded with Snow Leopard kicks butt and is screaming fast machine", but "when tried to upgrade one of my older Macbooks, it was fricking disaster from hell" Benjamin complained of slowness even after an upgrade install and later clean install on the older machine, which he ended up downgrading back to Leopard <ref> http://www sfgate com/cgi-bin/blogs/ybenjamin/detail??blogid 150&entry_id 50077 Windows is darn good; Apple OS Snow Leopard is upgrade dog </ref> 
+-----DELETED
+More critically, SFGate blogger Yobie Benjamin wrote that the "Macbook Pro that came preloaded with Snow Leopard kicks butt and is screaming fast machine", but "when tried to upgrade one of my older Macbooks, it was fricking disaster from hell" Benjamiin complained of slowness even after an upgrade install and later clean install on the older machine, which he ended up downgrading back to Leopard <ref> http://www sfgate com/cgi-bin/blogs/ybenjamin/detail??blogid 150&entry_id 50077 Windows is darn good; Apple OS Snow Leopard is upgrade dog </ref> 

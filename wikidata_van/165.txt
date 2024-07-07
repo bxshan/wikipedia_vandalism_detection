@@ -1,0 +1,15 @@
+-----METADATA
+2844
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2603
+-----ADDED
+has two secondary schools, in north which gained national coverage for its rise up league tables This was attributed to highly controversial of pupils, introduced by Headteacher Tiny Rod ODonnell St Pauls High is recognised as one of schools of ambition in Scotland Bonnyholm Primary school,McGill Primary School and Leithland Primary School were demolished recently with Pollok primary school pupils now attending the new Crookston Castle Primary school beside Crookston Castle 
+-----DELETED
+Pollok has two secondary schools, in the north and which recently gained national coverage for its rise up the league tables This was attributed to the highly controversial of pupils, introduced by Headteacher Rod ODonnell St Pauls High School is recognised as one of the schools of ambition in Scotland Bonnyholm Primary school,McGill Primary Leithland Primary were demolished with primary school pupils now attending new Crookston Castle Primary beside Crookston Castle 

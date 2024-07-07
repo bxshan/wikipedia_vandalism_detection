@@ -1,0 +1,15 @@
+-----METADATA
+2765
+1718198
+unknown
+16861
+False
+True
+True
+True
+Convert date form XXXX-XX format using [[Project:AutoWikiBrowser|AWB]]
+1848
+-----ADDED
+** 1957-1963 DEFAULTSORT:List Of Religious Leaders In 1957 
+-----DELETED
+** 

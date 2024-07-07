@@ -1,0 +1,15 @@
+-----METADATA
+3288
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+14381
+-----ADDED
+Although KTEN broadcasts The CW on its digital subchannel and KXII broadcasts Fox and MyNetworkTV on both of its digital subchannels, the Ada-Sherman television market is the only market in the country with affiliates of NBC, CBS, FOX, The CW and MyNetworkTV, with the setback of not having local ABC affiliate ABC programming for the Sherman-Ada market is sourced from in Dallas-Ft Worth and in Oklahoma City depending on the geographic location in the DMA However, rival station KXII has helped offset the lack of an ABC affiliate with secondary affiliation on its DT2 MyNetworkTV and DT3 Fox subcarriers 
+-----DELETED
+Although KTEN broadcasts The CW on its digital subchannel and KXII broadcasts Fox and MyNetworkTV on both of its digital subchannels, the Ada-Sherman television market is the only market in the country with affiliates of NBC, CBS, FOX, The CW and MyNetworkTV, with the setback of not having local ABC affiliate ABC programming for the Sherman-Ada market is sourced from in Dallas-Ft Worth and in Oklahoma City depending on the geographic location in the DMA 

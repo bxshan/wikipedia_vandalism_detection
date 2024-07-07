@@ -1,0 +1,15 @@
+-----METADATA
+2177
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1903
+-----ADDED
+image motto Stay strong, our porcelain love 
+-----DELETED
+image motto 

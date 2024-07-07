@@ -1,0 +1,15 @@
+-----METADATA
+5455
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+26277
+-----ADDED
+number of residues like Abhijit, Debarati, Partha necessary to perform particular function, and around 40-50 residues appears to be the lower limit for functional size Protein sizes range from this lower limit to several thousand residues in multi-functional or structural proteins However, the current estimate for the average protein length is around 300 residues Very large aggregates can be formed from s, for example many thousand molecules assemble into microfilament 
+-----DELETED
+number of residues are necessary to perform particular function, and around 40-50 residues appears to be the lower limit for functional size Protein sizes range from this lower limit to several thousand residues in multi-functional or structural proteins However, the current estimate for the average protein length is around 300 residues Very large aggregates can be formed from s, for example many thousand molecules assemble into microfilament 

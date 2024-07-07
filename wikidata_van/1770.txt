@@ -1,0 +1,15 @@
+-----METADATA
+2594
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+41036
+-----ADDED
+V-Tails are very popular in Europe, especially for gliders In the US, the is more common V-Tails have the advantage of being lighter and creating less drag They also are less likely to break at landing or take-off due to the tail striking something on the ground like an ant mound or rock but it will break if it gets hit by car 
+-----DELETED
+V-Tails are very popular in Europe, especially for gliders In the US, the is more common V-Tails have the advantage of being lighter and creating less drag They also are less likely to break at landing or take-off due to the tail striking something on the ground like an ant mound or rock 

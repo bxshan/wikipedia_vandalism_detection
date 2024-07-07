@@ -1,0 +1,15 @@
+-----METADATA
+4829
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+40882
+-----ADDED
+Despite generating all primitive triples, Euclids formula does not produce all triples This can be remedied by inserting an additional parameter to the formula The following will generate all Pythagorean triples although not uniquely :no no no no no no no no no non no non on no non on RYAN RYAN RYAN RYAN RYAN RYAN RYAN VAN DER HOEVEN 
+-----DELETED
+<!-- 6,8,10 IS NOT PRIMITIVE! DO NOT ADD!--> Despite generating all primitive triples, Euclids formula does not produce all triples This can be remedied by inserting an additional parameter to the formula The following will generate all Pythagorean triples although not uniquely 

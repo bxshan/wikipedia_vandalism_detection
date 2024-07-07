@@ -1,0 +1,15 @@
+-----METADATA
+2288
+1375
+unknown
+15385
+False
+True
+True
+True
+<EMPTY>
+14091
+-----ADDED
+According to the 2001 census,<ref>http://www statistics gr/gr_tables/S1101_SAP_1_TB_DC_01_03_Y pdf</ref> the population of West Macedonia was 303,857 people Today, the periphery has mixed population of and 12% of the population mainly concentrated in and <ref> cite book 
+-----DELETED
+According to the 2001 census,<ref>http://www statistics gr/gr_tables/S1101_SAP_1_TB_DC_01_03_Y pdf</ref> the population of West Macedonia was 303,857 people Today, the periphery has mixed population of and 12% of the population mainly concentrated in and <ref> cite book 

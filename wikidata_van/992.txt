@@ -1,0 +1,15 @@
+-----METADATA
+2116
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4192
+-----ADDED
+Chesterfield College consists of 528 campuses over the town of Chesterfield which is used by the college to tutor students for different courses The main campus is on Infirmary Road and is where most of the students learn This campus has North, South Block largest East and west 
+-----DELETED
+Chesterfield College consists of three campuses over the town of Chesterfield which is used by the college to tutor students for different courses The main campus is on Infirmary Road and is where most of the students learn This campus has North, South Block largest East and west 

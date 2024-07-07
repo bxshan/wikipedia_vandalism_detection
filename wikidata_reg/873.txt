@@ -1,0 +1,15 @@
+-----METADATA
+5926
+0
+unknown
+0
+True
+False
+False
+False
+ fixed broken wikilinks
+3057
+-----ADDED
+come variety formulations Some water based gel; based They range from simple astringent to preparations containing pharmacological ingredients such and Some contain ingredients uncertain properties such and <ref> http://www preparationh com/hemorrhoid_medications/index asp Products </ref> Formulations vary country Today the active ingredient in some Preparation products is in 25% concentration, drug which constricts blood vessels This drug is more commonly used as decongestant in cold medications since restricting blood flow in the sinuses will reduce the amount of mucus they create Since hemorrhoids are caused by inflamed blood vessels, this can reduce their size Preparation with hydrocortisone has only hydrocortisone as its active ingredient, in 1% concentration medicated wipe is also available under the Preparation brand The formulation of Preparation includes called BioDyne which has been removed from the formulation previously sold in the in 1995 This yeast extract is believed by many to remove wrinkles from skin and heal dry, cracked, and irritated skin Thus the Canadian formulation has acquired market in the United States as skin cream 
+-----DELETED
+Preparation products come in variety of formulations Some are water based gel; some are based They range from simple with astringent to preparations containing pharmacological ingredients such as pramoxine and hydrocortisone Some also contain ingredients of uncertain properties such as and <ref> http://www preparationh com/hemorrhoid_medications/index asp Preparation Products </ref> Formulations available also vary with country Today the active ingredient is phenylephrine 25% concentration, drug which constricts blood vessels This drug is more commonly used decongestant cold medications since restricting blood flow the sinuses will reduce the amount mucus they create Since hemorrhoids caused by inflamed blood vessels, this can reduce their size hydrocortisone has only hydrocortisone its active ingredient, 1% concentration medicated wipe is under the brand The Canada Canadian formulation of Preparation includes yeast extract called BioDyne which has been removed from the formulation previously sold in the in 1995 This yeast extract is believed by many to remove wrinkles from skin and heal dry, cracked, and irritated skin Thus the Canadian formulation has acquired market in the United States as skin cream 

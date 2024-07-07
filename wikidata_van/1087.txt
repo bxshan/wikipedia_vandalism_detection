@@ -1,0 +1,15 @@
+-----METADATA
+5137
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+24241
+-----ADDED
+hi Manatees are mainly s, spending most of their time grazing in shallow waters and at depths of 1-2 metres 3-7 ft Much of the knowledge about manatees is based upon research done in Florida and cannot necessarily be attributed to all types of manatees Generally, manatees have mean mass of convert 400 to 550 kg lb and mean length of convert to ft with maximums of convert ft and convert 1775 kg lb seen the females tend to be larger and heavier When born, baby manatees have an average mass of convert 30 kg lb 
+-----DELETED
+Manatees are mainly s, spending most of their time grazing in shallow waters and at depths of 1-2 metres 3-7 ft Much of the knowledge about manatees is based upon research done in Florida and cannot necessarily be attributed to all types of manatees Generally, manatees have mean mass of convert 400 to 550 kg lb and mean length of convert to ft with maximums of convert ft and convert 1775 kg lb seen the females tend to be larger and heavier When born, baby manatees have an average mass of convert 30 kg lb 

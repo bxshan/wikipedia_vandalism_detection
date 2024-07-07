@@ -1,0 +1,15 @@
+-----METADATA
+2702
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2820
+-----ADDED
+According to the classical for electrons, the group 18 elements have fully filled outer shell, rendering them inert to most chemical reactions This holds true for the first six elements of this group though they tend to become slightly less inert with increasing periods frazer is cool this "nobility" is predicted to break down due to relativistic effects <ref name Nash> citejournal title Atomic and Molecular Properties of Elements 112, 114, and 118 author Clinton Nash journal Phys Chem year 2005 volume 109 issue 15 pages 3493–3500 doi 10 1021/jp050736o </ref> 
+-----DELETED
+According to the classical for electrons, the group 18 elements have fully filled outer shell, rendering them inert to most chemical reactions This holds true for the first six elements of this group though they tend to become slightly less inert with increasing periods For the seventh period group 18 element this "nobility" is predicted to break down due to relativistic effects <ref name Nash> citejournal title Atomic and Molecular Properties of Elements 112, 114, and 118 author Clinton Nash journal Phys Chem year 2005 volume 109 issue 15 pages 3493–3500 doi 10 1021/jp050736o </ref> 

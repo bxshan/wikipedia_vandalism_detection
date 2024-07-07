@@ -1,0 +1,15 @@
+-----METADATA
+3618
+1311537
+unknown
+15389
+False
+True
+True
+True
+[[:en:User:NicoV/Wikipedia Cleaner/Documentation|WikiCleaner]] 0.96 - Repairing link to disambiguation page - [[Wikipedia:Disambiguation pages with links|You can help!]]
+9404
+-----ADDED
+How Green Was My Valley is directed by The film was produced by written by and based on the The film stars and It was nominated for ten winning five and beating out such classics as and for However, How Green has become classic in its own right 
+-----DELETED
+How Green Was My Valley is directed by The film was produced by written by and based on the The film stars and It was nominated for ten winning five and beating out such classics as and for However, How Green has become classic in its own right 

@@ -1,0 +1,15 @@
+-----METADATA
+3010
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1722
+-----ADDED
+WCHM 1490 is broadcasting format Licensed to USA The station is currently owned by Sb Communications and features programing from and plus FOX News Radio Major shows include Glenn Beck, Neal Boortz, Sean Hannity, Savage Nation and Coast to Coast with George Noory The station also features local programming <ref> cite web url http://www fcc gov/fcc-bin/fmq?call WCHM title WCHM Facility Record work United States audio division </ref> 
+-----DELETED
+WCHM 1490 is broadcasting format Licensed to USA The station is currently owned by Sb Communications and features programing from and <ref> cite web url http://www fcc gov/fcc-bin/fmq?call WCHM title WCHM Facility Record work United States audio division </ref> 

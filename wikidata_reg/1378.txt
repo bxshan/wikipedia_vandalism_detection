@@ -1,0 +1,15 @@
+-----METADATA
+3388
+1464
+unknown
+16245
+False
+True
+True
+True
+capitalization
+1546
+-----ADDED
+kinetoplast is disk-shaped mass of circular inside large that contains many copies of the <ref> cite journal author Shapiro TA, Englund PT title The structure and replication of kinetoplast DNA journal Annu Rev Microbiol volume 49 pages 117–43 year 1995 pmid 8561456 doi 10 1146/annurev mi 49 100195 001001 </ref><ref> cite journal author Shlomai title The structure and replication of kinetoplast DNA journal Curr Mol Med volume issue pages 623–47 year 2004 pmid 15357213 doi 10 2174/1566524043360096 </ref> Kinetoplasts are only found in of the class Kinetoplasts are usually adjacent to the organisms leading to the thought that they are tightly bound to the 
+-----DELETED
+Kinetoplast is disk-shaped mass of circular inside large that contains many copies of the <ref> cite journal author Shapiro TA, Englund PT title The structure and replication of kinetoplast DNA journal Annu Rev Microbiol volume 49 pages 117–43 year 1995 pmid 8561456 doi 10 1146/annurev mi 49 100195 001001 </ref><ref> cite journal author Shlomai title The structure and replication of kinetoplast DNA journal Curr Mol Med volume issue pages 623–47 year 2004 pmid 15357213 doi 10 2174/1566524043360096 </ref> Kinetoplasts are only found in of the class Kinetoplasts are usually adjacent to the organisms leading to the thought that they are tightly bound to the 

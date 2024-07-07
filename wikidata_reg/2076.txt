@@ -1,0 +1,15 @@
+-----METADATA
+2920
+681
+unknown
+15682
+False
+True
+True
+True
+<EMPTY>
+7597
+-----ADDED
+North Square is British drama about group of young, irreverent barristers all hoping to make their mark in the legal profession at Leeds defense chambers They are all under the leadership of their by-the-book, Machiavellian Chief Clerk Peter McLeish, who is clever and obsessed by work Peter doesnt appear to have social life Hes struggling to make this new enterprise work and will do anything to make it succeed and beat his arch rival Marlowe from whom he left and took his best barristers with him 
+-----DELETED
+North Square is British drama about group of young, sexy, but irreverent barristers all hoping to make their mark in the legal profession at Leeds defense chambers They are all under the leadership of their by-the-book, Machiavellian Chief Clerk Peter McLeish, who is clever and obsessed by work Peter doesnt appear to have social life Hes struggling to make this new enterprise work and will do anything to make it succeed and beat his arch rival Marlowe from whom he left and took his best barristers with him 

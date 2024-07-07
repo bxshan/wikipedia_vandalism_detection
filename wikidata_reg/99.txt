@@ -1,0 +1,15 @@
+-----METADATA
+2025
+11002
+unknown
+15035
+False
+True
+True
+True
+<EMPTY>
+2767
+-----ADDED
+office constituency 
+-----DELETED
+office for 

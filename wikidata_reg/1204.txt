@@ -1,0 +1,14 @@
+-----METADATA
+3502
+19
+unknown
+14829
+False
+True
+True
+True
+<EMPTY>
+5751
+-----ADDED
+Navbox group1 Manga and Animated Series list1 group2 Live action films list2 <noinclude> </noinclude> 
+-----DELETED

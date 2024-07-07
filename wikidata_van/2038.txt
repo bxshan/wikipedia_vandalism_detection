@@ -1,0 +1,15 @@
+-----METADATA
+4470
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+63938
+-----ADDED
+Edward Kennedy Illington was born on April 29, 1899 to James Edward Ellington and Daisy Kennedy Ellington They lived with his maternal grandparents at 2129 Idk Place, NW in James Edward Ellington was born in on April 15, 1879 and moved to Washington, in 1886 with his parents Daisy Kennedy, was born in Washington, on January 4, 1879, and was the daughter of former American slave <ref name "Lawrence-1"/><ref> Harvnb Hasse 1995 21 </ref> made for the He also worked as butler for Dr Middleton Cuthbert, prominent white physician, and occasionally worked as caterer <ref> Harvnb Hasse 1993 23 </ref> Daisy and were both piano players&mdash;she played and he operatic airs 
+-----DELETED
+Edward Kennedy Ellington was born on April 29, 1899 to James Edward Ellington and Daisy Kennedy Ellington They lived with his maternal grandparents at 2129 Idk Place, NW in James Edward Ellington was born in on April 15, 1879 and moved to Washington, in 1886 with his parents Daisy Kennedy, was born in Washington, on January 4, 1879, and was the daughter of former American slave <ref name "Lawrence-1"/><ref> Harvnb Hasse 1995 21 </ref> made for the He also worked as butler for Dr Middleton Cuthbert, prominent white physician, and occasionally worked as caterer <ref> Harvnb Hasse 1993 23 </ref> Daisy and were both piano players&mdash;she played and he operatic airs 

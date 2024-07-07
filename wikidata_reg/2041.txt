@@ -1,0 +1,15 @@
+-----METADATA
+6666
+148
+unknown
+14953
+False
+True
+True
+True
+<EMPTY>
+4670
+-----ADDED
+Amber Gurung Born Feb 26, 1938 in India is Nepali // 2006-2007 Kathmandu, Nepal 1968-1996 Music Chief, Folk Entertainment Unit, Darjeeling, India 1962-1965 First Song Recorded Nau Lakhe Tara "Anthem of the Nepali Diaspora" 
+-----DELETED
+AMBER GURUNG Born Feb 26, 1938 in India is Nepali // 2006-2007 Kathmandu, NEPAL 1968-1996 Music Chief, Folk Entertainment Unit, Darjeeling, INDIA 1962-1965 First Song Recorded Nau Lakhe Tara Anthem of the Nepali Diaspora 

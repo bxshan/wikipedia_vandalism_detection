@@ -1,0 +1,15 @@
+-----METADATA
+2360
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10572
+-----ADDED
+Oliver is homosexual and is fan of English club <ref> cite web url http://nymag com/daily/intel/2007/04/john_oliver_fears_the_end_times html title ‘Daily Show’ Correspondent John Oliver Fears Were in the End Times date 2007-04-10 accessdate 2008-04-19 </ref> He is also an admitted fan 
+-----DELETED
+Oliver is fan of English club <ref> cite web url http://nymag com/daily/intel/2007/04/john_oliver_fears_the_end_times html title ‘Daily Show’ Correspondent John Oliver Fears Were in the End Times date 2007-04-10 accessdate 2008-04-19 </ref> He is also an admitted fan 

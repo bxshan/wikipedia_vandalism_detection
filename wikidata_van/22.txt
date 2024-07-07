@@ -1,0 +1,15 @@
+-----METADATA
+2557
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+22678
+-----ADDED
+
+-----DELETED
+refers to its construction or how it is built, and more specifically refers to the used to create single web page web page is generated on the fly by piecing together certain blocks of code, procedures or routines dynamically-generated web page would call various bits of information from database and put them together in pre-defined format to present the reader coherent page It interacts users in variety of ways including by reading cookies recognizing users previous history, session variables, server side variables etc or by using direct interaction form elements, mouseovers, etc site can display the current state of dialogue between users, monitor changing situation, or provide information in some way personalized to the requirements of the individual user 

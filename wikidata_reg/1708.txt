@@ -1,0 +1,15 @@
+-----METADATA
+4231
+162
+male
+15506
+False
+True
+True
+True
+<EMPTY>
+11674
+-----ADDED
+As an example of the energy released in an arc flash incident, consider single phase-to-phase fault on 480V system with 20,000 amps of fault current The resulting power is If the fault lasts for 10 cycles at 60 ;Hz, the resulting energy would be For comparison, releases 2175J/g when detonated Thus, this fault energy is equivalent to 736 grams of TNT, or approximately pounds The character of an arc flash blast is quite different from chemical explosion more heat and light, less mechanical shock but the resulting devastation is comparable The rapidly expanding superheated vapor produced by the arc can cause serious injury or damage, and the intense and light produced by the arc can temporarily and sometimes even permanently blind or cause eye damage to people 
+-----DELETED
+As an example of the energy released in an arc flash incident, consider single phase-to-phase fault on 480V system with 20,000 amps of fault current The resulting power is 6MW If the fault lasts for 10 cycles at 60 ;Hz, the resulting energy would be megajoules For comparison, TNT releases 2175J/g when detonated Thus, this fault energy is equivalent to 736 grams of TNT, or approximately pounds The character of an arc flash blast is quite different from chemical explosion more heat and light, less mechanical shock but the resulting devastation is comparable The rapidly expanding superheated vapor produced by the arc can cause serious injury or damage, and the intense and light produced by the arc can temporarily and sometimes even permanently blind or cause eye damage to people 

@@ -1,0 +1,15 @@
+-----METADATA
+2199
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+14887
+-----ADDED
+Helios is sometimes identified with Apollo;loser "Different names may refer to the same being," Walter Burkert observes, "or else they may be consciously equated, as in the case of Apollo and Helios "<ref>Walter Burkett, Greek Religion, 120 </ref> 
+-----DELETED
+Helios is sometimes identified with Apollo; "Different names may refer to the same being," Walter Burkert observes, "or else they may be consciously equated, as in the case of Apollo and Helios "<ref>Walter Burkett, Greek Religion, 120 </ref> 

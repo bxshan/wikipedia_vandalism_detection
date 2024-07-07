@@ -1,0 +1,15 @@
+-----METADATA
+2115
+2
+unknown
+14828
+False
+False
+False
+False
+<EMPTY>
+6386
+-----ADDED
+There are many schools in Alipurduar and some of them are famous like Mc William High School, Central School, Rabikanta High School, Newtown Girls High School, Alipurduar High School, Alipurduar Girls High School, Gobinda Junior School Alipurduar College and Vivekananda College which is affiliated under is in the town 
+-----DELETED
+There are many schools in Alipurduar and some of them are famous like Rly school, St Josheph school, Mc William High School, Central School, Rabikanta High School, Newtown Girls High School, Alipurduar High School, Alipurduar Girls High School, Gobinda Junior School Alipurduar College and Vivekananda College which is affiliated under is in the town 

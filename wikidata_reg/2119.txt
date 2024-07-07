@@ -1,0 +1,15 @@
+-----METADATA
+2899
+12684
+unknown
+15210
+False
+True
+True
+True
+add tournament & source
+955
+-----ADDED
+In 1990, he won the <ref> cite web url http://www schack se/info/mastare html title Svenska mästare publisher Swedish Chess Federation accessdate 26 November 2009 </ref> and in 2008, became ian champion <ref> cite web url http://www ced lu/index php?categoryid 107&p2_articleid 164 title Michael Wiedenkeller Champion Rapid Chess 2008 publisher Cercle Des Échecs Dudelange accessdate 26 November 2009 </ref> In 1999, he tied for first with in the Donne Haas Memorial in Luxembourg <ref> cite web url http://www chess co uk/twic/twic257 html#3 title TWIC 257: Donne Haas Memorial last Crowther first Mark date 1999-10-11 publisher London Chess Center accessdate 26 November 2009 </ref> 
+-----DELETED
+In 1990, he won the <ref> cite web url http://www schack se/info/mastare html title Svenska mästare publisher Swedish Chess Federation accessdate 26 November 2009 </ref> and in 2008, became ian champion <ref> cite web url http://www ced lu/index php?categoryid 107&p2_articleid 164 title Michael Wiedenkeller Champion Rapid Chess 2008 publisher Cercle Des Échecs Dudelange accessdate 26 November 2009 </ref> 

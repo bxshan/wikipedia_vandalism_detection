@@ -1,0 +1,15 @@
+-----METADATA
+3793
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1451
+-----ADDED
+Released September 25, 2006 DEFAULTSORT:New Shape Of Desperation, The 
+-----DELETED
+Released DEFAULTSORT:New Shape of Desperation, The 

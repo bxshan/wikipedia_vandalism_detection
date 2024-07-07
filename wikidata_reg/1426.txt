@@ -1,0 +1,15 @@
+-----METADATA
+5994
+1590
+unknown
+15596
+False
+True
+True
+True
+npov and restore direct quote
+18519
+-----ADDED
+The Laffer curve is an concept used to illustrate the idea that increases in the rate of do not necessarily increase The basic assumption is that both 0% rate and 100% tax rate will generate no revenue An optimal tax rate is therefore assumed to lie somewhere in between Increasing taxes beyond this optimal point the peak of the Laffer curve is assumed to decrease tax revenue The Laffer curve is central to as it provides an argument for why lowering taxation may actually increase tax revenues However, many have questioned how to use the Laffer Curve In fact in 2007, Laffer himself warned "The Laffer Curve should not be the reason you raise or lower taxes" <ref> http://www time com/time/magazine/article/0,9171,1692027,00 html Tax Cuts Dont Boost Revenues Time Magazine, December 06, 2007 </ref> 
+-----DELETED
+The Laffer curve is an concept used to illustrate the idea that increases in the rate of do not necessarily increase The basic assumption is that both 0% rate and 100% tax rate will generate no revenue An optimal tax rate is therefore assumed to lie somewhere in between Increasing taxes beyond this optimal point the peak of the Laffer curve is assumed to decrease tax revenue The Laffer curve is central to as it provides an argument for why lowering taxation may actually increase tax revenues Many economists have questioned the utility of the Laffer Curve Laffer himself claimed in 2007 that the curve should not be used to determine tax rates <ref> http://www time com/time/magazine/article/0,9171,1692027,00 html Tax Cuts Dont Boost Revenues Time Magazine, December 06, 2007 </ref> 

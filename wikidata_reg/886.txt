@@ -1,0 +1,15 @@
+-----METADATA
+2654
+20795
+male
+16014
+False
+True
+True
+True
+Replacing {{IPAr|pl| with {{IPAc-pl|
+1632
+-----ADDED
+Wilkowiczki IPAc-pl cz is village in the administrative district of within in north-central Poland It lies approximately convert km mi north-east of convert 17 km mi abbr on south of and convert 66 km mi abbr on south-east of 
+-----DELETED
+Wilkowiczki IPAr pl cz is village in the administrative district of within in north-central Poland It lies approximately convert km mi north-east of convert 17 km mi abbr on south of and convert 66 km mi abbr on south-east of 

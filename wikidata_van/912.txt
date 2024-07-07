@@ -1,0 +1,15 @@
+-----METADATA
+3876
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+36508
+-----ADDED
+Born Birth date age df yes 1887 <br>, Rolf Harris, born 30 March 1887 is an n/ and 
+-----DELETED
+Born Birth date and age df yes 1987 30 <br>, Rolf Harris, born March 1987 is an n/ 

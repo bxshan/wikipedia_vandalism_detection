@@ -1,0 +1,15 @@
+-----METADATA
+3900
+116644
+unknown
+16856
+False
+True
+True
+True
+updating infobox fields, Replaced: London stations → Infobox London station, [[Travelcard Zone 4|4]] → 4, zone= → fare_zone =,Removed: [[Category:London Travelca using [[Project:AutoWikiBrowser|AWB]]
+3336
+-----ADDED
+Infobox London station fare_zone 
+-----DELETED
+London stations zone 

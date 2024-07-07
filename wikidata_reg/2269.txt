@@ -1,0 +1,15 @@
+-----METADATA
+1975
+4515
+male
+16432
+False
+True
+True
+True
+minor additions
+1877
+-----ADDED
+Agulhas National Park is about 690 Ha large, and about 45 Km from And has the following points of interest: 
+-----DELETED
+Agulhas National Park is about 690 Ha large And has the following points of interest: 

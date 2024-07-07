@@ -1,0 +1,15 @@
+-----METADATA
+1562
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+13855
+-----ADDED
+The CBD is not where people go in the centre of towns and cities 
+-----DELETED
+The CBD is where people go in the centre of towns and cities 

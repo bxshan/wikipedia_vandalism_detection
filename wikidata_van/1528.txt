@@ -1,0 +1,15 @@
+-----METADATA
+2091
+0
+unknown
+0
+True
+False
+False
+False
+more understandable precision on pntyhose
+1752
+-----ADDED
+Gussets are used in manufacturing of modern tights or to add breadth at the crotch seam; these gussets are often made of breathable fabrics for on wearing pantyhose without panties 
+-----DELETED
+Gussets are used in manufacturing of modern tights or to add breadth at the crotch seam; these gussets are often made of breathable fabrics for 

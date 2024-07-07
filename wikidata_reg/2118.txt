@@ -1,0 +1,15 @@
+-----METADATA
+2277
+100203
+male
+16406
+False
+True
+True
+True
+<EMPTY>
+6039
+-----ADDED
+is founded under the name "Cultural and Sporting Association in Romanian: Asociatia culturala si sportiva by group of workers at the workshops 
+-----DELETED
+Footbal Club of is founded under the name "Cultural and Sporting Association in Romanian: Asociatia culturala si sportiva by group of workers of the workshops 

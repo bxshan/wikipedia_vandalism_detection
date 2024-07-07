@@ -1,0 +1,15 @@
+-----METADATA
+6326
+1718198
+unknown
+16861
+False
+True
+True
+True
+GF using [[Project:AutoWikiBrowser|AWB]]
+14437
+-----ADDED
+*García Castro, Lope, Despatch, Lima, March 1565, Gobernantes del Perú, cartas papeles, Siglo XVI, Documentos del Archivo Indias, Coleción Publicaciones Históricas Biblioteca del Congreso Argentino, Roberto Levillier, 14 1921–6 *Valladolid, 29 April 1549, Colección de documentos para la historia de la formación social de Hispano-América, ed Richard Konetzke, vols Madrid, 1953 In Hemming 
+-----DELETED
+*García de Castro, Lope, Despatch, Lima, March, 1565, Gobernantes del Perú, cartas papeles, Siglo XVI, Documentos del Archivo de Indias, Coleción de Publicaciones Históricas de la Biblioteca del Congreso Argentino, ed Roberto Levillier, 14 vols Madrid, 1921–6 In Hemming *Valladolid, 29 April, 1549, Colección documentos para historia formación social Hispano-América, Richard Konetzke, 1953 

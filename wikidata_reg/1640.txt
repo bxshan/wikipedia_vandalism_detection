@@ -1,0 +1,15 @@
+-----METADATA
+4255
+0
+unknown
+0
+True
+False
+False
+False
+latest game verion update to 1.2 beta
+13616
+-----ADDED
+Following the release of the Quake III Arena source code under the on August 19 2005, the developers decided to rework Tremulous into standalone, free and open source game The current stable version, 0, was released on March 31, 2006 and is based upon modified engine This version was better received than previous versions and attracted considerable following in comparison to its peers The latest version is beta "Gameplay Preview", it was released on December 2009 
+-----DELETED
+Following the release of the Quake III Arena source code under the on August 19 2005, the developers decided to rework Tremulous into standalone, free and open source game The current version, 0, was released on March 31, 2006 and is based upon modified engine This version was better received than previous versions and attracted considerable following in comparison to its peers 

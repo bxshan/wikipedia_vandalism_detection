@@ -1,0 +1,15 @@
+-----METADATA
+4699
+10513
+unknown
+15495
+False
+True
+True
+True
+<EMPTY>
+4307
+-----ADDED
+Chicago Matters, and was interviewed by correspondent Mike Wallace on He has also been interviewed live on NBC Today show, and on several news programs aired in the UK He has been quoted in many newspapers, including the 
+-----DELETED
+Chicago Public TVs Chicago Matters: Money Talks, and was interviewed by correspondent Mike Wallace on He has also been interviewed live on NBC Today show, and on several news programs aired in the UK He has been quoted in many newspapers, including the 

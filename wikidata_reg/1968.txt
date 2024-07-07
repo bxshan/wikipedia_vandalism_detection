@@ -1,0 +1,15 @@
+-----METADATA
+7682
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9425
+-----ADDED
+and are scheduled to release the live-action film The Avengers May 4, 2010 <ref> cite news title Sony and Marvel Studios Set New Release Dates! work date 2009-03-11 url http://www superherohype com/news/spider-mannews php?id 8161 accessdate 2009-03-12 </ref> Confirmed team members are Iron Man, Captain America, Hulk, and Thor <ref name "suitup" /> The films writer, co-writer of The Incredible Hulk film cited and version of the team as inspiration for the story <ref> cite news author Scott Collura title Penn on Avengers work date 2007-05-03 url http://uk movies ign com/articles/785/785607p1 html accessdate 2008-10-30 </ref> director is 
+-----DELETED
+and are scheduled to release the live-action film The Avengers May 4, 2012 <ref> cite news title Sony and Marvel Studios Set New Release Dates! work date 2009-03-11 url http://www superherohype com/news/spider-mannews php?id 8161 accessdate 2009-03-12 </ref> Confirmed team members are Iron Man, Captain America, Hulk, and Thor <ref name "suitup" /> The films writer, co-writer of The Incredible Hulk film cited and version of the team as inspiration for the story <ref> cite news author Scott Collura title Penn on Avengers work date 2007-05-03 url http://uk movies ign com/articles/785/785607p1 html accessdate 2008-10-30 </ref> director is 

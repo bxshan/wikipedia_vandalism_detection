@@ -1,0 +1,14 @@
+-----METADATA
+1273
+59981
+unknown
+16161
+False
+True
+True
+True
+ rm parent cat of Category:Japanese immigrants to the United States
+1037
+-----ADDED
+
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+13745
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10236
+-----ADDED
+Samoa won in 2009 
+-----DELETED
+class "wikitable sortable" !Stadium !Location !Matches played !Year flagicon Fiji flagicon Japan 06 flagicon New Zealand flagicon Australia flagicon New Zealand flagicon New Zealand flagicon Japan 06 flagicon Australia 07 flagicon Japan 08 flagicon Japan 07, 08 flagicon Japan 08 flagicon Japan 07 

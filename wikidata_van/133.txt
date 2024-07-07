@@ -1,0 +1,15 @@
+-----METADATA
+1662
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+26088
+-----ADDED
+engine VIRUS ;L <br/>678 hp @6400 rpm<br/>575 ft·lbf torque 
+-----DELETED
+engine ;L <br/>678 hp @6400 rpm<br/>575 ft·lbf torque 

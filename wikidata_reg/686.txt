@@ -1,0 +1,14 @@
+-----METADATA
+2574
+14362
+male
+15459
+False
+True
+True
+True
+Removed category [[:Category:Benedictine nunneries|Benedictine nunneries]]; Quick-adding category [[:Category:Benedictine nunneries in Austria|Benedictine nunneries in Austria]] (using [[WP:HOTCAT|HotCat]])
+2612
+-----ADDED
+
+-----DELETED

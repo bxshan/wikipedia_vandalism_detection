@@ -1,0 +1,15 @@
+-----METADATA
+1758
+23646
+unknown
+16079
+False
+True
+True
+True
+ Merely news. Removed {{Current}}, intended for articles edited by many on the same day. [[Template:Current#Guidelines]].
+35686
+-----ADDED
+
+-----DELETED
+Current date November 2009 

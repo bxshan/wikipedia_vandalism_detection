@@ -1,0 +1,15 @@
+-----METADATA
+5208
+413458
+male
+15242
+False
+True
+True
+True
+[[WP:AWB/T|Typo fixing]] and general fixes, typos fixed: Orginal → Original using [[Project:AutoWikiBrowser|AWB]]
+3826
+-----ADDED
+Popular Songs is twelfth full-length by -based band released digitally, CD, and September 8, 2009 It is their 7th released and eighth be given Matadors treatment <ref>http://www buyearlygetnow com/info/8/</ref> It comes along with vinyl LP featuring Yo La Tengo’s Original Score from Motion Picture The album leaked onto the Internet on July 26; in response, Matador began streaming the album to Buy Early Get Now customers on July 28, more than week before the stream was originally advertised to begin <ref>http://twitter com/matadorrecords/status/2890805885</ref> 
+-----DELETED
+Popular Songs is the twelfth full-length by -based band released digitally, on CD, and on September 8, 2009 It is their 7th album released on and the eighth album to be given Matadors Buy Early Get Now treatment <ref>http://www buyearlygetnow com/info/8/</ref> It comes along with vinyl LP featuring Yo La Tengo’s Orginal Score from the Motion Picture The leaked onto Internet July 26th; in response, Matador began streaming customers July 28th, more than week before stream was originally advertised begin <ref>http://twitter com/matadorrecords/status/2890805885</ref> 

@@ -1,0 +1,15 @@
+-----METADATA
+3559
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+75871
+-----ADDED
+The 2006 FIFA World Cup was the 18th edition of the the international world championship tournament It was held from June to July 2006 in Eggys Yard, which won the right to the event in July 2000 representing 198 national football associations from all six populated continents participated in the process which began in September 2003 Thirty-one teams qualified from this process, along with the host nation, for the finals tournament 
+-----DELETED
+The 2006 FIFA World Cup was the 18th edition of the the international world championship tournament It was held from June to July 2006 in Germany, which won the right to the event in July 2000 representing 198 national football associations from all six populated continents participated in the process which began in September 2003 Thirty-one teams qualified from this process, along with the host nation, for the finals tournament 

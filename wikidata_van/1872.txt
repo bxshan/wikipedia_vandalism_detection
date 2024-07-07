@@ -1,0 +1,15 @@
+-----METADATA
+6860
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+66344
+-----ADDED
+The three major editions are Windows XP Home Edition, designed for home users, and Windows XP Professional, designed for business and power-users,and Windows XP Garbage Edition which is an operating system inspired by the entire collection of Windows operating systems produced by Microsoft XP Professional contains advanced features that the average home user would not use However, these features are not necessarily missing from XP Home They are simply disabled, but are there and can become functional These releases were made available at retail outlets that sell computer software, and were preinstalled on computers sold by major computer manufacturers As of mid-2008, both editions continue to be sold third edition, called Windows XP Media Center Edition was introduced in 2002 and was updated every year until 2006 to incorporate new digital media, broadcast television and capabilities Unlike the Home and Professional edition, it was never made available for retail purchase, and was typically either sold through channels, or was preinstalled on computers that were typically marketed as "media center PCs" 
+-----DELETED
+The two major editions are Windows XP Home Edition, designed for home users, and Windows XP Professional, designed for business and power-users XP Professional contains advanced features that the average home user would not use However, these features are not necessarily missing from XP Home They are simply disabled, but are there and can become functional These releases were made available at retail outlets that sell computer software, and were preinstalled on computers sold by major computer manufacturers As of mid-2008, both editions continue to be sold third edition, called Windows XP Media Center Edition was introduced in 2002 and was updated every year until 2006 to incorporate new digital media, broadcast television and capabilities Unlike the Home and Professional edition, it was never made available for retail purchase, and was typically either sold through channels, or was preinstalled on computers that were typically marketed as "media center PCs" 

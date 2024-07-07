@@ -1,0 +1,15 @@
+-----METADATA
+1713
+2
+unknown
+14830
+False
+False
+False
+False
+<EMPTY>
+3813
+-----ADDED
+In one of books called the whangdoodles are mentioned by the mother of one of the main characters when she is telling him not to go in forest because Whangdoodles live there and like you so much 
+-----DELETED
+In one of books called the whangdoodles are mentioned by the mother of one of the main characters when she is telling him not to go in forest because Whangdoodles live there 

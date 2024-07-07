@@ -1,0 +1,15 @@
+-----METADATA
+3732
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10880
+-----ADDED
+students 12,465 100% gays nickname Sebastinian, Sebastino, Baste, Bakla, Skwater, Pulibi 
+-----DELETED
+students 12,465 nickname Sebastinian, Sebastino, Baste 

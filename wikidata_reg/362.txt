@@ -1,0 +1,15 @@
+-----METADATA
+4070
+32593
+male
+16168
+False
+True
+True
+True
+<EMPTY>
+48155
+-----ADDED
+Antennae, have been found play role in time-compensated Sun compass orientation in The antennae of butterflies are either slender and knobbed at the tip or they are hooked at the tip Moth antennae are either thread-like feather-like or bristle-like <ref name tj>Triplehorn Johnson 2005 "Borror and Delongs Introduction to the Study of Insects" 7th Ed </ref> Contrary to popular belief, some moths have knobbed antennae akin to that of butterflies, examples being the families etc 
+-----DELETED
+The antennae of are either slender and knobbed at tip or they are hooked at tip Moth antennae are either thread-like feather-like or bristle-like <ref name tj>Triplehorn Johnson 2005 "Borror and Delongs Introduction Study of Insects" 7th Ed </ref> Contrary to popular belief, some moths have knobbed antennae akin to that of butterflies, examples being the families etc 

@@ -1,0 +1,15 @@
+-----METADATA
+5575
+237985
+unknown
+15747
+False
+True
+True
+True
+<EMPTY>
+9295
+-----ADDED
+In 1942, attorney George Shibley retained McGrath to assist in his defense of 22 Mexican American youths accused in the the largest mass trial in California history The youths, aged 17 to 21, were accused of killing Mexican farmworker near swimming hole in section of southeast Los Angeles County then known as Sleepy Lagoon <ref name Obit/> McGrath was recovering from bout of and Shibley brought her the transcript of the trial to summarize each days testimony <ref name Wash/> When she recovered from her illness, McGrath began attending the trial in person During the 13-week trial, the judge did not allow the defendants to confer with counsel and refused to let them cut their hair or receive fresh clothing <ref name Obit/> McGrath recalled, "I was enraged just was so upset about the way the judge and the whole way this trial was going The behavior of the judge was simply unacceptable in any decent society "<ref name Vent/> 
+-----DELETED
+In 1942, attorney George Shibley retained McGrath to assist in his defense of 22 Mexican American youths accused in the the largest mass trial in California history The youths, aged 17 to 21, were accused of killing Mexican farmworker near swimming hole in section of southeast Los Angeles County then known as Sleepy Lagoon <ref name Obit/> McGrath was recovering from bout of and Shibley brought her the transcript of the trial to summarize each days testimony <ref name Wash/> When she recovered from her illness, McGrath began attending the trial in person After the trial began, Alice recovered from her illness and began attending court During the 13-week trial, the judge did not allow the defendants to confer with counsel and refused to let them cut their hair or receive fresh clothing McGrath recalled, "I was enraged just was so upset about the way the judge and the whole way this trial was going The behavior of the judge was simply unacceptable in any decent society "<ref name Vent/> 

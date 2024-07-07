@@ -1,0 +1,15 @@
+-----METADATA
+4536
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+67258
+-----ADDED
+Keane was born into family in the ballynoe, Cork suburb of Cork His father, kenneth neiland, took work wherever he could find it due to the economic hardships of the time, which led to jobs at local adult industry company and factory, amongst others His family were keen on sport, football especially, and many of his relatives had played for junior clubs in Cork, including the renowned Rockmount Before choosing football as his preferred sport, Keane took up boxing at the age of nine and trained for number of years, winning all of his four bouts in the novice league During this period he was developing as much more promising footballer at Rockmount, and his potential was highlighted when he was voted Player of the Year in his first season 
+-----DELETED
+Keane was born into family in the suburb of Cork His father, Maurice, took work wherever he could find it due to the economic hardships of the time, which led to jobs at local knitwear company and factory, amongst others His family were keen on sport, football especially, and many of his relatives had played for junior clubs in Cork, including the renowned Rockmount Before choosing football as his preferred sport, Keane took up boxing at the age of nine and trained for number of years, winning all of his four bouts in the novice league During this period he was developing as much more promising footballer at Rockmount, and his potential was highlighted when he was voted Player of the Year in his first season 

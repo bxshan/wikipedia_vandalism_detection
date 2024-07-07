@@ -1,0 +1,15 @@
+-----METADATA
+3320
+90415
+unknown
+16326
+False
+True
+True
+True
+switch stub
+293
+-----ADDED
+New Fear is the first novel in the series by and sequel to the Fear Street Saga trilogy books 
+-----DELETED
+New Fear is the first book in the series by and sequel to the Fear Street Saga trilogy books 

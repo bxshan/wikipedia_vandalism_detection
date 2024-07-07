@@ -1,0 +1,15 @@
+-----METADATA
+4198
+157959
+male
+15838
+False
+True
+True
+True
+GF, but this article specifically describes the "infantry tank" [[WP:UNDO|Undid]] revision 327929623 by [[Special:Contributions/96.231.212.78|96.231.212.78]] ([[User talk:96.231.212.78|talk]])
+5899
+-----ADDED
+Once the infantry tank-supported attack had broken through heavily defended areas in the enemy lines, other tanks such as cruisers, or light tanks, were expected to exploit their higher speed and longer range to range far behind the front in order to cut lines of supply and communications In more conventional terminology, the infantry tank was similar to while the cruisers were either or even An important difference, however, was that heavy tanks were generally very well armed, while infantry tanks were not necessarily better-armed than other tanks For example, the Soviet heavy tank and British infantry tank were deployed at about the same time in 1940 These two tanks had similar levels of armour protection and mobility, but the KV was far more heavily armed than the Matilda 
+-----DELETED
+Once the tank-supported infantry attack had broken through heavily defended areas in the enemy lines, other tanks such as cruisers, or light tanks, were expected to exploit their higher speed and longer range to range far behind the front in order to cut lines of supply and communications In more conventional terminology, the infantry tank was similar to while the cruisers were either or even An important difference, however, was that heavy tanks were generally very well armed, while infantry tanks were not necessarily better-armed than other tanks For example, the Soviet heavy tank and British infantry tank were deployed at about the same time in 1940 These two tanks had similar levels of armour protection and mobility, but the KV was far more heavily armed than the Matilda 

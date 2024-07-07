@@ -1,0 +1,14 @@
+-----METADATA
+1406
+27671
+unknown
+15402
+False
+True
+True
+True
+ rm place i could not find proof exist not in National Resources Canada geographic names database
+105153
+-----ADDED
+
+-----DELETED

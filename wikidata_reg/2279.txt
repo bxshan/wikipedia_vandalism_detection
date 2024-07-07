@@ -1,0 +1,15 @@
+-----METADATA
+3761
+262006
+male
+14826
+False
+True
+True
+True
+caption
+8262
+-----ADDED
+recorded notable early version of "Stagger Lee" 
+-----DELETED
+recorded an early version of "Stagger Lee" 

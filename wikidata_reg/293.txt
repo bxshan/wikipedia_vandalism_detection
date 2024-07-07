@@ -1,0 +1,15 @@
+-----METADATA
+2921
+28856
+male
+16245
+False
+True
+True
+True
+fix "(ock" to proper spelling
+16157
+-----ADDED
+title http://links jstor org/sici?sici 0013-8304 195703 24%3A1%3C12%3ASCABS%3E2 CO%3B2-H Sternes Cock and Bull Story 
+-----DELETED
+title http://links jstor org/sici?sici 0013-8304 195703 24%3A1%3C12%3ASCABS%3E2 CO%3B2-H Sternes ock and Bull Story Wikipedia auto script forces me to use spelling ock" in this reference 

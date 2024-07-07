@@ -1,0 +1,15 @@
+-----METADATA
+2896
+22658
+unknown
+16142
+False
+True
+True
+True
+[[Help:Reverting|Reverted]] edits by [[Special:Contributions/83.70.163.132|83.70.163.132]] ([[User talk:83.70.163.132|talk]]) to last version by Muboshgu
+2537
+-----ADDED
+studio 
+-----DELETED
+studio <br> 

@@ -1,0 +1,14 @@
+-----METADATA
+1523
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+13200
+-----ADDED
+<nowiki>Benny Brown, from Flournoy,California owns this record</nowiki> 
+-----DELETED

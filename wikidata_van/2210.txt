@@ -1,0 +1,15 @@
+-----METADATA
+1500
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+84049
+-----ADDED
+name Charles seanlawson is weird 
+-----DELETED
+name Charles 

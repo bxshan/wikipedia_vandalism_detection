@@ -1,0 +1,15 @@
+-----METADATA
+2840
+110683
+unknown
+17323
+False
+True
+True
+True
+[[Help:Reverting|Reverted]] edits by [[Special:Contributions/74.173.127.143|74.173.127.143]] ([[User talk:74.173.127.143|talk]]) to last version by Fetchcomms
+20845
+-----ADDED
+North American Badgers Taxidea taxus and Canis latrans have been seen hunting together, in cooperative fashion <ref>Cahalane VH 1950 Badger-coyote "partnerships Journal of Mammalogy 31: 354-355</ref> 
+-----DELETED
+North American Badgers Taxidea taxus and and Wiggies Canis latrans have been seen hunting together, in cooperative fashion <ref>Cahalane VH 1950 Badger-coyote "partnerships Journal of Mammalogy 31: 354-355</ref> 

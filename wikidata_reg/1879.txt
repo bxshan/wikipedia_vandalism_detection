@@ -1,0 +1,15 @@
+-----METADATA
+6456
+43514
+male
+16070
+False
+True
+True
+True
+add primary and move section and add ref
+6171
+-----ADDED
+Currently there is one pupil at the primary school, situated at Setter 
+-----DELETED
+Currently there is one pupil at school, situated at Setter 

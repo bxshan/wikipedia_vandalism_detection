@@ -1,0 +1,15 @@
+-----METADATA
+5677
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5189
+-----ADDED
+motto The logo mascot of the school: Mr Morrow free_text Tie-Dye <br> location 4824 West Imperial Highway <br>Hawthorne, CA 90304 In addition, they must complete total of 230 credits 
+-----DELETED
+motto The logo and mascot of the school: the free_text Khaki Royal Blue <br> location 4467 West Broadway <br>Hawthorne, CA 90250 In addition, they must complete total of 230 credits and fluency in languages other than English 

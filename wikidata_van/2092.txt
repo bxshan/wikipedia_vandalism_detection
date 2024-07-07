@@ -1,0 +1,15 @@
+-----METADATA
+15604
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+63535
+-----ADDED
+People of European ancestry have strong presence in the northwestern and the central part of the state African Americans live mainly in the fertile southern and eastern parts of the state Arkansans of Irish, English and German ancestry are mostly found in the far northwestern Ozarks near the Missouri border Ancestors of the Irish in the Ozarks were chiefly Protestants from and the lowlands, part of the largest group of immigrants from and before the American Revolution Scots-Irish settled throughout the backcountry of the South and in the more mountainous areas <ref>David Hackett Fischer, Albions Seed: Four British Folkways in America, Dalas: Oxford University Press, 1956, pp 633-639</ref> 
+-----DELETED
+USCensusPop 1810 1062 1820 14273 1830 30388 1840 97574 1850 209897 1860 435450 1870 484471 1880 802525 1890 1128211 1900 1311564 1910 1574449 1920 1752204 1930 1854482 1940 1949387 1950 1909511 1960 1786272 1970 1923295 1980 2286435 1990 2350725 2000 2673400 estyear 2008<ref name 08CenEst/> estimate 2855390 People of European ancestry have strong presence in the northwestern and the central part of the state African Americans live mainly in the fertile southern and eastern parts of the state Arkansans of Irish, English and German ancestry are mostly found in the far northwestern Ozarks near the Missouri border Ancestors of the Irish in the Ozarks were chiefly Protestants from and the lowlands, part of the largest group of immigrants from and before the American Revolution Scots-Irish settled throughout the backcountry of the South and in the more mountainous areas <ref>David Hackett Fischer, Albions Seed: Four British Folkways in America, New York: Oxford University Press, 1989, pp 633-639</ref> 

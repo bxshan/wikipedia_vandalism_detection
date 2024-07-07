@@ -1,0 +1,15 @@
+-----METADATA
+1600
+28920
+unknown
+16683
+False
+True
+True
+True
+<EMPTY>
+5344
+-----ADDED
+*Stanley Smith Stevens: scale for the measurement of the psychological magnitude: loudness See: Psychological Review 43, Nr 5,APA Journals, 1936, pp 405-416 
+-----DELETED
+Stanley Smith Stevens: scale for the measurement of the psychological magnitude: loudness See: Psychological Review 43, Nr 5,APA Journals, 1936, pp 405-416 

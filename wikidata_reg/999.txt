@@ -1,0 +1,15 @@
+-----METADATA
+4924
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+51072
+-----ADDED
+The A-10 is exceptionally tough Its strong airframe can survive direct hits from armor-piercing and high-explosive projectiles up to 23 ;mm, and its canopy can withstand up to 62 mm fire The aircraft has triple redundancy in its flight systems, with mechanical systems to back up double-redundant hydraulic systems This permits pilots to fly and land when hydraulic power or part of wing is lost Flight without hydraulic power uses the manual reversion flight control system; this engages automatically for pitch and yaw control, and under pilot control manual reversion switch for roll control In manual reversion mode, the A-10 is sufficiently controllable under favorable conditions to return to base and land, though control forces are much higher than normal The aircraft is designed to fly with one engine, one tail, one elevator and half wing torn off <ref>Henderson, Breck "A-10 Warthogs damaged heavily in Gulf War bug survived to fly again Aviation Week and Space Technology, August 1991 </ref> are protected by fire-retardant foam Additionally, the main landing gear is designed so that the wheels semi-protrude from their when the gear is retracted so as to make gear-up landings easier to control and less damaging to the aircrafts underside belly landing would be required in the case of landing gear failure Also, the A-10s landing gear are all hinged toward the rear of the aircraft, so if is lost the pilot can simply drop the gear and combination of gravity and wind resistance will open and lock the gear in place 
+-----DELETED
+The A-10 is exceptionally tough Its strong airframe can survive direct hits from armor-piercing and high-explosive projectiles up to 23 ;mm The aircraft has triple redundancy in its flight systems, with mechanical systems to back up double-redundant hydraulic systems This permits pilots to fly and land when hydraulic power or part of wing is lost Flight without hydraulic power uses the manual reversion flight control system; this engages automatically for pitch and yaw control, and under pilot control manual reversion switch for roll control In manual reversion mode, the A-10 is sufficiently controllable under favorable conditions to return to base and land, though control forces are much higher than normal The aircraft is designed to fly with one engine, one tail, one elevator and half wing torn off <ref>Henderson, Breck "A-10 Warthogs damaged heavily in Gulf War bug survived to fly again Aviation Week and Space Technology, August 1991 </ref> are protected by fire-retardant foam Additionally, the main landing gear is designed so that the wheels semi-protrude from their when the gear is retracted so as to make gear-up landings easier to control and less damaging to the aircrafts underside belly landing would be required in the case of landing gear failure Also, the A-10s landing gear are all hinged toward the rear of the aircraft, so if is lost the pilot can simply drop the gear and combination of gravity and wind resistance will open and lock the gear in place 

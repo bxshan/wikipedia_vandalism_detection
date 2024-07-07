@@ -1,0 +1,15 @@
+-----METADATA
+2307
+62317
+male
+16107
+False
+True
+True
+True
+ Men's singles start record adj.
+9592
+-----ADDED
+GER 21 November 2009 789 
+-----DELETED
+GER 24 November 2007 790 

@@ -1,0 +1,15 @@
+-----METADATA
+2895
+35060
+male
+15518
+False
+True
+True
+True
+[[WP:UNDO|Undid]] revision 329103796 by [[Special:Contributions/99.138.12.2|99.138.12.2]] ([[User talk:99.138.12.2|talk]])
+11723
+-----ADDED
+Miami, Florida American Airlines Arena<ref name "location10" /> 
+-----DELETED
+Pittsburgh,Pennslyvania Consol Energy Center<ref name "location10" /> 

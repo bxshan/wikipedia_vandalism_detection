@@ -1,0 +1,15 @@
+-----METADATA
+2609
+0
+unknown
+0
+True
+False
+False
+False
+Robot-assisted disambiguation: English - Changed link(s) to [[English language]]
+6701
+-----ADDED
+The open-mid back unrounded vowel is type of sound, used in some The symbol in the that represents this sound is IPA and the equivalent symbol is <tt>V</tt> The IPA symbol is an inverted letter and both the symbol and the sound are commonly referred to as either wedge, caret, or hat In transcriptions for some languages including several dialects of this symbol is also used for the 
+-----DELETED
+The open-mid back unrounded vowel is type of sound, used in some The symbol in the that represents this sound is IPA and the equivalent symbol is <tt>V</tt> The IPA symbol is an inverted letter and both the symbol and the sound are commonly referred to as either wedge, caret, or hat In transcriptions for some languages including several dialects of this symbol is also used for the 

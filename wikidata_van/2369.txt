@@ -1,0 +1,14 @@
+-----METADATA
+1420
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4374
+-----ADDED
+Kyle Skipwoth plays for the minor league affiliate for the Florida Marlins 
+-----DELETED

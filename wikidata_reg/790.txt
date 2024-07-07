@@ -1,0 +1,15 @@
+-----METADATA
+3185
+37
+unknown
+14828
+False
+True
+True
+True
+<EMPTY>
+3707
+-----ADDED
+Unity the Hebrew Component Western Eastern In: Moskovich ed Czernowitz Conference, 2009 2010 to appear Yiddish Protovowels German Dialects Journal Germanic Linguistics Beider, 2004 The Birth of Yiddish and the Paradigm of the Rhenish Origin of Ashkenazic Jews Revue des études juives 163/1-2: 193-244 Beider, 2001 Dictionary of Ashkenazic Given Names: Their Origins, Structure, Pronunciation, and Migrations Bergenfield, NJ: Avotaynu 
+-----DELETED
+Beider, 2010 to appear Unity of the Hebrew Component of Western and Eastern Yiddish In: Moskovich ed Czernowitz Conference, 2009 Protovowels German Dialects Journal Germanic Linguistics Beider, 2004 The Birth of Yiddish and the Paradigm of the Rhenish Origin of Ashkenazic Jews Revue des études juives 163/1-2: 193-244 2001 Dictionary Ashkenazic Given Names: Their Origins, Structure, Pronunciation, Migrations Bergenfield, NJ: Avotaynu 

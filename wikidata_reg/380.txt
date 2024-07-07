@@ -1,0 +1,15 @@
+-----METADATA
+2698
+35
+male
+14936
+False
+True
+True
+True
+<EMPTY>
+1363
+-----ADDED
+Centene Stadium is in It is named for the which paid for the naming rights to the stadium It is primarily used for and is the home field of the baseball team It was built in 1956 and holds 4,000 people The ballpark has picnic area and BBQ area Field dimensions are 335 to right field, 328 to left field, 415 to center field, and 368 to each power alley 
+-----DELETED
+Centene Stadium is in It is primarily used for and is the home field of the baseball team It was built in 1956 and holds 4,000 people The ballpark has picnic area and BBQ area Field dimensions are 335 to right field, 328 to left field, 415 to center field, and 368 to each power alley 

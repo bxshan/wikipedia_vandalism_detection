@@ -1,0 +1,15 @@
+-----METADATA
+13405
+319
+unknown
+15126
+False
+True
+True
+True
+<EMPTY>
+5202
+-----ADDED
+commands <br>Submarine Squadron Three<br>Submarine Group Eight <br>Submarines, Allied Naval Forces South<br>Task Forces 164/69<br>Naval Recruiting Command Fowler served at sea as junior officer aboard as Engineer Officer for and as for the Pre-commissioning Unit SSN 765 and He commanded and Submarine Squadron Three, responsible for eight nuclear-powered fast attack submarines Fowler has deployed to the and oceans, and the Following selection to VADM Fowler served as Commander, Navy Recruiting Command and Director, Naval Europe/Sixth Fleet Plans and Operations; Deputy Commander, Commander Submarines, Allied Naval Forces South; Commander, Submarine Group 8; and Commander, Task Forces 164/69 *1978 degree in Annapolis, Maryland *1985 degree, Honolulu, Hawaii *1990 degree, at Cambridge, Massachusetts *2002 National Security Studies, Syracuse, New York *2003 Fellow, New York, New York 
+-----DELETED
+commands <br><br>Submarine Group Eight <br>Submarines, Allied Naval Forces South<br>Task Forces 164/69<br>Naval Recruiting Command Fowler served at sea as junior officer aboard as Engineer Officer for and as for the Pre-commissioning Unit SSN 765 and He commanded and responsible for eight nuclear-powered fast attack submarines Fowler has deployed to the and oceans, and the Following selection to VADM Fowler served as Commander, and Director, Naval Europe/Sixth Fleet Plans and Operations; Deputy Commander, Commander Submarines, Allied Naval Forces South; Commander, and Commander, Task Forces 164/69 *B Mechanical Engineering, 1978 *MBA, 1985 *MPA, at 1990 *National Security Studies, 2002 *Military Fellow, 2002 2003 VADM Fowler is lifetime member of the Council on Foreign Relations 

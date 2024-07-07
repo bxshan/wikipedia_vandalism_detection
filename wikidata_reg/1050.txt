@@ -1,0 +1,15 @@
+-----METADATA
+3870
+1952
+male
+14928
+False
+True
+True
+True
+another reference!!
+49787
+-----ADDED
+Gurjars traditionally belonged to the <ref>http://books google co in/books?lr &id 1lGgAAAAMAAJ&dq jat+and+gurjar+book&q Gurjar#search_anchor Jats and Gujars: Origin, History and Culture By Rahul Khari </ref> <ref> http://books google co in/books?id 9kwIAAAAIAAJ&dq jat+and+gurjar+book&q Gurjar#search_anchora Gurjara aura Unakā Itihāsa meṃ Yogadāna Vishaya para Prathama Volume By Jayasiṃha, Bharatiya Gurjar Parishad</ref> <ref> http://books google co uk/books?id Lyd8jPbN218C&pg PA1&dq gurjar&lr #v onepage&q gurjar%20kingdom&f false Gujarat and the Gujaratis: pictures of men and manners taken from life By Behramji Merwanji Malabari</ref> <ref> hoernle,A 1905some problems of ancient history No III, The Gurjara Clans,Journal of the royal Asiatic society of great britain and ireland,London:published by society, PP 1-32,ref pp and 31</ref>, and formerly ruled the Kingdom, which included much of northern India during the 8th and 9th centuries 
+-----DELETED
+Gurjars traditionally belonged to the <ref>http://books google co in/books?lr &id 1lGgAAAAMAAJ&dq jat+and+gurjar+book&q Gurjar#search_anchor Jats and Gujars: Origin, History and Culture By Rahul Khari </ref> <ref> http://books google co in/books?id 9kwIAAAAIAAJ&dq jat+and+gurjar+book&q Gurjar#search_anchora Gurjara aura Unakā Itihāsa meṃ Yogadāna Vishaya para Prathama Volume By Jayasiṃha, Bharatiya Gurjar Parishad</ref> <ref> http://books google co uk/books?id Lyd8jPbN218C&pg PA1&dq gurjar&lr #v onepage&q gurjar%20kingdom&f false Gujarat and the Gujaratis: pictures of men and manners taken from life By Behramji Merwanji Malabari</ref>, and formerly ruled the Kingdom, which included much of northern India during the 8th and 9th centuries 

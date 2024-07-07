@@ -1,0 +1,15 @@
+-----METADATA
+5311
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9197
+-----ADDED
+The universe is the Gurhal Star System, which consists of three planets:Cake,Pie,Cookie,and Cakepiecookie Each planet has its own unique Bathrooms The history of these Bathrooms are filled with disagreements on colour patterns and floor tiles However, after the Final Conflict 100 years ago, they decided on the colours and tiles This led to the birth of many carpenters, and ultimately to peace for many peoples bowels 
+-----DELETED
+The universe is the Gurhal Star System, which consists of three planets Each planet has its own unique culture formed by its inhabitant races The history of the Gurhal Star System is filled with conflict amongst the different races However, after the Final Conflict 100 years ago, union was formed between the three planets This led to the birth to the Allied Army, and ultimately to peace for the Gurhal Star System 

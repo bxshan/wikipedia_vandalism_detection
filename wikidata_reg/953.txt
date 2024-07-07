@@ -1,0 +1,15 @@
+-----METADATA
+2536
+25014
+unknown
+15854
+False
+True
+True
+True
+<EMPTY>
+24623
+-----ADDED
+During the of forces under took Ramadi In November 1917, British forces fought what was left of the Ottoman forces there Sir Maude died soon after Ramadi was taken 
+-----DELETED
+During the of forces under took Ramadi In November 1917, British forces fought what was left of the Ottoman forces there Lieutenant General Maude soon after Ramadi was taken 

@@ -1,0 +1,15 @@
+-----METADATA
+4899
+2675
+unknown
+15751
+False
+True
+True
+True
+add Collins and Dykema/add refs/linecit
+1309
+-----ADDED
+In the Connes embedding problem or asks whether any finite separable II<sub>1</sub> factor can be embedded into the ultrapower of the hyperfinite II<sub>1</sub> factor countably generated finite factors <ref name cep>http://www jstor org/pss/2669132</ref> or likewise asking whether every finite set in all II<sub>1</sub> factor has microstates The supposition can also be rephrased as noncommutative moment problem<ref name cep></ref> or as whether generators of any von Neumann probability space admit The Connes embedding problem is due to <ref>http://nyjm albany edu/j/2008/14-28 pdf</ref> It has been shown that the Connes embedding problem can be reduced to linearization sequence of statements about sums of two <ref>http://www nsf gov/awardsearch/showAward do?AwardNumber 0901220</ref> *A linearization of Connes’ embedding problem, Benoıt Collins and Ken Dykema<ref>http://www emis de/journals/NYJM/j/2008/14-28 pdf</ref> 
+-----DELETED
+In the Connes embedding problem or asks whether any finite separable II<sub>1</sub> factor can be embedded into the ultrapower of the hyperfinite II<sub>1</sub> factor<ref name cep>http://www jstor org/pss/2669132</ref> or likewise asking whether every finite set in all II<sub>1</sub> factor has microstates The supposition can also be rephrased as noncommutative moment problem<ref name cep></ref> or as whether generators of any von Neumann probability space admit The Connes embedding problem is due to the <ref>http://nyjm albany edu/j/2008/14-28 pdf</ref> 

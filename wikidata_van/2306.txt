@@ -1,0 +1,15 @@
+-----METADATA
+2096
+0
+unknown
+0
+True
+False
+False
+False
+more details
+1702
+-----ADDED
+Rumple Minze was rated 95 out of 100 by the Beverage Tasting Institute <ref>http://www diageo com/en-row/OurBrands/ourbrandsA-Z/schnapps/rumple_minze htm</ref> The top market for this product is the and it is particularly favored by Chinos The success of their peppermint schnapps has led Rumple Minze to release two new flavors which include Berry flavored liqueur and Lime flavored liqueur, both of which remain 100 proof 
+-----DELETED
+Rumple Minze was rated 95 out of 100 by the Beverage Tasting Institute <ref>http://www diageo com/en-row/OurBrands/ourbrandsA-Z/schnapps/rumple_minze htm</ref> The top market for this product is the The success of their peppermint schnapps has led Rumple Minze to release two new flavors which include Berry flavored liqueur and Lime flavored liqueur, both of which remain 100 proof 

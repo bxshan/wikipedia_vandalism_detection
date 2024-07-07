@@ -1,0 +1,15 @@
+-----METADATA
+6665
+17216
+unknown
+15565
+False
+True
+True
+True
+HMS removed - explanatory note added
+6213
+-----ADDED
+Ship renamed Ark 1587<br>Anne Ark Royal<ref group Note>Since she was built and served prior to the English Restoration of 1660, she did not carry the HMS prefix</ref> was an originally ordered for and later purchased by the crown for service in the She was used as the English flagship in number of engagements, including the battles that resulted in the defeat of the and had long career spanning over 50 years Her fame would subsequently lead to number of warships of the Royal Navy being named Ark Royal in her honour, including number of flagships of the fleet Reflist group Note 
+-----DELETED
+Ship renamed *HMS Ark Royal, 1587 *HMS Anne HMS Ark Royal was an originally ordered for and later purchased by the crown for service in the She was used as the English flagship in number of engagements, including the battles that resulted in the defeat of the and had long career spanning over 50 years Her fame would subsequently lead to number of warships of the Royal Navy being named Ark Royal in her honour, including number of flagships of the fleet 

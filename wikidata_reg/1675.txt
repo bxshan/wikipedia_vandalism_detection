@@ -1,0 +1,15 @@
+-----METADATA
+2380
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2779
+-----ADDED
+Paul Fleischman 1952 is an American childrens author, and author of books of sorts He grew up in Santa Monica, California, hearing his father, read his books aloud chapter by chapter, as they were written Both have won the Newbery Medal, Sid for The Whipping Boy in 1987, and Paul for Joyful Noise: Poems for Two Voices in 1989 
+-----DELETED
+Paul Fleischman 1952 is an American childrens author He grew up in Santa Monica, California, hearing his father, read his books aloud chapter by chapter, as they were written Both have won the Newbery Medal, Sid for The Whipping Boy in 1987, and Paul for Joyful Noise: Poems for Two Voices in 1989 

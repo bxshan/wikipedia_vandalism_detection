@@ -1,0 +1,14 @@
+-----METADATA
+770
+105816
+unknown
+16490
+False
+True
+True
+True
+Removed category [[:Category:Yangon|Yangon]] (using [[WP:HOTCAT|HotCat]])
+4821
+-----ADDED
+
+-----DELETED

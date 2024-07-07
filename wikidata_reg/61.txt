@@ -1,0 +1,15 @@
+-----METADATA
+6034
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+776
+-----ADDED
+10415 Mali Lošinj is with an of 1886 7904751 17 The asteroid was discovered on October 23, 1998 Reflist Beltasteroid-stub 
+-----DELETED
+BASEPAGENAME is with an of 1886 7904751 17 The asteroid was discovered on reflist beltasteroid-stub 

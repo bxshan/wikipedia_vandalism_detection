@@ -1,0 +1,15 @@
+-----METADATA
+1839
+13
+unknown
+14834
+False
+True
+True
+True
+<EMPTY>
+3393
+-----ADDED
+There are 15 category of games in Sporcle These are Entertainment, Gaming, Geography, History, Holiday, Just For Fun, Language, Literature, Miscellaneous, Movies, Music, Religion, Science, sports and Television 
+-----DELETED
+There are 15 category of games in Sporcle These are Entertainment, Gaming, Geography, History, Holiday, Just For Fun, Language, Literature, Miscellaneous, Movies, Music, Religion, Science, 

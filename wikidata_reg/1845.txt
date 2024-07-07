@@ -1,0 +1,15 @@
+-----METADATA
+2415
+197
+unknown
+15454
+False
+True
+True
+True
+<EMPTY>
+2433
+-----ADDED
+Inkjet transfer or Inkjet photo transfer is technique to transfer photograph or graphic, printed special transfer sheet, usually size, is printed on with regular inkjet printer The photo has to be printed as mirror image 
+-----DELETED
+Inkjet transfer or Inkjet photo transfer is technique to transfer photograph or graphic, printed special transfer sheet, usually size, approximately per sheet, is printed on with regular inkjet printer The photo has to be printed as mirror image 

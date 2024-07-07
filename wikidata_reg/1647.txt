@@ -1,0 +1,15 @@
+-----METADATA
+3971
+413458
+male
+15242
+False
+True
+True
+True
+it's -> its
+6837
+-----ADDED
+Cansfield prides itself on its facilities We have Mathematics classrooms, and one Mathematics ICT Cross-Curricular Centre We have English classrooms, and we also have newly refurbished Science laboratories in total and an up-to-date Prep Room We also have Art studios, complete with an Art ICT Cross-Curricular Centre, and Religious Education classroom We have ICT suites, and an LRC, also In addition to this, we house Design Technology classrooms which include Resistant Materials Workshop, Food Technology Suite, Graphics Classroom, and Textiles Centre We have Music Centre, with Recording Suites, and we also have Drama Suite, complete with Private ICT Suite and the Drama Suite has theoretical side, and practical side We have ConneXions Centre, and Careers Suite, also We have Humanities classrooms, and Learning Support Centres We house MFL classrooms, and Language College Our Physical Education facilities include Gymnasium, Sports Hall, Male and Female Changing Facilities, Swimming Pools, and Fitness Suite We also have Large Sports field, and an All-Weather Pitch We have comfortable Theatre, and Reception, Office, Administration block, and suitable storage spaces We have clean toilet facilities, which are spread around the school 
+-----DELETED
+Cansfield prides itself on its wonderful facilities We have Mathematics classrooms, and one Mathematics ICT Cross-Curricular Centre We have English classrooms, and we also have newly refurbished Science laboratories in total and an up-to-date Prep Room We also have Art studios, complete with an Art ICT Cross-Curricular Centre, and Religious Education classroom We have ICT suites, and an LRC, also In addition to this, we house Design Technology classrooms which include Resistant Materials Workshop, Food Technology Suite, Graphics Classroom, and Textiles Centre We have Music Centre, with Recording Suites, and we also have Drama Suite, complete with Private ICT Suite and the Drama Suite has theoretical side, and practical side We have ConneXions Centre, and Careers Suite, also We have Humanities classrooms, and Learning Support Centres We house MFL classrooms, and Language College Our Physical Education facilities include Gymnasium, Sports Hall, Male and Female Changing Facilities, Swimming Pools, and Fitness Suite We also have Large Sports field, and an All-Weather Pitch We have comfortable Theatre, and Reception, Office, Administration block, and suitable storage spaces We have clean toilet facilities, which are spread around the school 

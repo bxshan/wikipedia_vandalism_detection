@@ -1,0 +1,15 @@
+-----METADATA
+8071
+75
+unknown
+14891
+False
+True
+True
+True
+<EMPTY>
+23563
+-----ADDED
+In another reported cases in 2004, patient presented with dysprosody under interesting circumstances The patient underwent surgery to correct which originates in the of the After the surgery, however, she began speaking in foreign German accent Neurological examinations were carried out on the patient through magnetic resonance imaging, but the results were completely normal The only conclusion the doctors could make was that the surgery somehow changed the patients vocal identification causing the new voice pattern It was possible that the patient suffered lack of oxygen to the brain during the surgery, which would have gone undedtected by the resonance imaging, causing dysprosody Although most causes of dysprosody are due to neurological damage, this case study shows that there can be other causes which are not necessarily neurologically based 
+-----DELETED
+There was another reported cases in 2004 where the patient presented with dysprosody under interesting circumstances The patient underwent surgery to correct which is located in the of the However, after the surgery she began speaking in German accent Neurological examinations were carried out on the patient through magnetic resonance imaging, however, the results were completely normal The only conclusion that the doctors could come up with were the possibility that the surgery might have changed the patients vocal identification which could have caused the new voice pattern Another possibility was that there was during the surgery there might have been temporary lack of oxygen to the brain that would have not been detected by the resonance imaging, which could have led to the dysprosody Although most causes of dysprosody are due to neurological damage, this case study shows that there can be other causes which are not necessarily neurologically based 

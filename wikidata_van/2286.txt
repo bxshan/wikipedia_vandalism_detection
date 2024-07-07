@@ -1,0 +1,15 @@
+-----METADATA
+1763
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1392
+-----ADDED
+The current principal of Ridgecliff is Julie "Da Mayne" West 
+-----DELETED
+The current principal of Ridgecliff is Julie West 

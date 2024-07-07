@@ -1,0 +1,15 @@
+-----METADATA
+3794
+2
+unknown
+14821
+False
+False
+False
+False
+<EMPTY>
+62206
+-----ADDED
+Natural selection is the process by which that make it more likely for an to survive and successfully become more common in over successive generations It is key mechanism of Moreover it selects the fittest to survive and eliminates the rest weaker part 
+-----DELETED
+Natural selection is the process by which that make it more likely for an to survive and successfully become more common in over successive generations It is key mechanism of Moreover it selects the fittest to survive an eliminates the rest weak 

@@ -1,0 +1,15 @@
+-----METADATA
+3597
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5544
+-----ADDED
+caps goals 102 <br />189 <br /> 50 <br /> 38 pcupdate 19:41, December 2009 UTC 
+-----DELETED
+caps goals 102 <br />189 <br /> 50 <br /> 37 pcupdate 22:44, 13 November 2009 UTC 

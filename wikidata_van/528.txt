@@ -1,0 +1,15 @@
+-----METADATA
+2959
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+18276
+-----ADDED
+Van Rompuy is strong opponent of joining the European Union In 2004, he stated "Turkey is not part of Europe and will never be part of Europe An expansion of the EU to include Turkey cannot be considered as just another expansion as in the past" He continued "The universal values which are in force in Europe, and which are fundamental values of Christianity, will lose vigour with the entry of large Islamic country such as Turkey "<ref bigot\> cite web url http://www telegraph co uk/news/worldnews/europe/eu/6600570/EU-president-Herman-Van-Rompuy-opposes-Turkey-joining html title EU president: Herman Van Rompuy opposes Turkey joining accessdate 19 November 2009 date 19 November 2009 publisher Daily Telegraph </ref> 
+-----DELETED
+Van Rompuy is strong opponent of joining the European Union In 2004, he stated "Turkey is not part of Europe and will never be part of Europe An expansion of the EU to include Turkey cannot be considered as just another expansion as in the past" He continued "The universal values which are in force in Europe, and which are fundamental values of Christianity, will lose vigour with the entry of large Islamic country such as Turkey "<ref> cite web url http://www telegraph co uk/news/worldnews/europe/eu/6600570/EU-president-Herman-Van-Rompuy-opposes-Turkey-joining html title EU president: Herman Van Rompuy opposes Turkey joining accessdate 19 November 2009 date 19 November 2009 publisher Daily Telegraph </ref> 

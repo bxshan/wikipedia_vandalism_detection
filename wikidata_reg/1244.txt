@@ -1,0 +1,15 @@
+-----METADATA
+1818
+5405
+unknown
+15525
+False
+True
+True
+True
+<EMPTY>
+1104
+-----ADDED
+Cozios mate is common method of checkmating the king found in the game of The checkmate is an upside down version of the Dovetail mate It was named after study conducted in 1766 by 
+-----DELETED
+Cozios mate is common method of checkmating the king found in the game of The checkmate is an upside down version of the Dovetail mate It was named after study conducted in 1766 by Cozio 

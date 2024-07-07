@@ -1,0 +1,15 @@
+-----METADATA
+1861
+34884
+male
+15548
+False
+True
+True
+True
+rm per [[WP:EL]]
+1188
+-----ADDED
+In 2009 She helped launch the first ever digital school for grades 6-12, Quest Learn Q2L in mid Manhattan 
+-----DELETED
+In 2009 She helped launch the first ever digital school for grades 6-12, Quest Learn Q2L <http://q2l org/> in mid Manhattan 

@@ -1,0 +1,15 @@
+-----METADATA
+3274
+5330
+unknown
+16270
+False
+True
+True
+True
+<EMPTY>
+5573
+-----ADDED
+Ryan is also founding member of the BareBones Theatre Group in Charlotte, NC <ref> http://www barebones org/index cfm?template aboutus cfm About Us BareBones Theatre Group<!-- Bot generated title --> </ref> In he also wrote several articles for the online Linux news and information website <ref> http://linux omnipotent net/articlelist php?credit Ryan+C +Gordon Linux com Article DB: Articles by Ryan Gordon </ref> 
+-----DELETED
+Ryan is also founding member of the BareBones Theatre Group in Charlotte, NC <ref> http://www barebones org/index cfm?template aboutus cfm About Us BareBones Theatre Group<!-- Bot generated title --> </ref> In <ref> http://linux omnipotent net/articlelist php?credit Ryan+C +Gordon Linux com Article DB: Articles by Ryan Gordon </ref> 

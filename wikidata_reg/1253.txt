@@ -1,0 +1,15 @@
+-----METADATA
+2936
+2166
+unknown
+15485
+False
+True
+True
+True
+yes ISDN is a proper noun
+3216
+-----ADDED
+In the ISDN there are two levels of service: the BRI intended for the home and small enterprise, and the Primary Rate Interface PRI for larger users Both rates include number of B-channels and D-channel Each B-channel carries data, voice, and other services The D-channel carries control and signaling information The Basic Rate Interface consists of two 64 kbit/s B-channels and one 16 kbit/s D-channel 
+-----DELETED
+In ISDN there are two levels of service: the BRI intended for the home and small enterprise, and the Primary Rate Interface PRI for larger users Both rates include number of B-channels and D-channel Each B-channel carries data, voice, and other services The D-channel carries control and signaling information The Basic Rate Interface consists of two 64 kbit/s B-channels and one 16 kbit/s D-channel 

@@ -1,0 +1,15 @@
+-----METADATA
+1749
+1718198
+unknown
+16861
+False
+True
+True
+True
+Name the reference using [[Project:AutoWikiBrowser|AWB]]
+1328
+-----ADDED
+population_footnotes 
+-----DELETED
+population_footnotes <ref> http://portal ksh hu/pls/portal/cp hnt_telep?NN 23861 Rátót at the Hungarian January 2008;</ref> 

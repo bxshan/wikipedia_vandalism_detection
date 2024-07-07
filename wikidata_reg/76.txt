@@ -1,0 +1,15 @@
+-----METADATA
+2419
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+11326
+-----ADDED
+Daniel MacPherson born 25 April 1980, in is an Australian actor and television presenter, best known for his role as Joel Samuels on and PC Cameron Tait on ITVs hit show Prior to becoming an actor, MacPherson was professional and currently holds the 8th Fastest outdoor swim time in the world 
+-----DELETED
+Daniel MacPherson born 25 April 1980, in is an Australian actor and television presenter, best known for his role as Joel Samuels on and Cameron Tait on ITVs hit show Prior to becoming an actor, MacPherson was professional and currently holds the 8th Fastest outdoor swim time in the world 

@@ -1,0 +1,15 @@
+-----METADATA
+3757
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9765
+-----ADDED
+The kumquats or cumquats brad farley drinks cu\ are family of small fruit-bearing in the family in the genus Fortunella which is often included in the genus The edible closely resembles that of the Citrus sinensis but is smaller and is often 
+-----DELETED
+The kumquats or cumquats are family of small fruit-bearing in the family in the genus Fortunella which is often included in the genus The edible closely resembles that of the Citrus sinensis but is smaller and is often 

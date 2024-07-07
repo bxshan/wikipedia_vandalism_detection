@@ -1,0 +1,15 @@
+-----METADATA
+6123
+6252
+unknown
+16762
+False
+True
+True
+True
+ sp
+196150
+-----ADDED
+capital shows unique mix The city has registered brand The Third Capital Russia, though number major cities compete this status, all being major cultural centers rich history prominent architecture cities others have at best preserved architecture spirit ancient medieval also main tourist destinations Many typically scattered throughout Russia, forming its unique cultural landscape both in big cities in remote areas Typical Russian souvenirs include and other for water heating, and warm hats, clothes and other stuff Russian and are among the food that attracts foreigners, along with and other products and dishes Diverse regions and ethnic cultures of Russia offer many more different food and souvenirs, and show great variety of traditions, like Russian Tatar or Siberian rituals 
+-----DELETED
+the capital of shows unique mix of and cultures The city has rigistered brand The Third Capital of Russia, though number of other major Russian cities compete for this status, like and all being major cultural centers with rich history and prominent architecture and the cities of and others have at best preserved the architecture and the spirit of ancient and medieval and also are among the main tourist destinations Many typically and are scattered throughout Russia, forming its unique cultural landscape both in big cities and in remote areas Typical souvenirs include water heating, warm hats, clothes stuff food that attracts foreigners, along products dishes Diverse regions ethnic Russia offer many more different food souvenirs, show great variety traditions, Tatar or Siberian rituals 

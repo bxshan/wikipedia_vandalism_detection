@@ -1,0 +1,15 @@
+-----METADATA
+5238
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+102508
+-----ADDED
+The most recent and critically acclaimed version of Hamlet was created, produced and performed by City Lights TC at Kings College London Amongst the most highly praised were Henry Locatelli as Voltemand and Caroline Hall as Rosencrantz Tom Rosenthals Hamlet was absolutely effing fantastic, whereas Ben Donaldsons interpretation of Horatio left lot to be desired The company are well known for avoiding rehearsals, preferring to go to the local public house, the Lyceum Their most infamous incident was their refusal to complete dress rehearsal, such was their confidence in the production 
+-----DELETED
+The most recent and critically acclaimed version of Hamlet was created, produced and performed by City Lights TC at Kings College London Amongest the most highly praised were Henry Locatelli as Voltemand and Caroline Hall as Rosencrantz 

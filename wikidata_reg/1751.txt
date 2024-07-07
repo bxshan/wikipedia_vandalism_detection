@@ -1,0 +1,14 @@
+-----METADATA
+6733
+15244
+male
+15226
+False
+True
+True
+True
+<EMPTY>
+28728
+-----ADDED
+dts format dmy 2009 11 19 sortname Jonathan Hogg Loan dts format dmy 2009 11 19 sortname Michael Tonge Loan<ref> cite news title Tonge seals Preston loan switch url http://news bbc co uk/sport1/hi/football/teams/p/preston/8368123 stm work BBC Sport publisher British Broadcasting Company date 19 November 2009 accessdate 19 November 2009 </ref> dts format dmy 2009 11 19 sortname Josh Walker Loan 
+-----DELETED

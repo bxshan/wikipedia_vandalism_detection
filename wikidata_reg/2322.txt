@@ -1,0 +1,15 @@
+-----METADATA
+2331
+1718198
+unknown
+16861
+False
+True
+True
+True
+fix up accessdate using [[Project:AutoWikiBrowser|AWB]]
+4228
+-----ADDED
+stockholmsmuseer com/museer_e/rosersslott_e php3 Rosersbergs Slott Museums in Stockholm cite web url http://www royalcourt se/royalcourt/theroyalpalaces/rosersbergpalace 396160511584257f218000732 html title Rosersberg Palace date author publisher The Royal Palaces accessdate January 2007 
+-----DELETED
+cite web url http://www stockholmsmuseer com/museer_e/rosersslott_e php3 title Rosersbergs Slott date author publisher Museums in Stockholm accessdate January accessyear 2007 royalcourt se/royalcourt/theroyalpalaces/rosersbergpalace 396160511584257f218000732 html Rosersberg Palace The Royal Palaces accessyear 

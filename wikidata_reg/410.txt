@@ -1,0 +1,15 @@
+-----METADATA
+781
+79705
+male
+15430
+False
+True
+True
+True
+redir
+266
+-----ADDED
+#REDIRECT 
+-----DELETED
+Motor neuron disease MND has proved to be useful umbrella term for the clinical syndromes of primary muscular atrophy, progressive bulbar palsy, primary lateral sclerosis and amyotrophic lateral sclerosis which is also called ALS or Lou Gehrig’s disease 

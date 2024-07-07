@@ -1,0 +1,15 @@
+-----METADATA
+6868
+124
+unknown
+15504
+False
+True
+True
+True
+<EMPTY>
+6160
+-----ADDED
+Analogical Change Optimality Theory 1999 In Phonological Studies 2, 145-52 Kaitakusha, Tokyo Patterns of Segmental Modification in Consonant Inventories: Cross-Linguistic Study 2003 41, 1041-1084 With An X-bar approach to the syllable structure of Mandarin 2008 118, 1416-1428 With Jason Zhang 
+-----DELETED
+Analogical Change in Optimality Theory 1999 In Phonological Studies 2, 145-52 Kaitakusha, Tokyo http://www kaitakusha co jp/book/book php?c 532&l en Patterns of Segmental Modification Consonant Inventories: Cross-Linguistic Study 2003 Linguistics 41, 1041-1084 With http://en wikipedia org/wiki/Linguistics_%28journal%29 An X-bar approach to the syllable structure of Mandarin 2008 Lingua 118, 1416-1428 With Jason Zhang http://en wikipedia org/wiki/Lingua 

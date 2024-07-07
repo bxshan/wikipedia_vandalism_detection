@@ -1,0 +1,15 @@
+-----METADATA
+9360
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+137805
+-----ADDED
+Some argue<who says this?> that the concept of race, although valid in regards to other species, does not currently apply to humans <ref>S Keita, Kittles, Royal, Bonney, Furbert-Harris, Dunston Rotimi, 2004 "Conceptualizing human variation" in Nature Genetics 36, S17 S20 http://www nature com/ng/journal/v36/n11s/full/ng1455 html Conceptualizing human variation </ref> Many scientists have pointed out that traditional definitions of race are imprecise, arbitrary, have many exceptions, have many gradations, and that the numbers of races delineated vary according to the culture making the racial distinctions Thus, those rejecting the notion of race typically do so on the grounds that such definitions and the categorizations which follow from them are contradicted by the results of genetic research <ref>For example this statement expressing the official viewpoint of the American Anthropological Association at http://www aaanet org/stmts/racepp htm their web page "Evidence from the analysis of genetics DNA indicates that most physical variation lies within so-called racial groups This means that there is greater variation within racial groups than between them "</ref> 
+-----DELETED
+Some argue that the concept of race, although valid in regards to other species, does not currently apply to humans <ref>S Keita, Kittles, Royal, Bonney, Furbert-Harris, Dunston Rotimi, 2004 "Conceptualizing human variation" in Nature Genetics 36, S17 S20 http://www nature com/ng/journal/v36/n11s/full/ng1455 html Conceptualizing human variation </ref> Many scientists have pointed out that traditional definitions of race are imprecise, arbitrary, have many exceptions, have many gradations, and that the numbers of races delineated vary according to the culture making the racial distinctions Thus, those rejecting the notion of race typically do so on the grounds that such definitions and the categorizations which follow from them are contradicted by the results of genetic research <ref>For example this statement expressing the official viewpoint of the American Anthropological Association at http://www aaanet org/stmts/racepp htm their web page "Evidence from the analysis of genetics DNA indicates that most physical variation lies within so-called racial groups This means that there is greater variation within racial groups than between them "</ref> 

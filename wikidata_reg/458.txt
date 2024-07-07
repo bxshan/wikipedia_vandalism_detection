@@ -1,0 +1,15 @@
+-----METADATA
+3745
+542
+unknown
+14881
+False
+True
+True
+True
+<EMPTY>
+10559
+-----ADDED
+Mayor who was convicted for an illegal scheme involving nephews bank account in Switzerland 
+-----DELETED
+Mayor who was convicted for an illegal scheme involving nephews account in Switzerland 

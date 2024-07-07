@@ -1,0 +1,15 @@
+-----METADATA
+6780
+1
+unknown
+14822
+False
+False
+False
+False
+<EMPTY>
+97932
+-----ADDED
+In the first half of the 20th century, experienced wave of anti-Japanese prejudice, in part because of the concentration there of new immigrants This was distinct from the experience in the broader United States <ref name leupp>Leupp, Gary Interracial Intimacy in Japan: Western Men and Japanese Women, 1543-1900 2003, page 216-7</ref> In 1905, Californias anti- law outlawed marriages between Caucasians and "" an umbrella term which, at the time, was used in reference to the Japanese, among other ethnicities of East Asian ancestry <ref name leupp/> In October 1906, the San Francisco Board of Education separated the Japanese students from the Caucasian students It ordered ninety-three Japanese students in the district to segregated school in Chinatown <ref>Nakanishi, Don and Nishida, Tina Yamano The Asian American Educational Experience 1995, page 15-6</ref> Twenty-five of the students were American citizens That anti-Japanese sentiment was maintained beyond this period is evidenced by the 1924 "," which blocked Japanese immigrants from attaining citizenship <ref name leupp/> 
+-----DELETED
+In the first half of the 20th century, experienced wave of anti-Japanese prejudice, in part because of the concentration there of new immigrants This was distinct from the experience in the broader United States Over 90% of Japanese immigrants to the USA settled in California, where labor and farm competition fed into general anti-Japanese sentiment <ref name leupp>Leupp, Gary Interracial Intimacy in Japan: Western Men and Japanese Women, 1543-1900 2003, page 216-7</ref> In 1905, Californias anti- law was amended to prohibit marriages between and "" an umbrella term which, at the time, was used in reference to the Japanese, among other ethnicities of East Asian ancestry <ref name leupp/> In October 1906, the San Francisco Board of Education voted to segregate their schools based on race It ordered ninety-three Japanese students in the district to segregated school in Chinatown <ref>Nakanishi, Don and Nishida, Tina Yamano The Asian American Educational Experience 1995, page 15-6</ref> Twenty-five of the students were American citizens That anti-Japanese sentiment was maintained beyond this period is evidenced by the 1924 "," which blocked Japanese immigrants from attaining citizenship <ref name leupp/> 

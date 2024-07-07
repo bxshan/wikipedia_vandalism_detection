@@ -1,0 +1,15 @@
+-----METADATA
+5026
+0
+unknown
+0
+True
+False
+False
+False
+[[WP:UNDO|Undid]] revision 328064766 by [[Special:Contributions/Billydevil|Billydevil]] ([[User talk:Billydevil|talk]])
+7919
+-----ADDED
+As of 18th november 2009 german automobile manufacturer BMW ist still the official owner of Formula One team BMW Sauber and continues to pay the salary for the approximately 400 employees of the team <ref> http://www 20min ch/sport/formel1/story/14413427 20 Minuten 2009-11-18</ref> On 22th november 2009 swiss newspaper SonntagsZeitung revealed that Qadbaks attempt to purchase Formula One team BMW Sauber had failed as Qadbak has not the necessary funds The newspaper reported also that there is no bank guarantee Bahrain Capital International who was supposed to give such guarantee turned out to be Russel Kings with no assets <ref name "SZ1122" /> 
+-----DELETED
+As of 18th november 2009 german automobile manufacturer BMW is still the official owner of BMW Sauber Formula One team and continues to pay the salaries of the approximately 400 employees of the team <ref> http://www 20min ch/sport/formel1/story/14413427 20 Minuten 2009-11-18</ref> On 22th november 2009 Swiss newspaper SonntagsZeitung revealed that Qadbaks attempt to purchase BMW Sauber had failed as Qadbak did not have the necessary funds and that there is no bank guarantee Bahrain Capital International who were supposed to give such guarantee turned out to be of Russel King with no assets <ref name "SZ1122" /> 

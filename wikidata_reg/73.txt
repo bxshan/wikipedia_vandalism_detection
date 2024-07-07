@@ -1,0 +1,15 @@
+-----METADATA
+3680
+375610
+male
+16185
+False
+True
+True
+True
+ fix
+19706
+-----ADDED
+nota Professional Football Player Defensive Tackle ref 
+-----DELETED
+ref Professional Football Player Defensive Tackle ref authorlink coauthors editor others origdate origyear origmonth format accessdate accessyear accessmonth edition series date year month publisher location language isbn oclc doi id pages chapter chapterurl quote 

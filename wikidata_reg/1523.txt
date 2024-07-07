@@ -1,0 +1,15 @@
+-----METADATA
+3840
+29537
+male
+15788
+False
+True
+True
+True
+I don't like parentheses
+12923
+-----ADDED
+The original German text, which is notable for its clarity, was prepared by group led by 1880-1944 who was later executed by the administration for his part in the 1944 plot against The original publication consisted of two-part, soft cover, pocket-sized manual, which was issued to all and senior It contained basic for the German land forces Heer from its first publication up to the end of modified form is still in use today by the Federal Deutsches Heer The approximate equivalent field manual was FM 100-5, now re-issued as FM-3 Operations with later revisions and available for download at the Army website The British Army equivalent manual is Field Service Regulations Truppenführung is widely considered to be the Operations Doctrine which became the key to the 
+-----DELETED
+The original German text which is notable for its clarity was prepared by group led by 1880-1944 who was later executed by the administration for his part in the 1944 plot against The original publication consisted of two-part, soft cover, pocket-sized manual, which was issued to all and senior It contained basic for the German land forces Heer from its first publication up to the end of modified form is still in use today by the Federal Deutsches Heer The approximate equivalent field manual was FM 100-5, now re-issued as FM-3 Operations with later revisions and available for download at the Army website The British Army equivalent manual is Field Service Regulations Truppenführung is widely considered to be the Operations Doctrine which became the key to the 

@@ -1,0 +1,15 @@
+-----METADATA
+2463
+12
+unknown
+14838
+False
+True
+True
+True
+Name change on company. The company name is now SAS Tech.
+795
+-----ADDED
+SAS Technical Services STS has changed name to SAS Tech The company is owned by the and provides technical maintenance of aircraft to airlines in and outside the SAS Group The company is one of the worlds 15 biggest providers of technical aircraft maintenance and the tenth biggest provider in Europe SAS Tech has full-service contracts for nearly 250 aircraft SAS Tech products cover line, base and heavy maintenance; component maintenance; engineering services; engine management; and maintenance training It is headquartered at outside and has 3,600 employees 
+-----DELETED
+SAS Technical Services STS is owned by the and provides technical maintenance of aircraft to airlines in and outside the SAS Group The company is one of the worlds 15 biggest providers of technical aircraft maintenance and the tenth biggest provider in Europe STS has full-service contracts for nearly 250 aircraft STS products cover line, base and heavy maintenance; component maintenance; engineering services; engine management; and maintenance training It is headquartered at outside and has 3,600 employees 

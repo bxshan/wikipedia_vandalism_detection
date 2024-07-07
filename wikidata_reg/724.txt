@@ -1,0 +1,14 @@
+-----METADATA
+3874
+60461
+male
+16052
+False
+True
+True
+True
+<EMPTY>
+23784
+-----ADDED
+Illinois Fighting Illini West Virginia Mountaineers 
+-----DELETED

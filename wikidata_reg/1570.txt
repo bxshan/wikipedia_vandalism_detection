@@ -1,0 +1,15 @@
+-----METADATA
+1245
+1626
+male
+15875
+False
+True
+True
+True
+<EMPTY>
+15745
+-----ADDED
+name Bass 
+-----DELETED
+name Bass Brewery 

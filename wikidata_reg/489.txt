@@ -1,0 +1,15 @@
+-----METADATA
+7743
+160245
+male
+16457
+False
+True
+True
+True
+Delete duplicated words and tidy using [[Project:AutoWikiBrowser|AWB]]
+1986
+-----ADDED
+The quartet would join much larger QSMV Dominion Monarch on to service Each ship would be around 15,000 and accommodate 85 class passengers Each had large holds, with space 668,000 cubic feet cargo, which 510,000 refrigerated goods She was then used for coronation world tour in 1954 <ref name madge> cite book title Royal Yachts of the World last Madge first Tim year 1997 publisher Thomas Reed Publications isbn 0901281743 pages 146–7 </ref> http://www ssmaritime com/corinthic htm Shaw Savill Albions Corinthic Liners 
+-----DELETED
+The quartet would join the much larger QSMV Dominion Monarch on the on the to service Each ship would be around 15,000 and accommodate 85 first class passengers Each had large holds, with space for 668,000 cubic feet of cargo, of which 510,000 was for refrigerated goods She then used coronation world tour in 1954<ref name madge> cite book title Royal Yachts World last Madge Tim year 1997 publisher Thomas Reed Publications isbn 0901281743 pages pp 146-7 </ref> http://www ssmaritime com/corinthic htm Shaw Savill Albions Corinthic Liners 

@@ -1,0 +1,15 @@
+-----METADATA
+5994
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+36200
+-----ADDED
+Mona Lisa also known as Godzila or La Joconde is 16th century painted in on by during the The work is owned by the and is on the wall in the in with the title Portrait of wife of Francesco del Giocondo It is perhaps the most famous and iconic painting in the world 
+-----DELETED
+Mona Lisa also known as La Gioconda or La Joconde is 16th century painted in on by during the The work is owned by the and is on the wall in the in with the title Portrait of wife of Francesco del Giocondo It is perhaps the most famous and iconic painting in the world 

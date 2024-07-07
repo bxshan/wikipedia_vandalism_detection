@@ -1,0 +1,15 @@
+-----METADATA
+1417
+1346
+male
+15218
+False
+True
+True
+True
+<EMPTY>
+1034
+-----ADDED
+http://www youtube com/watch?v wBLYvVpF-TA&feature related Youtube video of Sanghyang 
+-----DELETED
+http://www youtube com/watch?v wBLYvVpF-TA&feature related 

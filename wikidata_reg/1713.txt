@@ -1,0 +1,15 @@
+-----METADATA
+5278
+50
+unknown
+16473
+False
+True
+True
+True
+Add David Shepherd
+675
+-----ADDED
+*, famous border collie, remembered by British TV viewers as inseparable from John Noakes *, English cricket umpire 
+-----DELETED
+*, famous border collie, remembered by British TV viewers as inseparable from John Noakes 

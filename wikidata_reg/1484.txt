@@ -1,0 +1,15 @@
+-----METADATA
+1694
+32160
+male
+15059
+False
+True
+True
+True
+Reverted to revision 328895010 by [[Special:Contributions/Cydebot|Cydebot]]. ([[WP:TW|TW]])
+31427
+-----ADDED
+nickname Home of Heroes, Steel City, P-Town 
+-----DELETED
+nickname Home of Heroes, Steel City, P-Town, The Blo 

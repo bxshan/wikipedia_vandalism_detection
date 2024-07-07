@@ -1,0 +1,15 @@
+-----METADATA
+6336
+2362708
+male
+16567
+False
+True
+True
+True
+ span --> dts
+38908
+-----ADDED
+dts 03 19 dts 1853 07 08 dts 1852 08 31 dts 1874 03 02 <br> dts 1851 02 27 dts 1866 07 23 <br>January 18, 1854<ref>Hoffman was reassigned several times, beginning on January 18, 1854, as the California federal courts were redistricted http://www fjc gov/servlet/tGetInfo?jid 1065 Hoffman, Ogden Jr </ref> dts 1850 12 26 dts 1851 12 15 
+-----DELETED
+<span style "display:none">18520319</span>March 19, 1852 <span style "display:none">18530708</span>July 8, 1853 <span style "display:none">18520831</span>August 31, <span style "display:none">18740302</span>March 2, 1874 <br> <span style "display:none">18510227</span>February 27, 1851 <span style "display:none">18660723</span>July 23, 1866<br>January 18, 1854<ref>Hoffman was reassigned several times, beginning on January 18, 1854, as the California federal courts were redistricted http://www fjc gov/servlet/tGetInfo?jid 1065 Hoffman, Ogden Jr </ref> <span style "display:none">18501226</span>December 26, 1850 <span style "display:none">18511215</span>December 15, 1851 

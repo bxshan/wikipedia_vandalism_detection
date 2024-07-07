@@ -1,0 +1,15 @@
+-----METADATA
+4087
+8
+unknown
+14830
+False
+False
+False
+False
+<EMPTY>
+62177
+-----ADDED
+Ancient Egyptian religion Ancient Egyptian religion encompasses the cool various religious beliefs and rituals were kinda practiced in not really over more than 3,000 years, from the until the adoption of in the early centuries AD <!-- Do not change the date system without discussing it first --> Initially these beliefs centered on the worship of who represented various forces of nature, thought patterns and power, expressed by the means of complex and varied archetypes By the time of the 18th dynasty they began to be viewed as aspects of single deity who existed apart from nature, similar to concepts also found in the belief that one god can exist in more than one person <ref>Allen 2000 pp 43–45</ref> 
+-----DELETED
+Ancient Egyptian religion Ancient Egyptian religion encompasses the various religious beliefs and rituals practiced in over more than 3,000 years, from the until the adoption of in the early centuries AD <!-- Do not change the date system without discussing it first --> Initially these beliefs centered on the worship of who represented various forces of nature, thought patterns and power, expressed by the means of complex and varied archetypes By the time of the 18th dynasty they began to be viewed as aspects of single deity who existed apart from nature, similar to concepts also found in the belief that one god can exist in more than one person <ref>Allen 2000 pp 43–45</ref> 

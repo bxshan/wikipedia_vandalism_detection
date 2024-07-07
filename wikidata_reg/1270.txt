@@ -1,0 +1,15 @@
+-----METADATA
+9706
+130141
+unknown
+15590
+False
+True
+True
+True
+  unbold those that have been knocked out.
+34462
+-----ADDED
+CHN 2734 UKR 2729 E09 CZE 2707 E09 <li> flagathlete MDA 2692 E08 </li> <li> flagathlete HUN 2680 </li> <li> flagathlete CHN 2596 Z3 </li> 
+-----DELETED
+<li> flagathlete CHN 2734 </li> UKR 2729 E09 <li> flagathlete CZE 2707 E09 </li> MDA 2692 E08 <li> flagathlete HUN 2680 </li> CHN 2596 Z3 

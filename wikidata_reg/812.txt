@@ -1,0 +1,15 @@
+-----METADATA
+1786
+108446
+female
+15695
+False
+True
+True
+True
+ dab
+8095
+-----ADDED
+Stillman Creek originates near and continues its course through until it reaches the at its mouth <ref name "usgs"/><ref name waterq/> 
+-----DELETED
+Stillman Creek originates near and continues its course through until it reaches the at its mouth <ref name "usgs"/><ref name waterq/> 

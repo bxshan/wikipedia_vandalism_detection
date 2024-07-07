@@ -1,0 +1,15 @@
+-----METADATA
+4605
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+96242
+-----ADDED
+Korean cuisine is largely based on s,stools variety depends on the edibility vegetables, fish and meats Traditional Korean meals are noted for the number of side dishes, 반찬 which accompany steam-cooked short-grain rice Every meal is accompanied by numerous banchan fermented, usually spicy vegetable dish is commonly served at every meal and is one of the best known Korean dishes Korean cuisine usually involves heavy seasoning with 된장 type of salt, garlic, ginger, and 고추장 hot pepper paste 
+-----DELETED
+Korean cuisine is largely based on s, vegetables, fish and meats Traditional Korean meals are noted for the number of side dishes, 반찬 which accompany steam-cooked short-grain rice Every meal is accompanied by numerous banchan fermented, usually spicy vegetable dish is commonly served at every meal and is one of the best known Korean dishes Korean cuisine usually involves heavy seasoning with 된장 type of salt, garlic, ginger, and 고추장 hot pepper paste 

@@ -1,0 +1,15 @@
+-----METADATA
+3273
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2277
+-----ADDED
+Al Aziziyah is particularly known for the fact that in this town on 13 September 1922 the highest ever measured on Earth was recorded That day, the mercury rose to height of 57 7° 136° <ref> http://ncdc noaa gov/oa/climate/globalextremes html "Global Measured Extremes of Temperature and Precipitation" accessed December 2008 </ref><ref> http://www gsfc nasa gov/scienceques2001/20020524 htm "What is the highest temperature recorded on Earth, and whats reasonable upper limit on the Earths temperature?" Goddard Space Flight Center, National Aeronautics and Space Administration accessed September 2009</ref> This record does not mean that Al Aziziyah is the hottest place on Earth, that title belongs to where the mean temperature runs at 34 4° 94° MEATSACK 
+-----DELETED
+Al Aziziyah is particularly known for the fact that in this town on 13 September 1922 the highest ever measured on Earth was recorded That day, the mercury rose to height of 57 7° 136° <ref> http://ncdc noaa gov/oa/climate/globalextremes html "Global Measured Extremes of Temperature and Precipitation" accessed December 2008 </ref><ref> http://www gsfc nasa gov/scienceques2001/20020524 htm "What is the highest temperature recorded on Earth, and whats reasonable upper limit on the Earths temperature?" Goddard Space Flight Center, National Aeronautics and Space Administration accessed September 2009</ref> This record does not mean that Al Aziziyah is the hottest place on Earth, that title belongs to where the mean temperature runs at 34 4° 94° 

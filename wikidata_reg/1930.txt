@@ -1,0 +1,15 @@
+-----METADATA
+6748
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1384
+-----ADDED
+discovered October 30, 1995 epoch May 14, 2008 6838 Okuda 1995 UD9 is discovered on October 30, 1995 by at Reflist 
+-----DELETED
+discovered epoch 6838 Okuda 1995 UD9 is discovered on by at reflist 

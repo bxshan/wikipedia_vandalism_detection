@@ -1,0 +1,15 @@
+-----METADATA
+4160
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5929
+-----ADDED
+The term charisma, derived from Ancient Greek, was introduced in scholarly usage by http://www britannica com/eb/article-9022534/charisma He defined to be one of three forms of authority, the other two being traditional authority and legal or According to Weber, charisma is defined thus: <blockquote> certain quality of an individual personality, by virtue of which one is "set apart" from ordinary people and treated as endowed with supernatural, superhuman, or at least specifically exceptional powers DICK! or qualities These as such are not accessible to the ordinary person, but are regarded as divine in origin or as exemplary, and on the basis of them the individual concerned is treated as leader <ref>* Dr David Boje, http://cbae nmsu edu/~dboje/teaching/338/charisma htm Charisma lecture notes Leadership Society course at New Mexico State University College of Business Administration Economics, Retrieved </ref> </blockquote> 
+-----DELETED
+The term charisma, derived from Ancient Greek, was introduced in scholarly usage by http://www britannica com/eb/article-9022534/charisma He defined to be one of three forms of authority, the other two being traditional authority and legal or According to Weber, charisma is defined thus: <blockquote> certain quality of an individual personality, by virtue of which one is "set apart" from ordinary people and treated as endowed with supernatural, superhuman, or at least specifically exceptional powers or qualities These as such are not accessible to the ordinary person, but are regarded as divine in origin or as exemplary, and on the basis of them the individual concerned is treated as leader <ref>* Dr David Boje, http://cbae nmsu edu/~dboje/teaching/338/charisma htm Charisma lecture notes Leadership Society course at New Mexico State University College of Business Administration Economics, Retrieved </ref> </blockquote> 

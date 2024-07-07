@@ -1,0 +1,15 @@
+-----METADATA
+3135
+201084
+unknown
+16257
+False
+True
+True
+True
+<EMPTY>
+7918
+-----ADDED
+In August 2004, he joined Roma for €7 25 million<ref> cite news url http://www asroma it/NewsDoc aspx?Categoria ITComunicatiFinanziari&Documento 3535 title Relazione Semestrale al 31 dicembre 2004 date 2005-03-17 accessdate 2009-12-02 publisher AS Roma language Italian </ref> Part of the fee paid via going in the opposite direction <ref> cite web url http://www uefa com/competitions/ucl/news/kind 1/newsid 212052 html title Azzurri pair join Roma date 2004-08-03 accessdate 2008-02-21 publisher UEFA com </ref> He failed to give the performances he had delivered in Parma, forcing the club to loan him to competitor 
+-----DELETED
+In August 2004, he joined Roma for an undisclosed fee and going in the opposite direction <ref> cite web url http://www uefa com/competitions/ucl/news/kind 1/newsid 212052 html title Azzurri pair join Roma date 2004-08-03 accessdate 2008-02-21 publisher UEFA com </ref> He failed to give the performances he had delivered in Parma, forcing the club to loan him to competitor 

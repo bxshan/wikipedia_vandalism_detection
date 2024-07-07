@@ -1,0 +1,15 @@
+-----METADATA
+2930
+17778
+male
+15000
+False
+True
+True
+True
+Reverted edits by [[Special:Contributions/71.187.169.185|71.187.169.185]] to last version by David the Aspie ([[User:Ale_jrb/Scripts/igloo|IG]])
+71544
+-----ADDED
+*, Education Minister, http://thenewschronicle com/somali-suicide-bombing-kills-3-cabinet-ministers/120401597/ 
+-----DELETED
+*, Education Minister, http://thenewschronicle com/somali-suicide-bombing-kills-3-cabinet-ministers/120401597/ 

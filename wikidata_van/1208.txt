@@ -1,0 +1,15 @@
+-----METADATA
+2760
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+53123
+-----ADDED
+Usually in this approach the economy is broken down into classes of enterprise: agriculture, construction, manufacturing, etc Their outputs are estimated largely on the basis of surveys which businesses fill out To avoid "double-counting" in cases where the output of one enterprise is not but serves as input into another enterprise, either only final goods outputs must be counted, or "value-added" approach must be taken, where what is counted is not the total value output by an enterprise, but its value-added: the difference between the value of its output and the value of its input 
+-----DELETED
+Usually in this approach the economy is broken down into classes of enterprise: agriculture, construction, manufacturing, etc Their outputs are estimated largely on the basis of surveys which businesses fill out To avoid "double-counting" in cases where the output of one enterprise is not but serves as input into another enterprise, either only final goods outputs must be counted, or "value-added" approach must be taken, where what is counted is not the total value output by an enterprise, but its value-added: the difference between the value of its output and the value of its input 

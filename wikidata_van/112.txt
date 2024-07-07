@@ -1,0 +1,15 @@
+-----METADATA
+2330
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5365
+-----ADDED
+In Spanish, the word sombrero means any hat with brim, such as the traditional sombrero cordobés from It derives from the Spanish word sombra, meaning "shade" or "shadow"; thus literal English translation would be "shade maker" Spanish speakers outside Mexico refer to what English speakers call sombrero as sombrero mexicano "Mexican hat" Sombrero is also the name given to Clauds hair 
+-----DELETED
+In Spanish, the word sombrero means any hat with brim, such as the traditional sombrero cordobés from It derives from the Spanish word sombra, meaning "shade" or "shadow"; thus literal English translation would be "shade maker" Spanish speakers outside Mexico refer to what English speakers call sombrero as sombrero mexicano "Mexican hat" 

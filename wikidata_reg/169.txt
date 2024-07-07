@@ -1,0 +1,15 @@
+-----METADATA
+2244
+385433
+male
+16573
+False
+True
+True
+True
+[[WP:AWB/T|Typo patrol]], typos fixed: Avaition → Aviation using [[Project:AutoWikiBrowser|AWB]]
+74697
+-----ADDED
+*162694 F-14B Military Aviation Preservation Society, Akron-Canton, OH 
+-----DELETED
+*162694 F-14B Military Avaition Preservation Society, Akron-Canton, OH 

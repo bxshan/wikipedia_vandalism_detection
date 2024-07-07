@@ -1,0 +1,15 @@
+-----METADATA
+1741
+8121
+unknown
+14842
+False
+True
+True
+True
+Original geocities.com/...  weblink is gone but has been mirrored & archived in october 2009. For any issue contact oocities AT googlemail DO using [[Project:AutoWikiBrowser|AWB]]
+13512
+-----ADDED
+http://espanol oocities com/reinasdecostarica/historiademisscostarica html Historia de Miss Costa Rica 
+-----DELETED
+http://espanol geocities com/reinasdecostarica/historiademisscostarica html Historia de Miss Costa Rica 

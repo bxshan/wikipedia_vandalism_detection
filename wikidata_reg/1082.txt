@@ -1,0 +1,15 @@
+-----METADATA
+2877
+43139
+male
+16100
+False
+True
+True
+True
+<EMPTY>
+4103
+-----ADDED
+caps goals 64 <br> pcupdate December 1, 2009 
+-----DELETED
+caps goals 63 <br> pcupdate October 3, 2009 

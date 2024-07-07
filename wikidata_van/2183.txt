@@ -1,0 +1,15 @@
+-----METADATA
+1772
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+36058
+-----ADDED
+Arthur Miller was the second of twenty seven children of Martin and Augusta Miller, who were Polish- immigrants <ref 
+-----DELETED
+Arthur Miller was the second of three children of Isidore and Augusta Miller, who were Polish- immigrants <ref 

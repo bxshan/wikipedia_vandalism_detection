@@ -1,0 +1,15 @@
+-----METADATA
+6788
+28
+unknown
+15626
+False
+True
+True
+True
+<EMPTY>
+7432
+-----ADDED
+Other examples of new amine-based materials can be found in <ref>Bates, Mayton, Ntai, Davis, Jr CO<sub>2</sub> Capture by Task-Specific Ionic Liquid, Journal of the American Chemical Society, 2002, Vol 124, No 6, 926-927</ref> and <ref>Soutullo, Odom, Wicker, Henderson, Stenson, Davis, Jr Reversible CO<sub>2</sub> Capture by Unexpected Plastic-, Resin, and Gel-like Ionic Soft Materials Discovered During the Combi-Click Generation of TSIL Library, Chemistry of Materials, 2007, Vol 19, No 15, 3581-3583</ref> the use of and commodity chemicals 
+-----DELETED
+In recent years, interest in the development of new materials and technologies for the capture of carbon dioxide CO<sub>2</sub> has increased significantly This development appears to be driven largely by increasing concerns about the impact of rising CO<sub>2</sub> emissions on climate change specifically global warming One outcome has been the introduction of new reactive amines which have chemical structures in which the CO<sub>2</sub>-reactive part of the molecule the amine group is tethered to an ionic salt-like structural element The ionic nature of these hybrids makes them less likely to be lost to evaporation during CO<sub>2</sub> capture operations, and as result it may be possible to suppress the typical amine loss in scrubbing systems of about four pounds of amine per ton of CO<sub>2</sub> captured While systems involving the use of certain simple amine-salt solutions in water were first evaluated for CO<sub>2</sub> capture decades ago, it was only in 2002 <ref>Bates, Mayton, Ntai, Davis, Jr CO<sub>2</sub> Capture by Task-Specific Ionic Liquid, Journal of the American Chemical Society, 2002, Vol 124, No 6, 926-927</ref> that systems of pure, CO<sub>2</sub>-reactive liquid salts amine-appended task-specific ionic liquids called TSILs were first introduced Recently, the researchers responsible for that development have reported improved approaches<ref>Soutullo, Odom, Wicker, Henderson, Stenson, Davis, Jr Reversible CO<sub>2</sub> Capture by Unexpected Plastic-, Resin, and Gel-like Ionic Soft Materials Discovered During the Combi-Click Generation of TSIL Library, Chemistry of Materials, 2007, Vol 19, No 15, 3581-3583</ref> the use of and commodity chemicals for the preparation of CO<sub>2</sub>-reactive salts, procedures which result in salts that are much less expensive to prepare than the earlier first-generation of materials Interestingly, the library of new compounds obtained in this fashion also included CO<sub>2</sub>-reactive salts that are plastic-, resin- and gel-like in character 

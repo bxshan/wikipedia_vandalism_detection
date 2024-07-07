@@ -1,0 +1,15 @@
+-----METADATA
+3363
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7663
+-----ADDED
+Arthritis is when the human is unable to sleep and live on land for long periods it can also effect the sexual activity of an individual There are over 100 different forms of arthritis<ref>WebMd http://www webmd com/osteoarthritis/guide/arthritis-basics Arthritis Basics </ref> The most common form, degenerative joint disease is result of trauma to the joint, infection of the joint, or age Other arthritis forms are and in which the body attacks itself is caused by joint is caused by deposition of crystals in the joint, causing inflammation There is also an uncommon form of gout caused by the formation of rhomboid crystals of calcium pyrophosphate This gout is known as 
+-----DELETED
+There are over 100 different forms of arthritis<ref>WebMd http://www webmd com/osteoarthritis/guide/arthritis-basics Arthritis Basics </ref> The most common form, degenerative joint disease is result of trauma to the joint, infection of the joint, or age Other arthritis forms are and in which the body attacks itself is caused by joint is caused by deposition of crystals in the joint, causing inflammation There is also an uncommon form of gout caused by the formation of rhomboid crystals of calcium pyrophosphate This gout is known as 

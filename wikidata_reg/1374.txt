@@ -1,0 +1,15 @@
+-----METADATA
+6534
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+28692
+-----ADDED
+Image:155InfRegtCOA gif <center> aka <br />"Stand Fast"<br /></center> Image:COA not online <center>328th Infantry<br />COA at http://yd-info net/page5/page25/index html 328th Infantry Regiment </center> Image:COA not online <center></center> Image:COA not online <Center><br/>"Fidem Praestabimus" We will keep the faith </center> 
+-----DELETED
+Image:155InfRegtCOA gif <center><br />"Stand Fast"<br /></center> Image:COA not available <center>328th Infantry<br />COA at http://yd-info net/page5/page25/index html 328th Infantry Regiment </center> 

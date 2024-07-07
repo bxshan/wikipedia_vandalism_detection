@@ -1,0 +1,15 @@
+-----METADATA
+552
+277462
+unknown
+16167
+False
+True
+True
+True
+fix double redirect
+85
+-----ADDED
+#REDIRECT from other capitalisation 
+-----DELETED
+#REDIRECT from other capitalisation 

@@ -1,0 +1,14 @@
+-----METADATA
+937
+172146
+unknown
+16364
+False
+True
+True
+True
+Removed category [[:Category:Communes of Sicily|Communes of Sicily]] (using [[WP:HOTCAT|HotCat]])
+465
+-----ADDED
+
+-----DELETED

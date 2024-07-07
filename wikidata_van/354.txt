@@ -1,0 +1,15 @@
+-----METADATA
+3561
+11
+unknown
+14829
+False
+True
+True
+True
+<EMPTY>
+52093
+-----ADDED
+dicks 
+-----DELETED
+The word "stereophonic" &mdash; derived from the stereos "solid" and phōnē "sound" &mdash; was coined by by analogy with the word "" In popular usage, stereo usually means two- and using data for more than one speaker simultaneously In technical usage, stereo or stereophony means sound recording and sound reproduction that uses to encode the relative positions of objects and events recorded stereo system can include any number of channels, such as the 1- and 1-channel systems used on high-end and productions However, in common use it refers to systems with only two channels The device for playing back stereo sound is often referred to as "stereo" During two-channel stereo recording, two are placed in strategically chosen locations relative to the sound source, with both recording The two recorded channels will be similar, but each will have distinct time-of-arrival and sound-pressure-level information During the listeners brain uses those subtle differences in timing and sound level to the positions of the recorded objects Stereo recordings often cannot be played on systems without significant loss of Since each microphone records each at slightly different time, the wavefronts are out of as result, constructive and destructive can occur if both tracks are played back on the same speaker This is known as 

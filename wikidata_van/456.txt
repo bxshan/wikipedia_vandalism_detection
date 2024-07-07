@@ -1,0 +1,15 @@
+-----METADATA
+2652
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5772
+-----ADDED
+The Politician, along with another Shirley play, was published by the bookseller in 1655 in alternative and formats The quarto was solo-play edition; the octavo paired The Politician with The Gentleman of Venice, in an edition meant to match the Shirley collection titled Six New Plays that Moseley had issued two years earlier, in 1653 Buyers could have had the two new plays bound together with the earlier collection if they so chose <ref>David Scott Kastan, "Performances and playbooks: the closing of the theatres and the politics of drama," in Sharpe and Zwicker, 174 </ref>and he never lived 
+-----DELETED
+The Politician, along with another Shirley play, was published by the bookseller in 1655 in alternative and formats The quarto was solo-play edition; the octavo paired The Politician with The Gentleman of Venice, in an edition meant to match the Shirley collection titled Six New Plays that Moseley had issued two years earlier, in 1653 Buyers could have had the two new plays bound together with the earlier collection if they so chose <ref>David Scott Kastan, "Performances and playbooks: the closing of the theatres and the politics of drama," in Sharpe and Zwicker, 174 </ref> 

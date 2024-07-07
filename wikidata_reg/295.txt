@@ -1,0 +1,15 @@
+-----METADATA
+5606
+25410
+male
+16107
+False
+True
+True
+True
+succession box replaced
+10989
+-----ADDED
+s-ttl title s-aft rows after s-bef before s-ttl title 
+-----DELETED
+Succession box two to one title1 before1 title2 before2 

@@ -1,0 +1,15 @@
+-----METADATA
+1580
+4848
+unknown
+14932
+False
+True
+True
+True
+<EMPTY>
+3352
+-----ADDED
+image Premadasa stadiumnight png 
+-----DELETED
+image 

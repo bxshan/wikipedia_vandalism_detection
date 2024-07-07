@@ -1,0 +1,15 @@
+-----METADATA
+3674
+51763
+male
+15663
+False
+True
+True
+True
+Spelling corrections.
+1393
+-----ADDED
+Charles Jonathan Hermansson, born 13th of He is Swedish part of Swedish rowing team He competed two separate senior WCH Kevin has won the national championships for juniors five years row and came 7th in the world junior champs 2008, even though he was competing against mostly heavyweights 2009 he was in for Swedens lightweight and they came 8th at the world U23 champs, with the time 00 90 
+-----DELETED
+Kevin Charles Jonathan Hermansson, born 13th of in He is swedish and part of the swedish rowing team He has competed in two seperate in and senior U23 WCH in the won national championships for juniors five years row came 7th world junior champs 2008, even though he was competing against mostly heavyweights 2009 he was for Swedens lightweight they came 8th at world champs, with time 00 90 

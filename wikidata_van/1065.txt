@@ -1,0 +1,15 @@
+-----METADATA
+2106
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10934
+-----ADDED
+The Northern Spotted Owl is primarily nocturnal Its diet consists mainly of wood rats Neotoma sp and s, although it will also eat other small mammals, reptiles, birds and insects They will often swallow their catch whole and regurgitate pellets of indigestible hair, feathers and bones Males and females both hunt, except during nesting, when males do most of the hunting They can take prey on the ground and in flight mexican 
+-----DELETED
+The Northern Spotted Owl is primarily nocturnal Its diet consists mainly of wood rats Neotoma sp and s, although it will also eat other small mammals, reptiles, birds and insects They will often swallow their catch whole and regurgitate pellets of indigestible hair, feathers and bones Males and females both hunt, except during nesting, when males do most of the hunting They can take prey on the ground and in flight 

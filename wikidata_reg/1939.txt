@@ -1,0 +1,15 @@
+-----METADATA
+2963
+112
+unknown
+14919
+False
+True
+True
+True
+reference added
+8538
+-----ADDED
+url http://news bbc co uk/sport1/hi/football/teams/b/bury/7838513 stm publisher date 2009-01-19 accessdate 2008-01-19 </ref> He was appointed as coach by Tranmere Rovers on October 2009 to work alongside the stand in manager Les Parry, after the sacking of John Barnes OBE <ref>http://www liverpoolecho co uk/sport/tranmere-rovers/tranmere-rovers-news/2009/11/16/les-parry-confident-as-tranmere-rovers-continue-to-improve-100252-25175817/</ref> 
+-----DELETED
+url http://news bbc co uk/sport1/hi/football/teams/b/bury/7838513 stm publisher date 2009-01-19 accessdate 2008-01-19 </ref> He was appointed as coach by Tranmere Rovers on October 2009 to work alongside the stand in manager Les Parry, after the sacking of John Barnes OBE 

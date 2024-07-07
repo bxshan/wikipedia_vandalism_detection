@@ -1,0 +1,14 @@
+-----METADATA
+1923
+45587
+unknown
+15980
+False
+True
+True
+True
+<EMPTY>
+2289
+-----ADDED
+Lisbon Treaty update 
+-----DELETED

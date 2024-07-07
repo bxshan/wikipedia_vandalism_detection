@@ -1,0 +1,15 @@
+-----METADATA
+7866
+4912
+male
+15935
+False
+True
+True
+True
+Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]] using [[Project:AutoWikiBrowser|AWB]]
+71069
+-----ADDED
+The three English artists credited with establishing watercolor as an independent, mature painting medium are 1730-1809 often called "the father of the English watercolor", 1775-1802 who pioneered its use for large format, romantic or picturesque landscape painting, and 1775-1851 who brought watercolor painting to the highest pitch of power and refinement and created with it hundreds of superb historical, topographical, architectural and mythological paintings His method of developing the watercolor painting in stages, starting with large, vague color areas established on wet paper, then refining the image through sequence of washes and glazes, permitted him to produce large numbers of paintings with workshop efficiency and made him multimillionaire in part through sales from his personal art gallery, the first of its kind Among the important and highly talented contemporaries of Turner and Girtin were and The Swiss painter was also widely known for his large format, romantic paintings in watercolor 
+-----DELETED
+The three English artists credited with establishing watercolor as an independent, mature painting medium are 1730-1809 often called "the father of the English watercolor", 1775-1802 who pioneered its use for large format, romantic or picturesque landscape painting, and 1775-1851 who brought watercolor painting to the highest pitch of power and refinement and created with it hundreds of superb historical, topographical, architectural and mythological paintings His method of developing the watercolor painting in stages, starting with large, vague color areas established on wet paper, then refining the image through sequence of washes and glazes, permitted him to produce large numbers of paintings with workshop efficiency and made him multimillionaire in part through sales from his personal art gallery, the first of its kind Among the important and highly talented contemporaries of Turner and Girtin were and The Swiss painter was also widely known for his large format, romantic paintings in watercolor 

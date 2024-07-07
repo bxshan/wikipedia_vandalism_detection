@@ -1,0 +1,15 @@
+-----METADATA
+13125
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3471
+-----ADDED
+TRAVIS CHITWOOD 16 YEAR OLD KID LOVES BASKETBALL, HIGHSCHOOL MUSICAL, TROY BOLTON, GOKU, EATING PIZZA CHICKEN, FRIES, GOING TO THE MALL WITH HIS FRIENDS, HE ATTENDS THE YMCA EVERYDAY EVERYONE LOVES HIM THERE HE SKATEBOARDS OCCASIONALY HE PLAYS FOR THE PISTONS AND UTAH JAZZ, HES STARRING IN HIGHSCHOOL MUSICAL HE HAS SUPER SAYIAN POWERS HE IS THE STRONGEST HE LOVES GIRLS HE LOVES SINGING HIGHSCHOOL MUSICAL SONGS HE LIKES THE MOVIE LIKE MIKE HE LOVES PS2 
+-----DELETED
+selfref For Wikitext formatting in relation to Wikipedia, see and Wikitext language or wiki markup is used to write pages in websites, such as and is simplified alternative/intermediate to Its ultimate purpose is to be converted by into which in turn is served to web browsers There is no commonly accepted standard wikitext language The grammar, structure, features, keywords and so on depend on the particular used on the particular For example, all wikitext markup languages have simple way of ing to other pages within the site, but there are several different syntax conventions for these links Many wikis, especially the earlier ones, used to mark words that should be automatically linked In and other -based wikis this convention was abandoned in favor of explicit link-markup with <nowiki></nowiki>, which Wikipedia calls "free links"<ref> cite web url http://en wikipedia org/wiki/Wikipedia:Free_links title Wikipedia:Free links accessdate 2008-08-08 publisher Wikipedia, the Free Encyclopedia <!-- Mirrors of Wikipedia often do not retain the Wikipedia: namespace --></ref> Many programs allow optional, extensive or select, use of within wikitext, and still others no HTML at all In some cases, restrictions on HTML may be wisely determined by each wiki site that uses the program the software that runs Wikipedia, has wiki markup language that allows many common HTML tags Its syntax is simpler and easier to use than HTML is an effort for "common wiki markup language to be used across different Wikis" <ref> cite web url http://www wikicreole org/ title WikiCreole: Home publisher Wikicreole org date accessdate 2008-11-26 </ref> There are several that have implemented Creole <ref> cite web url http://www wikicreole org/wiki/Engines title WikiCreole: Engines publisher Wikicreole org date accessdate 2008-11-26 </ref> Version of the specification was released in July 2007 <ref> cite web url http://www wikicreole org/wiki/Creole1 title WikiCreole: Creole publisher Wikicreole org date accessdate 2008-11-26 </ref> reflist meta Wikitext standard http://www i3g hs-heilbronn de/attach/Ver%C3%B6ffentlichungen/What+you+see+is+Wiki pdf What you see is Wiki Questioning WYSIWYG in the Internet Age http://www mediawiki org/wiki/Alternative_parsers Media Wiki alternative parsers http://www mediawiki org/wiki/Talk:Alternative_parsers Discussions about MediaWiki alternative parsers Wiki topics compu-lang-stub 

@@ -1,0 +1,15 @@
+-----METADATA
+4484
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1680
+-----ADDED
+:Early 2006 release #"Its in the Rain radio edit #"A Moment Lost" #"Drifting" ;November 2006 release Its in the Rain" 
+-----DELETED
+Its in the Rain radio edit Moment Lost Drifting 

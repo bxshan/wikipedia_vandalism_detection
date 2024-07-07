@@ -1,0 +1,14 @@
+-----METADATA
+11033
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+13276
+-----ADDED
+Navbox name Judd Apatow state collapsed title Works of group1 Director list1 nowrap begin 2005 ·w 2007 ·w 2009 nowrap end group2 Writer list2 nowrap begin 1995 ·w 1996 ·w 2005 ·w 2005 ·w 2007 ·w 2007 ·w 2008 ·w 2008 ·w 2009 nowrap end group3 Producer list3 nowrap begin 1995 ·w 1996 ·w 1996 ·w 2004 ·w 2004 ·w 2005 ·w 2005 ·w 2006 ·w 2006 ·w 2007 ·w 2007 ·w 2007 ·w 2008 ·w 2008 ·w 2008 ·w 2008 ·w 2009 ·w 2009 ·w 2010 nowrap end group4 Television list4 nowrap begin 1992–1993 ·w 1994–1995 ·w 1993–1998 ·w 1999–2000 ·w 2001–2002 nowrap end group5 list5 ·w ·w ·w ·w ·w ·w ·w ·w ·w ·w ·w ·w group6 Directors list6 ·w ·w ·w ·w ·w ·w group7 Related articles list7 <noinclude> </noinclude> 
+-----DELETED

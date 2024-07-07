@@ -1,0 +1,15 @@
+-----METADATA
+1483
+32160
+male
+15059
+False
+True
+True
+True
+link
+805
+-----ADDED
+Vail Hotel is located in Named after influential Pueblo newspaperman John Vail the hotel was constructed in 1910 and had been considered to be the most modern hotel west of at that time <ref>http://www waymarking com/waymarks/WM5VTH</ref> 
+-----DELETED
+Vail Hotel is located in Named after influential Pueblo newspaperman John Vail the hotel was constructed in 1910 and had been considered to be the most modern hotel west of at that time <ref>http://www waymarking com/waymarks/WM5VTH</ref> 

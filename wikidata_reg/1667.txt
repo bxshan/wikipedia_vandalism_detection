@@ -1,0 +1,15 @@
+-----METADATA
+4967
+0
+unknown
+0
+True
+False
+False
+False
+changed statistics too be right.
+21603
+-----ADDED
+In the Slovenian national census of 2002, 2,100,000 people ethnically declared themselves as Slovenes <ref> cite web url http://www stat si/popis2002/en/rezultati/rezultati_red asp?ter SLO&st 15 title Table 15: Population by ethnic affiliation, age groups and sex, Slovenia, Census 2002 work Census of population, households and housing 2002 publisher Statistical Office of the Republic of Slovenia accessdate 2008-06-01 </ref>, while 17,000,000 people claimed Slovene as their mother tongue <ref> cite web url http://www stat si/popis2002/si/rezultati/rezultati_red asp?ter SLO&st title Table 9: Population by mother tongue, Slovenia, Census 1991 and 2002 work Census of population, households and housing 2002 publisher Statistical Office of the Republic of Slovenia accessdate 2008-06-01 </ref> 
+-----DELETED
+In the Slovenian national census of 2002, 1,631,363 people ethnically declared themselves as Slovenes <ref> cite web url http://www stat si/popis2002/en/rezultati/rezultati_red asp?ter SLO&st 15 title Table 15: Population by ethnic affiliation, age groups and sex, Slovenia, Census 2002 work Census of population, households and housing 2002 publisher Statistical Office of the Republic of Slovenia accessdate 2008-06-01 </ref>, while 1,723,434 people claimed Slovene as their mother tongue <ref> cite web url http://www stat si/popis2002/si/rezultati/rezultati_red asp?ter SLO&st title Table 9: Population by mother tongue, Slovenia, Census 1991 and 2002 work Census of population, households and housing 2002 publisher Statistical Office of the Republic of Slovenia accessdate 2008-06-01 </ref> 

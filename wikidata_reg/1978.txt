@@ -1,0 +1,15 @@
+-----METADATA
+2879
+7222
+unknown
+16182
+False
+True
+True
+True
+<EMPTY>
+1196
+-----ADDED
+Marcelle Cahn 1895-1981 was French painter and one of the members of <ref> cite book title Abstraction, création 1931 1936 last Nobis first Norbert year 1978 publisher Westfälisches Landesmuseum für Kunst und Kulturgeschichte isbn page 37 </ref><ref> cite news title From Miro to Warhol: The Berardo Collection in Paris at Musée du Luxembourg url http://www artdaily com/index asp?int_sec 2&int_new 26662 work date 16 October 2008 accessdate 2009-04-25 </ref> She was born in Jewish family of <ref> http://femmesremarquablesalsace com/fr/articles php?id 11793377203748 Marcelle CAHN de l’expressionisme au constructivisme fr icon </ref> and died at 86, on September 20, 1981, in <ref> cite web url http://test larousse fr/encyclopedie/peinture/Marcelle-Cahn/151387 title Marcelle Cahn work accessdate 2009-04-25 </ref> 
+-----DELETED
+Marcelle Cahn 1895-1981 was French painter and one of the members of <ref> cite book title Abstraction, création 1931 1936 last Nobis first Norbert year 1978 publisher Westfälisches Landesmuseum für Kunst und Kulturgeschichte isbn page 37 </ref><ref> cite news title From Miro to Warhol: The Berardo Collection in Paris at Musée du Luxembourg url http://www artdaily com/index asp?int_sec 2&int_new 26662 work date 16 October 2008 accessdate 2009-04-25 </ref> She was born in <ref> http://femmesremarquablesalsace com/fr/articles php?id 11793377203748 Marcelle CAHN de l’expressionisme au constructivisme fr icon </ref> and died at 86, on September 20, 1981, in <ref> cite web url http://test larousse fr/encyclopedie/peinture/Marcelle-Cahn/151387 title Marcelle Cahn work accessdate 2009-04-25 </ref> 

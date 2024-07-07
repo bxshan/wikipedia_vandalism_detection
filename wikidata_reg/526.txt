@@ -1,0 +1,14 @@
+-----METADATA
+1178
+3052
+unknown
+15545
+False
+True
+True
+True
+<EMPTY>
+5963
+-----ADDED
+Template:Arthur Freed 
+-----DELETED

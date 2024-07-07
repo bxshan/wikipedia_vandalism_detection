@@ -1,0 +1,15 @@
+-----METADATA
+2485
+240
+male
+15602
+False
+True
+True
+True
+Reverted sentence to pre-vandalism by anonymous IP address ~~~~
+13160
+-----ADDED
+Levin began his radio hosting career in 2002 as Sunday afternoon host on His radio show, mix of political and social commentary from point of view, covers legal issues in some detail, including decisions of the Levin follows the traditional model of taking listener calls throughout the show In the fall of 2003, his show filled the 6-8 ET time slot As of February 2, 2009, his show was expanded to three hours, namely, 6-9 <ref name "bystorm"> cite news 
+-----DELETED
+Levin began his radio hosting career in 2002 as Sunday afternoon host on His radio show, mix of political and social commentary from point of view, covers legal issues in some detail, including decisions of the Levin follows the traditional model throughout the show In the fall of 2003, his show filled the 6-8 ET time slot As of February 2, 2009, his show was expanded to three hours, namely, 6-9 <ref name "bystorm"> cite news 

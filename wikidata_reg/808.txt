@@ -1,0 +1,15 @@
+-----METADATA
+1985
+8072
+unknown
+15365
+False
+True
+True
+True
+<EMPTY>
+5315
+-----ADDED
+Sher served as associate artistic director at Hartford, Connecticut and company director at the Minneapolis, Minnesota He has directed, taught and led workshops across the country and internationally He is Artistic Director at in Seattle and Resident Director at in New York City 
+-----DELETED
+Sher served as associate artistic director at Hartford, Connecticut and company director at the Minneapolis, Minnesota He has directed, taught and led workshops across the country and internationally He is Artistic Director at in Seattle 

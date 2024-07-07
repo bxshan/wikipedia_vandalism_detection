@@ -1,0 +1,15 @@
+-----METADATA
+2520
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+935
+-----ADDED
+BlahThe transition zone is part of the Earth’s and is located between the lower mantle and the upper mantle, between depth of 410 and 660 ;km The Earth’s mantle, including the transition zone, consists primarily of course grained, ultramafic, igneous rock 
+-----DELETED
+The transition zone is part of the Earth’s and is located between the lower mantle and the upper mantle, between depth of 410 and 660 ;km The Earth’s mantle, including the transition zone, consists primarily of course grained, ultramafic, igneous rock 

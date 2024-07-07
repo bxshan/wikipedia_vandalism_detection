@@ -1,0 +1,15 @@
+-----METADATA
+3357
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10246
+-----ADDED
+picture_format starring <br /><small> 1992-2007 </small><br /> <small> 2007-2008 </small><br /> <small> 2007-2008 </small> 
+-----DELETED
+picture_format starring <small> 1992-2007 </small><br /> <small> 2007-2008 </small><br /> <small> 2007-2008 </small> 

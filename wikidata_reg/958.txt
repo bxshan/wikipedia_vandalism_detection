@@ -1,0 +1,15 @@
+-----METADATA
+1658
+20795
+male
+16014
+False
+True
+True
+True
+Replacing {{IPAr|pl| with {{IPAc-pl|
+1026
+-----ADDED
+Podborek IPAc-pl is the part of village, From 1975 to 1998 this place was in 
+-----DELETED
+Podborek IPAr pl is the part of village, From 1975 to 1998 this place was in 

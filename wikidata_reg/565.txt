@@ -1,0 +1,15 @@
+-----METADATA
+7094
+15092
+male
+15599
+False
+True
+True
+True
+<EMPTY>
+61037
+-----ADDED
+General Motors did have plans for 1970-on model Corvair, essentially re-skin of the 1965-69 body with new exterior sheetmetal The car likely would have debuted as "1970 1/2" model, much as Corvette and Camaro did for 1970 The overall appearance of this third generation Corvair was very similar to the 1973 GM Body intermediates—particularly the 1973 Pontiac Grand Am It retained Corvair proportions, with rounded sweeping body, terminating in tapered tail with glassy roof, featuring fixed quarter windows This program progressed past the point of full scale clay models before being dropped in early 1968 One interesting project at GM was the 350 transmission, introduced in the 1968 Camaro and later adopted by most Chevrolet models It was laid out in manner that would permit its use in the Corvair, unlike the Turbo Hydramatic 400 and most other designs Had the 1970-on Corvair been built, it is clear this transmission would have been adapted for the Corvair The last word on the 1970+ "third generation" Corvair was, "Mr Cole GM President ex-Chevrolet General Manager during Corvair development is not enthused about this program Fact date February 2007 
+-----DELETED
+General Motors did have plans for 1970-on model Corvair, essentially re-skin of the 1965-69 body with new exterior sheetmetal The car likely would have debuted as "1970 1/2" model, much as Corvette and Camaro did for 1970 The overall appearance of this third generation Corvair was very similar to the 1973 GM Body intermediates—particularly the 1973 Pontiac Grand Am It retained Corvair proportions, with rounded sweeping body, terminating in tapered tail with glassy roof, featuring fixed quarter windows This program progressed past the point of full scale clay models before being dropped in early 1968 One interesting project at GM was the Turbo Hydramatic 350 transmission, introduced in the 1968 Camaro and later adopted by most Chevrolet models It was laid out in manner that would permit its use in the Corvair, unlike the Turbo Hydramatic 400 and most other designs Had the 1970-on Corvair been built, it is clear this transmission would have been adapted for the Corvair The last word on the 1970+ "third generation" Corvair was, "Mr Cole GM President ex-Chevrolet General Manager during Corvair development is not enthused about this program Fact date February 2007 

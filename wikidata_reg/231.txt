@@ -1,0 +1,15 @@
+-----METADATA
+2664
+20795
+male
+16014
+False
+True
+True
+True
+Replacing {{IPAr|pl| with {{IPAc-pl|
+1609
+-----ADDED
+Zagrodno IPAc-pl lang-de Adelsdorf is village in in south-western Poland It is the seat of the administrative district called Prior to 1945 it was in 
+-----DELETED
+Zagrodno IPAr pl lang-de Adelsdorf is village in in south-western Poland It is the seat of the administrative district called Prior to 1945 it was in 

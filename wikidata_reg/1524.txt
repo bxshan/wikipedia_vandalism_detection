@@ -1,0 +1,15 @@
+-----METADATA
+5552
+12299
+unknown
+16756
+False
+True
+True
+True
+date format as seen in [[Template:Single_infobox]]. formatting the text in intro the same for consistency. (I prefer the ISO format myself but consistency is important)
+22638
+-----ADDED
+Released 6, <small> </small> <br />24 <small> </small> "Chasing Cars" is the second single from fourth album, It was recorded in 2005 and released on June 6, 2006 in the US and 24 July 2006 in the UK as the albums second single <ref> http://www snowpatrol com/discography/singles aspx?pid 61 Single release details </ref> 
+-----DELETED
+Released June 2006 <small> </small> <br />24 July 2006 <small> </small> "Chasing Cars" is the second single from fourth album, It was recorded in 2005 and released on in the US and 24 in the UK as the albums second single <ref> http://www snowpatrol com/discography/singles aspx?pid 61 Single release details </ref> 

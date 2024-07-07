@@ -1,0 +1,15 @@
+-----METADATA
+1574
+0
+unknown
+0
+True
+False
+False
+False
+[[WP:UNDO|Undid]] revision 327905802 by [[Special:Contributions/67.116.255.148|67.116.255.148]] ([[User talk:67.116.255.148|talk]])
+13645
+-----ADDED
+High-bandwidth Digital Content Protection HDCP is form of digital developed by <ref> Citation 
+-----DELETED
+High Definition Child Pornography HDCP is form of digital developed by <ref> Citation 

@@ -1,0 +1,15 @@
+-----METADATA
+7532
+1718198
+unknown
+16861
+False
+True
+True
+True
+fix up accessdate using [[Project:AutoWikiBrowser|AWB]]
+4867
+-----ADDED
+In late 2006, extension the cooperation between the two groups was announced <ref> the press release here http://www edubourse com/finance/actualites php?idActus 29298 Fr icon </ref>, promising new four cylinder engines, without further details The variant EP6 has conventional and lost-foam cast heads Its high 11:1 creates an output of 120 ;PS 118 ;hp/88 ;kW at 6000 ;rpm with redline of 6500 ;rpm Torque is 118 ;ft·lbf 160 ;N·m at 4250 ;rpm cite web url http://www psa-peugeot-citroen com/document/presse_dossier/PK_PSA_BMW1103281940 pdf title Press Kit work PSA Peugeot Citroën com accessdate January 3, 2006 format PDF DEFAULTSORT:Prince Engine 
+-----DELETED
+In late 2006, an extension of the cooperation between the two groups was announced <ref> the press release is here http://www edubourse com/finance/actualites php?idActus 29298 Fr icon </ref>, promising new four cylinder engines, without further details The variant EP6 has conventional and lost-foam cast heads Its high 11:1 creates output 120 ;PS 118 ;hp/88 ;kW at 6000 ;rpm with redline 6500 ;rpm Torque 118 ;ft·lbf 160 ;N·m at 4250 ;rpm cite web url http://www psa-peugeot-citroen com/document/presse_dossier/PK_PSA_BMW1103281940 pdf title Press Kit work PSA Peugeot Citroën com accessdate January accessyear 2006 format PDF 

@@ -1,0 +1,15 @@
+-----METADATA
+2340
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5333
+-----ADDED
+*Riley, 2005 The Bollywood Standard: the complete and authoriative guide to script format and style Michael Weise Productions Sheridan Press ISBN 0941188949 
+-----DELETED
+*Riley, 2005 The Hollywood Standard: the complete and authoriative guide to script format and style Michael Weise Productions Sheridan Press ISBN 0941188949 

@@ -1,0 +1,15 @@
+-----METADATA
+2962
+1
+unknown
+15263
+False
+False
+False
+False
+<EMPTY>
+3732
+-----ADDED
+Wahaha works with trading and distribution company in Taiwan and completed factory for its cola products in Indonesia Cola has joined other Wahaha products to be exported to France, Germany, Hong Kong, Italy, Japan, Malaysia, the Netherlands, Spain, Taiwan, Thailand, and the United States <ref name chinesecola/> 
+-----DELETED
+Wahaha works with trading and distribution company in Taiwan and completed factory for its cola products in Indonesia Cola has joined other Wahahahahahaha products to be exported to France, Germany, Hong Kong, Italy, Japan, Malaysia, the Netherlands, Spain, Taiwan, Thailand, and the United States <ref name chinesecola/> 

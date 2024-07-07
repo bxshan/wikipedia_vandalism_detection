@@ -1,0 +1,15 @@
+-----METADATA
+2213
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3368
+-----ADDED
+Only 1076 total rifles were ever produced in three different variants: one chambered for the standard 300 Winchester Magnum round, another chambered for the popular round, and the final version for the round 
+-----DELETED
+Only 176 total rifles were ever produced in three different variants: one chambered for the standard 300 Winchester Magnum round, another chambered for the popular round, and the final version for the round 

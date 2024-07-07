@@ -1,0 +1,15 @@
+-----METADATA
+1487
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1822
+-----ADDED
+team Toronto Blue Jays 
+-----DELETED
+team Free Agent 

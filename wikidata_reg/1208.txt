@@ -1,0 +1,15 @@
+-----METADATA
+1639
+1362
+male
+16013
+False
+True
+True
+True
+<EMPTY>
+6705
+-----ADDED
+Barcelona, Dortmund, Forli begins 29 March London-Luton, Milan-Orio al Serio, Paris-Beauvais, Rome-Fiumicino, Venice-Treviso, Valencia 
+-----DELETED
+Barcelona, Dortmund, London-Luton, Milan-Orio al Serio, Paris-Beauvais, Rome-Fiumicino, Venice-Treviso, Valencia 

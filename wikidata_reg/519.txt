@@ -1,0 +1,15 @@
+-----METADATA
+2754
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3671
+-----ADDED
+At the in London, Koko Tsurumi competed historic performance to win the individual all-around bronze medal Tsurumi is only the second Japanese woman gymnast to win World Championships medal in 43 years At the won uneven bars silver, all-around bronze, and team bronze During event finals, Tsurumi won the silver medal on uneven bars and placed 6th on balance beam 
+-----DELETED
+At the in London, Koko Tsurumi competed historic performance to win the individual all-around bronze medal In 43 years, Tsurumi is only the second Japanese woman gymnast to win World Championships all-around medal won bronze in 1966 During event finals, Tsurumi won the silver medal on uneven bars and placed 6th on balance beam 

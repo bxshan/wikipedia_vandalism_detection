@@ -1,0 +1,15 @@
+-----METADATA
+10714
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+10049
+-----ADDED
+airdate March 19, 2000 "A Bicyclops Built for Two" is episode nine in season two of It originally aired in on March 19, 2000 Color stylist Bari Kumar won an award for Outstanding Individual Achievement in Animation for this episode in 2000 was nominated for an in 2000 for "Outstanding Individual Achievement for Directing in an Animated Television Production" for this episode; she lost to for the Futurama episode "" <ref name "AA"> cite web url http://www annieawards com/28thannieawardwinners htm title 28th Annual Annie Award Nominees and Winners Reflist DEFAULTSORT:Bicyclops Built For Two, 
+-----DELETED
+airdate "A Bicyclops Built for Two" is episode nine in season two of It originally aired in on Color stylist Bari Kumar won an award for Outstanding Individual Achievement in Animation for this episode in 2000 was nominated for an in 2000 for "Outstanding Individual Achievement for Directing in an Animated Television Production" for this episode; she lost to for the Futurama episode "" <ref name "AA"> cite web url http://www annieawards com/28thannieawardwinners htm title 28th Annual Annie Award Nominees and Winners reflist DEFAULTSORT:Bicyclops Built for Two, 

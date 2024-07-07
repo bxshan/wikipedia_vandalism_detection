@@ -1,0 +1,15 @@
+-----METADATA
+19816
+6901
+male
+15118
+False
+True
+True
+True
+Filling in 7 references using [[WP:REFLINKS|Reflinks]]
+50715
+-----ADDED
+style "text-align:center;" 31 <ref> cite web url http://acharts us/album/51959 title Leona Lewis Echo Music Charts publisher Acharts us date accessdate 2009-11-26 </ref> style "text-align:center;" style "text-align:center;" 69 style "text-align:center;" 67 style "text-align:center;" <ref> cite web url http://jam canoe ca/Music/Charts/ALBUMS html title CANOE JAM! Music SoundScan Charts publisher Jam canoe ca date 2009-11-22 accessdate 2009-11-26 </ref> style "text-align:center;" style "text-align:center;" 36 <ref> cite web url http://www media-control de/gute-reise-von-ich-ich-startet-auf-platz-eins-der-album-charts html title "Gute Reise" von Ich Ich startet auf Platz eins der Album-Charts media control publisher Media-control de date 2009-11-18 accessdate 2009-11-26 </ref> style "text-align:center;" 12 style "text-align:center;" <ref> cite web url http://www fimi it/classifiche_result_artisti php?anno 2009&mese 11&id 280 title FIMI Federazione Industria Musicale Italiana Classifiche publisher Fimi it date 2009-11-15 accessdate 2009-11-26 </ref> style "text-align:center;" 44 style "text-align:center;" 26 style "text-align:center;" 16 <ref> cite web url http://acharts us/album/51959 title Leona Lewis Echo Music Charts publisher Acharts us date accessdate 2009-11-26 </ref> style "text-align:center;" <ref> cite web url http://www digitalspy co uk/music/news/a188064/leona-lewis-gets-second-no-1-album html title Music News Leona Lewis gets second No album publisher Digital Spy date 2009-11-22 accessdate 2009-11-26 </ref> style "text-align:center;" US <ref name uschart> cite web url http://www hitsdailydouble com/sales/salescht cgi title Building Album Sales Chart publisher HITS Daily Double date accessdate 2009-11-26 </ref> style "text-align:center;" 13 
+-----DELETED
+align "center" 31 <ref>http://acharts us/album/51959</ref> align "center" align "center" 69 align "center" 67 align "center" <ref>http://jam canoe ca/Music/Charts/ALBUMS html</ref> align "center" 16 align "center" 36 <ref>http://www media-control de/gute-reise-von-ich-ich-startet-auf-platz-eins-der-album-charts html</ref> align "center" 12 align "center" <ref>http://www fimi it/classifiche_result_artisti php?anno 2009&mese 11&id 280</ref> align "center" 44 align "center" 26 align "center" <ref>http://acharts us/album/51959</ref> align "center" <ref>http://www digitalspy co uk/music/news/a188064/leona-lewis-gets-second-no-1-album html</ref> align "center" US <ref name uschart>http://www hitsdailydouble com/sales/salescht cgi</ref> align "center" 13 

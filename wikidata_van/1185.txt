@@ -1,0 +1,15 @@
+-----METADATA
+2824
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7674
+-----ADDED
+Jim Smiley is addicted to meth He bets on anything from the death of Parson Walkers wife to fights between his bulldog pup, Andrew Jackson, and other dogs One day, stranger to the town agrees to bet on frog jumping higher than Jims frog, Danl Webster When Jim is not looking, the stranger pours lead bullets into the frogs mouth, weighing it down so that he wins the bet 
+-----DELETED
+Jim Smiley is addicted to gambling He bets on anything from the death of Parson Walkers wife to fights between his bulldog pup, Andrew Jackson, and other dogs One day, stranger to the town agrees to bet on frog jumping higher than Jims frog, Danl Webster When Jim is not looking, the stranger pours lead bullets into the frogs mouth, weighing it down so that he wins the bet 

@@ -1,0 +1,15 @@
+-----METADATA
+1698
+1718198
+unknown
+16861
+False
+True
+True
+True
+Convert ISO style date in text to words.  using [[Project:AutoWikiBrowser|AWB]]
+679
+-----ADDED
+Nihongo Jun Ashida 芦田 born 21 August 1930 is ese fashion designer, born in and graduate of what is today the He studied under illustrator and has daughter fashion designer 
+-----DELETED
+nihongo Jun Ashida 芦田 extra born is ese fashion designer, born in and graduate of what is today the He studied under illustrator and has daughter fashion designer 

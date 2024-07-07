@@ -1,0 +1,15 @@
+-----METADATA
+3229
+930986
+unknown
+16555
+False
+True
+True
+True
+accessyear {{cite web}} parameter cleanup using [[Project:AWB]]
+26407
+-----ADDED
+who was used in pool scene, turned out to have Klinefelters Syndrome, an intersex condition about the incident greatly exaggerated Cosseys role, from non-speaking "girl at pool" to someone who had "heavy love scenes" with Moore <ref> cite web url http://www snopes com/movies/films/bondgirl php title Caroline Cossey in For Your Eyes Only work Snopes com For Your Eyes Only accessdate March 16, 2006 </ref> In reality, Cossey appears only fleetingly and is only clearly visible in one or two shots 
+-----DELETED
+who was used in pool scene, turned out to have Klinefelters Syndrome, an intersex condition about the incident greatly exaggerated Cosseys role, from non-speaking "girl at pool" to someone who had "heavy love scenes" with Moore <ref> cite web url http://www snopes com/movies/films/bondgirl php title Caroline Cossey in For Your Eyes Only work Snopes com For Your Eyes Only accessdate March 16 accessyear 2006 </ref> In reality, Cossey appears only fleetingly and is only clearly visible in one or two shots 

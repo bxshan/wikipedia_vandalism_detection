@@ -1,0 +1,15 @@
+-----METADATA
+6844
+5854
+male
+15104
+False
+True
+True
+True
+<EMPTY>
+6294
+-----ADDED
+position Ryan Michael Green born 20 October 1980 is currently playing as at football club 
+-----DELETED
+position Ryan Michael Green born 20 October 1980 is currently playing as at football club 

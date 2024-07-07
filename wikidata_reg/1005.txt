@@ -1,0 +1,15 @@
+-----METADATA
+5192
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3800
+-----ADDED
+Hope Lodge is historic building located at 553 South in in the It is owned by the Pennsylvania Historical and Museum Commission and closed, due to budget constraints, on November 20, 2009 
+-----DELETED
+Hope Lodge is historic building located at 553 South in in the 

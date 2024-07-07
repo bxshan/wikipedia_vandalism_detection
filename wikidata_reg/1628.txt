@@ -1,0 +1,15 @@
+-----METADATA
+2640
+20795
+male
+16014
+False
+True
+True
+True
+Replacing {{IPAr|pl| with {{IPAc-pl|
+1585
+-----ADDED
+Podolany IPAc-pl is village in the administrative district of within in south-western Poland Prior to 1945 it was in It lies approximately convert km mi north-east of and convert 76 km mi abbr on west of the regional capital 
+-----DELETED
+Podolany IPAr pl is village in the administrative district of within in south-western Poland Prior to 1945 it was in It lies approximately convert km mi north-east of and convert 76 km mi abbr on west of the regional capital 

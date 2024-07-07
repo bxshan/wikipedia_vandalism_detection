@@ -1,0 +1,15 @@
+-----METADATA
+5209
+2839
+male
+14819
+False
+True
+True
+True
+Added information on earlier finding, published in J. Conch. 40: 103
+6123
+-----ADDED
+The first specimen was collected in the churchyard of cathedral on December 29 2004, but its significance was overlooked at the time<ref> http://museum nc-data de/fileadmin/user_upload/Malak/hutch/hutchpub/jconch2 htm Reise, Hutchinson, 2009 An earlier record of the slug Selenochlamys ysbryda from Brecon, UK Journal of Conchology 40:103 Published October 2009 Retrieved 4th December 2009 </ref> second specimen was found in lane in on October 29 2006<ref> http://petsnails proboards3 com/index cgi?board identification&action display&thread 1071 Albino snail? photos The http://www petsnails co uk petsnails co uk forums Published October 29th, 2006 Retrieved 15th July, 2008 </ref> This single specimen was photographed and then released year later, another slug was found by gardener near Wales, where it was brought to the attention of the Additional ghost slugs have been found in near Swansea, Wales <ref> http://www museumwales ac uk/en/rhagor/article/?article_id 193 Help us find out more about the mysterious alien "Ghost Slug" Published July 2008, Cited October 2008 </ref> 
+-----DELETED
+The first specimen was found in lane in on October 29 2006<ref> http://petsnails proboards3 com/index cgi?board identification&action display&thread 1071 Albino snail? photos The http://www petsnails co uk petsnails co uk forums Published October 29th, 2006 Retrieved 15th July, 2008 </ref> This single specimen was photographed and then released year later, another slug was found by gardener near Wales, where it was brought to the attention of the Additional ghost slugs have been found in near Swansea, Wales <ref> http://www museumwales ac uk/en/rhagor/article/?article_id 193 Help us find out more about the mysterious alien "Ghost Slug" Published July 2008, Cited October 2008 </ref> 

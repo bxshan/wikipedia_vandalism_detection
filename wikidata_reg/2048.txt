@@ -1,0 +1,15 @@
+-----METADATA
+1937
+29229
+unknown
+15747
+False
+True
+True
+True
+<EMPTY>
+6528
+-----ADDED
+Phillips assembled several book collections of his comic panel: The Best of Mr Mum: from The Strange World of Mr Mum Putnam, 1965 The Strange World of Mr Mum 1967 and the 92-page No Comment by Mr Mum Popular Library, 1971 He also wrote Twin Witches of Fingle Fu 1969 <ref name LA-Times/> 
+-----DELETED
+Phillips assembled two book collections of his comic panel: The Best of Mr Mum: from The Strange World of Mr Mum Putnam, 1965 and the 92-page No Comment by Mr Mum Popular Library, 1971 He also wrote Twin Witches of Fingle Fu 1969 <ref name LA-Times/> 

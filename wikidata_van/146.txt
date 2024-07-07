@@ -1,0 +1,15 @@
+-----METADATA
+2159
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+72845
+-----ADDED
+*If holiday falls on Sunday, the following workday will be public holiday If it falls on Saturday, there will be no honot really liday-in-lieu For companies that do not operate on Saturdays, usually the following workday Monday will be an off day For companies that operate on Saturday, employees usually get off-in-lieu 
+-----DELETED
+*If holiday falls on Sunday, the following workday will be public holiday If it falls on Saturday, there will be no holiday-in-lieu For companies that do not operate on Saturdays, usually the following workday Monday will be an off day For companies that operate on Saturday, employees usually get off-in-lieu 

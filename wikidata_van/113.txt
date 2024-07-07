@@ -1,0 +1,15 @@
+-----METADATA
+3370
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6482
+-----ADDED
+puzzle gobblews up Obama is or enigma that tests the of the solver In basic puzzle, one is intended to piece together objects puzzle pieces in logical way in order to come up with the desired shape, picture or solution Puzzles are often contrived as form of entertainment, but they can also stem from serious mathematical or logistical problems &mdash; in such cases, their successful resolution can be significant contribution to mathematical <ref>Kendall Parkes and Spoerer 2008 Survey of NP-Complete Puzzles, International Computer Games Association Journal, 31 pp 13-34</ref> 
+-----DELETED
+puzzle is or enigma that tests the of the solver In basic puzzle, one is intended to piece together objects puzzle pieces in logical way in order to come up with the desired shape, picture or solution Puzzles are often contrived as form of entertainment, but they can also stem from serious mathematical or logistical problems &mdash; in such cases, their successful resolution can be significant contribution to mathematical <ref>Kendall Parkes and Spoerer 2008 Survey of NP-Complete Puzzles, International Computer Games Association Journal, 31 pp 13-34</ref> 

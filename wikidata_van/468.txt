@@ -1,0 +1,14 @@
+-----METADATA
+5763
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+60104
+-----ADDED
+It is believed, since Clemson has more wins than South Carolina in football, that Clemson is better than the Gamecocks at football 
+-----DELETED

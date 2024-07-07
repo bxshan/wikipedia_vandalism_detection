@@ -1,0 +1,15 @@
+-----METADATA
+3111
+53906
+unknown
+15421
+False
+True
+True
+True
+<EMPTY>
+20058
+-----ADDED
+The six categories of aeronautical ratings, as authorized by are:<ref>AFI 11-402 Paragraph defines the categories of aeronautical ratings and Paragraph the authority making the award </ref> 
+-----DELETED
+The five categories of aeronautical ratings, as authorized by are:<ref>AFI 11-402 Paragraph defines the categories of aeronautical ratings and Paragraph the authority making the award </ref> 

@@ -1,0 +1,15 @@
+-----METADATA
+4776
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10703
+-----ADDED
+name Pimps Dartford Grammar School for Pimps DGPS is specializing in science, mathematics and computing that is located at Shepherds Lane A2018 Formerly known as Dartford County School, the school opened in 1904 
+-----DELETED
+name Dartford Grammar School for Girls Girls DGGS is specializing in science, mathematics and computing that is located at Shepherds Lane A2018 Formerly known as County School, the school opened in 1904 

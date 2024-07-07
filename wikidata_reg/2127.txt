@@ -1,0 +1,15 @@
+-----METADATA
+4245
+527
+male
+16100
+False
+True
+True
+True
+<EMPTY>
+29936
+-----ADDED
+All of the buildings in the are connected by series of tunnels and underground walkways, which provide easy passage between legislative office buildings, the the and the in cold and inclement weather The tunnels connecting individual office buildings are open to the public, but those connecting to the Capitol require security clearance to use Small electric tramways run from the Capitol building to the and Senate Office Buildings and to the The tunnel between the Capitol and the displays winning pieces of artwork from the annual Congressional Art Competition for high school students 
+-----DELETED
+All of the buildings in the are connected by series of tunnels and underground walkways, which provide easy passage between legislative office buildings, the the and the in cold and inclement weather The tunnels connecting individual office buildings are open to the public, but those connecting to the Capitol require security clearance to use Small electric tramways run from the Capitol building to the and Senate Office Buildings and to the The tunnel between the Capitol and the displays winning pieces of artwork from the annual Congressional Art Competition for high school students 

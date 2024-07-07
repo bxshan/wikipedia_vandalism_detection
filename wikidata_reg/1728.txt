@@ -1,0 +1,15 @@
+-----METADATA
+2165
+204
+unknown
+16101
+False
+True
+True
+True
+punctuation fix.
+4336
+-----ADDED
+During the Baden Powell listened to songs in The lyrics of Ging Gang Goolie might have been inspired by these songs <ref name "bbc"/> Baden-Powell is said to have written this song during the first World Scout Jamboree in 1920 Due to the fact that there were so many children from so many countries, he needed song that made no sense in any language that they could all sing 
+-----DELETED
+During the Baden Powell listened to songs in The lyrics of Ging Gang Goolie might have been inspired by these songs <ref name "bbc"/> Baden-Powell is said to have written this song during the first World Scout Jamboree in 1920 Due to the fact that there were so many children from so many countries, he needed song that made no sense in any language that they could all sing 

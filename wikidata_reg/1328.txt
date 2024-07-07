@@ -1,0 +1,15 @@
+-----METADATA
+3834
+0
+unknown
+0
+True
+False
+False
+False
+ Removed double cite #55
+134157
+-----ADDED
+In January 2009, the British wrote "ultimately, the notion is misleading and mistaken" and later said "Historians will judge whether the notion has done more harm than good" <ref> cite web url http://news bbc co uk/1/hi/uk_politics/7829946 stm title BBC NEWS Politics Miliband regrets war on terror publisher news bbc co uk accessdate 2009-01-15 </ref> 
+-----DELETED
+In January 2009, the British wrote "ultimately, the notion is misleading and mistaken" and later said "Historians will judge whether the notion has done more harm than good" <ref> cite web url http://news bbc co uk/1/hi/uk_politics/7829946 stm title BBC NEWS Politics Miliband regrets war on terror publisher news bbc co uk accessdate 2009-01-15 </ref><ref> cite web url http://news bbc co uk/1/hi/uk_politics/7830987 stm title BBC NEWS Politics Miliband regrets war on terror publisher news bbc co uk accessdate 2009-01-15 </ref> 

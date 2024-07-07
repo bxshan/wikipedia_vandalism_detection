@@ -1,0 +1,15 @@
+-----METADATA
+1289
+5337
+unknown
+16249
+False
+True
+True
+True
+removing field that is undefined in [[Template:Infobox scientist]] using [[Project:AWB]]
+4498
+-----ADDED
+
+-----DELETED
+religion 

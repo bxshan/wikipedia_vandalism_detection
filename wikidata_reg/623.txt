@@ -1,0 +1,15 @@
+-----METADATA
+3523
+13111
+unknown
+16541
+False
+True
+True
+True
+<EMPTY>
+39068
+-----ADDED
+According to the 2002 census, most Seychellois are 82 3% are 4% are and 5% are of other Christian denominations There are also small minorities that practice ism 1% and 1% Other non-Christian faiths account for 5% of the population while further 1% were non-religious or did not specify religion <ref> https://www cia gov/library/publications/the-world-factbook/geos/se html CIA The World Factbook </ref> 
+-----DELETED
+According to the 2002 census, most Seychellois are 82 3% are 4% are and 5% are of other Christian denominations There are also minorities of 1% and minorities of 1% respectively Other non-Christian faiths account for 5% of the population while further 1% were non-religious or did not specify religion <ref> https://www cia gov/library/publications/the-world-factbook/geos/se html CIA The World Factbook </ref> 

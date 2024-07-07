@@ -1,0 +1,15 @@
+-----METADATA
+6119
+3988
+male
+16325
+False
+True
+True
+True
+ Extension of Hatboro electrification to Warminster
+40858
+-----ADDED
+Railroad "The Pennsy", or PRR Company RDG operated both trains along tracks region To improve efficiency lines, both companies added busiest lines system used is overhead catenary trolley wire is energized at 11,000 single-phase at 25 Hertz Hz very uncommon by todays standards as regular American households use double-phase AC at 60 Hz Railroad started using this system Paoli line 1915, Chestnut Hill West line 1918, Media/West Chester Wilmington lines 1928 Both Pennsy Company continued electrification projects into 1930s, replacing trains pulled by electric cars locomotives PRR electrification reached Trenton Norristown 1930 began electrified operation 1931 West Trenton, Hatboro extended 1974 Doylestown, 1933 Chestnut Hill East Norristown Carrying passengers had been unprofitable for the railroads since about 1950, due to the rise in ownership and the building of the Because of this, the city of Philadelphia undertook partnership with the Reading and Pennsylvania Railroads in the late 50s to subsidize commuter service This, however, was not enough to counter the deterioration of the railroad infrastructure The city did purchase new commuter equipment starting in the 1960s, the Silverliners The railroads were losing money in general and were keen to get rid of their passenger operations so that they could focus on more profitable freight service Plus, the noticeable neglect of their passenger service was becoming an issue with commuters and local governments 
+-----DELETED
+The Pennsylvania Railroad "The Pennsy", or PRR and the Reading Company RDG operated both passenger and freight trains along their tracks in the Philadelphia region To improve the efficiency of their commuter passenger lines, both companies added to their busiest lines The system used is an overhead catenary trolley wire that is energized at 11,000 single-phase at 25 Hertz Hz very uncommon by todays standards as regular American households use double-phase AC at 60 Hz The Pennsylvania Railroad started using this system on the Paoli line in 1915, the Chestnut Hill West line in 1918, and the Media/West Chester and Wilmington lines in 1928 Both the Pennsy and the Reading Company continued their electrification projects into the 1930s, replacing trains pulled by with electric cars and locomotives PRR electrification reached Trenton and Norristown in 1930 Reading began electrified operation in 1931 to West Trenton, Hatboro and Doylestown, and in 1933 to Chestnut Hill East and Norristown Carrying passengers had been unprofitable for railroads since about 1950, due rise ownership building Because this, city undertook partnership Railroads late 50s subsidize service This, however, was not enough counter deterioration railroad infrastructure city did purchase new equipment starting 60s, Silverliners railroads were losing money general were keen get rid operations so they could focus more profitable service Plus, noticeable neglect service was becoming issue commuters local governments 

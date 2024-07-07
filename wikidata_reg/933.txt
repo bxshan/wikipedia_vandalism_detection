@@ -1,0 +1,15 @@
+-----METADATA
+2737
+34992
+unknown
+16304
+False
+True
+True
+True
+ typo
+7454
+-----ADDED
+Briefly, finite-dimensional representations of semisimple Lie algebra are so it suffices to classify irreducible simple representations Semisimple Lie algebras are classified in terms of the of the adjoint representation, the so-called in similar manner all finite-dimensional irreducible representations can be understood in terms of weights; see for details 
+-----DELETED
+Briefly, finite-dimensional representations of semisimple Lie algebra are so it suffices to classify irreducible simple representations Semisimple Lie algebras are classified by in terms of the of the adjoint representation, the so-called in similar manner all finite-dimensional irreducible representations can be understood in terms of weights; see for details 

@@ -1,0 +1,15 @@
+-----METADATA
+3020
+49145
+male
+15820
+False
+True
+True
+True
+  copyedit consistent verb tense, "had created" -> "created"
+10179
+-----ADDED
+In the 1990s, BR created the European Passenger Services EPS division, to run passenger services through the under the Eurostar brand After construction delays, this was operated from 1994, until it passed to the consortium in 1996 as 
+-----DELETED
+In the 1990s, BR had created the European Passenger Services EPS division, to run passenger services through the under the Eurostar brand After construction delays, this was operated from 1994, until it passed to the consortium in 1996 as 

@@ -1,0 +1,15 @@
+-----METADATA
+2575
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3484
+-----ADDED
+no give when some clues are given to assist retrievaly 
+-----DELETED
+when no clues are given to assist retrieval some are given 

@@ -1,0 +1,14 @@
+-----METADATA
+1430
+65433
+unknown
+15919
+False
+True
+True
+True
+Removed category [[:Category:Bays of Russia|Bays of Russia]] (using [[WP:HOTCAT|HotCat]])
+1663
+-----ADDED
+
+-----DELETED

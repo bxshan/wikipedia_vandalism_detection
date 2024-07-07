@@ -1,0 +1,15 @@
+-----METADATA
+2152
+1
+unknown
+14830
+False
+False
+False
+False
+<EMPTY>
+5282
+-----ADDED
+Divine Word College of Laoag refers to the activities, methods, procedures, and tools that pertain to the maintenance, and of networked systems <ref> http://www ciscopress com/bookstore/product asp?isbn 1587201372# Clemm: Network Management Fundamentals CiscoPress, 2006 </ref> 
+-----DELETED
+Network management refers to the activities, methods, procedures, and tools that pertain to the maintenance, and of networked systems <ref> http://www ciscopress com/bookstore/product asp?isbn 1587201372# Clemm: Network Management Fundamentals CiscoPress, 2006 </ref> 

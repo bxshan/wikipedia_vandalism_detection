@@ -1,0 +1,15 @@
+-----METADATA
+5133
+5142
+unknown
+14870
+False
+True
+True
+True
+ death city
+30461
+-----ADDED
+Jeanne-Claude died in New York City on November 18, 2009, from complications due to brain aneurysm suffered after fall few weeks earlier <ref name Hoelterhoff> cite news author Hoelterhoff, Manuela date November 20, 2009 title Jeanne-Claude -- Christo’s Dynamic Muse url http://www bloomberg com/apps/news?pid 20601088&sid agEeAUIHTR8o publisher Bloomberg accessdate 2009-11-20 </ref> Her body will be donated to science, one of her wishes <ref> cite news date November 20, 2009 title Artist Jeanne-Claude dies aged 74 url http://news bbc co uk/2/hi/entertainment/8369993 stm publisher BBC News accessdate 2009-11-19 </ref> 
+-----DELETED
+Jeanne-Claude died on November 18, 2009, from complications due to brain aneurysm suffered after fall few weeks earlier <ref name Hoelterhoff> cite news author Hoelterhoff, Manuela date November 20, 2009 title Jeanne-Claude -- Christo’s Dynamic Muse url http://www bloomberg com/apps/news?pid 20601088&sid agEeAUIHTR8o publisher Bloomberg accessdate 2009-11-20 </ref> Her body will be donated to science, one of her wishes <ref> cite news date November 20, 2009 title Artist Jeanne-Claude dies aged 74 url http://news bbc co uk/2/hi/entertainment/8369993 stm publisher BBC News accessdate 2009-11-19 </ref> 

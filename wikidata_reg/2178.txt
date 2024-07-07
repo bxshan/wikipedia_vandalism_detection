@@ -1,0 +1,14 @@
+-----METADATA
+1383
+44699
+unknown
+15644
+False
+True
+True
+True
+Reverted 2 edits by [[Special:Contributions/117.193.108.22|117.193.108.22]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Pjs012915|Pjs012915]]. ([[WP:TW|TW]])
+6258
+-----ADDED
+
+-----DELETED

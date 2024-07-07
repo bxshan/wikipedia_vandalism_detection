@@ -1,0 +1,15 @@
+-----METADATA
+1835
+30
+unknown
+14819
+False
+True
+True
+True
+<EMPTY>
+5863
+-----ADDED
+SnowboardingAt2006WinterOlympics 
+-----DELETED
+SnowboardingAt2010WinterOlympics 

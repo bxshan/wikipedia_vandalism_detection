@@ -1,0 +1,15 @@
+-----METADATA
+2157
+23
+male
+14851
+False
+True
+True
+True
+<EMPTY>
+130131
+-----ADDED
+Name SUCKS IS SO MUCH BETTER YOU SHOUD LIVE THERE! Fullname State of Conor Curry 
+-----DELETED
+Name New Jersey Fullname State of 

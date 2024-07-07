@@ -1,0 +1,15 @@
+-----METADATA
+3840
+0
+unknown
+0
+True
+False
+False
+False
+added 1951 as month w/ 5 Thursdays in November
+7496
+-----ADDED
+The majority of states immediately changed their laws to coincide with the nationally observed date The first year following the joint resolution with five Thursdays in November was 1944, and Thanksgiving was observed on the 23rd of the month with exceptions from the States of Texas, and Also in 1945, 1950, 1951, and 1956, November had five Thursdays Texas was the last state to change its law, observing the last-Thursday Thanksgiving for the final time in 1956 
+-----DELETED
+The majority of states immediately changed their laws to coincide with the nationally observed date The first year following the joint resolution with five Thursdays in November was 1944, and Thanksgiving was observed on the 23rd of the month with exceptions from the States of Texas, and Also in 1945, 1950, and 1956, November had five Thursdays Texas was the last state to change its law, observing the last-Thursday Thanksgiving for the final time in 1956 

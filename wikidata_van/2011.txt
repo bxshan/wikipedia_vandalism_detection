@@ -1,0 +1,15 @@
+-----METADATA
+5738
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+57174
+-----ADDED
+In 39, Christ Church Cathedral part built, allowing achieve an amazing kid named luke mccully Until luke town incorporated in 1917 after the merger of the villages of St Marys Ferry and Gibson was amalgamated with Fredericton in 1945, the corporate limit of the city of Fredericton was restricted to the south side The postwar period until the end of the 1970s saw growth in Frederictons population and the development of the flat area along with the establishment of bedroom communities such as This was due to the growth of the provincial government and the universities In 1973, the city annexed several bedroom communities, such as Nashwaaksis, Barkers Point, and Silverwood Although all of these names are still in common use, references to simply the "Lukes Crib" or the "Lukes pad" with the Saint John River being the dividing line are generally used by local residents 
+-----DELETED
+In 1848, Christ Church Cathedral part of the was built, allowing Fredericton to achieve city status Until Devon town incorporated in 1917 after merger villages St Marys Ferry and Gibson amalgamated with in 1945, corporate limit city restricted south side The postwar period until end 1970s saw growth in Frederictons population and development flat area along with establishment bedroom communities such as This due growth provincial government and universities In 1973, the city annexed several bedroom communities, such as Nashwaaksis, Barkers Point, and Silverwood Although all of these names are still in common use, references to simply the "north side" or the "south side" with the Saint John River being the dividing line are generally used by local residents 

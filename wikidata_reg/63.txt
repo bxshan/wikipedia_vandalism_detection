@@ -1,0 +1,15 @@
+-----METADATA
+2529
+85010
+unknown
+16428
+False
+True
+True
+True
+Remove image not related to safety section
+46007
+-----ADDED
+
+-----DELETED
+at station, about to depart for Tokyo 

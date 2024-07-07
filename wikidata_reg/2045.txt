@@ -1,0 +1,15 @@
+-----METADATA
+1580
+14198
+male
+16274
+False
+True
+True
+True
+[[:en:User:NicoV/Wikipedia Cleaner/Documentation|WikiCleaner]] 0.98 - Repairing link to disambiguation page - [[Wikipedia:Disambiguation pages with links|You can help!]]
+1022
+-----ADDED
+shore 19 32 
+-----DELETED
+shore 19 32 

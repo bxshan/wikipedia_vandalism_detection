@@ -1,0 +1,15 @@
+-----METADATA
+4470
+59485
+male
+16762
+False
+True
+True
+True
+clean up, Replaced: Image: → File:, using [[Project:AutoWikiBrowser|AWB]]
+2152
+-----ADDED
+<!-- Missing image removed: in Sivaganga District --> 
+-----DELETED
+<!-- Missing image removed: in Sivaganga District --> 

@@ -1,0 +1,15 @@
+-----METADATA
+2496
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9820
+-----ADDED
+Reuben Lucius hawley July 4, 1883 December 7, 1970 was an sculptor, author, engineer and inventor Goldberg is best known for series of popular cartoons he created depicting complex devices that perform simple tasks in indirect, convoluted ways now known as Goldberg received many honors in his lifetime including for his political cartooning in 1948 and the Banshees Silver Lady Award 1959 <ref name "ab"> cite web 
+-----DELETED
+Reuben Lucius Goldberg July 4, 1883 December 7, 1970 was an sculptor, author, engineer and inventor Goldberg is best known for series of popular cartoons he created depicting complex devices that perform simple tasks in indirect, convoluted ways now known as Goldberg received many honors in his lifetime including for his political cartooning in 1948 and the Banshees Silver Lady Award 1959 <ref name "ab"> cite web 

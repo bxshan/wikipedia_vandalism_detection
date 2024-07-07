@@ -1,0 +1,15 @@
+-----METADATA
+1787
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1002
+-----ADDED
+One construction worker was killed during the project His name was George Cloony 
+-----DELETED
+One construction worker was killed during the project 

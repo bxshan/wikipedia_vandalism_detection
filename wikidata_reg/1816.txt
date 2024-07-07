@@ -1,0 +1,15 @@
+-----METADATA
+2998
+611194
+unknown
+16620
+False
+True
+True
+True
+[[:en:User:NicoV/Wikipedia Cleaner/Documentation|WikiCleaner]] 0.98 - Repairing link to disambiguation page - [[Wikipedia:Disambiguation pages with links|You can help!]]
+63768
+-----ADDED
+Finland is represented in Thailand through its embassy in its honorary consulate general in and its honorary consulate in <ref> http://www finland or th/public/default aspx?culture en-US&contentlan Embassy of Finland in Bangkok </ref> 
+-----DELETED
+Finland is represented in Thailand through its embassy in its honorary consulate general in and its honorary consulate in <ref> http://www finland or th/public/default aspx?culture en-US&contentlan Embassy of Finland in Bangkok </ref> 

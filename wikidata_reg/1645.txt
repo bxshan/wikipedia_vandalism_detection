@@ -1,0 +1,15 @@
+-----METADATA
+4625
+1348587
+unknown
+16034
+False
+True
+True
+True
+[[Wikipedia:WikiProject Stub sorting|stub sorting]], Replaced: baseball-season-stub → SanFranciscoGiants-season-stub, using [[Project:AutoWikiBrowser|AWB]]
+4972
+-----ADDED
+DEFAULTSORT:1900 New York Giants Season SanFranciscoGiants-season-stub 
+-----DELETED
+baseball-season-stub 

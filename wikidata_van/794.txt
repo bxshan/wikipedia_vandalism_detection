@@ -1,0 +1,15 @@
+-----METADATA
+1814
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1918
+-----ADDED
+Focas have funny name 
+-----DELETED
+latitude 33 N_or_S longitude 93 E_or_W 

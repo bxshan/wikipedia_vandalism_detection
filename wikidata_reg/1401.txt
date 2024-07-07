@@ -1,0 +1,15 @@
+-----METADATA
+2821
+24322
+unknown
+16417
+False
+True
+True
+True
+rv; infobox image changed without any discussion or edit comment; quality of images in the montage is poor and grainy, and could be significantly improved. Please DISCUSS this first before replacing.
+102768
+-----ADDED
+image_skyline Pittsburgh view-from-incline sm jpg imagesize 
+-----DELETED
+image_skyline PittsburghMontage1 JPG imagesize 300px image_caption Images, from top, left to right: skyline, the 

@@ -1,0 +1,15 @@
+-----METADATA
+2484
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7157
+-----ADDED
+There should be minimum of 30 MPs so as to represent the disabled 
+-----DELETED
+Each region will elect MP to represent persons with disability 

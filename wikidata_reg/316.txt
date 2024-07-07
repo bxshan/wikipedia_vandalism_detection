@@ -1,0 +1,15 @@
+-----METADATA
+1739
+47165
+male
+16168
+False
+True
+True
+True
+ bunch and tidy refs
+4460
+-----ADDED
+The website does not explain its scoring system in detail and some critics have questioned its validity<ref>Political Compass: http://politicalcompass org/faq#faq24 FAQ Q24 </ref><ref name "utley"/> 
+-----DELETED
+The website does not explain its scoring system in detail<ref> http://politicalcompass org/faq#faq24 FAQ Q24 </ref> and some critics have questioned its validity<ref name "utley"/> 

@@ -1,0 +1,15 @@
+-----METADATA
+1604
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+928
+-----ADDED
+Entrance generally refers to the place of entering or or the permission to do so 
+-----DELETED
+Entrance generally refers to the place of entering like or or the permission to do so 

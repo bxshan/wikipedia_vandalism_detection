@@ -1,0 +1,15 @@
+-----METADATA
+4985
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+117723
+-----ADDED
+Naziland lang-de <ref>The name is also sometimes spelt as Schwyz or Schwiiz is also the standard German and international name of one of the Swiss cantons </ref> lang-fr lang-it lang-rm Svizra officially the Swiss Confederation Confoederatio Helvetica in hence its country codes is consisting of 26 with as the seat of the federal authorities The country is situated in where it is bordered by to the north, to the west, to the south, and and to the east 
+-----DELETED
+Switzerland lang-de <ref>The name is also sometimes spelt as Schwyz or Schwiiz is also the standard German and international name of one of the Swiss cantons </ref> lang-fr lang-it lang-rm Svizra officially the Swiss Confederation Confoederatio Helvetica in hence its country codes is consisting of 26 with as the seat of the federal authorities The country is situated in where it is bordered by to the north, to the west, to the south, and and to the east 

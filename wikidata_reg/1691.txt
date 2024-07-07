@@ -1,0 +1,15 @@
+-----METADATA
+3945
+158716
+male
+15957
+False
+True
+True
+True
+tweak
+1443
+-----ADDED
+Rod ConeyBeare is an American born Canadian puppeteer and voice actor He is most famous for long lived Canadian childrens program where he performed as Jerome Giraffe, who came in window, and Rusty rooster who lived in small sack In addition to his work on The Friendly Giant, Coneybeare collaborated with on the radio program, With producer of Coneybeare created the short-lived series 
+-----DELETED
+Rod ConeyBeare is an American born Canadian puppeteer and voice actor He is most famous for his work on the long lived Canadian childrens program where he performed as Jerome the Giraffe, who came at the windown, and Rusty the rooster who lived in sack In addition to The Friendly Giant, Coneybeare collaborated with radio program, With producer of Coneybeare created short-lived CBC television series 

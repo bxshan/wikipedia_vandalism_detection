@@ -1,0 +1,15 @@
+-----METADATA
+1748
+1679
+unknown
+15012
+False
+True
+True
+True
+<EMPTY>
+62164
+-----ADDED
+caption As of November 20, 2009, there are 103 days 
+-----DELETED
+caption As of November 17, 2009, there are 106 days 

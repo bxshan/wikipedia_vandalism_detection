@@ -1,0 +1,15 @@
+-----METADATA
+5930
+5160
+unknown
+16172
+False
+True
+True
+True
+rephrase last sentence 2nd paragraph per reference.
+22470
+-----ADDED
+Few details are known about Clements life According to Clement was ordained by<ref name "CE"/> and he is known to have been leading member of the church in Rome in the latter part of the Early church lists place him as the second or third<ref name "ODCC self"/><ref>The Catholic Encyclopedia says that no critic now doubts that the names Cletus and Anacletus in lists that would make Clement the fourth successor of Saint Peter refer to the one person, not two </ref> bishop of Rome after Saint Peter, but the meaning of this evidence is unclear given the non-monarchical structure of the 1st century episcopacy <ref name "ODCC self"/> 
+-----DELETED
+Few details are known about Clements life According to Clement was ordained by<ref name "CE"/> and he is known to have been leading member of the church in Rome in the latter part of the Early church lists place him as the second or third<ref name "ODCC self"/><ref>The Catholic Encyclopedia says that no critic now doubts that the names Cletus and Anacletus in lists that would make Clement the fourth successor of Saint Peter refer to the one person, not two </ref> bishop of Rome after Saint Peter, but the meaning of this evidence is unclear;<ref name "ODCC self"/> his role as bishop is not entirely clear 

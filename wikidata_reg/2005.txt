@@ -1,0 +1,15 @@
+-----METADATA
+3614
+2058
+unknown
+16690
+False
+True
+True
+True
+removing wrong categories, templates etc., this is not an article about a state
+3345
+-----ADDED
+uncat 
+-----DELETED
+States of the Confederation of the Rhine States of the German Confederation States of the German Empire coord missing Germany DEFAULTSORT:Wurttemberg, Kingdom Of 

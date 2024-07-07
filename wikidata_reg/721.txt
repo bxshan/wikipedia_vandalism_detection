@@ -1,0 +1,14 @@
+-----METADATA
+1880
+1092
+unknown
+14912
+False
+True
+True
+True
+<EMPTY>
+12910
+-----ADDED
+Santa Cruz Mountains 
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+5288
+118293
+unknown
+16283
+False
+True
+True
+True
+ readability
+51126
+-----ADDED
+The eggs are pale blue with brown spots clutch of four or five eggs is laid; each egg measures 35–46 28–35 ;mm<ref name "Eggs 1994"/>and weighs 22 of which 8% is shell <ref name "bto"/> The eggs are generally laid in the morning, with 2–3 days between each one If clutch is lost, up to two further eggs may be laid that are smaller than the earlier eggs <ref name "bwpi"/> 
+-----DELETED
+The eggs are pale blue with brown spots clutch of four or five eggs is laid; each egg measures 35–46 28–35 ;mm<ref name "Eggs 1994"/>and weighs 22 of which 8% is shell <ref name "bto"/> The eggs are mostly laid in the morning, with 2–3 days between each one If clutch is lost, up to two replacements may be laid, but always smaller than the earlier eggs <ref name "bwpi"/> 

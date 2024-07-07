@@ -1,0 +1,15 @@
+-----METADATA
+5652
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+57887
+-----ADDED
+The series original creator, was announced to be involved with the project The elements from the original series remain the same though the setting is completely different <ref name "DC" /> The series main concepts were created by Kallis and Pamela Eells OConnell Kallis, OConnell, Jim Geoghan and Irene Dreayer are the executive producers The series is produced by and <ref name "DC" /> 
+-----DELETED
+The series original creator, was announced to be involved with the project The elements from the original series remain the same though the setting is completely different <ref name "DC" /> The series main concepts were created by Kallis and Pamela Eells OConnell Kallis, OConnell, Jim Geoghan and Irene Dreayer are the executive producers The series is produced by and <ref name "DC" /> 

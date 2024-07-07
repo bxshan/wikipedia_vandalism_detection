@@ -1,0 +1,15 @@
+-----METADATA
+3912
+4577
+unknown
+16018
+False
+True
+True
+True
+Wikilinked main author, removed unneeded bolding
+1862
+-----ADDED
+DNA Repair and Mutagenesis is college-level textbook about and written by Graham Walker, Wolfram Siede, Richard Wood, and Roger Schultz In its second edition as of 2009, DNA Repair and Mutagenesis contains over 1000 pages, 10000 references and 700 illustrations and has been described as "the most comprehensive book available in <nowiki> the </nowiki> field "<ref> cite web title DNA repair and mutagenesis, Errol Friedberg, Book publisher Barnes Noble author Eugene Davidson url http://search barnesandnoble com/DNA-Repair-and-Mutagenesis/Errol-C-Friedberg/e/9781555813192 </ref><ref> cite journal title DNA Repair and Mutagenesis, second ed Friedberg, Walker, Siede, Wood, Schultz, Ellenberger ASM Press, ISBN 1-55581-319-4 last Lehmann first AR journal DNA repair volume issue date June 10, 2006 page 759 doi 10 1016/j dnarep 2006 04 004 </ref> 
+-----DELETED
+DNA Repair and Mutagenesis is college-level textbook about and written by Errol Friedberg, Graham Walker, Wolfram Siede, Richard Wood, and Roger Schultz In its second edition as of 2009, DNA Repair and Mutagenesis contains over 1000 pages, 10000 references and 700 illustrations and has been described as "the most comprehensive book available in <nowiki> the </nowiki> field "<ref> cite web title DNA repair and mutagenesis, Errol Friedberg, Book publisher Barnes Noble author Eugene Davidson url http://search barnesandnoble com/DNA-Repair-and-Mutagenesis/Errol-C-Friedberg/e/9781555813192 </ref><ref> cite journal title DNA Repair and Mutagenesis, second ed Friedberg, Walker, Siede, Wood, Schultz, Ellenberger ASM Press, ISBN 1-55581-319-4 last Lehmann first AR journal DNA repair volume issue date June 10, 2006 page 759 doi 10 1016/j dnarep 2006 04 004 </ref> 

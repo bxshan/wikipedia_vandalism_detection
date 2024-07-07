@@ -1,0 +1,15 @@
+-----METADATA
+4762
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+69298
+-----ADDED
+ceo most_champs <small> 25 </small><!-- Please before changing this note the Stanley Cup has not always been the League Championship --><ref group "nb">The Montreal Canadiens won 23 Stanley Cups as part of the NHL However the Stanley Cup has not always been solely the NHL championship trophy The Canadiens were also the league champions in when the cancelled the Stanley Cup finals and in when they lost the Stanley Cup finals to the who were part of the </ref> 
+-----DELETED
+ceo most_champs <small> 25 </small><!-- Please before changing this note the Stanley Cup has not always been the League Championship --><ref group "nb">The Montreal Canadiens won 23 Stanley Cups as part of the NHL However the Stanley Cup has not always been solely the NHL championship trophy The Canadiens were also the league champions in when the cancelled the Stanley Cup finals and in when they lost the Stanley Cup finals to the who were part of the </ref> 

@@ -1,0 +1,15 @@
+-----METADATA
+3401
+1481
+male
+14987
+False
+True
+True
+True
+<EMPTY>
+18923
+-----ADDED
+*"" *"" *"" *"" *"" 
+-----DELETED
+*"Black Ice" *"Live From Madison Square Garden" Steve Winwood *"21st Century Breakdown" *"Big Whiskey And the Groogrux King" *"No Line On The Horizon" 

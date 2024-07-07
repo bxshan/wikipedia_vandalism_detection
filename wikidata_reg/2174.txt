@@ -1,0 +1,15 @@
+-----METADATA
+5427
+1718198
+unknown
+16861
+False
+True
+True
+True
+remove Erik9bot category, no longer needed for this article using [[Project:AWB]]
+2130
+-----ADDED
+Disambig surname given name geo 
+-----DELETED
+disambig surname given name geo 

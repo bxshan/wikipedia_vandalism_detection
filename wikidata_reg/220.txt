@@ -1,0 +1,15 @@
+-----METADATA
+20868
+29132
+unknown
+15582
+False
+True
+True
+True
+  Group III
+43394
+-----ADDED
+11 +10 29 21 +7 24 10 19 11 14 14 14 12 14 15 -1 16 14 align "left" 14 13 20 -7 15 15 align "left" 14 15 18 -3 13 16 align "left" 13 10 16 -6 12 18 align "left" 14 10 24 -14 19 align "left" 14 13 32 -19 20 align "left" 14 11 24 -15 
+-----DELETED
+align "left" 13 21 +12 29 12 20 +6 10 align "left" 14 14 14 16 11 15 -1 16 12 align "left" 13 11 15 -4 16 17 15 align "left" 13 10 16 -6 12 13 12 20 -8 12 18 align "left" 13 13 31 -18 19 10 22 -14 20 align "left" 13 23 -15 

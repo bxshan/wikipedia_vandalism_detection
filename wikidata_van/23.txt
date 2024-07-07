@@ -1,0 +1,15 @@
+-----METADATA
+4332
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+12972
+-----ADDED
+Until September 2008 it wasnt possible to delete Google Analytics accounts, this has since been rectified <ref> cite web url http://analytics blogspot com/2008/09/now-its-easier-to-delete-accounts html title Now its easier to delete accounts accessdate 2008-09-30 last Pham first Dai date 2008-09-26 publisher </ref> For support, users have many options: Google provides direct email support in many languages <ref> http://www google com/support/googleanalytics/bin/request py?hl en_US Google Analytics email Support </ref> user can contact the Google Analytics Support team to ask question, suggest feature or access list of known issues Google also provides Google Analytics Help website <ref> http://www google com/support/googleanalytics/ Google Analytics Support Website </ref> In addition, Google Analytics users can get help by visiting the Analytics Help Forum,<ref> http://groups google com/group/analytics-help Google Analytics Help Forum </ref> and search for answers to their questions or post new questions For professional services and paid services, including technical support, installation, training and consulting, Google has created global partner network of Google Analytics Authorized Consultants GAACs<ref> http://www google com/analytics/authorized_consultants html Google Analytics Authorized Consultants GAACs </ref> supporting GA users in many regions and languages There was also link to Scientology website on their home page that was "bug" for few weeks 
+-----DELETED
+Until September 2008 it wasnt possible to delete Google Analytics accounts, this has since been rectified <ref> cite web url http://analytics blogspot com/2008/09/now-its-easier-to-delete-accounts html title Now its easier to delete accounts accessdate 2008-09-30 last Pham first Dai date 2008-09-26 publisher </ref> For support, users have many options: Google provides direct email support in many languages <ref> http://www google com/support/googleanalytics/bin/request py?hl en_US Google Analytics email Support </ref> user can contact the Google Analytics Support team to ask question, suggest feature or access list of known issues Google also provides Google Analytics Help website <ref> http://www google com/support/googleanalytics/ Google Analytics Support Website </ref> In addition, Google Analytics users can get help by visiting the Analytics Help Forum,<ref> http://groups google com/group/analytics-help Google Analytics Help Forum </ref> and search for answers to their questions or post new questions For professional services and paid services, including technical support, installation, training and consulting, Google has created global partner network of Google Analytics Authorized Consultants GAACs<ref> http://www google com/analytics/authorized_consultants html Google Analytics Authorized Consultants GAACs </ref> supporting GA users in many regions and languages 

@@ -1,0 +1,15 @@
+-----METADATA
+12740
+4049
+unknown
+14863
+False
+True
+True
+True
+<EMPTY>
+237945
+-----ADDED
+95 "background:#99BADD" Tretorn SERIE+ 95 style "background:#FFFFFF" colspan "2" Regular series 95 style "background:#efefef" colspan "2" All titles 47 47 ;D 47 ;S 47 47 ;S 47 !width 95 style "background:#99BADD" colspan "2" Tretorn SERIE+ !width 95 style "background:#FFFFFF" colspan "2" Regular series !width 95 style "background:#efefef" colspan "2" All titles !width 47 ;S !width 47 ;D !width 47 ;S !width 47 ;D !width 47 ;S !width 47 ;D 
+-----DELETED
+!width 94 style "background:#99BADD" colspan "2" Tretorn SERIE+ 94 "background:#FFFFFF" Regular series !width 94 style "background:#efefef" colspan "2" All titles 46 ;S !width 46 ;D 46 ;S !width 46 ;D 46 !width 46 ;D 94 style "background:#99BADD" colspan "2" Tretorn SERIE+ !width 94 style "background:#FFFFFF" colspan "2" Regular series 94 style "background:#efefef" colspan "2" All titles !width 46 ;S 46 !width 46 ;S 46 ;D !width 46 ;S 46 

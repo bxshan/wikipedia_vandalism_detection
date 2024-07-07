@@ -1,0 +1,15 @@
+-----METADATA
+2744
+20795
+male
+16014
+False
+True
+True
+True
+Replacing {{IPAr|pl| with {{IPAc-pl|
+1572
+-----ADDED
+Czeberaki IPAc-pl cz is in the administrative district of within in eastern Poland It lies approximately convert km mi east of convert km mi abbr on north-east of and convert 56 km mi abbr on north-east of the regional capital 
+-----DELETED
+Czeberaki IPAr pl cz is in the administrative district of within in eastern Poland It lies approximately convert km mi east of convert km mi abbr on north-east of and convert 56 km mi abbr on north-east of the regional capital 

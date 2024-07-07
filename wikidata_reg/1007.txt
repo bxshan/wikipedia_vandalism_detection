@@ -1,0 +1,15 @@
+-----METADATA
+3994
+5025
+male
+15024
+False
+True
+True
+True
+Format fix
+5706
+-----ADDED
+The international quality of The Schools academics and researchers has also been recognized by number of current prestigious personal fellowships including BBSRC Professorial Fellowship and two BBSRC David Phillips Fellowships <ref>http://www nottingham ac uk/Pharmacy/Research/index2 aspx</ref> 
+-----DELETED
+The international quality of The SchoolS academics and researchers has also been recognized by number of current prestigious personal fellowships including BBSRC Professorial Fellowship and two BBSRC David Phillips Fellowships <ref>http://www nottingham ac uk/Pharmacy/Research/index2 aspx</ref> 

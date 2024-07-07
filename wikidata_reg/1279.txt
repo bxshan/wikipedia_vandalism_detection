@@ -1,0 +1,15 @@
+-----METADATA
+4429
+140991
+unknown
+15412
+False
+True
+True
+True
+Deprecate [[Template:Sports result table]] for [[Template:MedalistTable]]
+16883
+-----ADDED
+MedalistTable type Event columns MedalistTable type Event columns 
+-----DELETED
+Sports result table !bgcolor e8e8e8 Event: bgcolor gold colspan Gold: bgcolor silver colspan Silver: bgcolor CC9966 colspan Bronze: Sports result table !bgcolor e8e8e8 Event: bgcolor gold colspan Gold: bgcolor silver colspan Silver: bgcolor CC9966 colspan Bronze: 

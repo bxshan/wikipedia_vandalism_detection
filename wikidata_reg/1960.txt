@@ -1,0 +1,15 @@
+-----METADATA
+2021
+77
+female
+15080
+False
+True
+True
+True
+added CFR
+8767
+-----ADDED
+Jagdish Natwarlal Bhagwati born July 26, 1934 is an Indian-American economist and at the at He is well known for his research in International Trade and for his advocacy of He is also resident fellow at the Council on Foreign Relations in New York 
+-----DELETED
+Jagdish Natwarlal Bhagwati born July 26, 1934 is an Indian-American economist and at the at He is well known for his research in International Trade and for his advocacy of 

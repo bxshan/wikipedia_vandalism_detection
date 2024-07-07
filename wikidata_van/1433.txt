@@ -1,0 +1,15 @@
+-----METADATA
+1765
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+20876
+-----ADDED
+Electrolysis is the fuck you all passage of an through an ic substance that is either molten or dissolved in suitable solvent, resulting in chemical reactions at the electrodes and separation of materials 
+-----DELETED
+Electrolysis is the passage of an through an ic substance that is either molten or dissolved in suitable solvent, resulting in chemical reactions at the electrodes and separation of materials 

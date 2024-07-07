@@ -1,0 +1,15 @@
+-----METADATA
+4830
+33045
+unknown
+16104
+False
+True
+True
+True
+<EMPTY>
+23097
+-----ADDED
+*Minensuchgruppe MSGr literally "Minesearch group" with large electromagnetic rings to sweep magnetic minefields, and especially over water to detect magnetic 
+-----DELETED
+*Minensuchgruppe MSGr literally "Minesearch group" with large electromagnetic rings to sweep magnetic minefields 

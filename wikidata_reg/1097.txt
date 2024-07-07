@@ -1,0 +1,15 @@
+-----METADATA
+2067
+30938
+male
+16024
+False
+True
+True
+True
+[[WP:UNDO|Undid]] revision 327489755 by [[Special:Contributions/70.208.22.164|70.208.22.164]] ([[User talk:70.208.22.164|talk]])
+6046
+-----ADDED
+motto Quae sursum sunt Quaerite 
+-----DELETED
+motto Quae sursum smurf Quaerite 

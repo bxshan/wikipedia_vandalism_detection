@@ -1,0 +1,14 @@
+-----METADATA
+2797
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+8697
+-----ADDED
+The Green Bay Packers are the best team in the world! 
+-----DELETED

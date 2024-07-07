@@ -1,0 +1,15 @@
+-----METADATA
+2110
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5053
+-----ADDED
+hello In medicine, body water is all of the content of the significant fraction of the human body is water Lean muscle tissue contains about 99% water by weight Blood contains almost 50% water, body fat contains 1/2% water and bone has 97% water Skin also contains much water The human body is about 60% water in adult males and 55% in adult females 
+-----DELETED
+In medicine, body water is all of the content of the significant fraction of the human body is water Lean muscle tissue contains about 99% water by weight Blood contains almost 50% water, body fat contains 1/2% water and bone has 97% water Skin also contains much water The human body is about 60% water in adult males and 55% in adult females 

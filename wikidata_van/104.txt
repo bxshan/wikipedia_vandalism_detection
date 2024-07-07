@@ -1,0 +1,15 @@
+-----METADATA
+2889
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1366
+-----ADDED
+director bharath producer vishwanathan Story vinoth Screenplay saravanan 
+-----DELETED
+director Prayag Raj producer Ramanathan Story Prayag Raj Screenplay Shukla 

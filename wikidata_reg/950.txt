@@ -1,0 +1,15 @@
+-----METADATA
+1575
+64067
+male
+16556
+False
+True
+True
+True
+Disambiguate [[Darwin]] to [[Darwin, Northern Territory]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]
+11742
+-----ADDED
+satellite of 
+-----DELETED
+satellite of 

@@ -1,0 +1,15 @@
+-----METADATA
+3191
+3152
+male
+14892
+False
+True
+True
+True
+<EMPTY>
+7129
+-----ADDED
+performance indicator Bgcolor "# DDDDDD" Dufaux <ref> http://www luftfahrtmuseum com/htmd/dtf/dufx5 htm The Virtual Aviation Museum: Dufaux accessed on January 2009 </ref> Bgcolor "# DDDDDD" Dufaux <ref name "Dufaux4"/> 
+-----DELETED
+Bgcolor "# DDDDDD" performance indicator Dufaux <ref> http://www luftfahrtmuseum com/htmd/dtf/dufx5 htm The Virtual Aviation Museum: Dufaux accessed on January 2009 </ref> Bgcolor "# DDDDDD" Dufaux <ref name "Dufaux4"/> 

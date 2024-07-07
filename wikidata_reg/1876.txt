@@ -1,0 +1,15 @@
+-----METADATA
+26203
+24702
+male
+16333
+False
+True
+True
+True
+ layout
+47007
+-----ADDED
+!<small>Cathedral</small>!!<small>Archdiocese<br>or Diocese</small>!!<small>Location</small>!!<small>Dedication</small>!!<small>Notes</small>!!<small>Image</small> <br>Cathédrale Saint-Pierre de Saint-Pierre Saint-Pierre-et-Miquelon 
+-----DELETED
+!<small>Cathedral</small>!!<small>Pictures</small>!!<small>Archdiocese<br>or Diocese</small>!!<small>Location</small>!!<small>Dedication</small>!!<small>Notes</small> <br>Cathédrale Saint-Pierre de Saint-Pierre Saint-Pierre-et-Miquelon 

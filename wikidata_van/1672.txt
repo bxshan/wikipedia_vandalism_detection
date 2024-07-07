@@ -1,0 +1,15 @@
+-----METADATA
+2165
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+13441
+-----ADDED
+Daniel Gibsons parents are Byron and Cheryl Gibson <ref name nbabio/> His father Byron played basketball at the University of Houston He is currently dating R&B singer Met Mrch 10th at cavs game No one can seperate them at this point besides their career schedule <ref>Richard Eldredge http://www ajc com/services/content/printedition/2009/05/20/peachbuzz0520 html Peach Buzz Atlanta Journal-Constitution May 20, 2009 Retrieved on May 27, 2009 </ref> 
+-----DELETED
+Daniel Gibsons parents are Byron and Cheryl Gibson <ref name nbabio/> His father Byron played basketball at the University of Houston He is currently dating R&B singer <ref>Richard Eldredge http://www ajc com/services/content/printedition/2009/05/20/peachbuzz0520 html Peach Buzz Atlanta Journal-Constitution May 20, 2009 Retrieved on May 27, 2009 </ref> 

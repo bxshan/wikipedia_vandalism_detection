@@ -1,0 +1,14 @@
+-----METADATA
+1707
+1881
+unknown
+15663
+False
+True
+True
+True
+<EMPTY>
+6573
+-----ADDED
+By road, Kollur can be reached via Shimoga or via Mangalore when coming from Bangalore There are bus services available in these routes Buses are also operated between Kollur and Chennai, Sringeri and Guruvayur 
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+20223
+501362
+male
+16475
+False
+True
+True
+True
+add 2009 CSG template, add 2007-08 NCES enrollment data
+6192
+-----ADDED
+NJSchoolDistrict Manchester Regional High School District superintendent Dr Raymond Kwak businessadmin Andrew Nemec address 70 Church Street<br>Haledon, NJ 07508 website http://www mrhs net schools 775 2007-08 faculty 63 ratio 12 DFG year 2009 graderange 7-12/9-12 enrollrange any number rangecount 47 ind1dist 13052 ind1rank 14 ind1avg 13710 ind2dist 7272 ind2rank 15 ind2avg 7588 ind6dist 1625 ind6rank ind6avg 1987 ind8dist 2301 ind8rank 47 ind8avg 1475 ind10dist 1189 ind10rank ind10avg 1816 ind16dist 58490 ind16rank 21 ind16avg 62000 enrollment faculty ratio address city state zipcode country information website As of the 2007-08 school year, the districts one schools had an enrollment of 775 students and 63 classroom teachers on an basis for of 12 <ref name NCES> http://nces ed gov/ccd/districtsearch/district_detail asp?Search 2&details 1&ID2 3412600&DistrictID 3412600 District information for the Passaic County Manchester School District Accessed November 5, 2009 </ref> Core members of the districts administration are:<ref> http://www state nj us/cgi-bin/education/directory/directory1 pl?string co_code31&maxhits 1000 Passaic County School Directory Accessed November 5, 2009 </ref> *Dr Raymond Kwak, Superintendent *Andrew Nemec, Business Administrator Board Secretary 
+-----DELETED
+5,549 2009-10 faculty 62 on basis <ref name NCES/> ratio 12 3<ref name NCES/> address 70 Church Street city state zipcode 07508 country information 973-389-2820 website http://www mrhs net School website As of the 2005-06 school year, the school had an enrollment of 767 students and 62 classroom teachers on an basis for of 12 <ref name NCES> http://nces ed gov/ccd/schoolsearch/school_list asp?Search 1&DistrictID 3412600 Data for Manchester Regional High School District Accessed </ref> gabbo 

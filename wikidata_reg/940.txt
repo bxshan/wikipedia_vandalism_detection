@@ -1,0 +1,15 @@
+-----METADATA
+1984
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+31426
+-----ADDED
+patronage Dioceses of and s, and 
+-----DELETED
+patronage Dioceses of and 

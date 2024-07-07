@@ -1,0 +1,15 @@
+-----METADATA
+1874
+18545
+unknown
+16353
+False
+True
+True
+True
+<EMPTY>
+3990
+-----ADDED
+cite book last Napier first Susan authorlink Susan Napier title The Worlds of Japanese Popular Culture: Gender, Shifting Boundaries and Global Culture editor Martinez, Dolores origyear 1998 publisher Cambridge University Press isbn 0521631289 chapter Vampires, Psychic Girls, Flying Women and Sailor Scouts 
+-----DELETED
+cite book last Napier first Susan title The Worlds of Japanese Popular Culture: Gender, Shifting Boundaries and Global Culture editor Martinez, Dolores origyear 1998 publisher Cambridge University Press isbn 0521631289 chapter Vampires, Psychic Girls, Flying Women and Sailor Scouts 

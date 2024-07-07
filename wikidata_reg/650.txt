@@ -1,0 +1,14 @@
+-----METADATA
+1896
+153082
+unknown
+16236
+False
+True
+True
+True
+Removed category [[:Category:Monotheism|Monotheism]]; Quick-adding category [[:Category:Historiography of India|Historiography of India]] (using [[WP:HOTCAT|HotCat]])
+3605
+-----ADDED
+
+-----DELETED

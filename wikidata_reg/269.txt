@@ -1,0 +1,15 @@
+-----METADATA
+2253
+14441
+unknown
+15026
+False
+True
+True
+True
+fix
+3715
+-----ADDED
+Eugene "Gene" Coon was long-time of and an influential figure in the Democratic party 
+-----DELETED
+Eugene Coon was long-time of and an influential figure in the Democratic party 

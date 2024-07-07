@@ -1,0 +1,15 @@
+-----METADATA
+3014
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1588
+-----ADDED
+Das Island is an island in the near The Das Islan Airport project is big and marvelous!!It is part of the of but lies well offshore, about convert 100 mi km -1 north-west of the mainland It covers approximately convert 75 mi km by convert mi km and is almost rectangular in shape 
+-----DELETED
+Das Island is an island in the near It is part of the of but lies well offshore, about convert 100 mi km -1 north-west of the mainland It covers approximately convert 75 mi km by convert mi km and is almost rectangular in shape 

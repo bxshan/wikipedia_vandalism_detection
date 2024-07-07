@@ -1,0 +1,15 @@
+-----METADATA
+4571
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+8495
+-----ADDED
+In June 1962, Eunice Kennedy Shriver started day camp, known as Camp Shriver, for children with intellectual disabilities at her home in Using Camp Shriver as an example, Shriver promoted the concept of involvement in physical activity and competition opportunities for people with intellectual disabilities Camp Shriver became an annual event, and the Kennedy Foundation of which Shriver was Executive Vice President gave grants to universities, recreation departments and community centers to hold similar camps 
+-----DELETED
+In June 1962, Eunice Kennedy Shriver started day camp, known as Camp Shriver, for children with intellectual disabilities at her home in Using Camp Shriver as an example, Shriver promoted the concept of involvement in physical activity and competition opportunities for people with intellectual disabilities Camp Shriver became an annual event, and the Kennedy Foundation of which Shriver was Executive Vice President gave grants to universities, recreation departments and community centers to hold similar camps 

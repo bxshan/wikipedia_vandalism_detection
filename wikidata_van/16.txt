@@ -1,0 +1,15 @@
+-----METADATA
+5212
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5851
+-----ADDED
+Pearl City located at ERICA AND HANNAH ARE THE AWESOMEST PPL EVA!!!! coord 42 15 59 89 49 38 city 42 266302, -89 827145 GR According to the the village has total area of ;square miles ;km² of which, ;square ;miles ;km² of it is land and 72% is water WOOT WOOT GO PC!!! 
+-----DELETED
+Pearl City is located at coord 42 15 59 89 49 38 city 42 266302, -89 827145 GR According to the the village has total area of ;square miles ;km² of which, ;square ;miles ;km² of it land and 72% water 

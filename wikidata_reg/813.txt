@@ -1,0 +1,15 @@
+-----METADATA
+14547
+52243
+male
+16011
+False
+True
+True
+True
+ moved claim to habitat
+34005
+-----ADDED
+The belief that wading into shallow water would help proto-humans avoid dry-land predation discounts the risks presented by aquatic animals such as and hippopotami that present current risk Africans living near bodies of water,<ref Vanstrum2003> cite book author Vanstrum GS title The saltwater wilderness publisher location Oxford Oxfordshire year 2003 pages http://books google com/books?id qIvN0CboSb8C&pg PA95 95 isbn 0-19-515937-3 oclc doi accessdate </ref> and that protohumans lacked the fangs, claws or size defend themselves from these threats Jablonski2008> cite book author Jablonski, Nina title Skin natural history publisher location Berkeley year 2008 pages http://books google com/books?id EYi9S3VtIGsC&pg PA40 40–2 isbn 0-520-25624-7 oclc doi accessdate </ref> In addition, 
+-----DELETED
+The belief that wading into shallow water would help proto-humans avoid dry-land predation discounts the risks presented by aquatic animals such as and hippopotami that present current risk to Africans living near bodies of water,<ref name Vanstrum2003> cite book author Vanstrum GS title The saltwater wilderness publisher location Oxford Oxfordshire year 2003 pages http://books google com/books?id qIvN0CboSb8C&pg PA95 95 isbn 0-19-515937-3 oclc doi accessdate </ref> and that protohumans lacked the fangs, claws or size to defend themselves from these threats <ref name Jablonski2008> cite book author Jablonski, Nina title Skin natural history publisher location Berkeley year 2008 pages http://books google com/books?id EYi9S3VtIGsC&pg PA40 40–2 isbn 0-520-25624-7 oclc doi accessdate </ref> Immunity 

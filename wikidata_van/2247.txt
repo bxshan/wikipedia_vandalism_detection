@@ -1,0 +1,15 @@
+-----METADATA
+3558
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+41656
+-----ADDED
+spyware is not virus Many early infectious programs, including the first and number of were written as experiments or pranks generally intended to be harmless or merely annoying rather than to cause serious damage to computers In some cases the perpetrator did not realize how much harm their creations could do Young learning about viruses and the techniques wrote them for the sole purpose that they could or to see how far it could spread As late as 1999, widespread viruses such as the appear to have been written chiefly as pranks 
+-----DELETED
+Many early infectious programs, including the first and number of were written as experiments or pranks generally intended to be harmless or merely annoying rather than to cause serious damage to computers In some cases the perpetrator did not realize how much harm their creations could do Young learning about viruses and the techniques wrote them for the sole purpose that they could or to see how far it could spread As late as 1999, widespread viruses such as the appear to have been written chiefly as pranks 

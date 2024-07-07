@@ -1,0 +1,15 @@
+-----METADATA
+4198
+36527
+unknown
+15873
+False
+True
+True
+True
+ miscellaneous clean-ups and corrections
+12988
+-----ADDED
+In addition to Facebook, Thiel has made early-stage investments in numerous startups, including Palantir Technologies, Joyent and Slide, LinkedIn, Yelp, Geni com, and Yammer were each founded by colleagues of Thiel’s from PayPal: Slide by Linkedin by Yelp by Jeremy Stoppelman, Geni com and Yammer by David Sacks Fortune magazine reports that PayPal alumni have founded or invested in dozens of startups with an aggregate value of around $30 billion In Silicon Valley circles, Thiel is colloquially referred to as the "Don of the PayPal Mafia", as noted in the Fortune magazine article <ref> Cite web 
+-----DELETED
+In addition to Facebook, Thiel has made early-stage investments in numerous startups, including Palantir Technologies, Joyent and Slide, LinkedIn, Yelp, Geni com, and Yammer were each founded by colleagues of Thiel’s from PayPal: Slide by Linkedin by Yelp by Jeremy Stoppleman, Geni com and Yammer by David Sacks Fortune magazine reports that PayPal alumni have founded or invested in dozens of startups with an aggregate value of around $30 billion In Silicon Valley circles, Thiel is colloquially referred to as the "Don of the PayPal Mafia", as noted in the Fortune magazine article <ref> Cite web 

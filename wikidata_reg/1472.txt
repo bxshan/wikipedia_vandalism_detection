@@ -1,0 +1,15 @@
+-----METADATA
+1729
+44218
+male
+15266
+False
+True
+True
+True
+[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Syracuseman|Syracuseman]] ([[User talk:Syracuseman|talk]]) to last version by JAnDbot
+23996
+-----ADDED
+name Hideki Tōjō<br><small>東條 英機</small><br><small>東条 英機</small> 
+-----DELETED
+name Hideki "Hey found some loose change under my couch" Tōjō<br><small>東條 英機</small><br><small>東条 英機</small> 

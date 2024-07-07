@@ -1,0 +1,14 @@
+-----METADATA
+3874
+69709
+male
+15157
+False
+True
+True
+True
+Turkey subsection added
+69576
+-----ADDED
+Main Metropolitan centers in Turkey There is no legal definition of city in Turkey Older definition which defines the city as settlement with more than 20 000 inhabitants is out of use and city is usually defined as the administrative center of province lang-tr il There are 81 provencial centers in Turkey However some of the district centers lang-tr ilçe are more populous and more developed than the provencial centers But in 1984 the metropolitan center concept was introduced lang-tr Büyükşehir According to definition revised as of 2004 metropolitan center is city with more than 750 000 inhabitants At present 16 of the provencial centers are metropolitan centers 
+-----DELETED

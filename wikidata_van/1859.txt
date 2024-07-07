@@ -1,0 +1,15 @@
+-----METADATA
+2815
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+24562
+-----ADDED
+&ndash; orders troops into && Niels was born hehe 
+-----DELETED
+&ndash; orders troops into 

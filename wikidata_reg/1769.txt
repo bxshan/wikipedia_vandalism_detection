@@ -1,0 +1,14 @@
+-----METADATA
+5893
+4
+unknown
+14830
+False
+False
+False
+False
+<EMPTY>
+9180
+-----ADDED
+class "wikitable" colspan "10" align "center" Pre-draft measureables !Wt ALIGN "center" 198 lb* ALIGN "center" 52s* ALIGN "center" 23* ALIGN "center" 87* ALIGN "center" 29 in ALIGN "center" 17* ALIGN "center" <ref> http://www cbssports com/nfl/draft/players/1243187 </ref> 
+-----DELETED

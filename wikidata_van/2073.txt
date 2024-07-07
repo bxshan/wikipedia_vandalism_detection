@@ -1,0 +1,15 @@
+-----METADATA
+5906
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+29509
+-----ADDED
+th\is is stupid 
+-----DELETED
+Variable blade pitch, which gives the turbine blades the optimum angle of attack Allowing the angle of attack to be remotely adjusted gives greater control, so the turbine collects the maximum amount of wind energy for the time of day and season The tall tower base allows access to stronger wind in sites with In some wind shear sites, every ten meters up, the by 20% and the power output by 34% High efficiency, since the blades always move perpendicularly to the wind, receiving power through the whole rotation In contrast, all vertical axis wind turbines, and most proposed designs, involve various types of reciprocating actions, requiring airfoil surfaces to backtrack against the wind for part of the cycle Backtracking against the wind leads to inherently lower efficiency The face of horizontal axis blade is struck by the wind at consistent angle regardless of the position in its rotation This results in consistent lateral wind loading over the course of rotation, reducing vibration and audible noise coupled to the tower or mount 

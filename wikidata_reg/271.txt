@@ -1,0 +1,15 @@
+-----METADATA
+8739
+61620
+unknown
+16042
+False
+True
+True
+True
+<EMPTY>
+8830
+-----ADDED
+As of November 25, the death toll has risen to 57, as confirmed by Chief Superintendent Josefino Cataluna of the <ref> cite news url http://news yahoo com/s/ap/as_philippines_hostages_killed;_ylt AuUyadBdAZBDSdHnXGEJBLes0NUE;_ylu X3oDMTNnN2Jucmw0BGFzc2V0A2FwLzIwMDkxMTI1L2FzX3BoaWxpcHBpbmVzX2hvc3RhZ2VzX2tpbGxlZARjcG9zAzQEcG9zAzEEcHQDaG9tZV9jb2tlBHNlYwN5bl9oZWFkbGluZV9saXN0BHNsawM1bW9yZWJvZGllc3U- title more bodies uncovered in Philippine massacre date November 25, 2009 publisher accessdate 25 November 2009 </ref> announced that at least 12 of the victims were journalists, making this the deadliest such incident in the history of news media <ref> cite web url http://www rsf org/spip php?page article&id_article 35061 title Twelve journalists killed on Mindanao island in "dark day for press freedom" author date 2009-11-23 work Press Freedom Index publisher Reporters without Borders accessdate 2009-11-24 </ref> The estimates that total of 20 journalists were killed, including an undisclosed number of NUJP members <ref name "52 abs-cbn" /> The later updated the number to 34 <ref name philinquirer/> 
+-----DELETED
+As of November 25, the death toll has risen to 57, as confirmed by Chief Superintendent Josefino Cataluna of the <ref> cite news url http://news yahoo com/s/ap/as_philippines_hostages_killed;_ylt AuUyadBdAZBDSdHnXGEJBLes0NUE;_ylu X3oDMTNnN2Jucmw0BGFzc2V0A2FwLzIwMDkxMTI1L2FzX3BoaWxpcHBpbmVzX2hvc3RhZ2VzX2tpbGxlZARjcG9zAzQEcG9zAzEEcHQDaG9tZV9jb2tlBHNlYwN5bl9oZWFkbGluZV9saXN0BHNsawM1bW9yZWJvZGllc3U- title more bodies uncovered in Philippine massacre date November 25, 2009 publisher accessdate 25 November 2009 </ref> announced that at least 12 of the victims were journalists, making this the deadliest such incident in the history of news media <ref> cite web url http://www rsf org/spip php?page article&id_article 35061 title Twelve journalists killed on Mindanao island in "dark day for press freedom" author date 2009-11-23 work Press Freedom Index publisher Reporters without Borders accessdate 2009-11-24 </ref> The estimates that total of 20 journalists were killed, including an undisclosed number of NUJP members <ref name "52 abs-cbn" /> 

@@ -1,0 +1,15 @@
+-----METADATA
+3788
+259
+male
+15205
+False
+True
+True
+True
+<EMPTY>
+74261
+-----ADDED
+282 <ref name Favres losing track> cite web url http://profootballtalk nbcsports com/2009/11/26/favre-losing-track-of-all-the-records-hes-setting/ </ref> 
+-----DELETED
+282 <ref name Favres losing track> cite web url http://profootballtalk nbcsports com/2009/11/26/favre-losing-track-of-all-the-records-hes-setting/ 

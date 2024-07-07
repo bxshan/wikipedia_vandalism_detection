@@ -1,0 +1,15 @@
+-----METADATA
+1713
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+35373
+-----ADDED
+In 1997, inspired by the franchise-management game Electronic Arts added Franchise Mode to Madden, giving players the ability to play multiple seasons, make off-season draft picks, and trade players Yes 
+-----DELETED
+In 1997, inspired by the franchise-management game Electronic Arts added Franchise Mode to Madden, giving players the ability to play multiple seasons, make off-season draft picks, and trade players 

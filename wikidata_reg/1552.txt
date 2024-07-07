@@ -1,0 +1,15 @@
+-----METADATA
+2641
+6802
+unknown
+16654
+False
+True
+True
+True
+raw numbers
+3174
+-----ADDED
+strength1 "Shirer746"/><br> 40,000 men strength2 infantry divisions,<br>3 armoured divisions<ref name "Shirer746"/><br> 110,000 men, 800 tanks 
+-----DELETED
+strength1 divisions<ref name "Shirer746"/> strength2 infantry divisions,<br>3 armoured "Shirer746"/> 

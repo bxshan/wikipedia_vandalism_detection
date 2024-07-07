@@ -1,0 +1,15 @@
+-----METADATA
+2715
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2371
+-----ADDED
+in his historical account of the prison camps of the Soviet Union, the engineer Nikolai Karlovich von Meck, who advised carrying heavier-than-average loads on freight trains for the betterment of the economy, was shot as wrecker,being accused of having overloaded the trains for the purpose of wearing out the rails faster <ref>* Solzhenitsyn, Aleksandr 1973 The Gulag Archipelago, pp 44&ndash;45 1st ed Harper Row ISBN 0-06-080332-0 </ref> 
+-----DELETED
+in his book features an engineer Nikolai Karlovich von Meck, who advised carrying heavier-than-average loads on freight trains for the betterment of the economy According the books plot he was shot as wrecker, accused of overloading the trains for the purpose of wearing out the rails faster <ref>* Solzhenitsyn, Aleksandr 1973 The Gulag Archipelago, pp 44&ndash;45 1st ed Harper Row ISBN 0-06-080332-0 </ref> 

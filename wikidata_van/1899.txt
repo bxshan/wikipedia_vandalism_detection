@@ -1,0 +1,15 @@
+-----METADATA
+2924
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+12924
+-----ADDED
+Olga Kostyantynivna Kurylenko lang-uk Ольга Костянтинівна Куриленко born November 14, 1979 is fit and an and She is perhaps best known as the in the 22nd film, She also portrayed in the of the Born in she became in 2001 
+-----DELETED
+Olga Kostyantynivna Kurylenko lang-uk Ольга Костянтинівна Куриленко born November 14, 1979 is an and She is perhaps best known as the in the 22nd film, She also portrayed in the of the Born in she became in 2001 

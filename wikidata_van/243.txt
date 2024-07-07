@@ -1,0 +1,15 @@
+-----METADATA
+2921
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+44150
+-----ADDED
+"background-color:#FFD12A" Banana style "background-color:#4F86F7" Blueberry yum yum style "background-color:#DA2647; color:white" Cherry like olivia 
+-----DELETED
+style "background-color:#FFD12A" Banana "background-color:#4F86F7" Blueberry style "background-color:#DA2647; color:white" Cherry 

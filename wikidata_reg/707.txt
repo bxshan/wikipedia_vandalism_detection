@@ -1,0 +1,15 @@
+-----METADATA
+5080
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+5003
+-----ADDED
+date February 10, 1981 The 33rd was held in in home to the on February 10, 1981 cite book title The NHL All-Star Game: 50 years of tradition last Podnieks first Andrew pages 167–171 year 2000 publisher HarperCollins location Toronto isbn 000200058X 
+-----DELETED
+date The 33rd was held in in home to the on cite book title The NHL All-Star Game: 50 years of tradition last Podnieks first Andrew pages pp 167–171 year 2000 publisher HarperCollins location Toronto isbn 000200058X 

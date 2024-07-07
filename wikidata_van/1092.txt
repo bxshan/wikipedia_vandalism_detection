@@ -1,0 +1,15 @@
+-----METADATA
+7140
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+20518
+-----ADDED
+
+-----DELETED
+Steam turbines are made in variety of sizes ranging from small hp 75 ;kW units rare used as mechanical drives for pumps, compressors and other shaft driven equipment, to 2,000,000 hp 1,500,000 ;kW turbines used to generate electricity There are several classifications for modern steam turbines These types include condensing, noncondensing, reheat, extraction and induction Noncondensing or backpressure turbines are most widely used for process steam applications The exhaust pressure is controlled by regulating valve to suit the needs of the process steam pressure These are commonly found at refineries, district heating units, pulp and paper plants, and facilities where large amounts of low pressure process steam are available Condensing turbines are most commonly found in electrical power plants These turbines exhaust steam in partially condensed state, typically of near 90%, at pressure well below atmospheric to condenser Reheat turbines are also used almost exclusively in electrical power plants In reheat turbine, steam flow exits from high pressure section of the turbine and is returned to the boiler where additional superheat is added The steam then goes back into an intermediate pressure section of the turbine and continues its expansion Extracting type turbines are common in all applications In an extracting type turbine, steam is released from various stages of the turbine, and used for industrial process needs or sent to boiler to improve overall cycle efficiency Extraction flows may be controlled with valve, or left uncontrolled Induction turbines introduce low pressure steam at an intermediate stage to produce additional power These arrangements include single casing, tandem compound and cross compound turbines Single casing units are the most basic style where single casing and shaft are coupled to generator Tandem compound are used where two or more casings are directly coupled together to drive single generator cross compound turbine arrangement features two or more shafts not in line driving two or more generators that often operate at different speeds cross compound turbine is typically used for many large applications 

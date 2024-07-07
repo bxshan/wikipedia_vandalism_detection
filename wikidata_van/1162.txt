@@ -1,0 +1,14 @@
+-----METADATA
+1508
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1342
+-----ADDED
+and is home to matthew husseman 
+-----DELETED

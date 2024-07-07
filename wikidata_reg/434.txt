@@ -1,0 +1,15 @@
+-----METADATA
+3884
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3825
+-----ADDED
+Copper was first discovered on virgin gorda in the 17th century by the Dutch, but they were never able to successfully exploit it Local legends also suggest the shafts were originally dug by Spanish adventurers to mine silver in the late fifteenth century, but no documentary evidence can be found to support this theory, and no firm evidence of Spanish occupation of the islands prior to the Dutch settlement exists, much less the size of settlement which would be needed to sink shafts 
+-----DELETED
+Copper was first discovered on jimmyville in the 17th century by the Dutch, but they were never able to successfully exploit it Local legends also suggest the shafts were originally dug by Spanish adventurers to mine silver in the late fifteenth century, but no documentary evidence can be found to support this theory, and no firm evidence of Spanish occupation of the islands prior to the Dutch settlement exists, much less the size of settlement which would be needed to sink shafts 

@@ -1,0 +1,15 @@
+-----METADATA
+6137
+37
+unknown
+15332
+False
+True
+True
+True
+ Added a statement to clarify PB views
+13759
+-----ADDED
+Primitive Baptist believe that direct hearing and interaction with the Gospel is not essential for Salvation <ref>http://www pbpage org/html/extgspl</ref> Among such cases are elect persons that die in infancy, are mentally deficient, or are in regions where the gospel is not preached <br /> 
+-----DELETED
+Primitive Baptist believe that direct hearing and interaction with the Gospel is not essential for Salvation <br /> 

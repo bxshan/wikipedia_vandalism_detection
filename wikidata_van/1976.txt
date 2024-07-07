@@ -1,0 +1,15 @@
+-----METADATA
+2102
+0
+unknown
+0
+True
+False
+False
+False
+added one shop that was missing
+6131
+-----ADDED
+Kilcoole is home to shops such as Tesco Express,Eurosave,Gerry Mitchell family butchers,Away with the fairies cards and gifts,The Alley barber,Wicklow homes,Nickys Vegetable Shop,Creative Touch,condompower,Cool cuts Barber,Kilcoole Pharmacy,Reflections,Mc Sherrys Pharmacy,Flower Power,Bellas Bubbles Dry Cleaners,The Golf Shop,Kilcoole Animal Hospital,Spencers Bookmakers,Topaz,Centra,Lv Hairdressers,EnvyHairdressers,The Body Shop Mechanics and Bomar 
+-----DELETED
+Kilcoole is home to shops such as Tesco Express,Eurosave,Gerry Mitchell family butchers,Away with the fairies cards and gifts,The Alley barber,Wicklow homes,Nickys Vegetable Shop,Creative Touch,Cool cuts Barber,Kilcoole Pharmacy,Reflections,Mc Sherrys Pharmacy,Flower Power,Bellas Bubbles Dry Cleaners,The Golf Shop,Kilcoole Animal Hospital,Spencers Bookmakers,Topaz,Centra,Lv Hairdressers,EnvyHairdressers,The Body Shop Mechanics and Bomar 

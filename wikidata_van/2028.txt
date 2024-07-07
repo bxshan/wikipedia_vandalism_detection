@@ -1,0 +1,15 @@
+-----METADATA
+1406
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+25111
+-----ADDED
+500,000,000 
+-----DELETED
+2,746 

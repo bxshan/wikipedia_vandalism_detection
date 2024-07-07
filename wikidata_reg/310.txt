@@ -1,0 +1,15 @@
+-----METADATA
+2031
+13730
+male
+16697
+False
+True
+True
+True
+Reverted 2 edits by [[Special:Contributions/96.246.13.226|96.246.13.226]]. ([[WP:TW|TW]])
+110895
+-----ADDED
+leader1 
+-----DELETED
+leader1 

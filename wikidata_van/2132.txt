@@ -1,0 +1,15 @@
+-----METADATA
+2771
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+35281
+-----ADDED
+Subaru is internationally know for their use of in most of their vehicles above 1500cc as well as their proponence of the drivetrain layout, which became standard in most international markets as of 1996 They also offer many versions of their passenger cars, such as the 
+-----DELETED
+Subaru is internationally known for their use of in most of their vehicles above 1500cc as well as their proponence of the drivetrain layout, which became standard in most international markets as of 1996 They also offer many versions of their passenger cars, such as the 

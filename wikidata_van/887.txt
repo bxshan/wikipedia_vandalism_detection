@@ -1,0 +1,15 @@
+-----METADATA
+4439
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+17892
+-----ADDED
+The computer language created on behalf of the was named after Lovelace The reference manual for the language was approved on 10 December 1980, and the for the language, "MIL-STD-1815", was given the number of the year of her birth RRRAAAAPPPPEEEE In addition Lovelaces image can be seen on the product authenticity stickers Citation needed date May 2008 Since 1998, the has awarded in her name<ref> http://www bcs org/server php?show nav 5822 Lovelace Lecture Medal BCS Accessed March 2008</ref> and in 2008 initiated an annual competition for women students of computer science <ref> http://www comp leeds ac uk/bcswomen Undergraduate Lovelace Colloquium, BCSWomen Accessed March 2008</ref> 
+-----DELETED
+The computer language created on behalf of the was named after Lovelace The reference manual for the language was approved on 10 December 1980, and the for the language, "MIL-STD-1815", was given the number of the year of her birth In addition Lovelaces image can be seen on the product authenticity stickers Citation needed date May 2008 Since 1998, the has awarded in her name<ref> http://www bcs org/server php?show nav 5822 Lovelace Lecture Medal BCS Accessed March 2008</ref> and in 2008 initiated an annual competition for women students of computer science <ref> http://www comp leeds ac uk/bcswomen Undergraduate Lovelace Colloquium, BCSWomen Accessed March 2008</ref> 

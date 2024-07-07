@@ -1,0 +1,15 @@
+-----METADATA
+3787
+41040
+unknown
+15871
+False
+True
+True
+True
+<EMPTY>
+1304
+-----ADDED
+Hyperfinite sets may be used to approximate other sets, where approximation in this context is considered to be minimisation of Such hyperfinite sets are called near intervals Consider hyperfinite set <math>K k_1,k_2, \dots k_n </math> with hypernatural is near interval for a,b if k<sub>1</sub> and k<sub>n</sub> and if the difference between successive elements of is infinitesimal 
+-----DELETED
+Hyperfinite sets may be used to approximate other sets, where approximation in this context is considered to be minimisation of Such hyperfinite sets are called near intervals Consider hyperfinite set <math>K k_1,k_2, \dots k_n </math> with hypernatural is near interval for a,b if k<sub>1</sub> and k<sub>n</sub> and if the difference between successive elements of is infinitesimal 

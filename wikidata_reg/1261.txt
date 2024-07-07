@@ -1,0 +1,15 @@
+-----METADATA
+4860
+14897
+unknown
+15053
+False
+True
+True
+True
+ game 22
+40775
+-----ADDED
+colspan 11 style "background:#E31937; color: #FFFFFF;" November: 3–5–0 Home: 1–3–0 Road: 2–2–0 align "center" bgcolor "#FFBBBB" 22 November 21 Lundqvist 18,200 11-10-1 23 http://rangers nhl com/club/recap htm?id 2009020317 
+-----DELETED
+colspan 11 style "background:#E31937; color: #FFFFFF;" November: 3–4–0 Home: 1–2–0 Road: 2–2–0 align "center" bgcolor 22 November 21 

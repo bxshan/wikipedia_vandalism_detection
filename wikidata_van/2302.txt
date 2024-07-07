@@ -1,0 +1,15 @@
+-----METADATA
+3099
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+21032
+-----ADDED
+is ofte reinforced by allophonic vowel length, especially when it is lexical For example, long vowels always occur on stressed syllables language with two phonemic lengths, indicates the stress by adding allophonic length This gives four distinctive lengths and five physical lengths: short and long stressed vowels, short and long unstressed vowels, and half-long vowel, which is short vowel found in syllable immediately preceded by stressed short vowel, i-so 
+-----DELETED
+is often reinforced by allophonic vowel length, especially when it is lexical For example, long vowels always occur on stressed syllables language with two phonemic lengths, indicates the stress by adding allophonic length This gives four distinctive lengths and five physical lengths: short and long stressed vowels, short and long unstressed vowels, and half-long vowel, which is short vowel found in syllable immediately preceded by stressed short vowel, i-so 

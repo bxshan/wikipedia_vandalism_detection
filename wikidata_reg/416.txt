@@ -1,0 +1,15 @@
+-----METADATA
+3496
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7749
+-----ADDED
+Hertford is town in The population was 2,070 at the 2000 census It is the of GR Hertford is located in North Carolinas region The counter terrorism training facility known as is located near Hertford It is named after the county town of 
+-----DELETED
+Hertford is town in The population was 2,070 at the 2000 census It is the of GR Hertford is located in North Carolinas region The counter terrorism training facility known as is located near Hertford 

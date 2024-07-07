@@ -1,0 +1,15 @@
+-----METADATA
+1734
+46451
+male
+16346
+False
+True
+True
+True
+updating article title
+781
+-----ADDED
+born 1945 former Speaker of the House of Commons in the United Kingdom 
+-----DELETED
+born 1945 former Speaker of the House of Commons in the United Kingdom 

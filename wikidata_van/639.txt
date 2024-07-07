@@ -1,0 +1,15 @@
+-----METADATA
+3910
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+26547
+-----ADDED
+HiMachu Picchu was constructed around 1462, at the height of the Inca Empire Citation needed November 2009 date November 2009 It was abandoned less than 100 years later It is likely that most of its inhabitants were wiped out by before the arrived in the area, and there is no record of the Spanish having known of the remote city One theory about the purpose of the citadel, by Hiram Bingham, is that it was the traditional birthplace of the Inca of the "Virgins of the Suns" <ref>Bingham, Inca Land:Explorations in the Highlands of Peru, 334</ref> 
+-----DELETED
+Machu Picchu was constructed around 1462, at the height of the Inca Empire Citation needed November 2009 date November 2009 It was abandoned less than 100 years later It is likely that most of its inhabitants were wiped out by before the arrived in the area, and there is no record of the Spanish having known of the remote city One theory about the purpose of the citadel, by Hiram Bingham, is that it was the traditional birthplace of the Inca of the "Virgins of the Suns" <ref>Bingham, Inca Land:Explorations in the Highlands of Peru, 334</ref> 

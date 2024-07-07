@@ -1,0 +1,15 @@
+-----METADATA
+7484
+0
+unknown
+0
+True
+False
+False
+False
+Mushrooms-present tense
+20315
+-----ADDED
+twelve-year-boy is injured his infant brother is killed by gunshots The investigation reveals children were accidental victims hit ordered by against real estate broker Tragically, murders prove be result an adolescent gunman who knew more about operating an automatic weapon than about reading ShortSummary Stone faces Texas cowboy lawyer and hostile community as he tries to prosecute young man accused of murdering drug dealer He discovers two truths-that the drug dealer raped the defendants sister, and that the community views the murder as retribution ShortSummary businessman and his wife are murdered, and initially, the couples two sons are treated as suspects As the investigation develops, detectives discover that, in order to obtain financing for his business, the man took on partner who was connected to Russian organized crime 
+-----DELETED
+ShortSummary twelve-year-boy is injured and his infant brother is killed by gunshots The investigation reveals the children were the accidental victims of hit ordered by drug dealer against real estate broker Tragically, the murders were the result of an adolescent gunman who knew more about operating an automatic weapon than about reading Stone faces Texas cowboy lawyer hostile community as he tries prosecute young man accused murdering for raping mans sister ShortSummary businessman and his wife are killed The couples two sons emerge as the most likely suspects, but detectives later find business ties to the Russian mob 

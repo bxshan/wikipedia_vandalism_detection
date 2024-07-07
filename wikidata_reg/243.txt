@@ -1,0 +1,15 @@
+-----METADATA
+4860
+77961
+male
+16153
+False
+True
+True
+True
+fix tables
+33576
+-----ADDED
+class wikitable 
+-----DELETED
+border align "right" 

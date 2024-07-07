@@ -1,0 +1,15 @@
+-----METADATA
+7330
+19188
+male
+16141
+False
+True
+True
+True
+ mv probability to new section
+74267
+-----ADDED
+
+-----DELETED
+The many worlds interpretation has, controversially, been seen by some as offering the possibility of deriving the and the appearance of quantum probabilities from simpler assumptions In fact, this was first attempted by Everett and DeWitt in the 1950s In September 2007 conference<ref> http://www perimeterinstitute ca/manyworlds/ Perimeter Institute, Many worlds at 50 conference, September 21-24, 2007 </ref> reported on what is claimed to be proof by and himself of the starting from assumptions <ref> http://www perimeterinstitute ca/index php?option com_content&task view&id 50&Itemid 83&lecture_id 6167 Perimeter Institute, Seminar overview, Probability in the Everett interpretation: state of play, David Wallace Oxford University, 21 Sept 2007 </ref> The status of these arguments remains highly controversial It is fair to say that some theoretical physicists have taken them as supporting the case for parallel universes <ref> http://www breitbart com/article php?id paUniverse_sun14_parallel_universes&show_article 1&cat Breitbart com, Parallel universes exist study, Sept 23 2007 </ref> 

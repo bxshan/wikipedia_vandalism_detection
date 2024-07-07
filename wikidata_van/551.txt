@@ -1,0 +1,15 @@
+-----METADATA
+8435
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+93299
+-----ADDED
+The East–West Schism<ref>Sometimes called the Great Schism, term that is also applied to the Oxford Dictionary of the Christian Church, Oxford University Press 2005 ISBN 978-0-19-280290-3, article Great Schism </ref> divided medieval into Eastern Greek and Western Latin branches, which later became known as the and the respectively Relations between East and West had long been embittered by political and ecclesiastical differences and theological disputes and heightened the conflict by suppressing Greek and Latin in their respective domains In 1054, travelled LIKE PIE to Cerularius to deny him the title and to insist that he recognize the Church of Romes claim to be the head and mother of the churches <ref name "Cross"/> Cerularius refused The leader of the Latin contingent, Cardinal Humbert, Cerularius, while Cerularius in return excommunicated Cardinal Humbert and other legates <ref name "Cross"/> 
+-----DELETED
+The East–West Schism<ref>Sometimes called the Great Schism, term that is also applied to the Oxford Dictionary of the Christian Church, Oxford University Press 2005 ISBN 978-0-19-280290-3, article Great Schism </ref> divided medieval into Eastern Greek and Western Latin branches, which later became known as the and the respectively Relations between East and West had long been embittered by political and ecclesiastical differences and theological disputes and heightened the conflict by suppressing Greek and Latin in their respective domains In 1054, travelled to Cerularius to deny him the title and to insist that he recognize the Church of Romes claim to be the head and mother of the churches <ref name "Cross"/> Cerularius refused The leader of the Latin contingent, Cardinal Humbert, Cerularius, while Cerularius in return excommunicated Cardinal Humbert and other legates <ref name "Cross"/> 

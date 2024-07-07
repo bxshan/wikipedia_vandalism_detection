@@ -1,0 +1,15 @@
+-----METADATA
+1764
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+48262
+-----ADDED
+rowspan "3" grammy 2010 rowspan "2" "" Best Rock Song 
+-----DELETED
+rowspan "3" grammy 2009 rowspan "2" "" Best Rock Song 

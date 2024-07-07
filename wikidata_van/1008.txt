@@ -1,0 +1,15 @@
+-----METADATA
+2359
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5926
+-----ADDED
+Waka IPA-en ˈwɒkə are watercraft, usually ranging in size from small, unornamented canoes waka tīwai used for fishing and river travel, to large decorated war canoes waka taua up to convert 40 ft long In recent years, large double-hulled canoes of considerable size have been constructed for oceanic voyaging to other parts of the <ref>The plural is also waka Similar craft are encountered elsewhere in Polynesia, with names such as vaka, waa, or vaa</ref> 
+-----DELETED
+Waka IPA-en ˈwɒkə are watercraft, usually ranging in size from small, unornamented canoes waka tīwai used for fishing and river travel, to large decorated war canoes waka taua up to convert 40 ft long In recent years, large double-hulled canoes of considerable size have been constructed for oceanic voyaging to other parts of the <ref>The plural is also waka Similar craft are encountered elsewhere in Polynesia, with names such as vaka, waa, or vaa</ref> 

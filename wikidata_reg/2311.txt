@@ -1,0 +1,15 @@
+-----METADATA
+1746
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+35994
+-----ADDED
+*An Enemy of the People 1950, based on Henrik Ibsens play 
+-----DELETED
+1950, based on Henrik Ibsens play An Enemy of the People 

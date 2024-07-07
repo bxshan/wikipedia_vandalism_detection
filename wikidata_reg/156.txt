@@ -1,0 +1,15 @@
+-----METADATA
+2323
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+52655
+-----ADDED
+*On November 22, 2009, 15 month old toddler falls to his death from open area in the departure level to the arrivals level below 
+-----DELETED
+*In November 2009 15 month old toddler falls to his death from open area in the departure level to the arrivals level below 

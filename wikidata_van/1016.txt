@@ -1,0 +1,15 @@
+-----METADATA
+3514
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+49324
+-----ADDED
+locations production locations:<ehrahreahrtah/><small>Germany:</small><br />Ingolstadt ;<br /><small>:</small> ;<br /><small>:</small> ;;<br /><small>:</small> ;<br /><small>:</small> they are german hgruhgbouhowu 
+-----DELETED
+locations production locations:<br /><small>Germany:</small><br />Ingolstadt ;<br /><small>:</small> ;<br /><small>:</small> ;;<br /><small>:</small> ;<br /><small>:</small> 

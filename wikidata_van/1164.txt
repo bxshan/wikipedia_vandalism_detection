@@ -1,0 +1,15 @@
+-----METADATA
+1823
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2599
+-----ADDED
+The two most popular people in the town are named Brendan and David they are so cool 
+-----DELETED
+The two most popular people in the town are named Brendan and David they are so cool,, no we arent we are nobodys, aaron is the popular one 

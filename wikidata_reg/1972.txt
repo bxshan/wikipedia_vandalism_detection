@@ -1,0 +1,15 @@
+-----METADATA
+7236
+14043
+unknown
+15570
+False
+True
+True
+True
+<EMPTY>
+4452
+-----ADDED
+Hide header Header caption displacement 1,100 ;tons length convert 300 ft abbr on convert 312 ft abbr on beam convert 26 75 ft abbr on draught convert ft abbr on standard, convert 11 25 ft abbr on in deep propulsion Yarrow type Water-tube boilers<br>Brown-Curtis steam turbines<br>2 shafts<br>27,000 ;shp Ship speed convert 34 kn lk on Ship range 320-370 ;tons oil, convert 3500 nmi km abbr on at convert 15 kn lk on convert 900 nmi km abbr on at convert 32 kn lk on Ship complement 110 mount Mk or; ** 76 mm mount HA Mk II 2x3 tubes for 21 in es 
+-----DELETED
+Ship class Ship displacement Ship length Ship beam draught Ship propulsion speed Ship range complement Ship sensors EW Ship armour notes 

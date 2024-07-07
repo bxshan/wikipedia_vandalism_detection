@@ -1,0 +1,15 @@
+-----METADATA
+4301
+15237
+unknown
+15984
+False
+True
+True
+True
+This is a working draft of an expanded lede that is in-line with the size of the article. Please edit and comment on in talk page.
+65035
+-----ADDED
+Haplogroup R1a R1a is the name given to major human within R1a, as haplogroup, is clustering of similar human Y-chromosome types based upon unique set shared that are consequence of R1a is one of the most frequent Y-DNA haplogroups found in certain parts of such as Western and Southern R1a is found commonly across wide geographic area extending from to to 
+-----DELETED
+Haplogroup R1a R1a is the name given to major human within R1a, as haplogroup, is clustering of similar human Y-chromosome types based upon unique set shared that are consequence of R1a is one of the most frequent Y-DNA haplogroups found in certain parts of such as Western and Southern R1a is found commonly across wide geographic area extending from to and 

@@ -1,0 +1,15 @@
+-----METADATA
+5378
+172999
+unknown
+16194
+False
+True
+True
+True
+ delink dates
+87707
+-----ADDED
+com/scienceastronomy/planetearth/extinction_permian_000907 Lee Siegel, "Rocks Reveal Details of Extinction" Based on sciencemag org/cgi/content/abstract/289/5485/1740 Peter Ward, David Montgomery, Roger Smith, "Altered River Morphology in South Africa Related the Permian–Triassic Extinction", in Science September 2000 http://www space com/scienceastronomy/060601_big_crater html Giant Crater Found: Tied to Worst Mass Extinction Ever Robert Roy Britt SPACE com June 2006 06:07 ET http://www space com/scienceastronomy/planetearth/extinction_permian_000907 html Rocks Reveal Details of Mass Extinction Lee Siegel SPACE com 02:44 ET September 2000 
+-----DELETED
+http://www space com/scienceastronomy/planetearth/extinction_permian_000907 html Lee Siegel, "Rocks Reveal Details of Mass Extinction" Based on http://www sciencemag org/cgi/content/abstract/289/5485/1740 Peter Ward, David Montgomery, Roger Smith, "Altered River Morphology in South Africa Related to the Permian–Triassic Extinction", in Science com/scienceastronomy/060601_big_crater Giant Crater Found: Tied Worst Extinction Ever Robert Roy Britt SPACE com 06:07 ET http://www space com/scienceastronomy/planetearth/extinction_permian_000907 html Rocks Reveal Details of Mass Extinction Lee Siegel SPACE com 02:44 ET 

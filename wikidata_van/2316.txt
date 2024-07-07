@@ -1,0 +1,15 @@
+-----METADATA
+1906
+3
+unknown
+14822
+False
+False
+False
+False
+<EMPTY>
+8423
+-----ADDED
+Barnstead is in Home of Bud Carpenter The population was 3,886 at the 2000 census Home to the Barnstead includes the villages of Center Barnstead,Barnstead Parade, and the Carpenter Residence 
+-----DELETED
+Barnstead is in The population was 3,886 at the 2000 census Home to the Barnstead includes the villages of Center Barnstead,Barnstead Parade, and the Carpenter Residence 

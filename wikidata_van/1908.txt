@@ -1,0 +1,15 @@
+-----METADATA
+5371
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+11155
+-----ADDED
+Ear candling, also called ear coning or thermal-auricular therapy, is an practice claimed to improve general health and well-being by lighting one end of hollow and placing the other end in the According to Bombshell user: Deem, it is both dangerous and ineffective Claims that the practice removes have been disproved The claim by one manufacturer that ear candles originated with the tribe has also been disproven <ref name Hopi> cite web title Authenticity of the Hopi Candle url http://freespace virgin net/ahcare qua/programme/earcandling html#authenticity date 2004-03-02 publisher Active Health "The Hopi Cultural Preservation Office is not aware of Hopi people ever practicing Ear Candling Biosun and Revital Ltd are misrepresenting the name Hopi with their products This therapy should not be called Hopi Ear Candeling The history of Ear Candeling should not refer to as being used by the Hopi Tribe Use of this false information with reference to Hopi should be stopped "</ref> 
+-----DELETED
+Ear candling, also called ear coning or thermal-auricular therapy, is an practice claimed to improve general health and well-being by lighting one end of hollow and placing the other end in the According to medical researchers, it is both dangerous and ineffective Claims that the practice removes have been disproved The claim by one manufacturer that ear candles originated with the tribe has also been disproven <ref name Hopi> cite web title Authenticity of the Hopi Candle url http://freespace virgin net/ahcare qua/programme/earcandling html#authenticity date 2004-03-02 publisher Active Health "The Hopi Cultural Preservation Office is not aware of Hopi people ever practicing Ear Candling Biosun and Revital Ltd are misrepresenting the name Hopi with their products This therapy should not be called Hopi Ear Candeling The history of Ear Candeling should not refer to as being used by the Hopi Tribe Use of this false information with reference to Hopi should be stopped "</ref> 

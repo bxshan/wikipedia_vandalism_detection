@@ -1,0 +1,15 @@
+-----METADATA
+11005
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1594
+-----ADDED
+Infobox planet January 25, epoch May 14, 2008 3631 Sigyn 1987 BV1 is discovered on January 25, 1987 by at Small Solar System bodies 
+-----DELETED
+Infobox Planet discovered epoch 3631 Sigyn BV1 is on by at MinorPlanets_Footer 

@@ -1,0 +1,15 @@
+-----METADATA
+2648
+27263
+male
+15273
+False
+True
+True
+True
+it was not the first billion dollar storm, Diane was
+11538
+-----ADDED
+Hurricane Betsy was powerful of the which caused enormous damage in the and Betsy made its most intense landfall near the mouth of the causing significant flooding of the waters of into At the time it was the second most costliest hurricane in the history of the United States, and, is mistakely the first hurricane to cause over billion dollars in damage 1965 ;dollars, not adjusted for inflation earned the nickname "Billion-Dollar Betsy" 
+-----DELETED
+Hurricane Betsy was powerful of the which caused enormous damage in the and Betsy made its most intense landfall near the mouth of the causing significant flooding of the waters of into At the time it was the costliest hurricane in the history of the United States, and, as the first hurricane to cause over billion dollars in damage 1965 ;dollars, not adjusted for inflation earned the nickname "Billion-Dollar Betsy" 

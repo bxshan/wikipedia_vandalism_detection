@@ -1,0 +1,15 @@
+-----METADATA
+3863
+495
+unknown
+17001
+False
+True
+True
+True
+<EMPTY>
+5072
+-----ADDED
+In his article "Productions dubious advantage: Lesescenarios, closet drama, and the screen writers riposte"<ref>Melton, Quimby January 2010 "Productions dubious advantage: Lesescenarios, closet drama, and the screen writers riposte http://scriptjournal studiohyperset com SCRIPT <tt>http://scriptjournal studiohyperset com/issues/1 1/productions-dubious-advantage php</tt> accessed November 21, 2009 http://scriptjournal studiohyperset com/issues/1 1/productions-dubious-advantage php </ref>, Quimby Melton outlines the history of the Lesescenario form, situates the genre in historical literary context by drawing parallels between it and Western "," and argues we might consider certain instances of closet drama proto-screenplays The article also argues that writing these sorts of "readerly" performance texts is essentially an act of subversion whereby screen writers work in performance mode only to intentionally bypass production and, thereby, re assert narrative representations textual primacy and re claim direct re connection with their audience 
+-----DELETED
+In his article "Productions dubious advantage: Lesescenarios, closet drama, and the screen writers riposte"<ref>Melton, Quimby January 2010 "Productions dubious advantage: Lesescenarios, closet drama, and the screen writers riposte http://scriptjournal studiohyperset com SCRIPT http://scriptjournal studiohyperset com/issues/1 1/productions-dubious-advantage php accessed November 21, 2009 http://scriptjournal studiohyperset com/issues/1 1/productions-dubious-advantage php </ref>, Quimby Melton outlines the history of the Lesescenario form, situates the genre in historical literary context by drawing parallels between it and Western "," and argues we might consider certain instances of closet drama proto-screenplays The article also argues that writing these sorts of "readerly" performance texts is essentially an act of subversion whereby screen writers work in performance mode only to intentionally bypass production and, thereby, re assert narrative representations textual primacy and re claim direct re connection with their audience 

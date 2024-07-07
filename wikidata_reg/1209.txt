@@ -1,0 +1,15 @@
+-----METADATA
+1620
+15817
+unknown
+15429
+False
+True
+True
+True
+Capitalization.
+828
+-----ADDED
+Trova di Danú is the third full length album by the folk metal band 
+-----DELETED
+Trova di Danú is the third full length album by the Folk Metal band 

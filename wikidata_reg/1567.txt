@@ -1,0 +1,15 @@
+-----METADATA
+2939
+53031
+unknown
+16918
+False
+True
+True
+True
+ precision
+6434
+-----ADDED
+The goes through small round opening in the southern stained-glass window of the transept, at height of 25 meters, forming small light disk on the floor, that will cross the meridian precisely everytime the sun reaches its at The sun will cross different parts of the meridian depending the time of year, as the sun will be more or less high in the sky at noon <ref name "Rougé5"/> 
+-----DELETED
+The goes through small round opening in stained-glass window, at height of 25 meters, forming small light disk on the floor, that will cross the meridian precisely everytime the sun reaches its at The sun will cross different parts of the meridian depending the time of year, as the sun will be more or less high in the sky at noon <ref name "Rougé5"/> 

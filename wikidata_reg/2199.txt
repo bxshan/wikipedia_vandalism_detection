@@ -1,0 +1,15 @@
+-----METADATA
+2775
+85010
+unknown
+16428
+False
+True
+True
+True
+Rv to image that shows both JR and Odakyu trains
+8261
+-----ADDED
+image Limited Express jpg caption Asagiri limited express services pass at Yaga Station, April 2008 
+-----DELETED
+image Gotemba Line Asagiri Mt Fuji jpg caption limited express in Gotemba line against the background of Mt Fuji 

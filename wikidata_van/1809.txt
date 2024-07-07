@@ -1,0 +1,15 @@
+-----METADATA
+2686
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4722
+-----ADDED
+Autotrading and systems, or programs to form buy and sell signals -, are used typically by active traders who enter and exit positions at much higher rate than the average investor There are also wide range of systems that differ on the set of criteria used to generate the buy or sell signals Typically, the criteria used are more technical in format in that they focus on price movement and technical indicators http://www investopedia com/terms/a/autotrading asp http://www iluve co uk Fap turbo 
+-----DELETED
+Autotrading and systems, or programs to form buy and sell signals -, are used typically by active traders who enter and exit positions at much higher rate than the average investor There are also wide range of systems that differ on the set of criteria used to generate the buy or sell signals Typically, the criteria used are more technical in format in that they focus on price movement and technical indicators http://www investopedia com/terms/a/autotrading asp 

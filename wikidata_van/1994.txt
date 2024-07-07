@@ -1,0 +1,15 @@
+-----METADATA
+3841
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1568
+-----ADDED
+building_name Assomption Assumption Place is an office building in the Canadian of in the city of Its the hearquarters of It is tied for the title of tallest office building in New Brunswick with the Brunswick Square in The building has the most levels of any building in New Brunswick at 20 In 1970 the City of Moncton approved the building At that time realized the building would be high enough to block radio signals coming from the 135ft tower they had at that time in downtown Moncton This was the reason for the construction of the NBTel Tower, now called the 
+-----DELETED
+building_name Assumption Place Assumption is an office building in the Canadian of in the city of Its the hearquarters of It is tied for the title of tallest office building in New Brunswick with the Brunswick Square in The building has the most levels of any building in New Brunswick at 20 In 1970 the City of Moncton approved the building At that time realized the building would be high enough to block radio signals coming from the 135ft tower they had at that time in downtown Moncton This was the reason for the construction of the NBTel Tower, now called the 

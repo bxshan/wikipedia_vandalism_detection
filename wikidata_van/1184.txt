@@ -1,0 +1,15 @@
+-----METADATA
+1647
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+45390
+-----ADDED
+name William Speirs BruceHI 
+-----DELETED
+name William Speirs Bruce 

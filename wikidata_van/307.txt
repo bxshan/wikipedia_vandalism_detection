@@ -1,0 +1,15 @@
+-----METADATA
+2538
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+15072
+-----ADDED
+public limited company must include the words "public limited company" or its abbreviation "plc" at the end and as part of its legal company name Certain public limited companies mostly nationalised concerns incorporated under special legihello my name is kuyslation, are exempted from bearing any of the identifying suffixes 
+-----DELETED
+public limited company must include the words "public limited company" or its abbreviation "plc" at the end and as part of its legal company name Certain public limited companies mostly nationalised concerns incorporated under special legislation, are exempted from bearing any of the identifying suffixes 

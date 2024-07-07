@@ -1,0 +1,15 @@
+-----METADATA
+9913
+480097
+unknown
+16341
+False
+True
+True
+True
+disambiguate Zitouna from same location in [[El Taref Province]]
+1057
+-----ADDED
+Infobox Algerian District map Sin mapa svg name1 name2 زيتونة province Skikda capital Zitouna, Skikda Zitouna municipalities chef Mr Kharnane Abdellah order E+8 m² area1 213 21 area2 82 32 population 26,093 popyear 1998 density1 122 density2 316 97 
+-----DELETED
+Infobox Algerian District map Sin mapa svg name1 Zitouna name2 زيتونة province Skikda capital municipalities chef Mr Kharnane Abdellah order E+8 m² area1 213 21 area2 82 32 population 26,093 popyear 1998 density1 122 density2 316 97 

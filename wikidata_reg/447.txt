@@ -1,0 +1,15 @@
+-----METADATA
+9453
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1676
+-----ADDED
+Infobox planet January 24, epoch May 14, 2008 10709 Ottofranz 1982 BE1 is discovered on January 24, 1982 by at the It was named for astronomer <ref> Cite web url http://ssd jpl nasa gov/sbdb cgi?sstr 10709+Ottofranz title JPL Small-Body Database Browser accessdate 24 December 2008 work publisher date </ref> Reflist 
+-----DELETED
+Infobox Planet discovered epoch 10709 Ottofranz BE1 is on by at the It was named for astronomer <ref> Cite web url http://ssd jpl nasa gov/sbdb cgi?sstr 10709+Ottofranz title JPL Small-Body Database Browser accessdate 24 December 2008 work publisher date </ref> reflist 

@@ -1,0 +1,15 @@
+-----METADATA
+2112
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1030
+-----ADDED
+Four Seasons Health Care are an independent provider of over 440 care homes, nursing homes and other specialist units across the and employ over 21,000 people Four Seasons are the second largest private healthcare provider in the United Kingdom Four Seasons has track record of buying out smaller chains of care homes and re-branding them as evidenced by the takeovers of Tamaris formerly Quality Care Homes and Bettercare 
+-----DELETED
+Four Seasons Health Care are an independent provider of over 440 care homes, nursing homes and other specialist units across the and employ over 21,000 people 

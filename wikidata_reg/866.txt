@@ -1,0 +1,15 @@
+-----METADATA
+2475
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1417
+-----ADDED
+The ;cm KwK 39 L/60 ;cm Kampfwagenkanone 39 L/60 was ;cm cannon used primarily as the main armament of later variants of the German between 1941-1942 during It was successful in North Africa against British armors However, it was not sufficient against Soviet and tanks, and phased out in favor of shorter L/24 gun that could fire rounds However, it founds uses as defensive armament for recon vehicles like Puma The towed anti-tank variant of this gun was called 
+-----DELETED
+The ;cm KwK 39 L/60 ;cm Kampfwagenkanone 39 L/60 was ;cm cannon used primarily as the main armament of later variants of the German between 1941-1942 during It was successful in North Africa against British armors However, it was not sufficient against Soviet and tanks, and phased out in favor of shorter gun that could fire rounds However, it founds uses as defensive armament for recon vehicles like Puma The towed anti-tank variant of this gun was called 

@@ -1,0 +1,14 @@
+-----METADATA
+1667
+6175
+unknown
+15526
+False
+True
+True
+True
+Nominated for deletion; see [[Wikipedia:Articles for deletion/PLS (file format)]]. ([[WP:TW|TW]])
+2125
+-----ADDED
+<!-- Please do not remove or change this AfD message until the issue is settled --> AfDM page PLS file format logdate 2009 November 28 substed yes help off <!-- For administrator use only: oldafdfull page PLS file format date 28 November 2009 result keep --> <!-- End of AfD message, feel free to edit beyond this point --> 
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+1873
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1899
+-----ADDED
+Tarot cards are used throughoutx much of to play <ref name "DummettGame"> 
+-----DELETED
+Tarot cards are used throughout much of to play <ref name "DummettGame"> 

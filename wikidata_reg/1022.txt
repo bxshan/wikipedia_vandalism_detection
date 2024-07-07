@@ -1,0 +1,15 @@
+-----METADATA
+6962
+413458
+male
+15242
+False
+True
+True
+True
+[[WP:AWB/T|Typo fixing]] and general fixes using [[Project:AutoWikiBrowser|AWB]]
+5696
+-----ADDED
+These are conspicuous and unmistakable They are 29 ;cm long, but the females are larger than the males They are mainly black, although the inner wings are very dark brown and the tail is red There is striking white eyestripe The yellow bill extends up as red -like head shield, and the legs and very long toes are grey Length 280-310 ;mm Wing 150-197 ;mm males 150-180mm females 167-187 ;mm Bill from tip to top of frontal shield 34–46 ;mm adults 32-38 juveniles Tarsus 61–76 ;mm Tail 40–52 ;mm 
+-----DELETED
+These are conspicuous and unmistakable They are 29cm long, but the females are larger than the males They are mainly black, although the inner wings are very dark brown and the tail is red There is striking white eyestripe The yellow bill extends up as red -like head shield, and the legs and very long toes are grey Length 280-310 mm Wing 150-197 mm males 150-180mm females 167-187 mm Bill from tip to top of frontal shield 34-46 mm adults 32-38 juveniles Tarsus 61-76 mm Tail 40-52 mm 

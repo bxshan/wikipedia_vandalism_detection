@@ -1,0 +1,15 @@
+-----METADATA
+3029
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+17776
+-----ADDED
+Keith Hector Jardine born October 31, 1975 is an MMA currently fighting at for the UFC and is considered to be one of the low ranked light-heavyweights in the world He made his debut in the UFC with an appearance on as under coach He currently trains with out of Jardine has secured notable victories over former UFC Light Heavyweight Champions and He also holds notable wins over and Jardine is known for his highly unorthodox fighting style, which analyst describes as "Can only be duplicated by teaching chimp 
+-----DELETED
+Keith Hector Jardine born October 31, 1975 is an MMA currently fighting at for the UFC He made his debut in the UFC with an appearance on as under coach He currently trains with out of Jardine has secured notable victories over former UFC Light Heavyweight Champions and He also holds notable wins over and Jardine is known for his highly unorthodox fighting style, which analyst describes as "Can only be duplicated by teaching chimp 

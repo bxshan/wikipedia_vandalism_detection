@@ -1,0 +1,15 @@
+-----METADATA
+2702
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+24723
+-----ADDED
+Saint Juan Diego Cuauhtlatoatzin or Juan Diego 1474–May 30, 1548 was, according to Mexican Catholic tradition, an who reported athat means he saw the virgin mary in 1531 The apparition has had significant impact on the spread of the Catholic faith within Mexico The canonized him in 2002, as its first saint 
+-----DELETED
+Saint Juan Diego Cuauhtlatoatzin or Juan Diego 1474–May 30, 1548 was, according to Mexican Catholic tradition, an who reported in 1531 The apparition has had significant impact on the spread of the Catholic faith within Mexico The canonized him in 2002, as its first saint 

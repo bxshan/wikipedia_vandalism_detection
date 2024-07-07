@@ -1,0 +1,15 @@
+-----METADATA
+3261
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+21093
+-----ADDED
+<ref> http://www jewishvirtuallibrary org/jsource/Holocaust/cclist html Concentration Camp Listing Sourced from Van Eck, Ludo Le livre des Camps Belgium:Editions Kritak; and Gilbert, Martin Atlas of the Holocaust New York:William Morrow 1993 ISBN 0-6881-2364-3 In this on-line site are published the names of 149 camps and 814 subcamps, organized by country </ref> Most of these camps were destroyed gay 
+-----DELETED
+<ref> http://www jewishvirtuallibrary org/jsource/Holocaust/cclist html Concentration Camp Listing Sourced from Van Eck, Ludo Le livre des Camps Belgium:Editions Kritak; and Gilbert, Martin Atlas of the Holocaust New York:William Morrow 1993 ISBN 0-6881-2364-3 In this on-line site are published the names of 149 camps and 814 subcamps, organized by country </ref> Most of these camps were destroyed 

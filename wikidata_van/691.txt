@@ -1,0 +1,15 @@
+-----METADATA
+5078
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7455
+-----ADDED
+An ideal multi-document summarization system does not simply shorten the source texts but presents information organized around the key aspects to represent wider diversity of views on the topic When such quality is achieved, an automatic multi-document summary is perceived more like an overview of given topic The latter implies that such text compilations should also meet other basic requirements for an overview text compiled by human but face hi was 
+-----DELETED
+An ideal multi-document summarization system does not simply shorten the source texts but presents information organized around the key aspects to represent wider diversity of views on the topic When such quality is achieved, an automatic multi-document summary is perceived more like an overview of given topic The latter implies that such text compilations should also meet other basic requirements for an overview text compiled by human 

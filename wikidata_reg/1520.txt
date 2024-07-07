@@ -1,0 +1,14 @@
+-----METADATA
+4995
+9213
+unknown
+15830
+False
+True
+True
+True
+Added about template
+4193
+-----ADDED
+about the early electronic computer the town in Kosovo Binac 
+-----DELETED

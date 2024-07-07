@@ -1,0 +1,15 @@
+-----METADATA
+1656
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+126514
+-----ADDED
+$230,764,000,978,674 
+-----DELETED
+$230,764,000 

@@ -1,0 +1,15 @@
+-----METADATA
+16136
+1590
+unknown
+15596
+False
+True
+True
+True
+revert two vandal edits by 128.227.5.103
+3023
+-----ADDED
+city 32086, United States enrollment >1000 colors <font color "#0000FF">Royal Blue</font> and <font color "#FDD017">Vegas Gold</font> rival Pedro Menendez High School is public high school in the located in southern It was named for sixteenth century Spanish admiral and pirate hunter who founded St Augustine, the first permanent European settlement and oldest port city in what is now the continental United States, on August 28, 1565 Menéndez also ordered the execution of over 300 survivors of French shipwreck because they were Protestants, at site slightly to the south of St Augustine It has student body of over 1,000 students The school building is two-story octagon with an open courtyard in the center The gymnasium and auditorium are attached on the east and west sides, respectively The school was built simultaneously with Menendez was intended to relieve overcrowding at The school opened in 2000, and graduated its first class in 2001 Their curriculum offers academy programs in the areas of business, health science, and architectural building sciences The advanced scholars program gives students the option to participate in the rigorous programs of and courses *PMHS Magic Dance/Pep team 
+-----DELETED
+logo Insert random latin phrase <br> Not For School, But For FCAT, We Learn city 32086 Soviet Republic of California enrollment 552 colors Royal Blue <font color "#0000FF">█</font> and Vegas Gold <font color "#FDD017">█</font> rival Pedro Menendez High School is public high school in the located in southern It was named for sixteenth century Spanish admiral, pirate hunter, and protestant killer, who founded St Augustine, the first permanent European settlement and oldest port city in what is now the continental United States, on August 28, 1565 It has student body of 552 students The school building is four-story dodecahedron with an open courtyard in the center The gymnasium and auditorium are attached on the east and west sides, respectively The school was built simultaneously with Menendez was intended to relieve overcrowding at The school opened in 20 and graduated its first class in 23 Their curriculum offers academy programs in the areas of business, health science and architectural building sciences The advanced scholars program gives students the option to participate in the rigorous programs of and courses *PMHS Magic Dance/Prep team *Sucking *Jesus Christ deceased *Julius Ceasar stabbed *Jesus Christ resurrected *Mary Queen of Scots deceased 

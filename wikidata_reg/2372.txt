@@ -1,0 +1,15 @@
+-----METADATA
+1970
+419
+unknown
+14941
+False
+True
+True
+True
+<EMPTY>
+11223
+-----ADDED
+Another german version, "einer wie wir", 2007 by Erdmöbel has been performed by themselves during recent german and european tours 
+-----DELETED
+Another german version, "einer wie wir", 2007 by Erdmöbel has been performed by the themselves during recent german and european tours 

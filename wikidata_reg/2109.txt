@@ -1,0 +1,15 @@
+-----METADATA
+2762
+20795
+male
+16014
+False
+True
+True
+True
+Replacing {{IPAr|pl| with {{IPAc-pl|
+1741
+-----ADDED
+Szymanów IPAc-pl sz lang-de Simsdorf is village in the administrative district of within in south-western Poland Prior to 1945 it was in 
+-----DELETED
+Szymanów IPAr pl sz lang-de Simsdorf is village in the administrative district of within in south-western Poland Prior to 1945 it was in 

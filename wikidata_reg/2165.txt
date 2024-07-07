@@ -1,0 +1,15 @@
+-----METADATA
+2524
+75217
+unknown
+15631
+False
+True
+True
+True
+ link
+6554
+-----ADDED
+Sunatori worked at Electronics Ltd and Ltd now Nortel Networks for 11 years as member of the scientific staff He acted as senior integrated circuit designer for the CMOS standard cell library, as senior design system integrator for the GaAs cell library, and as UNIX systems administrator His publications include those in the <ref> http://link aip org/link/?JAPIAU/55/3125/1 Effect of thermal annealing on optical and electrical properties of rf sputtered amorphous silicon </ref> 
+-----DELETED
+Sunatori worked at Northern Telecom Electronics Ltd and Bell-Northern Research Ltd now Nortel Networks for 11 years as member of the scientific staff He acted as senior integrated circuit designer for the CMOS standard cell library, as senior design system integrator for the GaAs cell library, and as UNIX systems administrator His publications include those in the <ref> http://link aip org/link/?JAPIAU/55/3125/1 Effect of thermal annealing on optical and electrical properties of rf sputtered amorphous silicon </ref> 

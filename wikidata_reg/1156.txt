@@ -1,0 +1,15 @@
+-----METADATA
+6088
+8985
+unknown
+16549
+False
+True
+True
+True
+ rephrase wording about the BBC per talk.  Anon editor is correct, BBC was not founded to be world wide, it "just growed and growed".
+178650
+-----ADDED
+After the defeat of in the the UK emerged as the principal naval power of the 19th century and remained an eminent power into the mid-20th century The British Empire expanded to its maximum size by 1921, gaining the mandate over former German and Ottoman colonies after The was created one year later, and subsequently went on to become the worlds first large-scale international broadcasting network 
+-----DELETED
+After the defeat of in the the UK emerged as the principal naval power of the 19th century and remained an eminent power into the mid-20th century The British Empire expanded to its maximum size by 1921, gaining the mandate over former German and Ottoman colonies after One year later, the the worlds first large-scale international broadcasting network, was created 

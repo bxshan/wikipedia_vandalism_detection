@@ -1,0 +1,15 @@
+-----METADATA
+1623
+315466
+male
+15949
+False
+True
+True
+True
+deleted image removed
+14764
+-----ADDED
+name Pinarayi Vijayan image 
+-----DELETED
+name Pinarayi Vijayan image Pinarayi_vijayan jpg 

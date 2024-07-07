@@ -1,0 +1,15 @@
+-----METADATA
+2424
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10353
+-----ADDED
+voluntary; volunteers can join at an earlier age with parental consent 18 voluntary 17 voluntary 18 compulsory 
+-----DELETED
+18 military service is voluntary; volunteers can join at an earlier age with parental consent military service is voluntary 17 military service is voluntary 

@@ -1,0 +1,15 @@
+-----METADATA
+2771
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+17288
+-----ADDED
+released vgrelease JP February 18, 2010 NA TBA 2010 EU February 26, 2010 
+-----DELETED
+released vgrelease JP February 18, 2010 NA TBA 2010 EU February 26 2010 

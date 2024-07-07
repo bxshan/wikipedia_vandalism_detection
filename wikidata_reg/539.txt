@@ -1,0 +1,15 @@
+-----METADATA
+3570
+19192
+unknown
+16550
+False
+True
+True
+True
+[[WP:UNDO|Undid]] revision 328154120 by [[Special:Contributions/Ktr101|Ktr101]] ([[User talk:Ktr101|talk]]) - that broke the link
+37122
+-----ADDED
+Highest vertical concrete pumping for any construction convert 601 ft abbr on previously Hydroelectric Power Plant convert 532 ft abbr on <ref> cite web url http://www putzmeister de/cps/rde/xchg/SID-3C6E00FC-E36E4E4B/pm_online/hs xsl/3498_ENU_HTML htm title 1994 World record: 532 high rise concrete conveying at the power station "Riva del Garda", Italy publisher accessdate 11 April 2009 </ref> 
+-----DELETED
+Highest vertical concrete pumping for any construction convert 601 ft abbr on previously convert 532 ft abbr on <ref> cite web url http://www putzmeister de/cps/rde/xchg/SID-3C6E00FC-E36E4E4B/pm_online/hs xsl/3498_ENU_HTML htm title 1994 World record: 532 high rise concrete conveying at the power station "Riva del Garda", Italy publisher accessdate 11 April 2009 </ref> 

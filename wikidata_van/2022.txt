@@ -1,0 +1,14 @@
+-----METADATA
+1636
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6750
+-----ADDED
+jumer gueco 
+-----DELETED

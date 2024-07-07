@@ -1,0 +1,14 @@
+-----METADATA
+4525
+34
+unknown
+16455
+False
+True
+True
+True
+Significant HIV/AIDS statistics added (statistics among actively homosexual men, according to the CDC and PHAC) plus some better references
+120386
+-----ADDED
+2007 report by the Department of Health and Human Services Centers for Disease Control and Prevention CDC reveals an estimation that more than half of all HIV/AIDS cases involve male-to-male homosexual contact based on that years sample of cases, 488,000 homosexual vs 450,000 other <ref> http://www cdc gov/hiv/topics/surveillance/basic htm Department of Health and Human Services Centers for Disease Control and Prevention, Basic Statistics checked 2009-12-01</ref>, as confirmed by an earlier 2006 report by the Public Health Agency of Canada PHAC <ref> http://www phac-aspc gc ca/aids-sida/publication/index-eng php Public Health Agency of Canada, HIV-AIDS Reports and Publications checked 2009-12-01</ref> Taken with the CDCs estimate of 4% active male homosexual population, this results in figure of HIV/AIDS being upwards of 50 times more prevalent among homosexual men The CDC had taken range of estimates from several nationally representative surveys and studies, and arrived at figure of 0%, said to represent the median estimate of the proportion of adolescent and adult men who acknowledge having had sex with another man in the past five years On August 24 2009, CDC official Dr Amy Lansky revealed these statistics to the public at the 2009 HIV Prevention Conference in Atlanta <ref> http://www boxturtlebulletin com/2009/08/28/14358 Box Turtle Bulletin, Intection Rates in Gay/Bi Men checked 2009-12-01</ref> <ref> http://www rhrealitycheck org/blog/2009/08/24/cdc-finally-makes-it-official-gay-and-bi-men-50-times-more-likely-contract-hiv-than-other-groups RH Reality Check, AIDS 50 Times Higher In Gay/Bi-Men Than Other Groups checked 2009-12-01</ref> <ref> http://aids about com/b/2009/08/28/gay-and-bi-sexual-men-times-more-likely-to-get-hiv-infection htm Aids about com, Gay and Bi-sexual Men 50 Times More Likely to Get HIV Infection checked 2009-12-01</ref> <ref> http://www lifesitenews com/ldn/2009/aug/09082609 html Lifesitenews com, AIDS Rate 50 Times Higher in Homosexual Men: Center for Disease Control checked 2009-12-01</ref> 
+-----DELETED

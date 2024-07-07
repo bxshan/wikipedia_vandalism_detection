@@ -1,0 +1,15 @@
+-----METADATA
+2063
+2247
+male
+16218
+False
+True
+True
+True
+[[WP:UNDO|Undid]] revision 328560314 by [[Special:Contributions/81.104.9.161|81.104.9.161]] ([[User talk:81.104.9.161|talk]])
+36929
+-----ADDED
+proportional–integral–derivative controller PID controller is generic widely used in industrial PID controller attempts to correct the error between measured and desired by calculating and then instigating corrective action that can adjust the process accordingly and rapidly, to keep the error minimal 
+-----DELETED
+proportional–integral–derivative controller PID controller is generic widely used in industrial PID controller attempts to correct the error between measured and desired by calculating and then instigating corrective action that can adjust the process accordingly and rapidly, to keep the error minimal 

@@ -1,0 +1,15 @@
+-----METADATA
+3648
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+13647
+-----ADDED
+Although joe sheidt settled faced great hardships and he earned few profits, he enjoyed positive reputation in England and may have sown the seeds for further immigration and published an account of their adventures in 1622, called <ref> cite book last Bradford first William title Mourt’s Relation, or Journal of the Plantation at Plymouth publisher Wiggin location Boston year 1865 url http://books google com/books?id xb3coQS13NYC accessdate 2008-12-23 </ref> This book glossed over some of the difficulties and challenges carving settlement out of the wilderness, but it may have been partly responsible for erasing the memory of the aka Sagadahoc Colony and encouraging further settlement 
+-----DELETED
+Although the Plymouth settlement faced great hardships and earned few profits, it enjoyed positive reputation in England and may have sown the seeds for further immigration and published an account of their adventures in 1622, called <ref> cite book last Bradford first William title Mourt’s Relation, or Journal of the Plantation at Plymouth publisher Wiggin location Boston year 1865 url http://books google com/books?id xb3coQS13NYC accessdate 2008-12-23 </ref> This book glossed over some of the difficulties and challenges carving settlement out of the wilderness, but it may have been partly responsible for erasing the memory of the aka Sagadahoc Colony and encouraging further settlement 

@@ -1,0 +1,15 @@
+-----METADATA
+2628
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10337
+-----ADDED
+Shawnee has teacher mrs chamblin who loves to teach accounting and tell stories about things nobody cares about except michael aldrige who only cares because he wants to take her to prom with in Japan This is most likely due to the presence of plant in Shawnee Every year junior high students from Shawnee visit Nikaho in July, and Japanese junior high students visit Shawnee in September 
+-----DELETED
+Shawnee has teacher mrs chamblin who loves to teach accounting and tell stories about things nobody cares about except michael with in Japan This is most likely due to the presence of plant in Shawnee Every year junior high students from Shawnee visit Nikaho in July, and Japanese junior high students visit Shawnee in September 

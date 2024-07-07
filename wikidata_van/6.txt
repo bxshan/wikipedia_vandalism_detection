@@ -1,0 +1,15 @@
+-----METADATA
+2063
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+15118
+-----ADDED
+According to the the city has total area of 11 ;square miles 30 ;km<sup>2</sup> of which, 11 ;square miles 30 ;km<sup>2</sup> of it is land and ;square miles ;km<sup>2</sup> of it 17% is water hsh 
+-----DELETED
+According to the the city has total area of 11 ;square miles 30 ;km<sup>2</sup> of which, 11 ;square miles 30 ;km<sup>2</sup> of it is land and ;square miles ;km<sup>2</sup> of it 17% is water 

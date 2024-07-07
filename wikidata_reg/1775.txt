@@ -1,0 +1,15 @@
+-----METADATA
+3200
+0
+unknown
+0
+True
+False
+False
+False
+ Avenues A-D are not in the Lower East Side
+15282
+-----ADDED
+The highest-numbered street in Manhattan is 220th Street, though numbered streets go higher in and the where numbered avenues and other road types also exist In numbered streets exist, along with letter streets with names such as "Avenue P" Manhattans consists of Avenues through 
+-----DELETED
+The highest-numbered street in Manhattan is 220th Street, though numbered streets go higher in and the where numbered avenues and other road types also exist In numbered streets exist, along with letter streets with names such as "Avenue P" Manhattans has Avenues through 

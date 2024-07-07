@@ -1,0 +1,15 @@
+-----METADATA
+3541
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3780
+-----ADDED
+On returning to the UK, Duff released his first solo album Luxury Problems, produced by Adrian Utley of Portishead and Alex Lee Goldfrapp/Placebo/Suede/Strangelove The album was released on EMI’s legendary Harvest label once home to Duff’s childhood hero Deadpool in June 2005 
+-----DELETED
+On returning to the UK, Duff released his first solo album Luxury Problems, produced by Adrian Utley of Portishead and Alex Lee Goldfrapp/Placebo/Suede/Strangelove The album was released on EMI’s legendary Harvest label once home to Duff’s childhood hero Syd Barrett in June 2005 

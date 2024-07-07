@@ -1,0 +1,15 @@
+-----METADATA
+7093
+9528
+male
+15506
+False
+True
+True
+True
+explanation added
+35860
+-----ADDED
+His nickname, "il Balilla", was given to him in 1927 by his older teammate who thought "Pepp", who was only 17 when he joined the senior team, was too young to be associated to the senior team, and was surprised after Inter coach Arpad Weisz decided to give Meazza his debut for Inter in his place "Now we even take players from kindergarten!" exclaimed Conti sarcastically The National Opera Balilla, the Fascist youth organisation which collected all children aged to 14 years, was established in 1926 and so Conti thought it good way to describe the young rookie Meazza scored two goals on his debut in 6-2 win against Milanese Unione Sportiva in the Coppa Volta in Como, leaving old "Poldo" Conti speechless <ref> cite web author title Giuseppe Meazza url http://www calciosport it/lettura/tiporicerca asp?pid 1008&catid 248 accessdate 27 November 2008 </ref> The "Gazzetta dello Sport", the day after his official debut in the Italian championship on the 12th of September, 1927, praised his game "intelligent, fresh, quick"<ref> cite web author title Giuseppe Meazza url http://www calciosport it/lettura/tiporicerca asp?pid 1008&catid 248 accessdate 27 November 2008 </ref>, something that didnt happen very frequently during those days 
+-----DELETED
+His nickname, "il Balilla", was given to him in 1927 by his older teammate who thought "Pepp", who was only 17 when he joined the senior team, was too young to be associated to the senior team, and was surprised after Inter coach Arpad Weisz decided to give Meazza his debut for Inter in his place "Now we even take players from kindergarten!" exclaimed Conti sarcastically The National Opera Balilla, which collected all children aged to 14 years, was established in 1926 and so Conti thought it good way to describe the young rookie Meazza scored two goals on his debut in 6-2 win against Milanese Unione Sportiva in the Coppa Volta in Como, leaving old "Poldo" Conti speechless <ref> cite web author title Giuseppe Meazza url http://www calciosport it/lettura/tiporicerca asp?pid 1008&catid 248 accessdate 27 November 2008 </ref> The "Gazzetta dello Sport", the day after his official debut in the Italian championship on the 12th of September, 1927, praised his game "intelligent, fresh, quick"<ref> cite web author title Giuseppe Meazza url http://www calciosport it/lettura/tiporicerca asp?pid 1008&catid 248 accessdate 27 November 2008 </ref>, something that didnt happen very frequently during those days 

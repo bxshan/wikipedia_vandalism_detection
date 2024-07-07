@@ -1,0 +1,14 @@
+-----METADATA
+4771
+5
+unknown
+14829
+False
+False
+False
+False
+[[WP:UNDO|Undid]] revision 327601475 by [[Special:Contributions/Halestock|Halestock]] ([[User talk:Halestock|talk]])
+2459
+-----ADDED
+<gallery> file:meatotomy_2 jpg file:meatotomy_3 jpg file:meatotomy_4 jpg file:meatotomy_5 jpg </gallery> 
+-----DELETED

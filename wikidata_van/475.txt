@@ -1,0 +1,15 @@
+-----METADATA
+2252
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+30480
+-----ADDED
+Salvatore Lucania was born to Antonio and Rosalia Cafarella Lucania, he got married with Jerry Sanchez with his had siblings: Bartolomeo born 1890 and Giuseppe born 1898 Filippia born 1901 and Concetta born 1903 in town primarily known for its mines The promise of better life led his family to emigrate to the in 1907 Upon arriving at young Salvatore was diagnosed with an affliction that pockmarked his face for life 
+-----DELETED
+Salvatore Lucania was born to Antonio and Rosalia Cafarella Lucania, he had siblings: Bartolomeo born 1890 and Giuseppe born 1898 Filippia born 1901 and Concetta born 1903 in town primarily known for its mines The promise of better life led his family to emigrate to the in 1907 Upon arriving at young Salvatore was diagnosed with an affliction that pockmarked his face for life 

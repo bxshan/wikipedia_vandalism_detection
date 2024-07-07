@@ -1,0 +1,15 @@
+-----METADATA
+1660
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+15473
+-----ADDED
+Born birth date and age 1900 01 12 <ref name "allmusic"/> 
+-----DELETED
+Born birth date and age 1968 01 12 <ref name "allmusic"/> 

@@ -1,0 +1,15 @@
+-----METADATA
+3273
+19807
+male
+16649
+False
+True
+True
+True
+<EMPTY>
+20984
+-----ADDED
+The island is natural reserve, and though there are no native inhabitants, rangers from the islands Department of Natural and Environmental Resources reside on the island to manage visitors and take part in research projects 
+-----DELETED
+The island is natural reserve, and though there are no native inhabitants, rangers from reside on the island to manage visitors and take part in research projects 

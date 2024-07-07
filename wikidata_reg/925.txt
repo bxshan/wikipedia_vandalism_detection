@@ -1,0 +1,15 @@
+-----METADATA
+2012
+0
+unknown
+0
+True
+False
+False
+False
+updating record
+8678
+-----ADDED
+Sean Michael Salmon born September 11, 1977 in is an American mixed martial artist who currently competes as middleweight He has an overall record of 17 wins and losses, with record of and 
+-----DELETED
+Sean Michael Salmon born September 11, 1977 in is an American mixed martial artist who currently competes as middleweight He has an overall record of 15 wins and losses, with record of and 

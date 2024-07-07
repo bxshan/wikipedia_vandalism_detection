@@ -1,0 +1,15 @@
+-----METADATA
+3139
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6913
+-----ADDED
+T19 <font size "1">LA</font> align "center" T41 align "center" T14 
+-----DELETED
+align "center" DNP DNP align "center" DNP 

@@ -1,0 +1,15 @@
+-----METADATA
+8581
+111540
+unknown
+16217
+False
+True
+True
+True
+Added referenced sections on Cuisine and Religion
+3764
+-----ADDED
+The is an ethnic group They speak language and concentrated central highlands In the late 18th century rulers from the Merina aristocracy began to assert political domination over much of the island In 1895-96 the French abolished the Merina monarchy by force The cuisine of the Merina is so heavily dominated by that the term for eating meal is simply "to eat rice" This staple of the diet is so central to the Merina that it is considered to be masina, or holy, and common Merina belief holds that the eating of rice is the key to moral behaviour, and the French who occupied Merina lands were often looked down upon for eating over rice <ref>Bloch, Maurice 1985 Almost Eating the Ancestors in Man, Issue 20 Pages 634-635 </ref> The Merina believe their land to be tanin drazana, or the land of the ancestors <ref>Bloch, Maurice 1985 Almost Eating the Ancestors in Man, Issue 20 Pages 635 </ref> The dead are buried in tombs, and the French missionary Molet believed that in previous centuries, the dead had been consumed at the funeral, claim dismissed by other anthropologists, such as Maurice Bloch <ref>Bloch, Maurice 1985 Almost Eating the Ancestors in Man, Issue 20 Pages 631 </ref> 
+-----DELETED
+The Merina is an ethnic group in They speak language and are concentrated in the central highlands In the late 18th century rulers from the Merina aristocracy began to assert political domination over much of the island In 1895-96 the French abolished the Merina monarchy by force 

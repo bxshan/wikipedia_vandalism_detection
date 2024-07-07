@@ -1,0 +1,15 @@
+-----METADATA
+2779
+0
+unknown
+0
+True
+False
+False
+False
+ cleanup
+15985
+-----ADDED
+64k 64 64,000 128 kb/s 128,000 b/s 
+-----DELETED
+64k 64 kb/s 64,000 b/s http://www pcwebopedia com/TERM/I/ISDN html 128 128,000 http://www oreilly com/catalog/mp3/chapter/ch02 html 

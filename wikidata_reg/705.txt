@@ -1,0 +1,15 @@
+-----METADATA
+2875
+60
+unknown
+14820
+False
+True
+True
+True
+<EMPTY>
+9455
+-----ADDED
+Newer street sweepers are capable of collecting small particles of debris <ref>Pitt, 2004</ref> Many street sweepers produced today are certified,<ref>Chang, 2004</ref> meaning that they are capable of collecting and holding particulate mater sized less than 10μm <ref>http://www mag maricopa gov/pdf/cms resource/TIP_2008_CMAQ-Methodology-for-PM10-Street-Sweepers17106 pdf</ref> Despite advancements in street sweeping technology, the mechanical broom type street sweeper accounts for approximately 90 percent of all street sweepers used in the United States today <ref>http://www fhwa dot gov/environment/ultraurb/3fs16 htm</ref> 
+-----DELETED
+Newer street sweepers are capable of collecting small particles of debris <ref>Pitt, 2004</ref> Many street sweepers produced today are certified,<ref name chang2004/> meaning that they are capable of collecting and holding particulate mater sized less than 10μm <ref>http://www mag maricopa gov/pdf/cms resource/TIP_2008_CMAQ-Methodology-for-PM10-Street-Sweepers17106 pdf</ref> Despite advancements in street sweeping technology, the mechanical broom type street sweeper accounts for approximately 90 percent of all street sweepers used in the United States today <ref>http://www fhwa dot gov/environment/ultraurb/3fs16 htm</ref> 

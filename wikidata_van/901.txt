@@ -1,0 +1,14 @@
+-----METADATA
+1003
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+666
+-----ADDED
+He also happens to have particular liking to both chocolate and cheese, and may be synesthetic 
+-----DELETED

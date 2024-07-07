@@ -1,0 +1,15 @@
+-----METADATA
+14542
+64637
+male
+15337
+False
+True
+True
+True
+ Providing requested references. Seriously instead of tagging next time just find them yourself.
+11187
+-----ADDED
+1<ref name "UK"/> 8<ref name "UK"/> 12 30<ref name "US"/> align "center" 11<ref name "US"/> align "center" 24<ref name "US"/> align "center" 18<ref name "US"/> align "center" 19<ref name "US"/> align "center" 89<ref name "US"/> 
+-----DELETED
+align "center" Fact date May 2009 Fact date May 2009 align "center" Fact date May 2009 12 Fact date May 2009 align "center" 30 Fact date May 2009 11 Fact date May 2009 24 Fact date May 2009 align "center" 18 Fact date May 2009 align "center" 19 Fact date May 2009 89 Fact date May 2009 

@@ -1,0 +1,15 @@
+-----METADATA
+2170
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7655
+-----ADDED
+seating_capacity 23,500<br>: 20,917<br>: 19,717*Not Including Standing Room 
+-----DELETED
+seating_capacity 23,500<br>: 20,917<br>: 19,717 

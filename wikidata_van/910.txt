@@ -1,0 +1,15 @@
+-----METADATA
+1984
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+1790
+-----ADDED
+The Sexentry is who won the in 1988 
+-----DELETED
+The Gentry is who won the in 1988 

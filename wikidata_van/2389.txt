@@ -1,0 +1,15 @@
+-----METADATA
+1962
+0
+unknown
+0
+True
+False
+False
+False
+-0iadmmcd cmdlnscklmds;klmnvkebkvn lkq'ejm Goo goo gaa gaa
+92109
+-----ADDED
+style "text-align:center; background: #F8F3CA; color:#000000;" 84/63jow2 
+-----DELETED
+style "text-align:center; background: #F8F3CA; color:#000000;" 84/63 

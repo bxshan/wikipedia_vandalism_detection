@@ -1,0 +1,15 @@
+-----METADATA
+3855
+187013
+unknown
+16406
+False
+True
+True
+True
+'you could order anything you like' → 'one could order anything one liked' (using [[User:M/Reword|Reword]])
+3150
+-----ADDED
+An everyday Soviet consisted of three or four s, typically referred to as "the first", "the second", "the third", and "the fourth" An optional was not "numbered" Of course, in one could order anything one liked, in any order, but in typical canteen, especially in workers or students canteen, you would normally have gotten what was called "combined dinner" "kompleksny obed" <!-- any better translation --> "the first", etc 
+-----DELETED
+An everyday Soviet consisted of three or four s, typically referred to as "the first", "the second", "the third", and "the fourth" An optional was not "numbered" Of course, in you could order anything you like, in any order, but in typical canteen, especially in workers or students canteen, you would normally have gotten what was called "combined dinner" "kompleksny obed" <!-- any better translation --> "the first", etc 

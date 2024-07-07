@@ -1,0 +1,15 @@
+-----METADATA
+1651
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+54475
+-----ADDED
+image Lord Shabbir photograph jpg 
+-----DELETED
+image Lord Kelvin photograph jpg 

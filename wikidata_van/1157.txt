@@ -1,0 +1,15 @@
+-----METADATA
+3613
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+26376
+-----ADDED
+text It has been suggested although itsn not clear by whom that this article be into articles entitled accessible from What are your thoughts on the matter? Dont say you dont have any! Come on, make sure to voice them, because we can all benefit from your feedback Keep in mind that many famous examples exist, and such page could be very interesting and rich with information If you dont believe it, just see the lenght and variety of the list below and youll understand Impressive, isnt it? Yes, you dont have to deny it, it is So lets get busy and draft something; such list can become worthy and valuable article Of course, everything added to that new entry must be referenced, and strict NPOV stance is must True, sometimes this is difficult, but its certainly possible, especially when several editors actively collaborate together So what do you say? Are you up to the task? If your answer is "yes", lets it Go ahead and dont be shy! Remember, you must 
+-----DELETED
+text It has been suggested that this article be into articles entitled accessible from What are your thoughts on the matter? Make sure to voice them, because we can all benefit from your feedback Keep in mind that many famous examples exist, and such page could be very interesting and rich with information If you dont believe it, just see the lenght and variety of the list below and youll understand Impressive, isnt it? Of course, everything added to that new article must be referenced, and strict NPOV stance is must Are you up to the task? If your answer is "yes", lets it Go ahead and dont be shy! Remember, you must 

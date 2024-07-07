@@ -1,0 +1,15 @@
+-----METADATA
+2968
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+68638
+-----ADDED
+NBA team color1 #FF0033 color2 #FFFFFF 
+-----DELETED
+NBA Team color1 color2 

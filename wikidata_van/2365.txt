@@ -1,0 +1,15 @@
+-----METADATA
+3692
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+45738
+-----ADDED
+Tidal power, sometimes also called tidal energy, is form of that converts the energy of into electricity fuck youor other useful forms of power 
+-----DELETED
+Tidal power, sometimes also called tidal energy, is form of that converts the energy of into electricity or other useful forms of power 

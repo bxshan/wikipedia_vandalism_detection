@@ -1,0 +1,15 @@
+-----METADATA
+3647
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+93679
+-----ADDED
+Diabetes mellitus often referred to simply as diabeetus—is condition in which the body either does not produce enough, or does not properly respond to, produced in the Insulin enables cells to absorb glucose in order to turn it into energy In diabetes, the body either fails to properly respond to its own insulin, does not make enough insulin, or both This causes glucose to accumulate in the blood, often leading to various complications 
+-----DELETED
+Diabetes mellitus often referred to simply as diabetes—is condition in which the body either does not produce enough, or does not properly respond to, produced in the Insulin enables cells to absorb glucose in order to turn it into energy In diabetes, the body either fails to properly respond to its own insulin, does not make enough insulin, or both This causes glucose to accumulate in the blood, often leading to various complications 

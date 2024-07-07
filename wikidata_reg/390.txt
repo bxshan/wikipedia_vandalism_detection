@@ -1,0 +1,14 @@
+-----METADATA
+1725
+195899
+male
+16114
+False
+True
+True
+True
+Adding main article link using [[Project:AutoWikiBrowser|AWB]]
+36704
+-----ADDED
+Main List of twin towns and sister cities in Spain Bilbao is with: 
+-----DELETED

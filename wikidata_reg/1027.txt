@@ -1,0 +1,15 @@
+-----METADATA
+6073
+1857
+unknown
+16248
+False
+True
+True
+True
+<EMPTY>
+21148
+-----ADDED
+*Ernesto Lopez Umali local hero ex-Bongabong Mayor *N Gonzalez, Nestor Vicente Madali Gonzalez is an internationally acclaimed Filipino writer and educator *Florante Villarica writer, historian and an expert on Mindoro from history, politics, to myths and lore *Benjamin Espiritu, La Salle Professor *Charo Santos, ABS-CBN Broadcasting Corp President, television and film producer, host and actress 
+-----DELETED
+*Ernesto Lopez Umali local hero and ex Mayor, Bongabong *N Gonzalez, Nestor Vicente Madali Gonzalez is an internationally acclaimed Filipino writer educator *Florante Villarica writer, historian and an expert on Mindoro from History, politics, to Myths and Lores *Benjamin Espiritu, La Salle Professor *Charo Santos, ABS-CBN Broadcasting Corp President and actress Maria Rosario Santos also known as Charo Santos is Philippine television producer executive, host, actress, and film producer 

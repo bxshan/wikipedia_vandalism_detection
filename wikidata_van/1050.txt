@@ -1,0 +1,15 @@
+-----METADATA
+2660
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6702
+-----ADDED
+Matthew Mackendree "Matt" Lanter born April 1, 1983 is an and best known for his roles as in the short-lived political drama and the voice role of in the animated film and its Matt also recently joined the cast of as recurring character in season one, before becoming series regular from season two backwards 
+-----DELETED
+Matthew Mackendree "Matt" Lanter born April 1, 1983 is an and best known for his roles as in the short-lived political drama and the voice role of in the animated film and its Matt also recently joined the cast of as recurring character in season one, before becoming series regular from season two onwards 

@@ -1,0 +1,15 @@
+-----METADATA
+4403
+0
+unknown
+0
+True
+False
+False
+False
+Profanity removed.
+37650
+-----ADDED
+The first post-independence development plan for Bombay, formulated by the Mayer-Modak Committee in 1948, suggested satellite towns Ten years later in March 1958, the Study Group on Greater Bombay was set up under the chairmanship of Mr Barve In February 1959, the committee suggested the formation of township on the mainland across the Thane Creek to decongest Bombay One of its major recommendations was that railroad bridge be built across the Thane Creek to connect peninsular Bombay with the mainland The bridge accelerated development across the Creek, relieving pressure on the citys railways and roadways, and attracted industrial and residential concentrations eastward to the mainland 
+-----DELETED
+The first post-independence development plan for Bombay, formulated by the Mayer-Modak Committee in 1948, suggested satellite towns Ten years later in March 1958, the Study Group on Greater Bombay was set up under the chairmanship of Mr Barve In February 1959, the committee suggested the formation of township on the mainland across the Thane Creek to decongest Bombay One of its major recommendations was that rail-cum-road bridge be built across the Thane Creek to connect peninsular Bombay with the mainland The bridge accelerated development across the Creek, relieving pressure on the citys railways and roadways, and attracted industrial and residential concentrations eastward to the mainland 

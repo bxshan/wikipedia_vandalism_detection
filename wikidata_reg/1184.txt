@@ -1,0 +1,15 @@
+-----METADATA
+3582
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3483
+-----ADDED
+He is in Nike SB commercial called with Theotis Beasley, and to celebrate the launch of his new shoe, the Nike SB Paul Rodriguez III Zoom Air His current sponsors are Plan Skateboards, Nike SB, Silver Trucks, NixonMountain Dew, Boost Mobile, Diamond Supply Co Grip Heads, and Incase 
+-----DELETED
+He is in Nike SB commercial called with Theotis Beasley, and to celebrate the launch of his new shoe, the Nike SB Paul Rodriguez III Zoom Air His current sponsors are Plan skateboards,Nike SBSilver trucksHubba wheelsNixonMountain dew,and incase 

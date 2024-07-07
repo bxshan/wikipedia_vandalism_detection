@@ -1,0 +1,15 @@
+-----METADATA
+2666
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+25493
+-----ADDED
+Good Charlotte started out by playing at small bars that not ture They soon caught the attention of band, whose song "" was chart topper at the time Good Charlotte lost the opening slot on Lits East Coast tour in 1999 Soon after, Good Charlotte played some dates with the band who had just experienced mainstream success with their album, All of this caught the attention of major music labels, and Good Charlotte eventually signed with in 1999 
+-----DELETED
+Good Charlotte started out by playing at small bars They soon caught the attention of band, whose song "" was chart topper at the time Good Charlotte lost the opening slot on Lits East Coast tour in 1999 Soon after, Good Charlotte played some dates with the band who had just experienced mainstream success with their album, All of this caught the attention of major music labels, and Good Charlotte eventually signed with in 1999 

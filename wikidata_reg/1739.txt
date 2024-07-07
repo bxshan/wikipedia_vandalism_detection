@@ -1,0 +1,15 @@
+-----METADATA
+1768
+31910
+unknown
+-1
+False
+True
+True
+True
+Drop catalog numbers
+4437
+-----ADDED
+Label 
+-----DELETED
+Label <br/>T-2358 <br/>ST-2358 

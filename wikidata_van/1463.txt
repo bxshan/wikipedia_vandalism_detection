@@ -1,0 +1,15 @@
+-----METADATA
+2890
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+14781
+-----ADDED
+landfill, also known as dump stink and historically as is site for the disposal of materials by burial and is the oldest form of Historically, landfills have been the most common methods of organised and remain so in many places around the world 
+-----DELETED
+landfill, also known as dump and historically as is site for the disposal of materials by burial and is the oldest form of Historically, landfills have been the most common methods of organised and remain so in many places around the world 

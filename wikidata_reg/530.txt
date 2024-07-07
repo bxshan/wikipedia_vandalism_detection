@@ -1,0 +1,15 @@
+-----METADATA
+4367
+53696
+unknown
+15415
+False
+True
+True
+True
+ reorganize locations
+34311
+-----ADDED
+Locations in the game include and <ref name "ve3d" /> Specific landmarks include <ref name "gi-ac2" />, the the Little Canal, the <ref name "gi-ac2" />, and <ref name "ve3d" /> 
+-----DELETED
+Locations in the game include the countryside and and <ref name "ve3d" /> Specific landmarks include <ref name "gi-ac2" />, the the Little Canal, the <ref name "gi-ac2" />, and <ref name "ve3d" /> 

@@ -1,0 +1,14 @@
+-----METADATA
+1119
+2172099
+male
+16554
+False
+True
+True
+True
+{{For|the cyclist|Katie Curtis}}
+4228
+-----ADDED
+For the cyclist Katie Curtis 
+-----DELETED

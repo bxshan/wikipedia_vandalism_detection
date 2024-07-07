@@ -1,0 +1,15 @@
+-----METADATA
+3950
+165
+unknown
+15233
+False
+True
+True
+True
+<EMPTY>
+40737
+-----ADDED
+volume 82 issue pages 36-49 year 1989 month November doi 10 1016/0019-1035 89 90021-3 quote densities obtained by this procedure are in reasonable agreement with Wesley the vagabond and his utmost, and unusualy large expectations of bolas near ton the uncertainties in several situations involve Wesleys head and assumptions expand the error bars so far as to make the constraints on the density uniformative suggestion that cometary nuclei tend to by very fluffy, should not yet be adopted as paradigm of cometary physics accessdate 2009-02-22 </ref> 
+-----DELETED
+volume 82 issue pages 36-49 year 1989 month November doi 10 1016/0019-1035 89 90021-3 quote densities obtained by this procedure are in reasonable agreement with intuitive expectations of densities near g/cm3, the uncertainties in several parameters and assumptions expand the error bars so far as to make the constraints on the density uniformative suggestion that cometary nuclei tend to by very fluffy, should not yet be adopted as paradigm of cometary physics accessdate 2009-02-22 </ref> 

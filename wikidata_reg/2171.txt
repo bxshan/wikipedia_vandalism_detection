@@ -1,0 +1,15 @@
+-----METADATA
+3594
+6376
+male
+15018
+False
+True
+True
+True
+<EMPTY>
+5160
+-----ADDED
+The second daughter and third child of Grand Duke Ferdinando and Christina of Lorraine, Catherine, named after was born in on May 1593 Catherine was considered as potential spouse to heir to the three Kingdoms of England, Scotland and Ireland, but his Anglican religion presented an insurmountable barrier Nevertheless, she married in 1617 Ferdinando Gonzaga, Duke of Mantua and Monteferrat, by whom she bore no children Upon being made widow in 1626, she returned to Tuscany Her nephew, created her Governess of Siena in 1627, where she died of two years later <ref>Young, 530</ref> In later life, Catherine garnered reputation for intense piety <Ref name Young387>Young, 387</ref> Historian Colonel Young asserts that she bore striking resemblance to her brother and sister <Ref name Young387/> She was interred in the Medicean necropolis, <Ref name Young387/> 
+-----DELETED
+The second daughter and third child of Grand Duke Ferdinando and Christina of Lorraine, Catherine, named after was born in on May 1593 She married in 1617 Ferdinando Gonzaga, Duke of Mantua and Monteferrat, by whom she bore no children Upon being made widow in 1626, she returned to Tuscany Her nephew, created her Governess of Siena in 1627, where she died of two years later <ref>Young, 530</ref> In later life, Catherine garnered reputation for intense piety <Ref name Young387>Young, 387</ref> Historian Colonel Young asserts that she bore striking resemblance to her brother and sister <Ref name Young387/> She was interred in the Medicean necropolis, <Ref name Young387/> 

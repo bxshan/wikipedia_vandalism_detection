@@ -1,0 +1,15 @@
+-----METADATA
+2133
+0
+unknown
+0
+True
+False
+False
+False
+Correcting links
+4029
+-----ADDED
+The exterior of the pagoda and its surroundings were featured in episode one of the 2009 BBC program "A History of Christianity"<ref> cite http://www bbc co uk/programmes/b00ntrqh </ref>, the program also features an interview with by the presenter Professor 
+-----DELETED
+The exterior of the pagoda and its surroundings were featured in episode one of the 2009 BBC program "A History of Christianity"<ref> cite http://www bbc co uk/programmes/b00ntrqh </ref>, the program also features an interview with by the presenter 

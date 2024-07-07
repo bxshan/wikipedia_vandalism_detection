@@ -1,0 +1,15 @@
+-----METADATA
+1691
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3007
+-----ADDED
+cr IRE <br /> cr SCO <br /> cr AFG <br /> cr USA 
+-----DELETED
+cr IRE <br /> cr SCO <br /> cr AFG <br /> cr USA 

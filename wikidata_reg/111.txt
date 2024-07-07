@@ -1,0 +1,15 @@
+-----METADATA
+7183
+4122
+male
+15778
+False
+True
+True
+True
+<EMPTY>
+10626
+-----ADDED
+Flavius Valentinianus, known English as Valentinian I, November 17, 375 from 364 until The sons successful general, Valentinian divided between themselves, Valentinian taking half During reign, successfully fought along Rhine frontier, defeating many occassions Valentinian is often referred to as "last western emperor" <ref>Diana Bowder, ed "Valentinian I," Who Who Roman World New York: Simon Schuster, 1984 555 Bibl Matthews, Western Aristocracies </ref> death, eldest son succeeded western half todays, in He had been an officer who served under the emperors and and had risen high in the imperial service Of robust frame and distinguished appearance, he possessed great courage and military capacity After the death of Jovian, he was chosen emperor in his forty-third year by the officers of the army at in on February 26, 364, and shortly afterwards named his brother colleague with him in the empire 
+-----DELETED
+Flavius Valentinianus, known in English as Valentinian I, November 17, 375 was from 364 until his death Valentinian is often referred to as the "last great western emperor" <ref>Diana Bowder, ed "Valentinian I," Who was Who in the Roman World New York: Simon Schuster, 1984 555 Bibl Matthews, Western Aristocracies </ref> Both he and his brother Emperor were born at modern days in the sons of successful general, He had been an officer who served under emperors had risen high imperial service Of robust frame distinguished appearance, possessed courage military capacity Jovian, chosen emperor forty-third year by officers army at February 26, 364, shortly afterwards named colleague 

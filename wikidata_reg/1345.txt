@@ -1,0 +1,15 @@
+-----METADATA
+2639
+152265
+male
+15578
+False
+True
+True
+True
+ISBN form
+69562
+-----ADDED
+Van Loo, Sofie ed Gorge 2006 ISBN 9076979359; ISBN 9789076979359 
+-----DELETED
+Van Loo, Sofie ed Gorge 2006 ISBN: 9076979359; ISBN 9789076979359 

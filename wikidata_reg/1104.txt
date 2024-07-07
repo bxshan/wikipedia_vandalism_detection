@@ -1,0 +1,15 @@
+-----METADATA
+9951
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+1824
+-----ADDED
+Infobox planet February 17, epoch May 14, 2008 3295 Murakami 1950 DH is discovered on February 17, 1950 by at Germany Reflist Minor planets navigator 3294 Carlvesely 3296 Bosque Alegre Small Solar System bodies Asteroid-stub 
+-----DELETED
+Infobox Planet discovered epoch 3295 Murakami DH is on by at Germany reflist MinorPlanets Navigator 3294 Carlvesely 3296 Bosque Alegre MinorPlanets_Footer asteroid-stub 

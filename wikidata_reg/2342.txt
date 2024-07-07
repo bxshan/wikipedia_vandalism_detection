@@ -1,0 +1,15 @@
+-----METADATA
+11943
+1718198
+unknown
+16861
+False
+True
+True
+True
+Copyedit.
+5392
+-----ADDED
+title Reagent For the Detection of Reducing Sugars year December 1908 Benedicts reagent is used as test for the presence of This includes all and the and Even more generally, Benedicts test will detect the presence of except aromatic ones and including those that occur in certain ketoses Thus, although the ketose is not strictly reducing sugar, it is an alpha-hydroxy-ketone, and gives positive test because it is converted to the aldoses and by the base in the reagent <ref> http://www uni-regensburg de/Fakultaeten/nat_Fak_IV/Organische_Chemie/Didaktik/Keusch/D-Fehling-e htm Fehlings Test for Reducing Sugars<!-- Bot generated title --> </ref> author Robert Simoni, Robert Hill, Martha Vaughan volume 277 url http://www jbc org/cgi/content/full/277/16/e5 doi 10 1074/jbc M110516200 Substance in water 3ml benedict solution then boil for few minutes and allow to cool 
+-----DELETED
+title Reagent For the Detection of Reducing Sugars year 1908 month Dec day 01 Benedicts reagent is used as test for the presence of This includes all and the and Even more generally, Benedicts test will detect the presence of except aromatic ones and including those that occur in certain ketoses Thus, although the ketose is not strictly reducing sugar, it is an alpha-hydroxy-ketone, and gives positive test because it is converted to the aldoses and by the base in the reagent <ref> http://www uni-regensburg de/Fakultaeten/nat_Fak_IV/Organische_Chemie/Didaktik/Keusch/D-Fehling-e htm Fehlings Test for Reducing Sugars<!-- Bot generated title --> </ref> author Robert Simoni, Robert Hill, and Martha Vaughan volume 277 url http://www jbc org/cgi/content/full/277/16/e5 doi 10 1074/jbc M110516200 Substance in water 3ml benedict solution then boil for few minutes allow to cool 

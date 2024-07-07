@@ -1,0 +1,15 @@
+-----METADATA
+3134
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+66855
+-----ADDED
+Support for themes has been extended in Windows In addition to setting the colors of the window chrome, desktop background, desktop icons, mouse pointers and sound schemes, themes in Windows include desktop slideshow poo settings new control panel interface, accessible through the "Personalize" context menu item on the desktop, has been introduced which provides the ability to customize and switch between themes, as well as download more themes from Microsofts web site Support for "theme packs" is included; theme packs are with an extension of <code> themepack</code>, and consist of <code> theme</code> as well as any number of image, sound, icon, and mouse cursor files <ref> cite web 
+-----DELETED
+Support for themes has been extended in Windows In addition to setting the colors of the window chrome, desktop background, desktop icons, mouse pointers and sound schemes, themes in Windows include desktop slideshow settings new control panel interface, accessible through the "Personalize" context menu item on the desktop, has been introduced which provides the ability to customize and switch between themes, as well as download more themes from Microsofts web site Support for "theme packs" is included; theme packs are with an extension of <code> themepack</code>, and consist of <code> theme</code> as well as any number of image, sound, icon, and mouse cursor files <ref> cite web 

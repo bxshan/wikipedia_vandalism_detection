@@ -1,0 +1,15 @@
+-----METADATA
+7154
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+14404
+-----ADDED
+
+-----DELETED
+In or fixed asset investment or formation sometimes simply called investment is the production per unit time of which are not consumed but are to be used for future production Examples include tangibles such as building or and intangibles such as year of schooling or on-the-job training In gross investment represented by the <var style "font-family: serif; font-size: 1em;">I</var> is also component of <var>GDP</var> given in the formula <var>GDP</var> <var>C</var> <var style "font-family: serif; font-size: 1em;">I</var> <var>G</var> <var>NX</var>, where <var>C</var> is consumption, <var>G</var> is government spending, and <var>NX</var> is net exports Thus investment is everything that remains of production after consumption, government spending, and exports are subtracted 

@@ -1,0 +1,15 @@
+-----METADATA
+2775
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3870
+-----ADDED
+2010, FUTURITY NOW!, Berlin, 2009, Berlin Vol 14, Berlin Germany 
+-----DELETED
+2010, Transmediale FUTURITY NOW!, Berlin, Germany 2009, Pecha Kucha Berlin Vol 14, Berlin 

@@ -1,0 +1,15 @@
+-----METADATA
+2018
+170300
+male
+17315
+False
+True
+True
+True
+debold binomial
+20647
+-----ADDED
+The Rose-breasted Grosbeak, Pheucticus ludovicianus, is large in the family Cardinalidae It breeds in cool- to in winter <ref name sh8903>Stiles Skutch 1989 Hilty 2003 </ref> 
+-----DELETED
+The Rose-breasted Grosbeak, Pheucticus ludovicianus, is large in the family Cardinalidae It breeds in cool- to in winter <ref name sh8903>Stiles Skutch 1989 Hilty 2003 </ref> 

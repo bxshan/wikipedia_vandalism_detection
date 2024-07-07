@@ -1,0 +1,15 @@
+-----METADATA
+3274
+11
+unknown
+14828
+False
+True
+True
+True
+<EMPTY>
+25398
+-----ADDED
+Rugby is on town 61,988 2001 census<ref> http://www mylazysundays com </ref> making it the biggest in the county The larger has population of 91,600 2005 estimate 
+-----DELETED
+Rugby is in in the of on the The town has population of 61,988 2001 census<ref> http://www statistics gov uk/statbase/ssdataset asp?vlnk 8271&More 2001 urban areas headcounts </ref> making it county larger 91,600 2005 estimate 

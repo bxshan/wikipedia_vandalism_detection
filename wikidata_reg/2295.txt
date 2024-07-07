@@ -1,0 +1,15 @@
+-----METADATA
+1904
+46982
+male
+16651
+False
+True
+True
+True
+<EMPTY>
+6322
+-----ADDED
+Giorgi was married twice first to the princess with whom he had son called and daughters: Guarandukht, Marta, and Kata; and second to Alde of who gave birth to son, 
+-----DELETED
+Giorgi was married twice first to the princess with whom he had son called and daughter called Guarandukht, and second to Alde of who gave birth to son, 

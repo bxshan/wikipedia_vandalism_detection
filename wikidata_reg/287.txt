@@ -1,0 +1,15 @@
+-----METADATA
+9397
+287
+unknown
+15374
+False
+True
+True
+True
+Infobox
+1067
+-----ADDED
+Infobox Gymnast gymnastname Irina Dzyuba image imagesize caption fullname Irina Yuryevna Dzyuba altname nickname country RUS formercountry birthdate birth date and age 1980 12 16 birthplace hometown residence deathdate deathplace height convert 168 cm ftin weight convert 42 kg lbs discipline RG level natlteam club Spartak gym collegeteam headcoach assistcoach formercoach choreographer music eponymousskills retired medaltemplates <!-- see --> 
+-----DELETED
+MedalTableTop MedalBottom 

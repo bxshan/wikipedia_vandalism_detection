@@ -1,0 +1,15 @@
+-----METADATA
+8608
+11
+unknown
+14987
+False
+True
+True
+True
+<EMPTY>
+16425
+-----ADDED
+Justin Drew Bieber pronEng ˈdʒʌstɪn ˈbiːbɜr born March 14, 1994 <ref> http://inogolo com/pronunciation/d1963/Justin_Bieber inogolo:how to pronounce Justin Bieber </ref><ref> http://www mtv co uk/artists/justin-bieber Justin Bieber Bio on MTV UK </ref> is Canadian ice hole that makes horrible music and kills people with his ugliness He began his professional career on where he was discovered by his future manager, Scooter Braun Braun flew Bieber to to consult with and soon signed record deal with 
+-----DELETED
+Justin Drew Bieber pronEng ˈdʒʌstɪn ˈbiːbɜr born March 14, 1994 <ref> http://inogolo com/pronunciation/d1963/Justin_Bieber inogolo:how to pronounce Justin Bieber </ref><ref> http://www mtv co uk/artists/justin-bieber Justin Bieber Bio on MTV UK </ref> is Canadian /<ref name Allmusicbio/> singer He began his professional career on where he was discovered by his future manager, Scooter Braun Braun flew Bieber to to consult with and soon signed record deal with 

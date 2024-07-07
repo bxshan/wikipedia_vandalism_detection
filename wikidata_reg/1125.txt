@@ -1,0 +1,15 @@
+-----METADATA
+11280
+116644
+unknown
+16856
+False
+True
+True
+True
+updating infobox fields using [[Project:AutoWikiBrowser|AWB]]
+3392
+-----ADDED
+Infobox London station fare_zone 
+-----DELETED
+London stations zone 

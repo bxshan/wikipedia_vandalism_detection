@@ -1,0 +1,15 @@
+-----METADATA
+4542
+3931
+male
+15605
+False
+True
+True
+True
+formatting
+37570
+-----ADDED
+The distinguishing technique used in public key cryptography is the use of asymmetric key algorithms, where the used to message is not the same as the key used to it Each user has pair of &mdash; public key and private key The private key is kept secret, whilst the public key may be widely distributed Messages are with the recipients public key and can only be decrypted with the corresponding private key The keys are related mathematically, but the private key cannot be feasibly ie, in actual or projected practice derived from the public key It was the discovery of such algorithms which the practice of cryptography beginning in the middle 1970s 
+-----DELETED
+The distinguishing technique used in public key cryptography is the use of asymmetric key algorithms, where the used to message is not the same as the key used to it Each user has pair of &mdash; public key and private key The private key is kept secret, whilst the public key may be widely distributed Messages are with the recipients public key and can only be decrypted with the corresponding private key The keys are related mathematically, but the private key cannot be feasibly ie, in actual or projected practice derived from the public key It was the discovery of such algorithms which the practice of cryptography beginning in the middle 1970s 

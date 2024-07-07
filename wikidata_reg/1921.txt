@@ -1,0 +1,15 @@
+-----METADATA
+4036
+5025
+male
+15024
+False
+True
+True
+True
+Add semi-protect (small) template
+7604
+-----ADDED
+pp-vandalism small yes As of the 2005-06 school year, the school had an enrollment of 326 students and 24 classroom teachers on an basis for student-teacher ratio of 13 <ref name NCES> http://nces ed gov/ccd/schoolsearch/school_detail asp?Search 1&DistrictID 3409210&ID 340921000568 Sturgis Charter Public School Accessed </ref> 
+-----DELETED
+As of the 2005-06 school year, the school had an enrollment of 326 students and 24 classroom teachers on an basis for student-teacher ratio of 13 <ref name NCES> http://nces ed gov/ccd/schoolsearch/school_detail asp?Search 1&DistrictID 3409210&ID 340921000568 Sturgis Charter Public School Accessed </ref> 

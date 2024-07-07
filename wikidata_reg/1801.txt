@@ -1,0 +1,15 @@
+-----METADATA
+4554
+1911
+unknown
+15380
+False
+True
+True
+True
+ fixed reference
+5207
+-----ADDED
+In September 2009, study called for taxes on sugar-sweetened beverages saying that these actions would cut rates of diet-related diseases and health care costs Written by experts in nutrition, public health and economics, the study called for an excise tax of penny per ounce on soft drinks and other beverages that have added sweeteners such as sucrose, high-fructose corn syrup or fruit-juice concentrates The expectation is that such tax could reduce calorie consumption from sweetened beverages by 10% and create revenue that governments could use to pay for health programs <ref> http://online wsj com/article/SB10001424052970204518504574417380680508354 html Wall Street Journal, New report calls for tax of penny an ounce on soft drinks, Sept 16 2009</ref> report on the New England Journal of Medicine study can be read here<ref>http://content nejm org/cgi/reprint/361/16/1599 pdf New England Journal of Medicine, The public health and economic benefits of taxing sugar-sweetened beverages, Oct 15 2009</ref> 
+-----DELETED
+In September 2009, study called for taxes on sugar-sweetened beverages saying that these actions would cut rates of diet-related diseases and health care costs Written by experts in nutrition, public health and economics, the study called for an excise tax of penny per ounce on soft drinks and other beverages that have added sweeteners such as sucrose, high-fructose corn syrup or fruit-juice concentrates The expectation is that such tax could reduce calorie consumption from sweetened beverages by 10% and create revenue that governments could use to pay for health programs <ref> http://online wsj com/article/SB10001424052970204518504574417380680508354 html Wall Street Journal, New report calls for tax of penny an ounce on soft drinks, Sept 16 2009</ref> report on the New England Journal of Medicine study can be read here<ref>New England Journal of Medicine, The public health and economic benefits of taxing sugar-sweetened beverages, Oct 15 2009</ref> 

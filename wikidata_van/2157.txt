@@ -1,0 +1,14 @@
+-----METADATA
+1456
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10002
+-----ADDED
+this song sucks 
+-----DELETED

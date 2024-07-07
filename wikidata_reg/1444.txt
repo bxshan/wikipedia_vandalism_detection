@@ -1,0 +1,15 @@
+-----METADATA
+7040
+9044
+unknown
+15831
+False
+True
+True
+True
+ layout
+80048
+-----ADDED
+col-5 col-5 col-5 col-5 portal Baháí Faith P_bahai svg col-5 
+-----DELETED
+col-4 col-4 col-4 col-4 

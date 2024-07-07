@@ -1,0 +1,14 @@
+-----METADATA
+835
+3781
+unknown
+16019
+False
+True
+True
+True
+<EMPTY>
+14586
+-----ADDED
+distinguish San Jose, California 
+-----DELETED

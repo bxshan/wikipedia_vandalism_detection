@@ -1,0 +1,15 @@
+-----METADATA
+4751
+196790
+unknown
+16783
+False
+True
+True
+True
+ correct (k is a)
+9615
+-----ADDED
+Any over the polynomials of the form <math>ax^2+bx+c</math> where <math>a</math>, <math>b</math>, and <math>c</math> <math>\mathbb can be factored into an with the form <math>a using the The method is as follows: :<math> ax^2 bx \alpha \beta a\left \frac -b \sqrt b^2-4ac 2a \right \left \frac -b \sqrt b^2-4ac 2a \right </math> 
+-----DELETED
+Any over the polynomials of the form <math>ax^2+bx+c</math> where <math>a</math>, <math>b</math>, and <math>c</math> <math>\mathbb </math> can be factored into an with the form <math> \alpha \beta </math> using the The method is as follows: :<math> ax^2 bx k\left \frac -b \sqrt b^2-4ac 2a \right \left \frac -b \sqrt b^2-4ac 2a \right 

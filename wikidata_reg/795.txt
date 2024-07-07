@@ -1,0 +1,15 @@
+-----METADATA
+2560
+440
+unknown
+15951
+False
+True
+True
+True
+<EMPTY>
+2117
+-----ADDED
+Upon victory by the Vikings over the Red Hawks, the bell in Main Hall on the Lawrence is rung The bell is only rung three times annually; the other two times being and 
+-----DELETED
+Upon victory by the Vikings over the Red Hawks, the bell in Main Hall on the Lawrece is rung The bell is only rung three times annually; the other two times being and 

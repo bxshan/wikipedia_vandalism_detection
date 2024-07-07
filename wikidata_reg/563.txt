@@ -1,0 +1,15 @@
+-----METADATA
+9265
+485
+unknown
+14895
+False
+True
+True
+True
+<EMPTY>
+24191
+-----ADDED
+Occupation Label Beat Kat Records, White Label Records, Madstar Records, Lemon Records, Rpm Records UK Rock Chix Records Notable_instruments 1969 Gibson SG standard, Fender USA Stratocaster, Martin 00-5 acoustic guitar 
+-----DELETED
+Occupation Poet, Label Beat Kat Records Notable_instruments 

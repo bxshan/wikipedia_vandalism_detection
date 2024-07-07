@@ -1,0 +1,15 @@
+-----METADATA
+13487
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+38384
+-----ADDED
+
+-----DELETED
+width 60% class "wikitable" style "text-align:" !colspan Al-Zawra Statistics width 20% Team width 5% GP width 5% width 5% width 5% width 5% GF width 5% GA width 5% GD width 5% Pts flagicon Iraq <Center>12 <Center>5 <Center>3 <Center>4 <Center>15 <Center>19 <Center>-4 <Center>18 width 60% class "wikitable" style "text-align:" !colspan Al-Zawra Results Season Team Results Team Venue <center> flagicon Iraq <center> 1-2 flagicon KSA <center> flagicon Iraq <center> 2-1 flagicon Uzbekistan <center> flagicon Iraq <center> 1-5 flagicon Syria <center> flagicon Iraq <center> 0-0 flagicon Syria <center> flagicon Iraq <center> 1-5 flagicon KSA <center> flagicon Iraq <center> 1-0 flagicon Uzbekistan <center> flagicon Iraq <center> 1-0 flagicon Kuwait <center> flagicon Iraq <center> 0-0 flagicon Qatar <center> flagicon Iraq <center> 1-2 flagicon UAE <center> flagicon Iraq <center> 1-1 flagicon UAE <center> flagicon Iraq <center> 3-2 flagicon Kuwait <center> flagicon Iraq <center> 3-1 flagicon Qatar 

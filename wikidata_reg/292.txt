@@ -1,0 +1,15 @@
+-----METADATA
+3015
+13342
+unknown
+15213
+False
+True
+True
+True
+date in UK/international format
+4052
+-----ADDED
+He was first elected to office as member of the at at bye-election on 22 November 1911, representing the Borough of Woolwich for the Municpal Reform party 
+-----DELETED
+He was first elected to office as member of the at at bye-election on November 22, 1911, representing the Borough of Woolwich for the Municpal Reform party 

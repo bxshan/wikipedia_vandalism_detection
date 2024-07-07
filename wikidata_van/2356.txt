@@ -1,0 +1,15 @@
+-----METADATA
+3368
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+68767
+-----ADDED
+accessdate 2007-03-25 <small>Over tacos that night, Sanger explained his concerns about Nupedias lack of progress, the root cause of which was its serial editorial system As Nupedia was then structured, no stage of the editorial process could proceed before the previous stage was completed Kovitz brought up the wiki and sketched out "wiki magic," the mysterious process by which communities with common interests work to improve wiki pages by incremental contributions If it worked for the rambunctious hacker culture of programming, Kovitz said, it could work for any online collaborative project The wiki could break the Nupedia bottleneck by permitting volunteers to work simultaneously all over the project With Kovitz in tow, Sanger rushed back to his apartment and called Wales to share the idea boo Over the next few days he wrote formal proposal for Wales and started page on Cunninghams wiki called "WikiPedia "</small></ref><ref name "WikiPedia"> cite news 
+-----DELETED
+accessdate 2007-03-25 <small>Over tacos that night, Sanger explained his concerns about Nupedias lack of progress, the root cause of which was its serial editorial system As Nupedia was then structured, no stage of the editorial process could proceed before the previous stage was completed Kovitz brought up the wiki and sketched out "wiki magic," the mysterious process by which communities with common interests work to improve wiki pages by incremental contributions If it worked for the rambunctious hacker culture of programming, Kovitz said, it could work for any online collaborative project The wiki could break the Nupedia bottleneck by permitting volunteers to work simultaneously all over the project With Kovitz in tow, Sanger rushed back to his apartment and called Wales to share the idea Over the next few days he wrote formal proposal for Wales and started page on Cunninghams wiki called "WikiPedia "</small></ref><ref name "WikiPedia"> cite news 

@@ -1,0 +1,14 @@
+-----METADATA
+2569
+38613
+unknown
+16042
+False
+True
+True
+True
+Added navigation
+1441
+-----ADDED
+DEFAULTSORT:Hastrup MinorPlanets Navigator 16588 Johngee 16590 Brunowalter MinorPlanets_Footer 
+-----DELETED

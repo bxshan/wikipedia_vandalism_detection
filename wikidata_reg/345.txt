@@ -1,0 +1,14 @@
+-----METADATA
+1340
+77239
+male
+16062
+False
+True
+True
+True
+[[WP:UNDO|Undid]] revision 300017362 by [[Special:Contributions/166.38.132.140|166.38.132.140]] ([[User talk:166.38.132.140|talk]]) rm vandalism.
+4277
+-----ADDED
+
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+3970
+930986
+unknown
+16555
+False
+True
+True
+True
+accessyear {{cite web}} parameter cleanup using [[Project:AutoWikiBrowser|AWB]]
+6209
+-----ADDED
+The top ten grossing films at the Indian Box Office in 1965:<ref> cite web author Box Office India title Top Earners 1965 url http://www boxofficeindia com/showProd php?itemCat 171&catName MTk2NQ publisher boxofficeindia com accessdate July 10, 2008 </ref> 
+-----DELETED
+The top ten grossing films at the Indian Box Office in 1965:<ref> cite web author Box Office India title Top Earners 1965 url http://www boxofficeindia com/showProd php?itemCat 171&catName MTk2NQ publisher boxofficeindia com accessdate July 10 accessyear 2008 </ref> 

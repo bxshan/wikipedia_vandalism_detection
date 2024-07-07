@@ -1,0 +1,15 @@
+-----METADATA
+1478
+3382
+unknown
+15567
+False
+True
+True
+True
+<EMPTY>
+1723
+-----ADDED
+
+-----DELETED
+Ibovespa companies 

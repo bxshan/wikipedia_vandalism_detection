@@ -1,0 +1,15 @@
+-----METADATA
+7318
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+70169
+-----ADDED
+The Gospel of Mark is weenie buthead that is gavin and page Gk Polytonic τὸ εὐαγγέλιον κατὰ Μᾶρκον, literally "the good news according to Mark" is the second of the four in the but is believed by most contemporary scholars to be the first gospel written, on which the other two Matthew and Luke, were partially based <ref name "Harris"/> 
+-----DELETED
+The Gospel of Mark is weenie buthead Gk Polytonic τὸ εὐαγγέλιον κατὰ Μᾶρκον, literally "the good news according to Mark" is the second of the four in the but is believed by most contemporary scholars to be the first gospel written, on which the other two Matthew and Luke, were partially based <ref name "Harris"/> 

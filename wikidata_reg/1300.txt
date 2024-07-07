@@ -1,0 +1,15 @@
+-----METADATA
+9751
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+2469
+-----ADDED
+discovery_date September 18, 1893 epoch 30 January 2005 2453400 It was discovered by on September 18, 1893 in It was named for the former French region of Burgandy It is one of seven of Charloiss discoveries that was expressly named by the Astromomisches Rechen-Institut Astronomical Calculation Institute <ref> Schmadel Lutz Dictionary of Minor Planet Names fifth edition Springer, 2003 ISBN 3540002383 </ref> Burgundia was long thought to be member of the now defunct but it was found to be an unrelated interloper in that group based on its non-matching composition <ref>Cellino, et al "Spectroscopic Properties of Asteroid Families", in Asteroids III, University of Arizona Press, pp 633-643 2002 </ref> Minor planets navigator 373 Melusina 375 Ursula Small Solar System bodies Reflist 
+-----DELETED
+discovery_date epoch 2453400 It was discovered by on in It was named for the former French region of Burgandy It is one of seven of Charloiss discoveries that was expressly named by the Astromomisches Rechen-Institut Astronomical Calculation Institute <ref> Schmadel Lutz Dictionary of Minor Planet Names fifth edition Springer, 2003 ISBN 3540002383 </ref> Burgundia was long thought to be member of the now defunct but it was found to be an unrelated interloper in that group based on its non-matching composition <ref>Cellino, et al "Spectroscopic Properties of Asteroid Families", in Asteroids III, University of Arizona Press, pp 633-643 2002 </ref> MinorPlanets Navigator 373 Melusina 375 Ursula MinorPlanets_Footer reflist 

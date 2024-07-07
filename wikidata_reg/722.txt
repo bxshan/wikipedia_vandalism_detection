@@ -1,0 +1,15 @@
+-----METADATA
+2862
+2267
+unknown
+15650
+False
+True
+True
+True
+<EMPTY>
+8084
+-----ADDED
+cite book last Von Mellenthin first title Panzer Battles publisher Ballantine, first published by the University of Oklahoma Press, 1956 location New York year 1971 isbn 0345321588 
+-----DELETED
+cite book last von Mellenthin first title Panzer Battles publisher Ballantine, first published by the University of Oklahoma Press, 1956 location New York year 1971 isbn 0345321588 

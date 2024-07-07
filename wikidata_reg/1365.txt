@@ -1,0 +1,14 @@
+-----METADATA
+6692
+0
+unknown
+0
+True
+False
+False
+False
+revert vandalism, no consensus was actually reached in discussions; user is continually vandalising this page for no real reason
+8360
+-----ADDED
+infobox title Japanese blood type personality chart headerstyle color: white; background-color: red header1 Type label2 Best traits data2 Earnest, creative, sensible label3 Worst traits data3 Fastidious, overearnest header4 Type label5 Best traits data5 Wild, active, doer label6 Worst traits data6 Selfish, irresponsible header7 Type AB label8 Best traits data8 Cool, controlled, rational label9 Worst traits data9 Critical, indecisive header10 Type label11 Best traits data11 Agreeable, sociable, optimistic label12 Worst traits data12 Vain, rude 
+-----DELETED

@@ -1,0 +1,15 @@
+-----METADATA
+5643
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+32118
+-----ADDED
+Duchenne muscular dystrophy DMD is severe recessive form of characterized by rapid progression of muscle degeneration, eventually leading to loss of ambulation and death This affliction affects one in 3500 males, making it the disorder that makes it hardest to go to the bathroom, it might take hours In general, only males are afflicted, though females can be carriers The disorder is caused by mutation in the DMD, located in humans on the Xp21 The DMD gene codes for the an important structural component within muscle tissue provides structural stability to the DGC located on the 
+-----DELETED
+Duchenne muscular dystrophy DMD is severe recessive form of characterized by rapid progression of muscle degeneration, eventually leading to loss of ambulation and death This affliction affects one in 3500 males, making it the most prevalent of muscular dystrophies In general, only males are afflicted, though females can be carriers The disorder is caused by mutation in the DMD, located in humans on the Xp21 The DMD gene codes for the an important structural component within muscle tissue provides structural stability to the DGC located on the 

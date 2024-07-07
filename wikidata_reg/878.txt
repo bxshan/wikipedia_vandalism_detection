@@ -1,0 +1,15 @@
+-----METADATA
+2325
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6196
+-----ADDED
+ground Sportplatz Buechenwald<br /> chairman Roland Gnägi 
+-----DELETED
+ground Gemeindesportplatz<br /> chairman Alex Bühler 

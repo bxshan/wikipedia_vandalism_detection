@@ -1,0 +1,15 @@
+-----METADATA
+7155
+1084
+unknown
+14914
+False
+True
+True
+True
+<EMPTY>
+8802
+-----ADDED
+caption of the Osmeridae family It has recently been suggested that and might be sister clades to the osmerid genera <ref>Molecular resolution of the systematics of problematic group of fishes Teleostei: Osmeridae and evidence for morphological homoplasy, Katriina Ilves Eric Taylor, Molecular Phylogenetics and Evolution 50 2009 163–178 doi:10 1016/j ympev 2008 10 021</ref> label1 Mallotus Thaleichthys Allosmerus 
+-----DELETED
+caption of the osmeridae family It has recently been suggested that and might be sister clades to the osmerid genera <ref>Molecular resolution of the systematics of problematic group of fishes Teleostei: Osmeridae and evidence for morphological homoplasy, Katriina Ilves Eric Taylor, Molecular Phylogenetics and Evolution 50 2009 163–178 doi:10 1016/j ympev 2008 10 021</ref> label1 Mallotus Thaleichthys Allosmerus 

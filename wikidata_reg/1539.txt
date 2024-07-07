@@ -1,0 +1,15 @@
+-----METADATA
+3219
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+36616
+-----ADDED
+Color temperature is characteristic of that has important applications in lighting, photography, videography, publishing, manufacturing, and other fields The color temperature of light source is determined by comparing its with that of an ideal The temperature usually measured in at which the heated black-body radiator matches the color of the light source is that sources color temperature; for black body source, it is directly related to and 
+-----DELETED
+Color temperature is characteristic of that has important applications in lighting, photography, videography, publishing, and other fields The color temperature of light source is determined by comparing its with that of an ideal The temperature usually measured in at which the heated black-body radiator matches the color of the light source is that sources color temperature; for black body source, it is directly related to and 

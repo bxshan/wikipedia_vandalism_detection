@@ -1,0 +1,15 @@
+-----METADATA
+4835
+278
+unknown
+15268
+False
+True
+True
+True
+<EMPTY>
+41132
+-----ADDED
+Confucius zh Kǒng zǐ Kung-tzu or zh 孔夫子 Kǒng Fūzǐ Kung-fu-tzu links no lit "Master Kong,"<ref>More commonly abbreviated to zh 孔子 Kǒngzǐ links no see section</ref> traditionally 551 479 <ref>http://plato stanford edu/entries/confucius/</ref><ref>http://www google com/search?q confucius&hl en&safe active&rls com microsoft:en-us&sa X&tbo p&tbs tl:1,tll:551BC,tlh:551BC&ei utUTS5GsHYuPtgev8dGsCQ&oi toolbelt_timeline_result&resnum 2&ct timeline-date&ved 0CCYQzQEwAQ</ref> was thinker and social whose teachings and have deeply influenced and thought and life 
+-----DELETED
+Confucius zh Kǒng zǐ Kung-tzu or zh 孔夫子 Kǒng Fūzǐ Kung-fu-tzu links no lit "Master Kong,"<ref>More commonly abbreviated to zh 孔子 Kǒngzǐ links no see section</ref> traditionally 551 479 <ref>http://plato stanford edu/entries/confucius/</ref> was thinker and social whose teachings and have deeply influenced and thought and life 

@@ -1,0 +1,15 @@
+-----METADATA
+32714
+1466
+male
+15634
+False
+True
+True
+True
+added show specific anchors
+11956
+-----ADDED
+anchor show506 506 anchor show507 507 anchor show508 508 anchor show509 509 anchor show510 510 anchor show511 511 anchor show512 512 anchor show513 513 anchor show514 514 anchor show515 515 10 anchor show516 516 27 11 anchor show517 517 27 12 anchor show518 518 27 13 anchor show519 519 27 14 anchor show520 520 27 15 anchor show521 521 27 16 anchor show522 522 27 17 anchor show523 523 27 18 anchor show524 524 27 19 anchor show525 525 27 20 
+-----DELETED
+506 27 507 508 27 509 510 27 511 512 27 513 514 27 515 10 516 27 11 517 12 518 27 13 519 14 520 27 15 521 16 522 27 17 523 18 524 27 19 525 20 

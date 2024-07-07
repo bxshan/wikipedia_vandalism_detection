@@ -1,0 +1,15 @@
+-----METADATA
+3102
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+17658
+-----ADDED
+And it has bull sperm in the drink 
+-----DELETED
+And it has bull sperm in it 

@@ -1,0 +1,15 @@
+-----METADATA
+6267
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+7419
+-----ADDED
+Cimarron Strip 1967 Roarer" Daniel Boone 1969 "The Traitor" The Grasshopper 1970 aka Passions aka the Passing of Evil The Name of the Game 1971 episode, "Beware of the Watchdog" Travis Logan 1971 Bearcats! 1971 episode, "Hostages" 
+-----DELETED
+Cimarron Strip 1967 episode, "The Roarer" Daniel Boone 1969 Traitor" The Grasshopper 1970 aka Passions aka the Passing of Evil The Name of the Game 1971 "Beware of the Watchdog" Bearcats! 1971 episode, "Hostages" 

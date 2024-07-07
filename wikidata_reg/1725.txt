@@ -1,0 +1,15 @@
+-----METADATA
+3927
+143
+male
+16140
+False
+True
+True
+True
+removed what might have been accidental insertion of garbage text in quote
+47085
+-----ADDED
+According to 2006 interview, "For Graham, politics is secondary to the Gospel When Newsweek asked Graham whether ministers&mdash;whether they think of themselves as evangelists, pastors or bit of both&mdash;should spend time engaged with politics, he replied: You know, think in way that has to be up to the individual as he feels led of the Lord lot of things that commented on years ago would not have been of the Lord, Im sure, but think you have some—like communism, or segregation, on which think you have responsibility to speak out 
+-----DELETED
+According to 2006 interview, "For Graham, politics is secondary to the Gospel When Newsweek asked Graham whether ministers&mdash;whether they think of themselves as evangelists, pastors or bit of both&mdash;should spend time engaged with politics, he replied: You know, think in way that has to be up to the individual as he feels led of the Lord lot of things that commented on years ago would not ahdsja have been of the Lord, Im sure, but think you have some—like communism, or segregation, on which think you have responsibility to speak out 

@@ -1,0 +1,15 @@
+-----METADATA
+1450
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+24205
+-----ADDED
+border "2" cellpadding "4" style "border-collapse:collapse; text-align:left;" 
+-----DELETED
+border "2" cellpadding "4" style "border-collapse:collapse; text-align:center;" 

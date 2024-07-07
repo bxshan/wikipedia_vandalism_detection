@@ -1,0 +1,15 @@
+-----METADATA
+3596
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+11095
+-----ADDED
+The Secondary Emerging markets are: flag Argentina<ref>To be moved to Frontier September 2010 See: http://www ftse com/Indices/Country_Classification/Downloads/FTSE_Country_Classification_Sept_09_update pdf</ref> flag Chile flag China flag Colombia<ref>Possible change to Frontier </ref> flag Czech Republic<ref name Ch_AdEm>Possible change to Advanced Emerging </ref> flag Egypt flag India flag Indonesia flag Malaysia<ref name Ch_AdEm /> flag Morocco flag Pakistan flag Peru flag Philippines flag Romania flag Russia flag Thailand flag Turkey <ref name Ch_AdEm /> 
+-----DELETED
+The Secondary Emerging markets are: flag Argentina<ref>To be moved to Frontier September 2010 See: http://www ftse com/Indices/Country_Classification/Downloads/FTSE_Country_Classification_Sept_09_update pdf</ref> flag Chile flag China flag Colombia<ref>Possible change to Frontier </ref> flag Czech Republic<ref name Ch_AdEm>Possible change to Advanced Emerging </ref> flag Egypt flag India flag Indonesia flag Malaysia<ref name Ch_AdEm /> flag Morocco flag Pakistan flag Peru flag Philippines flag Russia flag Thailand flag Turkey <ref name Ch_AdEm /> 

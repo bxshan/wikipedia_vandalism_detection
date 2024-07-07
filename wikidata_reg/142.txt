@@ -1,0 +1,15 @@
+-----METADATA
+1631
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+19900
+-----ADDED
+LDS Site http://www lds org Official LDS site 
+-----DELETED
+LDS Site http://www lds org Official LDS Website 

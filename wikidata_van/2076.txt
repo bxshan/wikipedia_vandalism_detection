@@ -1,0 +1,15 @@
+-----METADATA
+2342
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+26732
+-----ADDED
+Johnny Mathis HAHA born John Royce Mathis, September 30, 1935 is an of 
+-----DELETED
+Johnny Mathis born John Royce Mathis, September 30, 1935 is an of 

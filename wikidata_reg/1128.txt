@@ -1,0 +1,15 @@
+-----METADATA
+1906
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10463
+-----ADDED
+nat fs player no pos GK name caps goals club clubnat Thailand 
+-----DELETED
+nat fs player no pos GK name age birth date and age caps goals club clubnat Thailand 

@@ -1,0 +1,15 @@
+-----METADATA
+4559
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+12321
+-----ADDED
+successor2 successor3 Donald Trump spouse 
+-----DELETED
+successor2 successor3 Donald Hooper spouse 

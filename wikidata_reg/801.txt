@@ -1,0 +1,15 @@
+-----METADATA
+1731
+14043
+unknown
+15570
+False
+True
+True
+True
+<EMPTY>
+3016
+-----ADDED
+Ship builder 
+-----DELETED
+Ship builder Scotts Shipbuilding and Engineering at 

@@ -1,0 +1,15 @@
+-----METADATA
+3840
+27302
+unknown
+17126
+False
+True
+True
+True
+<EMPTY>
+5979
+-----ADDED
+class "wikitable" class "wikitable" 
+-----DELETED
+border "2" cellpadding "4" cellspacing "0" style "margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" bgcolor "#B0C4DE" align "center" border "2" cellpadding "4" cellspacing "0" style "margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" bgcolor "#B0C4DE" align "center" 

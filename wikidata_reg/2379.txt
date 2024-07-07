@@ -1,0 +1,15 @@
+-----METADATA
+3038
+47937
+unknown
+16129
+False
+True
+True
+True
+[[WP:UNDO|Undid]] revision 323080081 by [[Special:Contributions/91.13.214.43|91.13.214.43]] ([[User talk:91.13.214.43|talk]])
+34230
+-----ADDED
+max speed alt 2,500 ;km/h, 1,550 mph climb rate main 325 m/s 
+-----DELETED
+max speed alt 2,490 ;km/h, 1,550 mph climb rate main 230 m/s 

@@ -1,0 +1,15 @@
+-----METADATA
+1581
+7
+unknown
+14822
+False
+False
+False
+False
+[[WP:UNDO|Undid]] revision 329058464 by [[Special:Contributions/75.99.113.226|75.99.113.226]] ([[User talk:75.99.113.226|talk]])
+24621
+-----ADDED
+name Captain Evil Nazi birthname Adolf Hitler 
+-----DELETED
+name Jerry Bruckheimer 

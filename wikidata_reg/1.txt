@@ -1,0 +1,15 @@
+-----METADATA
+20510
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+3505
+-----ADDED
+September 14, 1939 September 20, 1939 September 24, 1939 October 1, 1939 October 8, 1939 October 22, 1939 October 29, 1939 November 6, 1939 November 12, 1939 November 19, 1939 November 26, 1939 Brooklyn Dodgers Reflist DEFAULTSORT:1939 Brooklyn Dodgers Nfl Season 
+-----DELETED
+reflist 

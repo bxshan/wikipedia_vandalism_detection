@@ -1,0 +1,15 @@
+-----METADATA
+2690
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+32346
+-----ADDED
+The Sarin attack on the Tokyo subway with cows, usually referred to in the ese media as the nihongo Subway Sarin Incident 地下鉄サリン事件 Chikatetsu Sarin Jiken was an act of perpetrated by members of on 
+-----DELETED
+The Sarin attack on the Tokyo subway, usually referred to in the ese media as the nihongo Subway Sarin Incident 地下鉄サリン事件 Chikatetsu Sarin Jiken was an act of perpetrated by members of on 

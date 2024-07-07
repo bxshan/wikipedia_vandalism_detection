@@ -1,0 +1,15 @@
+-----METADATA
+6051
+7804
+unknown
+16354
+False
+True
+True
+True
+Reverted 4 edits by [[Special:Contributions/Goolsbymedia|Goolsbymedia]]; Copy & pasted from http://jerz.setonhill.edu/weblog/2003/11/1928/. ([[WP:TW|TW]])
+34650
+-----ADDED
+
+-----DELETED
+---- How the Memex is Digital Media First: most obviously, the Memex had it ever been built would have operated on photo-mechanical, rather than digital technology As you watch the animation, you can hear the machanical operation sound, that sound would be proof to believe that it is not digital media Second, the operation of the memex is tied to the physical presence of texts stack of densely-printed microfilms, which can be sorted and displayed quickly, but which must first be printed and distributed to paying researcher Bush was fixated on the human mind All of his initial machines and visions were analog devices Furthermore, he frequently used the analogy of electricity to the human brain In doing so, he believed that he could improve on the imperfect biological processes that existed --Chen LiuKe and Xia Li --Is Memex digital media? York University CS Department Jerz Literacy Blog "Seeing the memex as the direct precursor to the WWW is attractive, but problematic for several reasons First, and most obviously, the memex had it ever been built would have operated on photo-mechanical, rather than digital, technology Second, the operation of the memex is tied to the physical presence of texts stack of densely-printed microfilms, which can be sorted and displayed quickly, but which must first be printed and distributed to paying researcher Third, the memex is only additive the scholar can duplicate pages, but cannot synthesize by copying and pasting chunks or inserting or rearranging words in stream "On the Trail of the Memex," Dichtung Digital"-Jerz Literacy Blog 

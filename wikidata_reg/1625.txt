@@ -1,0 +1,15 @@
+-----METADATA
+2387
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3646
+-----ADDED
+Drummer Boy is an release by folk group featuring new interpretation of the classic 1958 "," originally by the The EP was originally released by Essential Records in the Christmas following the release of in 1995 The EP was re-released as two-pack with Jars of Clay prior to their second album, 
+-----DELETED
+Drummer Boy is an release by folk group featuring new interpretation the classic 1958 "," originally by the The EP was originally released by Essential Records in the Christmas following the release of in 1995 The EP was re-released as two-pack with Jars of Clay prior to their second album, 

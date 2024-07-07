@@ -1,0 +1,15 @@
+-----METADATA
+20903
+4681
+unknown
+15385
+False
+True
+True
+True
+<EMPTY>
+5375
+-----ADDED
+The Hearts are worth -200 points in total: class "wikitable" style "font-size: 94%; margin-right:auto" !width 4% Case !width 12% All Hearts !width 7% Value !width 12% Queen of Spades !width 7% Value !width 12% 10 of Clubs !width 7% Value !width 10% Total Value rowspan bgcolor "#87de87" Not exposed &#43;200 bgcolor "#808080" bgcolor "#808080" bgcolor "#808080" bgcolor "#808080" <b>&#43;200</b> bgcolor "#ff8080" Exposed &#43;400 bgcolor "#808080" bgcolor "#808080" bgcolor "#808080" bgcolor "#808080" <b>&#43;400</b> rowspan rowspan 2; bgcolor "#87de87" Not exposed rowspan &#43;200 bgcolor "#808080" bgcolor "#808080" bgcolor "#87de87" Not exposed &#215;2 <b>&#43;400</b> bgcolor "#808080" bgcolor "#808080" bgcolor "#ff8080" Exposed &#215;4 <b>&#43;800</b> rowspan 2; bgcolor "#ff8080" Exposed rowspan &#43;400 bgcolor "#808080" bgcolor "#808080" bgcolor "#87de87" Not exposed &#215;2 <b>&#43;800</b> bgcolor "#808080" bgcolor "#808080" bgcolor "#ff8080" Exposed &#215;4 <b>&#43;1600</b> rowspan rowspan 2; bgcolor "#87de87" Not exposed rowspan &#43;200 bgcolor "#87de87" Not exposed &#43;100 bgcolor "#808080" bgcolor "#808080" <b>&#43;300</b> bgcolor "#ff8080" Exposed &#43;200 bgcolor "#808080" bgcolor "#808080" <b>&#43;400</b> rowspan 2; bgcolor "#ff8080" Exposed rowspan &#43;400 bgcolor "#87de87" Not exposed &#43;100 bgcolor "#808080" bgcolor "#808080" <b>&#43;500</b> bgcolor "#ff8080" Exposed &#43;200 bgcolor "#808080" bgcolor "#808080" <b>&#43;600</b> 
+-----DELETED
+The Hearts: 

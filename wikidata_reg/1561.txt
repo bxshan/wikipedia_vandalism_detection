@@ -1,0 +1,15 @@
+-----METADATA
+13810
+18849
+male
+16169
+False
+True
+True
+True
+general edits
+9332
+-----ADDED
+Released June 1993 Misc Extra album cover Background khaki Lower caption Promo CD version of "Numb" Reflist 
+-----DELETED
+Released June Misc Extra album cover Background khaki Lower caption Promo CD version of "Numb" Extra tracklisting Album Type greatest prev_track "" prev_no 14 this_track "Numb" track_no 15 next_track "The First Time" next_no 16 reflist 

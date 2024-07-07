@@ -1,0 +1,15 @@
+-----METADATA
+2906
+42788
+unknown
+15960
+False
+True
+True
+True
+shorten link text
+23137
+-----ADDED
+5D "two-and-a-half-al" also called pseudo-3D, is an informal term used to describe either visual phenomena which cause an image to appear three-dimensional when it in fact is not, or gameplay in an otherwise 3D game that is restricted to two-dimensional plane In the former case this may be due to the image not being constructed of true 3D entities; in the latter it may be due to game not allowing full 3D movement The term has also been applied to games using some form of either or or 
+-----DELETED
+5D "two-and-a-half-al" also called pseudo-3D, is an informal term used to describe either visual phenomena which cause an image to appear three-dimensional when it in fact is not, or gameplay in an otherwise 3D game that is restricted to two-dimensional plane In the former case this may be due to the image not being constructed of true 3D entities; in the latter it may be due to game not allowing full 3D movement The term has also been applied to games using some form of either or or 

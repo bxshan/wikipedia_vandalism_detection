@@ -1,0 +1,15 @@
+-----METADATA
+3924
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+45740
+-----ADDED
+During the Shinkansens 999 44 :P-year, nearly ;billion-passenger history, there have been no passenger fatalities due to derailments or collisions, despite frequent earthquakes and typhoons Injuries and single fatality have been caused by doors closing on passengers or their belongings; attendants are employed at platforms to prevent such mishaps There have, however, been suicides by passengers jumping both from and in front of moving trains 
+-----DELETED
+During the Shinkansens 999-year, nearly ;billion-passenger history, there have been no passenger fatalities due to derailments or collisions, despite frequent earthquakes and typhoons Injuries and single fatality have been caused by doors closing on passengers or their belongings; attendants are employed at platforms to prevent such mishaps There have, however, been suicides by passengers jumping both from and in front of moving trains 

@@ -1,0 +1,15 @@
+-----METADATA
+3913
+185113
+male
+16589
+False
+True
+True
+True
+ Grammar
+24438
+-----ADDED
+Slobodan Midžić submitted no signatures to the electoral commission saying that he is seeks to represent president of the for the election of the president of the <ref name "24sata hr"/> Madžić failed to nominate for 2007 parliamentary elections since his electoral list held the name of the party that does not exist <ref>http://www javno com/hr-hrvatska/foto--izbori-bez-saveza-komunista_94771</ref> 
+-----DELETED
+Slobodan Midžić submitted no signatures to the electoral commission saying that he is seeks to represent president of the for the election of the president of the <ref name "24sata hr"/> Madžić failed to nominate for 2007 parliamentary elections since his electoral list held the name of the party that does not exists <ref>http://www javno com/hr-hrvatska/foto--izbori-bez-saveza-komunista_94771</ref> 

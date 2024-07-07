@@ -1,0 +1,15 @@
+-----METADATA
+2073
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9984
+-----ADDED
+event FA Cup 2002–03 team1 
+-----DELETED
+event team1 

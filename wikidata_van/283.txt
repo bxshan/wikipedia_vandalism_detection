@@ -1,0 +1,15 @@
+-----METADATA
+7000
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+23025
+-----ADDED
+then went to pitch minor leagues but missed On May 26, 2009, Gagné announced that he has signed with the of the independent as starting pitcher/coach Gagné began playing with the team on June 9, 2009 <ref> http://slam canoe ca/Slam/Baseball/Canada/2009/05/26/9578191-qmi html Gagne signs with Can-Am team </ref> He has been highly praised by Capitales manager Michel Laplante for his hard work and mentorship of other pitchers and hitters on the team <ref name "NotOver"/> Gagné helped the team win the League Championship in September 2009 
+-----DELETED
+On May 26, 2009, Gagné announced that he has signed with of independent as starting pitcher/coach Gagné began playing with team June 9, 2009 <ref> http://slam canoe ca/Slam/Baseball/Canada/2009/05/26/9578191-qmi html Gagne signs with Can-Am team </ref> has been highly praised by Capitales manager Michel Laplante for his hard work and mentorship of other pitchers and hitters team <ref name "NotOver"/> Gagné helped team win League Championship September 2009 

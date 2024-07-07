@@ -1,0 +1,15 @@
+-----METADATA
+5337
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+57931
+-----ADDED
+Throughout its history New York City has been major point of entry for the term "" was first coined to describe densely populated immigrant neighborhoods on the In 2005, nearly 170 languages were spoken in the city and 36% of its population was foreign born English remains the most widely spoken language and New York is the largest city in the Although massive pockets in and have 20% or less people who speak English not so good Neighborhoods such as and are the least speaking communities 
+-----DELETED
+Throughout its history New York City has been major point of entry for the term "" was first coined to describe densely populated immigrant neighborhoods on the In 2005, nearly 170 languages were spoken in the city and 36% of its population was foreign born English remains the most widely spoken language and New York is the largest city in the Although massive pockets in and have 20% or less people who do not speak English at all or not very well Neighborhoods such as and are the least speaking communities 

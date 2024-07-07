@@ -1,0 +1,14 @@
+-----METADATA
+1521
+45787
+unknown
+16044
+False
+True
+True
+True
+ +noc template
+3007
+-----ADDED
+NOCin2010WinterOlympics 
+-----DELETED

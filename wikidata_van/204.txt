@@ -1,0 +1,14 @@
+-----METADATA
+1802
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3889
+-----ADDED
+There are no known explanation for how one is suposed to calculate a, or out of these equations 
+-----DELETED

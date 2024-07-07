@@ -1,0 +1,15 @@
+-----METADATA
+3290
+69627
+unknown
+14945
+False
+True
+True
+True
+Robot-assisted disambiguation: Russian - Changed link(s) to [[Russia]]
+2359
+-----ADDED
+Bessarabian is commonly given name for rugs in pile and technique originating in provinces as well as and during the late 19th and early 20th centuries <small>1</small> Some scholars will classify flat-woven carpets as Bessarabian, while referring to knotted-pile carpets as Ukrainian <small>2</small> They are predominantly from an area corresponding to modern Bulgaria and Romania <small>3</small> Produced under late rule, they stand right on the cusp of European and Oriental carpet weaving <small>4</small> 
+-----DELETED
+Bessarabian is commonly given name for rugs in pile and technique originating in provinces as well as and during the late 19th and early 20th centuries <small>1</small> Some scholars will classify flat-woven carpets as Bessarabian, while referring to knotted-pile carpets as Ukrainian <small>2</small> They are predominantly from an area corresponding to modern Bulgaria and Romania <small>3</small> Produced under late rule, they stand right on the cusp of European and Oriental carpet weaving <small>4</small> 

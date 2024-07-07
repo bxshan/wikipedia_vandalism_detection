@@ -1,0 +1,15 @@
+-----METADATA
+8672
+29065
+male
+15704
+False
+True
+True
+True
+ Adding a review.
+70563
+-----ADDED
+are generally well tolerated with most side effects being mild to moderate Occasionally serious occur <ref name Robert2005> cite journal author Owens RC, Ambrose PG title Antimicrobial safety: focus on fluoroquinolones journal Clin Infect Dis volume 41 Suppl pages S144–57 year 2005 month July pmid 15942881 doi 10 1086/428055 url </ref> Some of the serious adverse effects which occur more commonly with fluoroquinolones than with other antibiotic drug classes include CNS and tendon toxicity The currently marketed quinolones have safety profiles similar to that of other antimicrobial classes 
+-----DELETED
+are generally well tolerated with most side effects being mild to moderate Occasionally serious occur <ref name Robert2005> cite journal author Owens RC, Ambrose PG title Antimicrobial safety: focus on fluoroquinolones journal Clin Infect Dis volume 41 Suppl pages S144–57 year 2005 month July pmid 15942881 doi 10 1086/428055 url </ref> Some of the serious adverse effects which occur more commonly with fluoroquinolones than with other antibiotic drug classes include CNS and tendon toxicity The currently marketed quinolones have safety profiles similar to that of other antimicrobial classes <ref name "Owens RC, Ambrose PG 2005 S144–57"/> Fluoroquinolones are sometimes associated with an interva prolongation and cardiac arrhythmias <ref> cite web url http://www imb ie/images/uploaded/documents/Issue14 pdf title DRUG SAFETY NEWSLETTER 14th Edition accessdate 26 February 2009 author IRISH MEDICINES BOARD year 2002 month January format PDF publisher imb ie location Ireland </ref> 

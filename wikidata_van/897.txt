@@ -1,0 +1,15 @@
+-----METADATA
+3594
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4092
+-----ADDED
+Infobox Irish Place 635 population town pop rural pop 5, 
+-----DELETED
+Infobox Irish Place population town pop 562 rural pop 1,635 

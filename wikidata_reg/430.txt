@@ -1,0 +1,15 @@
+-----METADATA
+1788
+7
+unknown
+15020
+False
+False
+False
+False
+<EMPTY>
+13474
+-----ADDED
+Note: Playtesting at Premium Dogfight 2009 confirmed that the Khshatriya has no pilot in the PSP port, similar to how the Unicorn originally had no pilot in the arcade version Although Marida Cruz is seen as the pilot at the official Gundam vs Gundam next plus website 
+-----DELETED
+Note: Playtesting at Premium Dogfight 2009 confirmed that the Khshatriya has no pilot in the PSP port, similar to how the Unicorn originally had no pilot in the arcade version 

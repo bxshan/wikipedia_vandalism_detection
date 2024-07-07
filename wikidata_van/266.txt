@@ -1,0 +1,15 @@
+-----METADATA
+2731
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+4818
+-----ADDED
+Maynard was the son of John Maynard,and was heavily involved with the gay community He had been for in the first Parliament of in 1553-1554 being one of the 39 members who absented themselves, rather than acknowledge the authority of the and his second wife, Dorothy, daughter of Robert Perrot 
+-----DELETED
+Maynard was the son of John Maynard, who had been for in the first Parliament of in 1553-1554 being one of the 39 members who absented themselves, rather than acknowledge the authority of the and his second wife, Dorothy, daughter of Robert Perrot 

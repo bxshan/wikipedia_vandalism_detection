@@ -1,0 +1,15 @@
+-----METADATA
+19563
+15867
+unknown
+15670
+False
+True
+True
+True
+ space
+224279
+-----ADDED
+Elements of this traditional narrative agree with the surviving historical evidence which includes the writings of several early among them and some archaeological evidence some that Jesus did not found church in his lifetime but provided framework of beliefs,<ref>Kung, pp 4-5</ref> while others do not make judgement about whether or not the Church was founded by Jesus but disagree with the traditional view that the papacy originated with Peter These assert that Rome may not have had bishop until after the apostolic age and suggest the papal office may have been superimposed by the traditional narrative upon the primitive church<ref>Kelly, quote: "Ignatius assumed that Peter and Paul wielded special authority over the Roman church, while Irenaeus claimed that they jointly founded it and inaugurated its succession of bishops Nothing, however, is known of their constitutional roles, least of all Peters as presumed leader of the community "</ref> although some acknowledge that the papal office had indeed emerged by the mid 150s 
+-----DELETED
+Elements of this traditional narrative agree with the surviving historical evidence which includes the writings of several early among them and some archaeological evidence some that Jesus did not found church in his lifetime but provided framework of beliefs,<ref>Kung, pp 4-5</ref> while others do not make judgement about whether or not the Church was founded by Jesus but disagree with the traditional view that the papacy originated with Peter These assert that Rome may not have had bishop until after the apostolic age and suggest the papal office may have been superimposed by the traditional narrative upon the primitive church<ref>Kelly, quote: "Ignatius assumed that Peter and Paul wielded special authority over the Roman church, while Irenaeus claimed that they jointly founded it and inaugurated its succession of bishops Nothing, however, is known of their constitutional roles, least of all Peters as presumed leader of the community "</ref> although some acknowledge that the papal office had indeed emerged by the mid 150s 

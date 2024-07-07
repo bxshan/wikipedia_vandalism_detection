@@ -1,0 +1,15 @@
+-----METADATA
+9176
+289
+unknown
+15752
+False
+True
+True
+True
+<EMPTY>
+10289
+-----ADDED
+studied In college he was student of After his graduation he went to to complete second in History later obtained an from From he in History completed his in Indian history While he was completing his thesis he was Nuffield College His thesis, completed under supervision of Dr Davies, was on British Indian Constitutional History was in History from From then again from he was of Social Economic History of IIM In intervening period between he was of Indian Institute of Advanced Studies, From he was of History was UGC National Lecturer in From he was Maulana Azad Fellow From to he was India University of World Economy Diplomacy in He has taught as Visiting Professor and Visiting Associate Professor and held Directeurships at universities and institutes at and the Tokyo *Gopimohan Deb Scholarship, Presidency College, Calcutta 1953-54 *Beit Senior Research Scholarship, Nuffield College, Oxford, 1958-61 
+-----DELETED
+He studied at and In college he was student of Professor After his graduation he went to to complete second in History and later obtained an from the From he taught as in History at the He completed his at on Beit Senior Studentship While he was completing his thesis he was at Nuffield College His thesis, completed under the supervision of Dr Davies, was on British Indian Constitutional History He was in History at the from From and then again from he was of Social and Economic History of the IIM In the intervening period between he was of the Indian Institute of Advanced Studies, From he was of History at the He was the UGC National Lecturer in From he was the Maulana Azad Fellow at the From to he was the India at the University of World Economy and Diplomacy in has Visiting Visiting Associate held Directeurships universities institutes 

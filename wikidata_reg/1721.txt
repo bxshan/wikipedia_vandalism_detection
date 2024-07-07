@@ -1,0 +1,15 @@
+-----METADATA
+5906
+5025
+male
+15024
+False
+True
+True
+True
+Link disambiguation, copy edit, and removal of one sentence I couldn't begin to understand
+1335
+-----ADDED
+San Baltasar or San Baltazar is saint of belonging to popular belief, whose worship is practiced in the coastal area in the province of northeast of and east of and The practices are para-liturgical since the has not canonized St Baltasar 
+-----DELETED
+San Baltazar or San Baltasar is saint of belonging to popular belief, whose worship is practiced in the coastal area: province of northeast of and east of and Musical practices are maintained and afromestiza religious roots, some of them have history in the former Brotherhood This was practiced on para-liturgical, since for the canonized St Baltazar is not 

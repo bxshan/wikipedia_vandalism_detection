@@ -1,0 +1,15 @@
+-----METADATA
+3358
+53906
+unknown
+15421
+False
+True
+True
+True
+<EMPTY>
+56987
+-----ADDED
+Lieutenant Olds completed fighter pilot training with the 329th Fighter Group, based at Grand Central Air Terminal in In early 1944 he became part of the cadre assigned to build up the newly activated 434th Fighter Squadron and its parent based at Olds logged 650 ;hours of flying time during training, including 250 ;hours in the as the 479th built its proficiency as combat group It departed the Los Angeles area on April 15 for and shipped aboard the for Europe on May The 479th arrived in Scotland on May 14, 1944, and entrained for England, where it arrived the next day <ref> 
+-----DELETED
+Lieutenant Olds completed fighter pilot training with the 329th Fighter Group, based at Grand Central Air Terminal in In early 1944 he was part of the cadre assigned to build up the newly activated 434th Fighter Squadron and its parent based at Olds logged 650 ;hours of flying time during training, including 250 ;hours in the as the 479th trained to become combat group It departed the Los Angeles area on April 15 for and shipped aboard the for Europe on May The 479th arrived in Scotland on May 14, 1944, and entrained for England, where it arrived the next day <ref> 

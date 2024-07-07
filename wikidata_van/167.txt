@@ -1,0 +1,15 @@
+-----METADATA
+3283
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+19369
+-----ADDED
+In 1983, recorded their version of this song on their album It also appeared on their 2006 live album and on their 1999 live album They improved the song 
+-----DELETED
+In 1983, recorded their version of this song on their album It also appeared on their 2006 live album and on their 1999 live album 

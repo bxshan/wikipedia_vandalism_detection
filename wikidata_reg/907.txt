@@ -1,0 +1,15 @@
+-----METADATA
+2914
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+22293
+-----ADDED
+Serling had been encouraged by some of his high school teachers to continue his education beyond high school, and especially in writing After the Second World War was over and Serling was discharged, he decided to apply himself to college education especially with the availablility of his Federal educational benefits that he had earned through his years of service during the War Serling decided to enroll at in in the area At Antioch College, Serling earned his in 1950 
+-----DELETED
+Serling had been encouraged by some of his high school teachers to continue his education beyond high school, and especially in writing After the Second World War was over and Serling was discharged, he decided to apply himself to college education especially with the availablility of his Federal educational benefits that he had earned through his years of service during the War Serling decided to enroll at in and there, he earned his in 1950 

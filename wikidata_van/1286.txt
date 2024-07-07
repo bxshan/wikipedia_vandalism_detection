@@ -1,0 +1,15 @@
+-----METADATA
+3019
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+2177
+-----ADDED
+Beatrice Rosen born 29 November 1985 Happy birthday also known as Béatrice Rosen or Béatrice Rosenblatt, is -born actress She is best known for her role as Faith in the second season of the TV series She also appeared in the 2009 film as Tamara 
+-----DELETED
+Beatrice Rosen born 29 November 1985 also known as Béatrice Rosen or Béatrice Rosenblatt, is -born actress She is best known for her role as Faith in the second season of the TV series She also appeared in the 2009 film as Tamara 

@@ -1,0 +1,15 @@
+-----METADATA
+8134
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+38882
+-----ADDED
+disney in 1912,<ref name iha>Piper, David The Illustrated History of Art, ISBN 0753701790, p460-461 </ref> the youngest of five brothers His parents, Stella May McClure and LeRoy Pollock, grew up in His father had been born McCoy but took the surname of his neighbors, who adopted him after his own parents had died within year of one another Stella and LeRoy Pollock were the former, the latter, <ref>B Friedman, Jackson Pollock: Energy Made Visible, Da Capo Press, 1995, ISBN 0306806649</ref> LeRoy Pollock was farmer and later land surveyor for the government <ref name iha/> Jackson grew up in and Expelled from one high school in 1928, he enrolled at Los Angeles from which he was also expelled During his early life, he experienced culture while on surveying trips with his father <ref name iha/><ref>Robert Sickels, The 1940s, 223 Greenwood Publishing Group, 2004, ISBN 0313312990</ref> In 1930, following his brother he moved to New York City where they both studied under at the Bentons rural American subject matter shaped Pollocks work only fleetingly, but his rhythmic use of paint and his fierce independence were more lasting influences <ref name iha/> From 1935 to 1943, Pollock worked for the WPA <ref> cite web url http://www beatmuseum org/pollock/jacksonpollock html title Jackson Pollock accessdate 2007-09-28 publisher The American Museum of Beat Art </ref> 
+-----DELETED
+1912,<ref name iha>Piper, David The Illustrated History of Art, ISBN 0753701790, p460-461 </ref> the youngest of five brothers His parents, Stella May McClure and LeRoy Pollock, grew up His father had been McCoy but took the surname of his neighbors, who adopted him after his own parents had died within year of one another Stella and LeRoy were the former, the latter, <ref>B Friedman, Jackson Pollock: Energy Made Visible, Da Capo Press, 1995, ISBN 0306806649</ref> LeRoy farmer and later surveyor for the government <ref name iha/> Jackson grew up and Expelled from one high school 1928, he enrolled at Los Angeles from which he also expelled During his early life, he experienced culture while on surveying trips with his father <ref name iha/><ref>Robert Sickels, The 1940s, 223 Greenwood Publishing Group, 2004, ISBN 0313312990</ref> In 1930, following his brother he moved to New York City where they both studied under at the Bentons rural American subject matter shaped Pollocks work only fleetingly, but his rhythmic use of paint and his fierce independence were more lasting influences <ref name iha/> From 1935 to 1943, worked for the WPA <ref> cite web url http://www beatmuseum org/pollock/jacksonpollock html title Jackson accessdate 2007-09-28 publisher The American Museum of Beat Art </ref> 

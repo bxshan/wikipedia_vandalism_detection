@@ -1,0 +1,15 @@
+-----METADATA
+2456
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10150
+-----ADDED
+The Cox Viri Association "Voice of the Men" was founded in 1933 as the Mens dorm club Among its current traditions are to go to Chinese buffet at the beginning of the year, followed by trip to to watch planes and fancy cars 
+-----DELETED
+The Vox Viri Association "Voice of the Men" was founded in 1933 as the Mens dorm club Among its current traditions are to go to Chinese buffet at the beginning of the year, followed by trip to to watch planes and fancy cars 

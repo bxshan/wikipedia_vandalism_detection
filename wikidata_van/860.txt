@@ -1,0 +1,14 @@
+-----METADATA
+2226
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+81753
+-----ADDED
+Arizonas beutiful place you could get shot at by guard 
+-----DELETED

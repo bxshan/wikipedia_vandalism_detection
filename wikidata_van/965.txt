@@ -1,0 +1,15 @@
+-----METADATA
+2779
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+22574
+-----ADDED
+Snow leopards are smaller than the other but like them Generally weighing between Convert 27 and 54 kg sigfig body length ranges from Convert 75 to 130 cm in sigfig with tail of nearly the same length <ref name Trust> cite web work Snow Leopard Trust year 2008 url http://www snowleopard org/external_files/media/Snow-Leopard-Fact-Sheet pdf title Snow Leopard Fact Sheet accessdate 2008-10-23 </ref> This makes them significantly larger than most insects 
+-----DELETED
+Snow leopards are smaller than the other but like them Generally weighing between Convert 27 and 54 kg sigfig body length ranges from Convert 75 to 130 cm in sigfig with tail of nearly the same length <ref name Trust> cite web work Snow Leopard Trust year 2008 url http://www snowleopard org/external_files/media/Snow-Leopard-Fact-Sheet pdf title Snow Leopard Fact Sheet accessdate 2008-10-23 </ref> 

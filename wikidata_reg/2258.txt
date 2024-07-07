@@ -1,0 +1,15 @@
+-----METADATA
+3665
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+24592
+-----ADDED
+In the Fall of 2009, Kent Football was the first American secondary school to compete internationally during the Fall season Sponsored and invited by USA/Global Football an affiliate of the NFL they traveled to England and compete against the Danish National Junior Squad in London as part of an initiative to promote the sport overseas The following day, the New England Patriots played the Tampa Bay Buccaneers in Wembley Stadium and the Kent football team were guests of the NFL at that game 
+-----DELETED
+In the Fall of 2009, Kent Football will be the first American secondary school to compete internationally during the Fall season Sponsored and invited by USA/Global Football an affiliate of the NFL they will travel to England and compete against the Danish National Junior Squad in London as part of an initiative to promote the sport overseas The following day, the New England Patriots will play the Tampa Bay Buccaneers in Wembley Stadium and the Kent football team will be guests of the NFL at that game 

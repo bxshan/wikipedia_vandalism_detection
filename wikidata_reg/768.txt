@@ -1,0 +1,15 @@
+-----METADATA
+5981
+6390
+male
+15584
+False
+True
+True
+True
+add AMOS info
+17781
+-----ADDED
+aircraft to be Israel, late 1960s, both civilian uses <ref> http://www aviastar org/air/israel/iai_arava php IAI-101, 102, 201 Arava 1969 http://www aviastar org/air/israel/a_iai html Virtual Aircraft Museum/Israel Retrieved 2009-11-26</ref> This followed production of Westwind executive jet 1970s which could accommodate up to ten passengers <ref> http://www aviastar org/air/israel/iai_westwind php Westwind http://www aviastar org/air/israel/a_iai html Virtual Aircraft Museum/Israel Retrieved 2009-11-26 </ref> Israel is among the few into orbit and locally designed and manufactured have been produced and launched by IAI Israels largest military engineering company, in cooperation with the The geostationary satellite began operations in 1996 as commercial communication satellite as Israels first commercial communications satellite It was built primarily for direct-to-home television broadcasting, TV distribution and VSAT services further series of AMOS satellites AMOS 5i are operated by Space Communication Ltd Spacecom publicly traded company on the and provide telecommuncations services to countries in Europe, the Middle East and Africa <ref> http://www amos-spacecom com/content cfm/coverage-maps Spacecom Coverage maps </ref> 
+-----DELETED
+the first aircraft to be produced in Israel, in the late 1960s, for both military and civilian uses <ref> http://www aviastar org/air/israel/iai_arava php IAI-101, 102, 201 Arava 1969 in http://www aviastar org/air/israel/a_iai html Virtual Aircraft Museum/Israel Retrieved 2009-11-26</ref> It was followed by the Westwind executive jet cite Israel is among few into orbit locally designed manufactured have been launched Israels largest engineering company, cooperation with The geostationary satellite began operations 1996 as commercial communication satellite as Israels commercial communications satellite It built primarily direct-to-home television broadcasting, TV distribution VSAT services 

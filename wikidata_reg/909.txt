@@ -1,0 +1,15 @@
+-----METADATA
+4115
+43032
+unknown
+17055
+False
+True
+True
+True
+rv once again - read the article: "The researchers, however, say the e-mails have been taken out of context and merely reflect an honest exchange of ideas."
+3517
+-----ADDED
+In November 2009 hackers accessed private files located on the CRUs servers, posting the emails they found online <ref> cite news title Hackers target leading climate research unit url http://news bbc co uk/1/hi/sci/tech/8370282 stm publisher BBC News date 20 November 2009 </ref> Some climate change sceptics asserted that number of the leaked e-mails were evidence that scientists had to manipulated data to strengthen the evidence for though this accusation has been denied <ref> cite news title Sceptics publish climate e-mails stolen from East Anglia University last Webster first Ben url http://www timesonline co uk/tol/news/environment/article6926325 ece work The Times date 21 November 2009 </ref> The CRUs researchers stated that the e-mails had been taken out of context and merely reflected an honest exchange of ideas <ref> cite news last Eilperin first Juliet title Hackers steal electronic data from top climate research center url http://www washingtonpost com/wp-dyn/content/article/2009/11/20/AR2009112004093 html work The Washington Post date 21 November 2009 </ref> Director of the Climatic Research Unit, called the charges that the emails involve any "untoward" activity "ludicrous "<ref> cite web 
+-----DELETED
+In November 2009 hackers accessed private files located on the CRUs servers, posting the emails they found online <ref> cite news title Hackers target leading climate research unit url http://news bbc co uk/1/hi/sci/tech/8370282 stm publisher BBC News date 20 November 2009 </ref> Some climate change sceptics asserted that number of the leaked e-mails were evidence that scientists had to manipulated data to strengthen the evidence for Citation needed date September 2009 though this accusation has been denied <ref> cite news title Sceptics publish climate e-mails stolen from East Anglia University last Webster first Ben url http://www timesonline co uk/tol/news/environment/article6926325 ece work The Times date 21 November 2009 </ref> Director of the Climatic Research Unit, called the charges that the emails involve any "untoward" activity "ludicrous "<ref> cite web 

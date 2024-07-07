@@ -1,0 +1,15 @@
+-----METADATA
+4839
+82934
+unknown
+16229
+False
+True
+True
+True
+ tweak, rename section ("controversy" gets used too often and too soon)
+15351
+-----ADDED
+Battlefield Heroes uses the "Play Free" business model, although recent changes have moved it towards "Paid Advantage" model citation needed wrote about recent update,<blockquote>" this update has very real chance of ending the game Now EA has forced gamers to make choice between three options: quit, start playing for hours day, or get out the wallets "<ref> http://arstechnica com/gaming/news/2009/12/ea-restructures-battlefied-heroes-pricing-fans-enraged ars Ben Kuchera EA restructures Battlefied: Heroes pricing; fans enraged </ref></blockquote> 
+-----DELETED
+Even though Battlefield Heroes uses the "Play Free" business model, recently the game has been moving more and more towards "Paid Advantage" model As wrote about the recent update, this update has very real chance of ending the game Now EA has forced gamers to make choice between three options: quit, start playing for hours day, or get out the wallets "<ref> http://arstechnica com/gaming/news/2009/12/ea-restructures-battlefied-heroes-pricing-fans-enraged ars Ben Kuchera EA restructures Battlefied: Heroes pricing; fans enraged </ref> 

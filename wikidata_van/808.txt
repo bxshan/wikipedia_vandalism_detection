@@ -1,0 +1,15 @@
+-----METADATA
+2976
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+30873
+-----ADDED
+The animal bearing the name lang la Alces alces is known, in and New Zealand, as the moose <ref> OED moose </ref> The word moose is derived from the name lang aaq moz loosely translated as twig eater Moose is both singular and plural, unlike which in the plural is geese Meese is an acceptable form of multiple moose in upstate NY 
+-----DELETED
+The animal bearing the name lang la Alces alces is known, in and New Zealand, as the moose <ref> OED moose </ref> The word moose is derived from the name lang aaq moz loosely translated as twig eater Moose is both singular and plural, unlike which in the plural is geese 

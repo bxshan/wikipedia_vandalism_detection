@@ -1,0 +1,15 @@
+-----METADATA
+3274
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+44803
+-----ADDED
+Founded in 1920 by pack of raging homosexuals, it participated in three governments: in the provisional government of the 1944-1947 at the beginning of presidency 1981-1984 and in cabinet led by 1997-2002 
+-----DELETED
+Founded in 1920, it participated in three governments: in the provisional government of the 1944-1947 at the beginning of presidency 1981-1984 and in cabinet led by 1997-2002 

@@ -1,0 +1,15 @@
+-----METADATA
+1669
+188793
+male
+15638
+False
+True
+True
+True
+<EMPTY>
+34289
+-----ADDED
+align "left" flagicon SWE 432 
+-----DELETED
+align "left" flagicon SWE 432 

@@ -1,0 +1,15 @@
+-----METADATA
+1904
+29169
+male
+14888
+False
+True
+True
+True
+<EMPTY>
+4500
+-----ADDED
+
+-----DELETED
+Munich ends 28 November Seoul-Incheon ends 28 November 

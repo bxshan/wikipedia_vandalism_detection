@@ -1,0 +1,15 @@
+-----METADATA
+2812
+196790
+unknown
+16783
+False
+True
+True
+True
+better link
+1610
+-----ADDED
+which is valid for <math>0<\Re b< \Re c</math> Note that the conditions on <math>b</math> and <math>c</math> are necessary for the integral to be at the endpoints and 
+-----DELETED
+which is valid for <math>0<\Re b< \Re c</math> Note that the conditions on <math>b</math> and <math>c</math> are necessary for the integral to be at the endpoints and 

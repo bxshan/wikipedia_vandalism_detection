@@ -1,0 +1,15 @@
+-----METADATA
+2076
+14930
+unknown
+16481
+False
+True
+True
+True
+<EMPTY>
+2038
+-----ADDED
+2006: 18th relegated <br> 2007: Kyushu Regional League 2008: Kyushu Regional League 3rd, promoted as 3rd place in the 2009: 13th 
+-----DELETED
+2006: 18th relegated 

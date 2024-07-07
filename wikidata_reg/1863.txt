@@ -1,0 +1,15 @@
+-----METADATA
+34902
+3
+male
+14823
+False
+False
+False
+False
+<EMPTY>
+20534
+-----ADDED
+Infobox name Buchholz High School image Buchholz High School jpg imagesize 320px caption location streetaddress 5510 NW 27TH Avenue region city state district zipcode 21093 country coordinates schoolnumber 352 955-6702 schoolboard authority religion denomination oversight affiliation authorizer superintendent trustee founder specialist session president head of school headteacher head_label head chairperson principal Vince Perez viceprincipal dean faculty administrator rector chaplain director custodian staff ranking bar pass rate roll MOE ceeb school code LEA ofsted testaverage national_ranking classrooms class classes offered avg_class_size ratio SAT ACT graduates gender lower_age upper_age houses schooltype fundingtype type system fees tuition revenue endowment budget enrollment products age range grades 9-12 medium language campus Suburban campus size campus type Hours_in_Day athletics conference slogan song fightsong motto accreditation rival mascot Bobcat mascot image sports patron team_name nickname colors and color box #FFFF00 color box #000000 yearbook publication newspaper opened 1970 established founded status closed students pupils alumni nobel_laureates grade6 grade7 grade8 grade9 grade10 grade11 grade12 other_grade_label other communities feeders free_label free_text free_label1 free_text1 free_label2 free_text2 free_label3 free_text3 free_label4 free_text4 free_label5 free_text5 footnotes picture homepage http://bhs sbac edu/ Buchholz High School Website http://bhs sbac edu/ School Website http://www buchholzmathteam com/ Math Team Website http://www buchholzband com School Band Website 
+-----DELETED
+http://bhs sbac edu/ website http://www buchholzmathteam com/ math team website http://www buchholzband com school band website http://www buchholzband com/aviance html 

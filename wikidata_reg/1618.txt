@@ -1,0 +1,15 @@
+-----METADATA
+3175
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+9676
+-----ADDED
+Humanism is known to adopt principles of the of which the best-known English formulation is found in the words of Jesus of Nazareth, "Do unto others as you would have them do unto you Also consider the quote by "Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live This quotation emphasizes the respect for others identity and ideals while downplaying the effects one has on others 
+-----DELETED
+Humanism is known to adopt principles of the as in the quote by "Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live This quotation emphasizes the respect for others identity and ideals while downplaying the effects one has on others 

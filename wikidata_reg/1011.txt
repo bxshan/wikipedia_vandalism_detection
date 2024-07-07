@@ -1,0 +1,15 @@
+-----METADATA
+7726
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+39907
+-----ADDED
+The addictive property of is believed to occur in the NAc After chronic cocaine use, the amount of relative to decreases in the in the NAc shell This decrease in is thought to occur through the same mechanism as NMDR dependent LTD, because this form of plasticity was reduced after cocaine use mediated LTD is also found to occur in the NAc during cocaine exposure exposure causes decrease in postsynaptic which are responsible for release During the period of use, the mechanisms of LTD artificially occur in the NAc, and as consequence, the amount of are ramped up in the NAc neurons during possibly due to homeostatic synaptic scaling This increase in causes hyperexcitability in the NAc neurons The effect of this hyperexcitability is thought to increase the amount of release from the NAc on the VTA making the neurons in the VTA less likely to fire, resulting in the symptoms of 
+-----DELETED
+The addictive property of is believed to occur in the NAc After chronic cocaine use, the amount of relative to decreases in the in the NAc shell This decrease in is thought to occur through the same mechanism as NMDR dependent LTD, because this form of plasticity was reduced after cocaine use mediated LTD is also found to occur in the NAc during cocaine exposure exposure causes decrease in postsynaptic which are responsible for release During the period of use, the mechanisms of LTD artificially occur in the NAc, and consequently the amount of are ramped up in the NAc neurons possibly due to homeostatic synaptic scaling This increase in causes hyperexcitability in the NAc neurons during withdrawl The effect of this hyperexcitability is thought to increase the amount of release from the NAc on the VTA making the neurons in the VTA less likely to fire, resulting in the symptoms of withdrawl 

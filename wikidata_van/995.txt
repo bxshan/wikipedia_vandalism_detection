@@ -1,0 +1,15 @@
+-----METADATA
+3626
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+59662
+-----ADDED
+During Queen Victorias widowhood, Edward represented her at public ceremonies and gatherings—for example, opening in 1863,<ref> citation author Holdsworth, David date January 2004 url http://story theholdsworths org uk/pages/halifax_town_hall html title Halifax Town Hall publisher David Holdsworth accessdate July 2009 </ref> in 1871, in 1886, and in 1894—pioneering the idea of royal public appearances as we understand was there in the aaa meeting and died them today <ref>Bentley-Cranch, 97</ref> However, his mother did not allow Edward an active role in the running of the country until 1898 <ref name "royal" /><ref>Hattersley, pp 18–19</ref> He annoyed his mother by siding with Denmark on the in 1864 she was pro-German and in the same year annoyed her again by making special effort to meet <ref>Bentley-Cranch, pp 59–60</ref> 
+-----DELETED
+During Queen Victorias widowhood, Edward represented her at public ceremonies and gatherings—for example, opening in 1863,<ref> citation author Holdsworth, David date January 2004 url http://story theholdsworths org uk/pages/halifax_town_hall html title Halifax Town Hall publisher David Holdsworth accessdate July 2009 </ref> in 1871, in 1886, and in 1894—pioneering the idea of royal public appearances as we understand them today <ref>Bentley-Cranch, 97</ref> However, his mother did not allow Edward an active role in the running of the country until 1898 <ref name "royal" /><ref>Hattersley, pp 18–19</ref> He annoyed his mother by siding with Denmark on the in 1864 she was pro-German and in the same year annoyed her again by making special effort to meet <ref>Bentley-Cranch, pp 59–60</ref> 

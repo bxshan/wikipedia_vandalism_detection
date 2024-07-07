@@ -1,0 +1,15 @@
+-----METADATA
+3028
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+11393
+-----ADDED
+birth_date occupation pro ball sucker 
+-----DELETED
+birth_date birth date 1944 12 15 mf occupation 

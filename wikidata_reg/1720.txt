@@ -1,0 +1,15 @@
+-----METADATA
+3098
+219192
+male
+15379
+False
+True
+True
+True
+Reverted edits by [[Special:Contributions/70.18.38.106|70.18.38.106]] to last revision by Chrishomingtang ([[WP:HG|HG]])
+16093
+-----ADDED
+bgcolor "#CFECEC" sortname LeBron James 
+-----DELETED
+bgcolor "#CFECEC" sortname LeBron James varejao sucks 

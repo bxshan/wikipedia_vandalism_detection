@@ -1,0 +1,15 @@
+-----METADATA
+2075
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5098
+-----ADDED
+Most jelly beans are sold as an assortment of about eight more or less standard fruit flavors Assortments of "spiced" zxfrdknzavailable, which include similar number of spice and mint flavors The colors of jelly beans are also more or less standardized, and fairly typical scheme is shown in the table to the right 
+-----DELETED
+Most jelly beans are sold as an assortment of about eight more or less standard fruit flavors Assortments of "spiced" jellybeans and are also available, which include similar number of spice and mint flavors The colors of jelly beans are also more or less standardized, and fairly typical scheme is shown in the table to the right 

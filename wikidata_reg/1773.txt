@@ -1,0 +1,15 @@
+-----METADATA
+1824
+7649
+unknown
+16628
+False
+True
+True
+True
+ its the name combining "cybernetics" and "punk"
+62847
+-----ADDED
+The Cyberpunk genre emerged in the early 1980s; its the name combining "cybernetics" and "punk",<ref> 
+-----DELETED
+The Cyberpunk genre emerged in the early 1980s; the name is of "cybernetics" and "punk",<ref> 

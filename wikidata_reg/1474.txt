@@ -1,0 +1,15 @@
+-----METADATA
+3845
+1184
+male
+14847
+False
+True
+True
+True
+additions
+3647
+-----ADDED
+Park Pobedy lang-ru Парк Победы translated as "Victory Park", is station on the of the At 84 metres underground, it is the deepest station in Moscow and in the world It also contains the longest in Europe, each one is 126 ;metres long and has 740 steps The ride to the surface takes approximately three minutes 
+-----DELETED
+Park Pobedy lang-ru Парк Победы translated as "Victory Park", is station on the of the At 84 metres underground, it is the deepest station in Moscow It also contains the longest in Europe, each one is 126 ;metres long and has 740 steps The ride to the surface takes approximately three minutes 

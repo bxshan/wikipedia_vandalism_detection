@@ -1,0 +1,14 @@
+-----METADATA
+1314
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+5070
+-----ADDED
+He scored touchdown against the lions 
+-----DELETED

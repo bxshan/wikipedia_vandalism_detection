@@ -1,0 +1,15 @@
+-----METADATA
+2552
+20795
+male
+16014
+False
+True
+True
+True
+Replacing {{IPAr|pl| with {{IPAc-pl|
+1527
+-----ADDED
+Na Polach IPAc-pl is village in the administrative district of within in north-central Poland It lies approximately convert km mi east of and convert 55 km mi abbr on north of 
+-----DELETED
+Na Polach IPAr pl is village in the administrative district of within in north-central Poland It lies approximately convert km mi east of and convert 55 km mi abbr on north of 

@@ -1,0 +1,15 @@
+-----METADATA
+2548
+7507
+unknown
+17051
+False
+True
+True
+True
+<EMPTY>
+92042
+-----ADDED
+On February 9, 2009 it was reported that player was suing Facebook over fake profile bearing his name that links to sites The Italian footballer was said to be aggrieved that the bogus account, which carries his picture, implies neo-Nazi sympathies Del Piero stated hes never had Facebook profile <ref>Leyden, John 2009-02-09 http://www theregister co uk/2009/02/09/del_piero_facebook_lawsuit/ Footy star sues Facebook over fake fascist profile Retrieved 2009-07-20 </ref> 
+-----DELETED
+On February 9, 2009 it was reported that player was using Facebook over fake profile bearing his name that links to sites The Italian footballer was said to be aggrieved that the bogus account, which carries his picture, implies neo-Nazi sympathies Del Piero stated hes never had Facebook profile <ref>Leyden, John 2009-02-09 http://www theregister co uk/2009/02/09/del_piero_facebook_lawsuit/ Footy star sues Facebook over fake fascist profile Retrieved 2009-07-20 </ref> 

@@ -1,0 +1,15 @@
+-----METADATA
+3023
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+8572
+-----ADDED
+Other ingredients commonly found in candy that are not vegetarian or vargan friendly include: which is dye made from the and which may contain wings or other insect parts 
+-----DELETED
+Other ingredients commonly found in candy that are not vegetarian or vegan friendly include: which is dye made from the and which may contain wings or other insect parts 

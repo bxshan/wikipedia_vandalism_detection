@@ -1,0 +1,15 @@
+-----METADATA
+3047
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+21905
+-----ADDED
+The term Generation first appeared in an August 2000 BC editorial to describe teenagers of the day, which they defined as separate from Generation X, and then aged 13–19 born 1974-1980 as well as the teenagers of the upcoming ten years <ref>"Generation Y" Ad Age August 30, 1993 16 </ref> "Generation Y" alludes to succession from "" 
+-----DELETED
+The term Generation first appeared in an August 1993 editorial to describe teenagers of the day, which they defined as separate from Generation X, and then aged 13–19 born 1974-1980 as well as the teenagers of the upcoming ten years <ref>"Generation Y" Ad Age August 30, 1993 16 </ref> "Generation Y" alludes to succession from "" 

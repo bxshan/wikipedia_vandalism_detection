@@ -1,0 +1,15 @@
+-----METADATA
+4684
+1718198
+unknown
+16861
+False
+True
+True
+True
+Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]
+3674
+-----ADDED
+Refimprove date June 2009 The 1993 Final was played on December 12, 1993 at and was the 3ed Scottish Challenge Cup Final The final was contested by and Falkirk won the match 3&ndash;0, with goals from and date December 12, 1993 Reflist 
+-----DELETED
+refimprove date June 2009 The 1993 Final was played on at and was the 3ed Scottish Challenge Cup Final The final was contested by and Falkirk won the match 3&ndash;0, with goals from and date reflist 

@@ -1,0 +1,15 @@
+-----METADATA
+4187
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+30328
+-----ADDED
+The 1980s experienced the rise of "" and such artists as and who sang softer and more romantic version of salsa Todays famous Puerto Rican salsa singers include, and 
+-----DELETED
+The 1980s experienced the rise of "" and such artists as and who sang softer and more romantic version of salsa Todays famous Puerto Rican salsa singers include,, and 

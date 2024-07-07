@@ -1,0 +1,15 @@
+-----METADATA
+5217
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+10345
+-----ADDED
+founded NCI research oriented located NCIs projects include an open source database hundreds thousands around world focused environmental social justice In 2004, NCI conducted large research project <ref> responsibleinvesting org/database/dokuman/SRI%20Report%2010-04_word pdf Socially Responsible Investing:How SRI industry failed to respond to people who want to invest with conscience what can be done to change it, by Paul subject SRI created first database SRI funds North America, displaying complete company portfolios screening categories research report describes current state SRI, presented several recommendations to improve industry Mr Hawken has served on the board of public organizations including Point Foundation publisher of the Whole Earth Catalogs Center for Plant Conservation, Conservation International, Trust for Public Land, Friends of the Earth, and National Audubon Society He was the founder and Chair of The Natural Step in the United States as well as The Natural Step International<ref> http://www naturalstep org/ The Natural Step website </ref> in 
+-----DELETED
+Mr Hawken founded the NCI research oriented located in NCIs projects include the documentary film "Blessed Unrest" based upon Mr Hawkens recently published book, and the first open source database of the hundreds of thousands of organizations around the world dedicated to environmental restoration and social justice In 2004, NCI conducted large research project <ref> http://www responsibleinvesting org/database/dokuman/SRI%20Report%2010-04_word pdf Socially Responsible Investing:How the SRI industry has failed to respond to people who want to invest with conscience and what can be done to change it, by Paul Hawken </ref> on the subject of SRI and created the first public database of SRI funds in North America, displaying complete company portfolios and screening categories The research report describes the current state of SRI, and presented several recommendations to improve the industry served board many including Point Foundation publisher Whole Earth Catalogs Center for Plant Conservation, Conservation International, Trust for Public Land, Friends Earth, National Audubon Society He was founder Chair Natural Step United States as well as Natural Step International<ref> naturalstep org/ Natural Step website 

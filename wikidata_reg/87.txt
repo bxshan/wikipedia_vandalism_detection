@@ -1,0 +1,15 @@
+-----METADATA
+5934
+237985
+unknown
+15747
+False
+True
+True
+True
+Santa Cruz article
+5793
+-----ADDED
+Alice McGrath 1917 November 27, 2009 also known as Alice Greenfield, an American activist who first gained fame connection with 1942 McGraths role in the Sleepy Lagoon case was the focus of the 1978 play and 1981 motion picture "Zoot Suit "<ref name Wash/> Actress played the part of Alice in the motion picture <ref name Vent/> In 1996, independent filmmaker, Bob Giges, released documentary film about McGraths life called "From Sleepy Lagoon to Zoot Suit: The Irreverent Path of Alice McGrath "<ref name SC> cite news author Traci Hukill title The Gripes of McGrath newspaper Metro Santa Cruz date October 10-16, 1996 url http://www metroactive com/papers/cruz/10 10 96/mcgrath-9641 html </ref> 
+-----DELETED
+Alice McGrath 1917 November 27, 2009 was an American activist who first gained fame in connection with the 1942 case of the McGraths role Sleepy Lagoon focus 1978 play and 1981 motion picture "Zoot Suit "<ref name Wash/> 

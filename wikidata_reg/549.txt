@@ -1,0 +1,15 @@
+-----METADATA
+8524
+632
+male
+16583
+False
+True
+True
+True
+When the edit I made came back, I re-read it, and found that it kind of implied that the peak will ALWAYS be 1998. I changed the wording to be more accurate. :)
+98733
+-----ADDED
+Global warming is the increase in the of the Earths near-surface air and oceans since the mid-20th century and its projected continuation Global warming has reached its current peak in the late 1990s <ref> cite web url http://news bbc co uk/2/hi/science/nature/8299079 stm last Hudson first Paul authorlink Paul Hudson title What happened to global warming? accessdate 29 November 2009 date October 2009 publisher BBC </ref><ref> cite web url http://www spiegel de/international/world/0,1518,662092,00 html last Traufetter first Gerald authorlink Gerald Traufetter title Climatologists Baffled by Global Warming Time-Out accessdate 29 November 2009 date 19 November 2009 publisher Spiegel </ref> Global surface temperature increased 74 18 ;° 33 32 ;° between the start and the end of the 20th century <ref name "grida7" /> Cref2 The IPCC concludes that most of the observed temperature increase since the middle of the 20th century was by increasing concentrations of resulting from such as burning and <ref name "grida7"/> The IPCC also concludes that variations in natural phenomena such as and es produced most of the warming from times to 1950 and had small cooling effect afterward <ref name Hegerl-2001/><ref name "Ammann-2007"/> These basic conclusions have been Cref2 including all of the of the <ref name "joint-academies"/> 
+-----DELETED
+Global warming is the increase in the of the Earths near-surface air and oceans since the mid-20th century and its projected continuation Global warming has peaked in the late 1990s <ref> cite web url http://news bbc co uk/2/hi/science/nature/8299079 stm last Hudson first Paul authorlink Paul Hudson title What happened to global warming? accessdate 29 November 2009 date October 2009 publisher BBC </ref><ref> cite web url http://www spiegel de/international/world/0,1518,662092,00 html last Traufetter first Gerald authorlink Gerald Traufetter title Climatologists Baffled by Global Warming Time-Out accessdate 29 November 2009 date 19 November 2009 publisher Spiegel </ref> Global surface temperature increased 74 18 ;° 33 32 ;° between the start and the end of the 20th century <ref name "grida7" /> Cref2 The IPCC concludes that most of the observed temperature increase since the middle of the 20th century was by increasing concentrations of resulting from such as burning and <ref name "grida7"/> The IPCC also concludes that variations in natural phenomena such as and es produced most of the warming from times to 1950 and had small cooling effect afterward <ref name Hegerl-2001/><ref name "Ammann-2007"/> These basic conclusions have been Cref2 including all of the of the <ref name "joint-academies"/> 

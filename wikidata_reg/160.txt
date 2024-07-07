@@ -1,0 +1,15 @@
+-----METADATA
+5669
+443226
+male
+16301
+False
+True
+True
+True
+sp, date & link fixes using [[Project:AutoWikiBrowser|AWB]]
+1400
+-----ADDED
+majority Zomergem is located in the and in the province of in The municipality comprises the towns of and Zomergem proper On January 1, 2006 Zomergem had total population of 8,011 The total area is 38 78 km² which gives of 207 inhabitants per km² http://www zomergem be Official website nl icon 
+-----DELETED
+majority Zomergem is located in the and in the province of in The municipality comprises the towns of and Zomergem proper On 2006 Zomergem had total population of 8,011 The total area is 38 78 which gives of 207 inhabitants per km² http://www zomergem be Official website Only available in 

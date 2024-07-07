@@ -1,0 +1,15 @@
+-----METADATA
+3132
+4840
+male
+15648
+False
+True
+True
+True
+doesn't fit - [[WP:UNDO|Undid]] revision 329641589 by [[Special:Contributions/209.169.116.209|209.169.116.209]] ([[User talk:209.169.116.209|talk]])
+22412
+-----ADDED
+In strict analysis, abbreviations should not be confused with or including initialisms with which they share some and functions, though all three are connoted by the term "abbreviation" in loose parlance <ref name harts> cite book title New Harts Rules: The handbook of style for writers and editors publisher Oxford University Press, 2005 id ISBN 0-19-861041-6 </ref> rp p167 However, normally acronyms are regarded as subgroup of abbreviations by the Council of Science Editors 
+-----DELETED
+In strict analysis, abbreviations should not be confused with or including initialisms with which they share some and functions, though all three are connoted by the term "abbreviation" in loose parlance <ref name harts> cite book title New Harts Rules: The handbook of style for writers and editors publisher Oxford University Press, 2005 id ISBN 0-19-861041-6 </ref> rp p167 However, normally acronyms are regarded as subgroup of abbreviations by the Council of Science Editors Examples are: OZ-Ounce, LBS-Pound, KILO-Kilogram, G-Gram 

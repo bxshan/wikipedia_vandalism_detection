@@ -1,0 +1,15 @@
+-----METADATA
+2593
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+13873
+-----ADDED
+Grizzly Bear is -based borecore band, comprising vocals, guitar, keyboards vocals, guitar, keyboards bass, backing vocals, various instruments, producer and drums, backing vocals The band employs traditional and electronic instruments Their sound is often categorized as and and is dominated by the use of acoustic guitars and vocal harmonies The band is one of the few non-electronic artists signed to 
+-----DELETED
+Grizzly Bear is -based band, comprising vocals, guitar, keyboards vocals, guitar, keyboards bass, backing vocals, various instruments, producer and drums, backing vocals The band employs traditional and electronic instruments Their sound is often categorized as and and is dominated by the use of acoustic guitars and vocal harmonies The band is one of the few non-electronic artists signed to 

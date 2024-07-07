@@ -1,0 +1,14 @@
+-----METADATA
+2259
+2
+unknown
+14916
+False
+False
+False
+False
+ Added info
+113857
+-----ADDED
+This book is false 
+-----DELETED

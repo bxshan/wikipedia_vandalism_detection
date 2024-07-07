@@ -1,0 +1,15 @@
+-----METADATA
+1914
+9351
+unknown
+15993
+False
+True
+True
+True
+classified for missing coord, also DEFAULTSORT
+4406
+-----ADDED
+coord missing Mexico DEFAULTSORT:Zacatecas, Battle Of 
+-----DELETED
+coord missing DEFAULTSORT:Battle Of Zacatecas 

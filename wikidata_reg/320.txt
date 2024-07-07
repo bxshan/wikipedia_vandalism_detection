@@ -1,0 +1,15 @@
+-----METADATA
+3277
+40503
+unknown
+16087
+False
+True
+True
+True
+Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]] using [[Project:AutoWikiBrowser|AWB]]
+1666
+-----ADDED
+Martin William Wallace is the current <ref>Crockfords On line- accessed Monday 10 March 2008</ref> He was born on and educated at and St Augustine’s Theological College, Canterbury <ref> London, 2008 ISBN 9780713672576</ref> in 1972 he began his career with at St Alban Attercliffe in the <ref> 1975-76 Lambeth, Church House, 1975 ISBN 0108153674</ref> and was then successively of St Mark, Forest Gate, of and before ascending to the <ref> http://www number10 gov uk/output/Page4279 aspOfficial notification </ref>-a post he currently holds noted author<ref>His works include "Healing Encounters in the City" 1987 "City Prayers" 1994 "Pocket Celtic Prayers" 1996 and "A Celtic Resource Book" 1998 </ref> he is also keen garden designer <ref>Who’s Who ibid </ref> 
+-----DELETED
+Martin William Wallace is the current <ref>Crockfords On line- accessed Monday 10 March 2008</ref> He was born on and educated at and St Augustine’s Theological College, Canterbury <ref> London, 2008 ISBN 9780713672576</ref> in 1972 he began his career with at St Alban Attercliffe in the <ref> 1975-76 Lambeth, Church House, 1975 ISBN 0108153674</ref> and was then successively of St Mark, Forest Gate, of and before ascending to the <ref> http://www number10 gov uk/output/Page4279 aspOfficial notification </ref>-a post he currently holds noted author<ref>His works include "Healing Encounters in the City" 1987 "City Prayers" 1994 "Pocket Celtic Prayers" 1996 and "A Celtic Resource Book" 1998 </ref> he is also keen garden designer <ref>Who’s Who ibid </ref> 

@@ -1,0 +1,14 @@
+-----METADATA
+2248
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+24868
+-----ADDED
+*It has also been suggested that pink is an entirely overrated and overall stupid color 
+-----DELETED

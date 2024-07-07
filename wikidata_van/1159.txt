@@ -1,0 +1,15 @@
+-----METADATA
+3603
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+48709
+-----ADDED
+Veneto can be divided into four areas: the northern wanker zone, the hill zone, the lower plain and the coastal territory 
+-----DELETED
+Veneto can be divided into four areas: the northern zone, the hill zone, the lower plain and the coastal territory 

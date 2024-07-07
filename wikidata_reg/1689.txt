@@ -1,0 +1,15 @@
+-----METADATA
+5851
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+6521
+-----ADDED
+mayor_party PDL Belluno lang-it Belluno Belun; lang-de Beilun is town and in the region of northern Located about 80 kilometers north of Belluno is the of the and the most important city in the Eastern Dolomitis region With its roughly 35,000 inhabitants, it the largest populated area of Valbelluna It is one of the 15 municipalities of the Baldenich, borgo Garibaldi via garibaldi Borgo Piave, Borgo Prà, Cavarzano, San Lorenzo, Quartier Cadore, Via Feltre-Maraga, San Francesco, Lambioi, Via Montegrappa, Via Cairoli 
+-----DELETED
+mayor_party Belluno lang-it Belluno Belun; lang-de Beilun is town and in the region of northern Located about 80 kilometers north of Belluno is the of the and the most important city in the Dolomitis region With its roughly 35,000 inhabitants, it the largest populated area of Valbelluna It is one of the 15 municipalities of the Baldenich, borgo Garibaldi via garibaldi Borgo Piave, Borgo Prà, Cavarzano, Mussoi, San Lorenzo, Quartier Cadore, Via Feltre-Maraga, San Francesco, Lambioi, Via Montegrappa, Via Cairoli 

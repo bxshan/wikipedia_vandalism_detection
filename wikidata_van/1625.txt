@@ -1,0 +1,15 @@
+-----METADATA
+1362
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+3146
+-----ADDED
+Filming took place in <ref name "Armored"/> in mine 
+-----DELETED
+Filming took place in <ref name "Armored"/> 

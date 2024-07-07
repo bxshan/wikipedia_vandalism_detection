@@ -1,0 +1,15 @@
+-----METADATA
+2985
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+52168
+-----ADDED
+19 style "text-align:right" 
+-----DELETED
+style "text-align:right" 

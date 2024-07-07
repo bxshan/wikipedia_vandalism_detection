@@ -1,0 +1,15 @@
+-----METADATA
+2681
+0
+unknown
+0
+True
+False
+False
+False
+<EMPTY>
+28323
+-----ADDED
+From she became cast member in KBS2TV reality show "Invincible Youth Hosted by Kim Shin Young, Noh Joo Hyun and Nam Hee Seok, the cast also consists of Narsha, Hyuna, Hyomin, Yuri and Sunny, and Han Sunhwa, together forming special group called G7 Girl with Hara 
+-----DELETED
+From she became cast member in KBS2TV reality show "Invincible Youth", show loosely based on Hosted by Kim Shin Young, Noh Joo Hyun and Nam Hee Seok, the cast also consists of Narsha, Hyuna, Hyomin, Yuri and Sunny, and Han Sunhwa, together forming special group called G7 Girl with Hara 
