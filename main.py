@@ -34,9 +34,8 @@ def feature_editcount(text):
     return abs(editcount)
 
 
-def feature_gender(text):
-    # i will probably remove this later,
-    # i dont think gender matters w/ vandalism
+def feature_gender(text):  # NOT USED
+
     final_ret = text
     gender = final_ret[0][2]
     if (gender == 'male'):
@@ -97,7 +96,7 @@ def feature_commentlength(text):
 # TEXT FEATURES #
 
 
-def feature_uppercaseratio(text):
+def feature_uppercase_ratio(text):
     final_ret = text
     added = final_ret[1]
     removed = final_ret[2]
@@ -157,7 +156,7 @@ def feature_alpha_punct_ratio(text):
 newFeatures = [
     feature_diffsize, feature_editcount,
     feature_userage, feature_useraccesslevel,
-    feature_commentlength, feature_uppercaseratio,
+    feature_commentlength, feature_uppercase_ratio,
     feature_vulgarism, feature_longest_consec_char,
     feature_spell_err, feature_alpha_punct_ratio
 ]
