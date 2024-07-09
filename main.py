@@ -62,7 +62,7 @@ def feature_userage(text):
     return abs(userage)
 
 
-def feature_useraccesslevel(text):
+def feature_user_accesslevel(text):
     final_ret = text
     is_anon = final_ret[0][4]
     is_autoconfirmed = final_ret[0][5]
@@ -155,7 +155,7 @@ def feature_alpha_punct_ratio(text):
 
 newFeatures = [
     feature_diffsize, feature_editcount,
-    feature_userage, feature_useraccesslevel,
+    feature_userage, feature_user_accesslevel,
     feature_commentlength, feature_uppercase_ratio,
     feature_vulgarism, feature_longest_consec_char,
     feature_spell_err, feature_alpha_punct_ratio
