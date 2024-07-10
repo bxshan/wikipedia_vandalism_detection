@@ -1,10 +1,13 @@
+# AUTO GENERATED FILES
+.DS_Store
+
 # FILETYPES #
 *.sh
 
 # DIRECTORIES #
 __pycache__/
 fulllists/
-wikipedia_backup/
+wikidata_backup/
 
 # SPECIFIC FILES #
 
