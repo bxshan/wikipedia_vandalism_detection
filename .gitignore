@@ -1,0 +1,14 @@
+# FILETYPES #
+*.sh
+
+# DIRECTORIES #
+__pycache__/
+fulllists/
+wikipedia_backup/
+
+# SPECIFIC FILES #
+
+# REMOVE graphdata.py when graphing is implemented
+graphdata.py
+results.txt
+
