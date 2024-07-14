@@ -4,7 +4,7 @@ Logistic Regression](https://github.com/bxshan/wikipedia_vandalism_detection/blo
 
 Using the PAN-WVC-10 corpus: [_Potthast et. al._](https://downloads.webis.de/publications/papers/potthast_2010m.pdf)
 
-Much thanks to Professor Franceska Xhakaj for the guidance and support throughout. 
+Many thanks to Professor [Franceska Xhakaj](https://github.com/FranceskaXhakaj) for the guidance and support throughout. 
 ```
 # Just for my own reference:
 python main.py >& results.txt &
