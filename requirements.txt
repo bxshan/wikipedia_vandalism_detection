@@ -1,0 +1,23 @@
+# Core scientific computing
+numpy
+pandas
+
+# Machine learning
+scikit-learn
+
+# Natural language processing
+nltk
+
+# Web scraping and requests
+requests
+beautifulsoup4
+
+# Text analysis
+better-profanity
+pyspellchecker
+
+# Visualization
+matplotlib
+
+# Python 2/3 compatibility
+six
